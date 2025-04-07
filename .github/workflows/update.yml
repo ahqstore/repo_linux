@@ -23,8 +23,7 @@ jobs:
 
       - name: Build
         run: |
-          sudo apt install curl
-          curl https://f-droid.org/repo/index-v2.json > index.json
+          git clone https://github.com/AppImage/appimage.github.io.git
           cargo run --release
 
       - name: Upload
@@ -33,7 +32,7 @@ jobs:
           add: .
           author_name: GitHub Actions
           author_email: actions@github.com
-          message: "Update Android repo"
+          message: "Update AppImage repo"
           push: true
           committer_name: Actions Bot
           committer_email: actions@github.com

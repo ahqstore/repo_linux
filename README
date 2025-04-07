@@ -2,11 +2,11 @@
 
 - A part of the **AHQ Store _NEO_** project
 
-**Used from f-droid repo**
+**Used from appimagehub repo**
 
 ## Changes
 
 - Adapted to use ahqstore types repository format
 - **Source:** https://f-droid.org/en/docs/All_our_APIs/
 
-## This repo is compatible with **AHQ Store Types v3.12.0 released 04-Mar-2025**
+## This repo is compatible with **AHQ Store Types v3.14.0 released April-2025**

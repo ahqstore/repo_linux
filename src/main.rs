@@ -2,6 +2,7 @@ use std::fs;
 use serde_json::from_str;
 use structs::Metadata;
 
+pub(crate) mod regex;
 mod structs;
 mod parser;
 
