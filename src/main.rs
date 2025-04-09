@@ -1,18 +1,11 @@
-use std::fs;
-use serde_json::from_str;
-use structs::Metadata;
-
 pub(crate) mod regex;
-mod structs;
-mod parser;
+pub(crate) mod structs;
+pub(crate) mod parser;
+mod load;
 
-fn main() {
-    let data = fs::read_to_string("./index.json").expect("Unable to read metadata");
-
-    let parsed: Metadata = from_str(&data).expect("Parsing failed");
-
-    // Reduces >30MB of memory usage
-    drop(data);
-    
-    parser::parser(parsed);
+#[tokio::main]
+async fn main() {
+  load::load_all();
+  // tokio_stream::iter();
+  // parser::parser().await;
 }
