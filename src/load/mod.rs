@@ -48,7 +48,7 @@ pub async fn load_all() -> Vec<ParsedApp> {
 pub async fn load_this(x: Result<DirEntry>) -> Option<ParsedApp> {
   let entry = x.ok()?;
 
-  let name = entry.file_name().into_string().ok()?;
+  let name = entry.file_name().into_string().ok()?.replace(".md", "");
 
   let path = entry.path();
 

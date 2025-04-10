@@ -138,7 +138,7 @@ pub async fn parser(apps: Vec<ParsedApp>) {
 
   for app in apps {
     let _ = parse_push(app, &mut map).await;
-    sleep(Duration::from_millis(200)).await;
+    sleep(Duration::from_millis(100)).await;
   }
 
   map.finish();
