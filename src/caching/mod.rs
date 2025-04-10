@@ -4,6 +4,7 @@ use std::{
 };
 
 use blake3::hash;
+use reqwest::StatusCode;
 use serde::{Deserialize, Serialize};
 use serde_json::{from_str, to_string};
 use tokio::{
@@ -83,12 +84,21 @@ pub async fn fetch(url: Arc<String>) -> Option<Parsed> {
     return Some(x.data);
   }
 
-  let parsed: Release = REQWEST_AUTH
+  let payload = REQWEST_AUTH
     .get(&*url)
     .send()
     .await
-    .ok()?
-    .json()
+    .ok()?;
+
+  if payload.status() != StatusCode::OK {
+    let text = payload.text().await.unwrap_or_default();
+
+    println!("⏲️ {text}");
+
+    return None;
+  }
+
+  let parsed: Release = payload.json()
     .await
     .ok()?;
 
