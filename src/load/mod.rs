@@ -68,7 +68,7 @@ pub async fn load_this(x: Result<DirEntry>) -> Option<ParsedApp> {
     let icon = get_icon(meta.icons);
 
     let res = get_screenshots(icon, meta.screenshots);
-    let url = format!("./appimage.github.io/data/{}", &name[0..name.len() - 3]);
+    let url = format!("./appimage.github.io/data/{}", &name);
     let url = fs::read_to_string(url).ok()?;
 
     let urls = url.lines().next()?;
