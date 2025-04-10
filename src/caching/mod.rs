@@ -1,5 +1,5 @@
 use std::{
-  sync::{Arc, LazyLock},
+  sync::Arc,
   time::{SystemTime, UNIX_EPOCH},
 };
 
