@@ -1,8 +1,12 @@
 use std::{
-  collections::HashMap, fs::{self, File}, io::Write
+  collections::HashMap,
+  fs::{self, File},
+  io::Write,
 };
 
-use ahqstore_types::AHQStoreApplication;
+use ahqstore_types::{AHQStoreApplication, AppRepo, InstallerOptions};
+
+use crate::structs::ParsedApp;
 
 struct Map {
   entries: usize,
@@ -82,7 +86,9 @@ impl Map {
     let _ = self.search.write(
       format!(
         "{{\"name\": {:?}, \"title\": {:?}, \"id\": {:?}}}",
-        app.appDisplayName, app.appShortcutName, format!("l:{}", app.appId)
+        app.appDisplayName,
+        app.appShortcutName,
+        format!("l:{}", app.appId)
       )
       .as_bytes(),
     );
@@ -112,7 +118,7 @@ impl Map {
   }
 }
 
-pub async fn parser() {
+pub async fn parser(apps: Vec<ParsedApp>) {
   println!("⏲️ Please wait...");
   let _ = fs::remove_dir_all("./db");
   let _ = fs::create_dir_all("./db");
@@ -121,7 +127,42 @@ pub async fn parser() {
 
   let mut map = Map::new();
 
-  
+  for app in apps {
+    let app = AHQStoreApplication {
+      version: format!("l:{}", app.name),
+      appDisplayName: app.name.clone(),
+      appShortcutName: app.name.clone(),
+      appId: app.name,
+      authorId: app.authors
+        .into_iter()
+        .map(|x| format!("{}: {}", x.name.unwrap_or("".into()), x.url.unwrap_or("".into())))
+        .collect::<Vec<_>>()
+        .join(", "),
+      description: app.description,
+      displayImages: app.resources.iter().map(|(k,_)| *k).filter(|x| *x != 0).collect::<Vec<_>>(),
+      resources: Some(app.resources),
+      releaseTagName: format!("ahqstore"),
+      license_or_tos: Some(app.license),
+      site: None,
+      repo: AppRepo {
+        author: format!("AppImage"),
+        repo: format!("appimage.github.io")
+      },
+      source: Some("appimages".into()),
+      verified: false,
+      install: InstallerOptions {
+        android: None,
+        winarm: None,
+        win32: None,
+        linuxArm7: None,
+        linux: None,
+        linuxArm64: None
+      },
+      downloadUrls: HashMap::new()
+    };
+
+    map.add(app);
+  }
 
   map.finish();
   println!("✅ Done!");

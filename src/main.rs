@@ -1,12 +1,18 @@
+use tokio::fs;
+
+pub(crate) mod caching;
+mod load;
+pub(crate) mod parser;
 pub(crate) mod regex;
 pub(crate) mod structs;
-pub(crate) mod parser;
-mod load;
 
 #[tokio::main]
 async fn main() {
-  load::load_all();
-  // tokio_stream::iter();
-  
-  parser::parser().await;
+  let _ = fs::remove_dir_all("./caches").await;
+  let _ = fs::create_dir_all("./caches").await;
+  caching::purge().await.unwrap();
+
+  let loaded = load::load_all().await;
+
+  parser::parser(loaded).await;
 }
