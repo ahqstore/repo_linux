@@ -35,6 +35,7 @@ dependencies = [
  "blake3",
  "content_disposition",
  "futures",
+ "rand",
  "regex",
  "reqwest",
  "serde",

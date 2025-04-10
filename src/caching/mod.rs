@@ -1,5 +1,5 @@
 use std::{
-  sync::Arc,
+  sync::{Arc, LazyLock},
   time::{SystemTime, UNIX_EPOCH},
 };
 
@@ -16,6 +16,8 @@ use crate::{
   regex::{REGEX_ARM64, REGEX_X86_64},
   structs::REQWEST_AUTH,
 };
+
+use rand::{rngs::StdRng, Rng, SeedableRng};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Release {
@@ -58,7 +60,7 @@ pub async fn purge() -> Option<()> {
 
       let data: Cache = from_str(&fs::read_to_string(&path).await.unwrap()).unwrap();
 
-      if now - data.time >= 2 * 60 * 60 {
+      if now >= 2 * 60 * 60 + data.time {
         let _ = fs::remove_file(path).await;
       }
     });
@@ -70,6 +72,8 @@ pub async fn purge() -> Option<()> {
 }
 
 pub async fn fetch(url: Arc<String>) -> Option<Parsed> {
+  let mut rng = StdRng::from_os_rng();
+
   let url2 = url.clone();
   let chk_hash = spawn_blocking(move || hash(url2.as_bytes()))
     .await
@@ -111,7 +115,7 @@ pub async fn fetch(url: Arc<String>) -> Option<Parsed> {
       time: SystemTime::now()
         .duration_since(UNIX_EPOCH)
         .unwrap()
-        .as_secs(),
+        .as_secs() + rng.random_range(60*60..2*60*60),
     })
     .ok()?,
   )

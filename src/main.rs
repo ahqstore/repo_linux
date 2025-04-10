@@ -1,5 +1,3 @@
-use tokio::fs;
-
 pub(crate) mod caching;
 mod load;
 pub(crate) mod parser;
@@ -8,8 +6,6 @@ pub(crate) mod structs;
 
 #[tokio::main]
 async fn main() {
-  let _ = fs::remove_dir_all("./caches").await;
-  let _ = fs::create_dir_all("./caches").await;
   caching::purge().await.unwrap();
 
   let loaded = load::load_all().await;
