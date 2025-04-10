@@ -58,7 +58,7 @@ impl Map {
   fn add_author(&mut self, author: &str, app_id: &str) {
     let file = format!("./db/dev/{}", author);
     let mut val = fs::read_to_string(&file).unwrap_or("".to_string());
-    val.push_str(&format!("f:{}\n", &app_id));
+    val.push_str(&format!("l:{}\n", &app_id));
 
     let _ = fs::write(&file, val);
   }
@@ -78,11 +78,11 @@ impl Map {
 
     let _ = self
       .c_file
-      .write(format!("\"{}\":\"f:{}\"", app.appDisplayName, app.appId).as_bytes());
+      .write(format!("\"{}\":\"l:{}\"", app.appDisplayName, app.appId).as_bytes());
     let _ = self.search.write(
       format!(
         "{{\"name\": {:?}, \"title\": {:?}, \"id\": {:?}}}",
-        app.appDisplayName, app.appShortcutName, format!("f:{}", app.appId)
+        app.appDisplayName, app.appShortcutName, format!("l:{}", app.appId)
       )
       .as_bytes(),
     );
@@ -121,9 +121,7 @@ pub async fn parser() {
 
   let mut map = Map::new();
 
-  // for (id, meta) in meta.packages {
-  //   // Use map.add
-  // }
+  
 
   map.finish();
   println!("✅ Done!");

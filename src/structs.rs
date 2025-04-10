@@ -1,3 +1,5 @@
+use std::collections::HashMap;
+
 use serde::{Deserialize, Serialize};
 
 macro_rules! define {
@@ -12,20 +14,21 @@ macro_rules! define {
       #[derive(Debug, Serialize, Deserialize)]
       pub struct $name {
         $(
-          $x: Option<$t>
+          pub $x: Option<$t>
         ),*
       }
     )*
   };
 }
 
-#[derive(Debug, Serialize, Deserialize)]
-#[serde(untagged)]
-pub enum Tags {
-  #[serde(rename = "thirdparty")]
-  ThirdParty,
-  #[serde(rename = "official")]
-  Official
+pub struct ParsedApp {
+  pub name: String,
+  pub description: String,
+  pub license: String,
+  pub authors: Vec<Author>,
+  pub screenshots: Vec<String>,
+  pub resources: HashMap<u8, Vec<u8>>,
+  pub url: String
 }
 
 define! {
@@ -35,11 +38,10 @@ define! {
     created: String,
     updated: String,
     description: String,
-    generic: String,
     license: String,
     authors: Vec<Author>,
-    screenshots: Vec<String>,
-    tags: Vec<Tags>
+    icons: Vec<String>,
+    screenshots: Vec<String>
   },
   Author {
     name: String,

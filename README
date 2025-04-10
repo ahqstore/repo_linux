@@ -1,12 +1,12 @@
-# AHQ Store Android F-Droid Repository
+# AHQ Store Linux AppImage Repository
 
 - A part of the **AHQ Store _NEO_** project
 
-**Used from appimagehub repo**
+**Used from appimage.github.io repo**
 
 ## Changes
 
 - Adapted to use ahqstore types repository format
-- **Source:** https://f-droid.org/en/docs/All_our_APIs/
+- **Source:** https://github.com/AppImage/appimage.github.io
 
 ## This repo is compatible with **AHQ Store Types v3.14.0 released April-2025**

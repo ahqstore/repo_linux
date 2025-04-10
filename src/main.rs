@@ -7,5 +7,6 @@ mod load;
 async fn main() {
   load::load_all();
   // tokio_stream::iter();
-  // parser::parser().await;
+  
+  parser::parser().await;
 }
