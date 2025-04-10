@@ -2,11 +2,19 @@ use std::{
   collections::HashMap,
   fs::{self, File},
   io::Write,
+  sync::Arc,
 };
 
-use ahqstore_types::{AHQStoreApplication, AppRepo, InstallerOptions};
+use ahqstore_types::{
+  AHQStoreApplication, AppRepo, DownloadUrl, InstallerFormat, InstallerOptions,
+  InstallerOptionsLinux,
+};
+use blake3::hash;
 
-use crate::structs::ParsedApp;
+use crate::{
+  caching::{fetch, Parsed},
+  structs::{ParsedApp, Url},
+};
 
 struct Map {
   entries: usize,
@@ -128,42 +136,120 @@ pub async fn parser(apps: Vec<ParsedApp>) {
   let mut map = Map::new();
 
   for app in apps {
-    let app = AHQStoreApplication {
-      version: format!("l:{}", app.name),
-      appDisplayName: app.name.clone(),
-      appShortcutName: app.name.clone(),
-      appId: app.name,
-      authorId: app.authors
-        .into_iter()
-        .map(|x| format!("{}: {}", x.name.unwrap_or("".into()), x.url.unwrap_or("".into())))
-        .collect::<Vec<_>>()
-        .join(", "),
-      description: app.description,
-      displayImages: app.resources.iter().map(|(k,_)| *k).filter(|x| *x != 0).collect::<Vec<_>>(),
-      resources: Some(app.resources),
-      releaseTagName: format!("ahqstore"),
-      license_or_tos: Some(app.license),
-      site: None,
-      repo: AppRepo {
-        author: format!("AppImage"),
-        repo: format!("appimage.github.io")
-      },
-      source: Some("appimages".into()),
-      verified: false,
-      install: InstallerOptions {
-        android: None,
-        winarm: None,
-        win32: None,
-        linuxArm7: None,
-        linux: None,
-        linuxArm64: None
-      },
-      downloadUrls: HashMap::new()
-    };
-
-    map.add(app);
+    let _ = parse_push(app, &mut map).await;
   }
 
   map.finish();
   println!("✅ Done!");
+}
+
+async fn parse_push(app: ParsedApp, map: &mut Map) -> Option<()> {
+  let mut version = hash(format!("l:{}:{:#?}", app.name, &app.url).as_bytes()).to_string();
+
+  let mut aarch64 = None;
+  let mut x86_64 = None;
+
+  let mut downloads = HashMap::new();
+
+  match app.url {
+    Url::Aarch64(x) => {
+      aarch64 = Some(InstallerOptionsLinux { assetId: 1 });
+      downloads.insert(
+        1,
+        DownloadUrl {
+          installerType: InstallerFormat::LinuxAppImage,
+          url: x.to_string(),
+          asset: format!("<-- NO NEED -->"),
+        },
+      );
+    }
+    Url::X86_64(x) => {
+      x86_64 = Some(InstallerOptionsLinux { assetId: 0 });
+
+      downloads.insert(
+        0,
+        DownloadUrl {
+          installerType: InstallerFormat::LinuxAppImage,
+          url: x.to_string(),
+          asset: format!("<-- NO NEED -->"),
+        },
+      );
+    }
+    Url::GitHubReleases(url) => {
+      println!("{url}");
+      let url = Arc::new(url);
+
+      let Parsed {
+        x86_64: amd64,
+        aarch64: arm64,
+        tag_name,
+      } = fetch(url).await?;
+
+      version = hash(format!("l:{}:{tag_name}", version).as_bytes()).to_string();
+
+      if let Some(amd64) = amd64 {
+        x86_64 = Some(InstallerOptionsLinux { assetId: 0 });
+
+        downloads.insert(
+          0,
+          DownloadUrl {
+            installerType: InstallerFormat::LinuxAppImage,
+            url: amd64,
+            asset: format!("<-- NO NEED -->"),
+          },
+        );
+      }
+
+      if let Some(arm64) = arm64 {
+        x86_64 = Some(InstallerOptionsLinux { assetId: 0 });
+
+        downloads.insert(
+          0,
+          DownloadUrl {
+            installerType: InstallerFormat::LinuxAppImage,
+            url: arm64,
+            asset: format!("<-- NO NEED -->"),
+          },
+        );
+      }
+    }
+  }
+
+  let app = AHQStoreApplication {
+    version,
+    appDisplayName: app.name.clone(),
+    appShortcutName: app.name.clone(),
+    appId: app.name,
+    authorId: "6adfb183a4a2c94a2f92dab5ade762a47889a5a1".into(),
+    description: app.description,
+    displayImages: app
+      .resources
+      .iter()
+      .map(|(k, _)| *k)
+      .filter(|x| *x != 0)
+      .collect::<Vec<_>>(),
+    resources: Some(app.resources),
+    releaseTagName: format!("ahqstore"),
+    license_or_tos: Some(app.license),
+    site: None,
+    repo: AppRepo {
+      author: format!("AppImage"),
+      repo: format!("appimage.github.io"),
+    },
+    source: Some("appimages".into()),
+    verified: false,
+    install: InstallerOptions {
+      android: None,
+      winarm: None,
+      win32: None,
+      linuxArm7: None,
+      linux: x86_64,
+      linuxArm64: aarch64,
+    },
+    downloadUrls: downloads,
+  };
+
+  map.add(app);
+
+  Some(())
 }

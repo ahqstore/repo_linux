@@ -11,13 +11,29 @@ use tokio::{
   task::{spawn_blocking, JoinSet},
 };
 
-use crate::structs::REQWEST_AUTH;
+use crate::{
+  regex::{REGEX_ARM64, REGEX_X86_64},
+  structs::REQWEST_AUTH,
+};
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
-pub struct Release {}
+pub struct Release {
+  pub tag_name: String,
+  pub assets: Vec<Asset>,
+}
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
-pub struct Parsed {}
+pub struct Asset {
+  pub name: String,
+  pub browser_download_url: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct Parsed {
+  pub x86_64: Option<String>,
+  pub aarch64: Option<String>,
+  pub tag_name: String,
+}
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Cache {
@@ -52,7 +68,7 @@ pub async fn purge() -> Option<()> {
   Some(())
 }
 
-pub async fn fetch(url: Arc<str>) -> Option<Parsed> {
+pub async fn fetch(url: Arc<String>) -> Option<Parsed> {
   let url2 = url.clone();
   let chk_hash = spawn_blocking(move || hash(url2.as_bytes()))
     .await
@@ -67,7 +83,7 @@ pub async fn fetch(url: Arc<str>) -> Option<Parsed> {
     return Some(x.data);
   }
 
-  let parsed: Parsed = REQWEST_AUTH
+  let parsed: Release = REQWEST_AUTH
     .get(&*url)
     .send()
     .await
@@ -75,6 +91,8 @@ pub async fn fetch(url: Arc<str>) -> Option<Parsed> {
     .json()
     .await
     .ok()?;
+
+  let parsed: Parsed = parse(parsed);
 
   fs::write(
     format!("./caches/{chk_hash}"),
@@ -91,4 +109,24 @@ pub async fn fetch(url: Arc<str>) -> Option<Parsed> {
   .ok()?;
 
   Some(parsed)
+}
+
+pub fn parse(parsed: Release) -> Parsed {
+  let x86_64 = parsed
+    .assets
+    .iter()
+    .find(|x| REGEX_X86_64.is_match(&x.name))
+    .and_then(|x| Some(x.browser_download_url.clone()));
+
+  let aarch64 = parsed
+    .assets
+    .into_iter()
+    .find(|x| REGEX_ARM64.is_match(&x.name))
+    .and_then(|x| Some(x.browser_download_url));
+
+  Parsed {
+    x86_64,
+    aarch64,
+    tag_name: parsed.tag_name,
+  }
 }
