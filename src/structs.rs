@@ -29,7 +29,7 @@ pub static REQWEST_AUTH: LazyLock<Client> = LazyLock::new(|| {
 
       if let Some(x) = option_env!("GH_TOKEN") {
         h.insert(
-          "Authentication",
+          "Authorization",
           HeaderValue::from_str(&format!("Bearer {x}")).unwrap(),
         );
       }

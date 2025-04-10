@@ -2,7 +2,7 @@ use std::{
   collections::HashMap,
   fs::{self, File},
   io::Write,
-  sync::Arc,
+  sync::Arc, time::Duration,
 };
 
 use ahqstore_types::{
@@ -10,6 +10,7 @@ use ahqstore_types::{
   InstallerOptionsLinux,
 };
 use blake3::hash;
+use tokio::time::sleep;
 
 use crate::{
   caching::{fetch, Parsed},
@@ -137,6 +138,7 @@ pub async fn parser(apps: Vec<ParsedApp>) {
 
   for app in apps {
     let _ = parse_push(app, &mut map).await;
+    sleep(Duration::from_millis(200)).await;
   }
 
   map.finish();
