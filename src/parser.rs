@@ -197,7 +197,7 @@ async fn parse_push(app: ParsedApp, map: &mut Map) -> Option<()> {
           DownloadUrl {
             installerType: InstallerFormat::LinuxAppImage,
             url: amd64,
-            asset: format!("url"),
+            asset: format!("<-- NO NEED -->"),
           },
         );
       }
@@ -210,7 +210,7 @@ async fn parse_push(app: ParsedApp, map: &mut Map) -> Option<()> {
           DownloadUrl {
             installerType: InstallerFormat::LinuxAppImage,
             url: arm64,
-            asset: format!("url"),
+            asset: format!("<-- NO NEED -->"),
           },
         );
       }
