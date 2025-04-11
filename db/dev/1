@@ -1100,6 +1100,7 @@ l:CRIC
 l:CorePaint
 l:Scrite
 l:SigDigger
+l:Glaxnimate
 l:Hypnos
 l:thorium-client
 l:Symphonium
@@ -1139,7 +1140,6 @@ l:patchbay
 l:UltraGrid
 l:Gemalaya
 l:jira-timer
-l:Glaxnimate
 l:Join_Desktop
 l:pyappimage
 l:BitShares
