@@ -993,6 +993,7 @@ l:MediaConchGUI
 l:Spectrum
 l:Summoners.War.Exporter
 l:graphql-playground
+l:Glaxnimate
 l:Electrum
 l:Sup
 l:Keibo-MoneyTracker-x86_64
@@ -1028,7 +1029,6 @@ l:SonicLineup
 l:parsec-linux-appimage
 l:SavvyCAN
 l:Thorium_Reader
-l:Glaxnimate
 l:PDFQuirk
 l:Buche
 l:swradio
