@@ -161,7 +161,7 @@ async fn parse_push(app: ParsedApp, map: &mut Map) -> Option<()> {
         DownloadUrl {
           installerType: InstallerFormat::LinuxAppImage,
           url: x.to_string(),
-          asset: format!("<-- NO NEED -->"),
+          asset: format!("url"),
         },
       );
     }
@@ -173,7 +173,7 @@ async fn parse_push(app: ParsedApp, map: &mut Map) -> Option<()> {
         DownloadUrl {
           installerType: InstallerFormat::LinuxAppImage,
           url: x.to_string(),
-          asset: format!("<-- NO NEED -->"),
+          asset: format!("url"),
         },
       );
     }
@@ -222,7 +222,7 @@ async fn parse_push(app: ParsedApp, map: &mut Map) -> Option<()> {
     appDisplayName: app.name.clone(),
     appShortcutName: app.name.clone(),
     appId: app.name,
-    authorId: "6adfb183a4a2c94a2f92dab5ade762a47889a5a1".into(),
+    authorId: "1".into(),
     description: app.description,
     displayImages: app
       .resources
