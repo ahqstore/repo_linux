@@ -1029,6 +1029,7 @@ l:parsec-linux-appimage
 l:SavvyCAN
 l:Thorium_Reader
 l:PDFQuirk
+l:Glaxnimate
 l:Buche
 l:swradio
 l:Etcher
@@ -1139,7 +1140,6 @@ l:patchbay
 l:UltraGrid
 l:Gemalaya
 l:jira-timer
-l:Glaxnimate
 l:Join_Desktop
 l:pyappimage
 l:BitShares
