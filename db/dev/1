@@ -994,7 +994,6 @@ l:Spectrum
 l:Summoners.War.Exporter
 l:graphql-playground
 l:Electrum
-l:Glaxnimate
 l:Sup
 l:Keibo-MoneyTracker-x86_64
 l:appimagehelper
@@ -1140,6 +1139,7 @@ l:patchbay
 l:UltraGrid
 l:Gemalaya
 l:jira-timer
+l:Glaxnimate
 l:Join_Desktop
 l:pyappimage
 l:BitShares
