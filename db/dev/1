@@ -1100,6 +1100,7 @@ l:CRIC
 l:CorePaint
 l:Scrite
 l:SigDigger
+l:Glaxnimate
 l:Hypnos
 l:thorium-client
 l:Symphonium
@@ -1152,7 +1153,6 @@ l:MyCrypto
 l:CoreAction
 l:QCTools
 l:ommpfritt
-l:Glaxnimate
 l:Google_Tasks_Desktop
 l:Tonuino_Toolbox
 l:FreeCAD-asm3
