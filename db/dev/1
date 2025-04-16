@@ -1028,6 +1028,7 @@ l:SonicLineup
 l:parsec-linux-appimage
 l:SavvyCAN
 l:Thorium_Reader
+l:Glaxnimate
 l:PDFQuirk
 l:Buche
 l:swradio
@@ -1139,7 +1140,6 @@ l:patchbay
 l:UltraGrid
 l:Gemalaya
 l:jira-timer
-l:Glaxnimate
 l:Join_Desktop
 l:pyappimage
 l:BitShares
