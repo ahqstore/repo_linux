@@ -1028,7 +1028,6 @@ l:SonicLineup
 l:parsec-linux-appimage
 l:SavvyCAN
 l:Thorium_Reader
-l:Glaxnimate
 l:PDFQuirk
 l:Buche
 l:swradio
@@ -1054,6 +1053,7 @@ l:torrenttools
 l:Rainbow_Board
 l:triagem-touch
 l:onnx2daq
+l:Glaxnimate
 l:falcon-sql-client
 l:Parity_Fether
 l:Juggernaut
