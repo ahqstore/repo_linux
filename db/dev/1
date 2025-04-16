@@ -988,7 +988,6 @@ l:qr-code-generator-desktop
 l:MiniZinc_IDE
 l:twetter
 l:nmap
-l:Glaxnimate
 l:TreeSheets
 l:MediaConchGUI
 l:Spectrum
@@ -1029,6 +1028,7 @@ l:SonicLineup
 l:parsec-linux-appimage
 l:SavvyCAN
 l:Thorium_Reader
+l:Glaxnimate
 l:PDFQuirk
 l:Buche
 l:swradio
