@@ -1063,7 +1063,6 @@ l:meta-grabber
 l:FMS_File_Explorer
 l:feedseries
 l:DeDop-studio
-l:Glaxnimate
 l:Qawl
 l:PocketCasts_Electron
 l:Plex
@@ -1109,6 +1108,7 @@ l:eNoseAnnotator
 l:LeoCAD
 l:Planes
 l:unreel
+l:Glaxnimate
 l:Linphone
 l:dexter_dev_env
 l:Mudlet
