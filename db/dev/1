@@ -987,7 +987,6 @@ l:Blizzard_4
 l:qr-code-generator-desktop
 l:MiniZinc_IDE
 l:twetter
-l:Glaxnimate
 l:nmap
 l:TreeSheets
 l:MediaConchGUI
@@ -1109,6 +1108,7 @@ l:eNoseAnnotator
 l:LeoCAD
 l:Planes
 l:unreel
+l:Glaxnimate
 l:Linphone
 l:dexter_dev_env
 l:Mudlet
