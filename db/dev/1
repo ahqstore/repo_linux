@@ -1087,7 +1087,6 @@ l:ldview
 l:elcalc
 l:Passky
 l:sigrok-cli
-l:Glaxnimate
 l:Quick_Clone
 l:Rokkr
 l:Pennywise
@@ -1140,6 +1139,7 @@ l:patchbay
 l:UltraGrid
 l:Gemalaya
 l:jira-timer
+l:Glaxnimate
 l:Join_Desktop
 l:pyappimage
 l:BitShares
