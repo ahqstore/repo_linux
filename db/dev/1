@@ -253,7 +253,6 @@ l:draw.io
 l:Patchwork
 l:Nuclino
 l:KeyboardClient
-l:GM-Companion
 l:OCVWarp
 l:Psi+
 l:Translatium
@@ -1073,6 +1072,7 @@ l:Scribus
 l:luna
 l:nxshell
 l:Scintillator
+l:Glaxnimate
 l:CP2130_Configurator
 l:Procyon
 l:Board_Game_Star
@@ -1119,7 +1119,6 @@ l:QOwnNotes
 l:Ember
 l:appium-desktop
 l:Peruse
-l:Glaxnimate
 l:wxMEdit
 l:Melodie
 l:Artisan
