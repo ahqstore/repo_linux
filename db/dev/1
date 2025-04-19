@@ -1075,7 +1075,6 @@ l:nxshell
 l:Scintillator
 l:CP2130_Configurator
 l:Procyon
-l:Glaxnimate
 l:Board_Game_Star
 l:Scrum-Retroboard
 l:Sharp-Tune
@@ -1109,6 +1108,7 @@ l:eNoseAnnotator
 l:LeoCAD
 l:Planes
 l:unreel
+l:Glaxnimate
 l:Linphone
 l:dexter_dev_env
 l:Mudlet
