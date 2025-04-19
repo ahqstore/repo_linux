@@ -1073,7 +1073,6 @@ l:Scribus
 l:luna
 l:nxshell
 l:Scintillator
-l:Glaxnimate
 l:CP2130_Configurator
 l:Procyon
 l:Board_Game_Star
@@ -1083,6 +1082,7 @@ l:mybelka
 l:QDriverStation
 l:etichetta
 l:neovim
+l:Glaxnimate
 l:KeyManager
 l:ldview
 l:elcalc
