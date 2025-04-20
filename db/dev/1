@@ -1028,6 +1028,7 @@ l:SonicLineup
 l:parsec-linux-appimage
 l:SavvyCAN
 l:Thorium_Reader
+l:Glaxnimate
 l:PDFQuirk
 l:Buche
 l:swradio
@@ -1088,7 +1089,6 @@ l:elcalc
 l:Passky
 l:sigrok-cli
 l:Quick_Clone
-l:Glaxnimate
 l:Rokkr
 l:Pennywise
 l:Spark.Payments
