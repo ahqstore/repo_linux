@@ -1028,6 +1028,7 @@ l:SonicLineup
 l:parsec-linux-appimage
 l:SavvyCAN
 l:Thorium_Reader
+l:Glaxnimate
 l:PDFQuirk
 l:Buche
 l:swradio
@@ -1144,7 +1145,6 @@ l:pyappimage
 l:BitShares
 l:Nitrokey
 l:LibreSprite
-l:Glaxnimate
 l:LibreOfficePreRelease
 l:GrinPlusPlus
 l:Rebaslight
