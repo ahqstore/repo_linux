@@ -755,6 +755,7 @@ l:Rotki
 l:SonicVisualiser
 l:flameshot
 l:Apla
+l:Cryptocam_Companion
 l:KeeWeb
 l:SAManager
 l:Kage
@@ -1060,7 +1061,6 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
-l:Cryptocam_Companion
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
