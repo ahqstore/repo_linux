@@ -917,6 +917,7 @@ l:Bench_CLI
 l:ProcDepMonitor
 l:Poddr
 l:Parallelcoin
+l:Cryptocam_Companion
 l:lumi
 l:quokkagit
 l:Inboxer
@@ -963,7 +964,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
