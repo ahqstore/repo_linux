@@ -740,7 +740,6 @@ l:GameHub
 l:SFRT_Attendance
 l:Vipster
 l:VLC
-l:Cryptocam_Companion
 l:FMS_File_Explorer
 l:onnx2bnn
 l:SultanPOS
@@ -862,6 +861,7 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
+l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
