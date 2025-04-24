@@ -830,7 +830,6 @@ l:stretchly
 l:Pony_Compiler
 l:Makagiga
 l:M
-l:Cryptocam_Companion
 l:photoname
 l:IGdm
 l:erdesigner
@@ -1061,6 +1060,7 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
+l:Cryptocam_Companion
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
