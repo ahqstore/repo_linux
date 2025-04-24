@@ -896,6 +896,7 @@ l:spark-wallet
 l:CoreTime
 l:Vessel
 l:Widelands
+l:Cryptocam_Companion
 l:Jan
 l:xlights
 l:trader
@@ -1091,7 +1092,6 @@ l:Board_Game_Star
 l:Skycoin
 l:FastQt
 l:ao
-l:Cryptocam_Companion
 l:cabal-desktop
 l:steam-rom-manager
 l:Qredit
