@@ -1027,6 +1027,7 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
+l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
@@ -1048,7 +1049,6 @@ l:NanoVault
 l:Elements
 l:Local_Browser
 l:Waterfox_Classic
-l:Cryptocam_Companion
 l:Plex
 l:SiliconSneaker
 l:AppImagePool
