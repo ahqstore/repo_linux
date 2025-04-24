@@ -961,7 +961,6 @@ l:Mira
 l:Groot
 l:Scraper
 l:Scrite
-l:Cryptocam_Companion
 l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
@@ -1001,6 +1000,7 @@ l:torrenttools
 l:TachiWeb
 l:Whalebird
 l:clippy
+l:Cryptocam_Companion
 l:neovim
 l:BlenSor
 l:Record_Compare
