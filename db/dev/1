@@ -750,7 +750,6 @@ l:QOwnNotes
 l:LMMS
 l:SquishPic
 l:GospelPdfViewer
-l:Cryptocam_Companion
 l:Mochi
 l:Rotki
 l:SonicVisualiser
@@ -792,6 +791,7 @@ l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
 l:qr-code-generator-desktop
+l:Cryptocam_Companion
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
