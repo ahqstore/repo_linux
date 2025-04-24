@@ -693,6 +693,7 @@ l:BulkReviewer
 l:Drawpile
 l:vuerd
 l:dingtalk
+l:KiCad
 l:LibreOfficeDev
 l:tinyclerk
 l:SVGWall
@@ -827,6 +828,7 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -963,7 +965,6 @@ l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
-l:Cryptocam_Companion
 l:element
 l:hyper
 l:eNoseAnnotator
