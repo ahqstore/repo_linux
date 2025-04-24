@@ -750,7 +750,6 @@ l:QOwnNotes
 l:LMMS
 l:SquishPic
 l:GospelPdfViewer
-l:Cryptocam_Companion
 l:Mochi
 l:Rotki
 l:SonicVisualiser
@@ -964,6 +963,7 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
+l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
@@ -1061,7 +1061,6 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
-l:Glaxnimate
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
@@ -1157,3 +1156,4 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Glaxnimate
