@@ -911,7 +911,6 @@ l:Artifact
 l:KevEdit
 l:ToastWallet
 l:Juggernaut
-l:Cryptocam_Companion
 l:QuickDoc
 l:XnViewMP
 l:Bench_CLI
@@ -938,6 +937,7 @@ l:ChainX_Signer
 l:pyappimage
 l:RasterDraw
 l:TweakSophia
+l:Cryptocam_Companion
 l:UniShellect
 l:AnimaShooter
 l:Nextcloud
