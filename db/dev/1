@@ -791,7 +791,6 @@ l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
 l:qr-code-generator-desktop
-l:Cryptocam_Companion
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
@@ -959,6 +958,7 @@ l:P2PDerivatives
 l:CoreStuff
 l:KCalc
 l:Mira
+l:Cryptocam_Companion
 l:Groot
 l:Scraper
 l:Scrite
@@ -1135,7 +1135,6 @@ l:Tumblr_Scraper
 l:KeePassXC
 l:Revisionary
 l:Brackets
-l:Glaxnimate
 l:ExeQt
 l:clipr
 l:gsubs
@@ -1157,3 +1156,4 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Glaxnimate
