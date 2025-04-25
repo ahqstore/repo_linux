@@ -825,7 +825,6 @@ l:CRITERIA1D_PRO
 l:Hyperspace
 l:aillio-ts
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
@@ -1135,6 +1134,7 @@ l:Tumblr_Scraper
 l:KeePassXC
 l:Revisionary
 l:Brackets
+l:Cryptocam_Companion
 l:ExeQt
 l:clipr
 l:gsubs
