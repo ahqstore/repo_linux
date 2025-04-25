@@ -981,7 +981,6 @@ l:Onenote
 l:Pulse
 l:EternalModManager
 l:Electron_App_Store
-l:Cryptocam_Companion
 l:Quick_Clone
 l:UHK.Agent
 l:Subsurface
@@ -1028,6 +1027,7 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
+l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
