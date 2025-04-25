@@ -913,7 +913,6 @@ l:ToastWallet
 l:Juggernaut
 l:QuickDoc
 l:XnViewMP
-l:Cryptocam_Companion
 l:Bench_CLI
 l:ProcDepMonitor
 l:Poddr
@@ -1001,6 +1000,7 @@ l:torrenttools
 l:TachiWeb
 l:Whalebird
 l:clippy
+l:Cryptocam_Companion
 l:neovim
 l:BlenSor
 l:Record_Compare
