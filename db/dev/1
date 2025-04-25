@@ -791,7 +791,6 @@ l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
 l:qr-code-generator-desktop
-l:Cryptocam_Companion
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
@@ -931,6 +930,7 @@ l:Advanced_Rest_Client
 l:Motrix
 l:Textilosaurus
 l:stereophotoview
+l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:Cscrypto
 l:ideaMaker
