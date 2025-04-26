@@ -806,7 +806,6 @@ l:Linedancer
 l:Gulden
 l:StatusPilatus
 l:Bezique
-l:Cryptocam_Companion
 l:halium-tool
 l:SwitchHosts!
 l:Zegarek
@@ -862,6 +861,7 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
+l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
