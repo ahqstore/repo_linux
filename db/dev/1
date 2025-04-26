@@ -861,7 +861,6 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
-l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
@@ -1002,6 +1001,7 @@ l:TachiWeb
 l:Whalebird
 l:clippy
 l:neovim
+l:Cryptocam_Companion
 l:BlenSor
 l:Record_Compare
 l:Puppetry
