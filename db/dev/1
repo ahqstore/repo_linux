@@ -963,7 +963,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
@@ -971,6 +970,7 @@ l:eNoseAnnotator
 l:Geph
 l:meta-grabber
 l:MQTT-Explorer
+l:Cryptocam_Companion
 l:GooboxFileShare
 l:altair
 l:NixNote
