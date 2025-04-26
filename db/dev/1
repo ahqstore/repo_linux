@@ -799,7 +799,6 @@ l:FontBase
 l:Tesseract
 l:Sup
 l:Gai
-l:Cryptocam_Companion
 l:youtube-music-desktop
 l:Firefox
 l:SUbillManager
@@ -1001,6 +1000,7 @@ l:torrenttools
 l:TachiWeb
 l:Whalebird
 l:clippy
+l:Cryptocam_Companion
 l:neovim
 l:BlenSor
 l:Record_Compare
