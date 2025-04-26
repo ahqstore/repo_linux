@@ -913,6 +913,7 @@ l:ToastWallet
 l:Juggernaut
 l:QuickDoc
 l:XnViewMP
+l:Cryptocam_Companion
 l:Bench_CLI
 l:ProcDepMonitor
 l:Poddr
@@ -1155,5 +1156,4 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Cryptocam_Companion
 l:Glaxnimate
