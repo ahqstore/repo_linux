@@ -918,7 +918,6 @@ l:ProcDepMonitor
 l:Poddr
 l:Parallelcoin
 l:lumi
-l:Cryptocam_Companion
 l:quokkagit
 l:Inboxer
 l:Slacktronic
@@ -964,6 +963,7 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
+l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
