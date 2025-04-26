@@ -963,7 +963,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
@@ -1052,6 +1051,7 @@ l:Waterfox_Classic
 l:Plex
 l:SiliconSneaker
 l:AppImagePool
+l:Cryptocam_Companion
 l:ngPost
 l:CodePilot.ai
 l:Plover
