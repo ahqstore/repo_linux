@@ -970,7 +970,6 @@ l:eNoseAnnotator
 l:Geph
 l:meta-grabber
 l:MQTT-Explorer
-l:Cryptocam_Companion
 l:GooboxFileShare
 l:altair
 l:NixNote
@@ -1001,6 +1000,7 @@ l:torrenttools
 l:TachiWeb
 l:Whalebird
 l:clippy
+l:Cryptocam_Companion
 l:neovim
 l:BlenSor
 l:Record_Compare
