@@ -839,7 +839,6 @@ l:Kitupiikki
 l:EmuDeck
 l:Joy2DroidX
 l:falcon-sql-client
-l:Cryptocam_Companion
 l:SpeedyLoader
 l:Translatium
 l:textosaurus
@@ -969,6 +968,7 @@ l:element
 l:hyper
 l:eNoseAnnotator
 l:Geph
+l:Cryptocam_Companion
 l:meta-grabber
 l:MQTT-Explorer
 l:GooboxFileShare
