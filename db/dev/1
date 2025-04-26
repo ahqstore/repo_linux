@@ -799,6 +799,7 @@ l:FontBase
 l:Tesseract
 l:Sup
 l:Gai
+l:Cryptocam_Companion
 l:youtube-music-desktop
 l:Firefox
 l:SUbillManager
@@ -963,7 +964,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
@@ -1110,7 +1110,6 @@ l:Passky
 l:mki3dgame
 l:SmartGit
 l:NEST_Desktop
-l:Glaxnimate
 l:zeltrez
 l:ExifCleaner
 l:Streamon
@@ -1157,3 +1156,4 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Glaxnimate
