@@ -863,7 +863,6 @@ l:Sayonara
 l:Kimitzu-Client
 l:CoreShot
 l:Bypass_Cors
-l:Cryptocam_Companion
 l:x-loc
 l:QDriverStation
 l:CorePad
@@ -995,6 +994,7 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
+l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
