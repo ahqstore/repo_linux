@@ -828,6 +828,7 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -1043,7 +1044,6 @@ l:sipgate_Softphone
 l:PrimeWorldEditor
 l:TheCloudPortal_Signage_Client
 l:sourcegit
-l:Cryptocam_Companion
 l:BottleBats
 l:NanoVault
 l:Elements
@@ -1119,6 +1119,7 @@ l:XMedCon
 l:AudioMoth
 l:VirtScreen
 l:LibreOfficeFresh
+l:Glaxnimate
 l:slang-ed
 l:Shannon_Calculator
 l:Mapeo
@@ -1156,4 +1157,3 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Glaxnimate
