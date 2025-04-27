@@ -861,7 +861,6 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
-l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
@@ -965,6 +964,7 @@ l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
+l:Cryptocam_Companion
 l:element
 l:hyper
 l:eNoseAnnotator
