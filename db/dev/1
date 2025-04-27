@@ -861,7 +861,6 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
-l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
@@ -1072,6 +1071,7 @@ l:Sia-UI
 l:PhreshPlayer
 l:tweet-tray
 l:Mob
+l:Cryptocam_Companion
 l:moolticute
 l:FF-Password-Exporter
 l:spm
