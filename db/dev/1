@@ -861,6 +861,7 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
+l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
@@ -945,7 +946,6 @@ l:Wire
 l:GDevelop
 l:ImHex
 l:cncjs
-l:Cryptocam_Companion
 l:VizGraph
 l:electron-wechat
 l:Loginized
@@ -1077,7 +1077,6 @@ l:FF-Password-Exporter
 l:spm
 l:movie-monad
 l:Eqonomize
-l:Glaxnimate
 l:MediaInfo
 l:VNote
 l:nbrsync
@@ -1157,3 +1156,4 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Glaxnimate
