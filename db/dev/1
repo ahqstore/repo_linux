@@ -966,7 +966,6 @@ l:Speaky_MiniPlayer
 l:MellowPlayer
 l:element
 l:hyper
-l:Cryptocam_Companion
 l:eNoseAnnotator
 l:Geph
 l:meta-grabber
@@ -1156,4 +1155,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Cryptocam_Companion
 l:Glaxnimate
