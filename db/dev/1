@@ -911,7 +911,6 @@ l:Artifact
 l:KevEdit
 l:ToastWallet
 l:Juggernaut
-l:Cryptocam_Companion
 l:QuickDoc
 l:XnViewMP
 l:Bench_CLI
@@ -1150,6 +1149,7 @@ l:CustomRPC
 l:FranceTV
 l:Carnet
 l:vifm
+l:Cryptocam_Companion
 l:Colobot
 l:OSRS_Tools
 l:Iceworks
