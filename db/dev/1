@@ -884,7 +884,6 @@ l:DawnlightSearch
 l:DevHub
 l:Apache_NetBeans
 l:CoreInfo
-l:Cryptocam_Companion
 l:ldview
 l:MusE
 l:OpenSCAD
@@ -965,6 +964,7 @@ l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
+l:Cryptocam_Companion
 l:element
 l:hyper
 l:eNoseAnnotator
