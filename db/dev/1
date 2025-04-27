@@ -913,7 +913,6 @@ l:ToastWallet
 l:Juggernaut
 l:QuickDoc
 l:XnViewMP
-l:Cryptocam_Companion
 l:Bench_CLI
 l:ProcDepMonitor
 l:Poddr
@@ -959,6 +958,7 @@ l:P2PDerivatives
 l:CoreStuff
 l:KCalc
 l:Mira
+l:Cryptocam_Companion
 l:Groot
 l:Scraper
 l:Scrite
