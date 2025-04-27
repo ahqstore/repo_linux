@@ -913,6 +913,7 @@ l:ToastWallet
 l:Juggernaut
 l:QuickDoc
 l:XnViewMP
+l:Cryptocam_Companion
 l:Bench_CLI
 l:ProcDepMonitor
 l:Poddr
@@ -994,7 +995,6 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
-l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
