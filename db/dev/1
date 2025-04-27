@@ -794,7 +794,6 @@ l:qr-code-generator-desktop
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
-l:Cryptocam_Companion
 l:Skrifa
 l:FontBase
 l:Tesseract
@@ -996,6 +995,7 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
+l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
