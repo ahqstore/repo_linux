@@ -910,6 +910,7 @@ l:Firefox_Beta
 l:Artifact
 l:KevEdit
 l:ToastWallet
+l:Cryptocam_Companion
 l:Juggernaut
 l:QuickDoc
 l:XnViewMP
@@ -1027,7 +1028,6 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
-l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
@@ -1157,3 +1157,4 @@ l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
 l:Glaxnimate
+l:Alpine_Client
