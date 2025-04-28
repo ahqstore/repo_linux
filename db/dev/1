@@ -861,7 +861,6 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
-l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
@@ -995,6 +994,7 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
+l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
