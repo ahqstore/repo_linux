@@ -842,6 +842,7 @@ l:falcon-sql-client
 l:SpeedyLoader
 l:Translatium
 l:textosaurus
+l:Cryptocam_Companion
 l:Niffler
 l:MiniZinc_IDE
 l:getswell
@@ -963,7 +964,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
