@@ -861,7 +861,6 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
-l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
@@ -1029,6 +1028,7 @@ l:DockStation
 l:Mini_Diary
 l:Nitrokey
 l:YesPlayMusic
+l:Cryptocam_Companion
 l:Padloc
 l:Znax
 l:Streamlink
