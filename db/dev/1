@@ -861,7 +861,6 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
-l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
@@ -873,6 +872,7 @@ l:mdview
 l:Thunderbird
 l:LibreSprite
 l:Audacity
+l:Cryptocam_Companion
 l:Markman
 l:hotspot
 l:GVim
