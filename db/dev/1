@@ -958,7 +958,6 @@ l:P2PDerivatives
 l:CoreStuff
 l:KCalc
 l:Mira
-l:Cryptocam_Companion
 l:Groot
 l:Scraper
 l:Scrite
@@ -1061,6 +1060,7 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
+l:Cryptocam_Companion
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
