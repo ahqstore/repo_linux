@@ -995,7 +995,6 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
-l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
@@ -1135,6 +1134,7 @@ l:Tumblr_Scraper
 l:KeePassXC
 l:Revisionary
 l:Brackets
+l:Cryptocam_Companion
 l:ExeQt
 l:clipr
 l:gsubs
