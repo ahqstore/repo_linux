@@ -647,7 +647,6 @@ l:tubCloud
 l:LeoCAD
 l:PolkaKey
 l:Knowte
-l:SteamCAD
 l:mapton
 l:mockoon
 l:MazeSolver
@@ -828,7 +827,6 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
-l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -995,6 +993,7 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
+l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
