@@ -847,7 +847,6 @@ l:MiniZinc_IDE
 l:getswell
 l:unreel
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:LiteIDE
 l:school-sections
 l:Electrum-NMC
@@ -1071,6 +1070,7 @@ l:Join_Desktop
 l:Sia-UI
 l:PhreshPlayer
 l:tweet-tray
+l:Cryptocam_Companion
 l:Mob
 l:moolticute
 l:FF-Password-Exporter
