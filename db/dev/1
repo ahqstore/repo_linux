@@ -861,7 +861,6 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
-l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
@@ -969,6 +968,7 @@ l:element
 l:hyper
 l:eNoseAnnotator
 l:Geph
+l:Cryptocam_Companion
 l:meta-grabber
 l:MQTT-Explorer
 l:GooboxFileShare
