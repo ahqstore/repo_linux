@@ -914,7 +914,6 @@ l:Juggernaut
 l:QuickDoc
 l:XnViewMP
 l:Bench_CLI
-l:Cryptocam_Companion
 l:ProcDepMonitor
 l:Poddr
 l:Parallelcoin
@@ -1156,5 +1155,6 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Cryptocam_Companion
 l:Glaxnimate
 l:Alpine_Client
