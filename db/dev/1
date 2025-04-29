@@ -968,7 +968,6 @@ l:element
 l:hyper
 l:eNoseAnnotator
 l:Geph
-l:Cryptocam_Companion
 l:meta-grabber
 l:MQTT-Explorer
 l:GooboxFileShare
@@ -1000,6 +999,7 @@ l:QtMips
 l:torrenttools
 l:TachiWeb
 l:Whalebird
+l:Cryptocam_Companion
 l:clippy
 l:neovim
 l:BlenSor
