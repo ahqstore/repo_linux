@@ -995,7 +995,6 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
-l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
@@ -1011,6 +1010,7 @@ l:ioquake3
 l:SkeletonGame
 l:four
 l:GXC_Smart_Contract_IDE
+l:Cryptocam_Companion
 l:GPUpad
 l:Summoners.War.Exporter
 l:upterm
