@@ -790,7 +790,6 @@ l:AtCore
 l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
-l:Cryptocam_Companion
 l:qr-code-generator-desktop
 l:WatchIt
 l:simplechroot
@@ -995,6 +994,7 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
+l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
