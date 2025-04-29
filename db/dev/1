@@ -828,6 +828,7 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -1000,7 +1001,6 @@ l:torrenttools
 l:TachiWeb
 l:Whalebird
 l:clippy
-l:Cryptocam_Companion
 l:neovim
 l:BlenSor
 l:Record_Compare
