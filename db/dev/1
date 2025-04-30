@@ -1027,7 +1027,6 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
-l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
@@ -1061,6 +1060,7 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
+l:Cryptocam_Companion
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
