@@ -755,7 +755,6 @@ l:Rotki
 l:SonicVisualiser
 l:flameshot
 l:Apla
-l:Cryptocam_Companion
 l:KeeWeb
 l:SAManager
 l:Kage
@@ -996,6 +995,7 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
+l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
