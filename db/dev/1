@@ -981,6 +981,7 @@ l:Onenote
 l:Pulse
 l:EternalModManager
 l:Electron_App_Store
+l:Cryptocam_Companion
 l:Quick_Clone
 l:UHK.Agent
 l:Subsurface
@@ -1060,7 +1061,6 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
-l:Cryptocam_Companion
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
