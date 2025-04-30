@@ -889,7 +889,6 @@ l:MusE
 l:OpenSCAD
 l:TeleDrive
 l:Spivak
-l:Cryptocam_Companion
 l:AKASHA
 l:Astrofox
 l:SonicLineup
@@ -996,6 +995,7 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
+l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
