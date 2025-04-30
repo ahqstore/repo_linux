@@ -995,7 +995,6 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
-l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
@@ -1028,6 +1027,7 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
+l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
