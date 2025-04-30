@@ -994,7 +994,6 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
-l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
@@ -1077,6 +1076,7 @@ l:FF-Password-Exporter
 l:spm
 l:movie-monad
 l:Eqonomize
+l:Cryptocam_Companion
 l:MediaInfo
 l:VNote
 l:nbrsync
