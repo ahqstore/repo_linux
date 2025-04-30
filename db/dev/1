@@ -957,7 +957,6 @@ l:Infection_Monkey
 l:P2PDerivatives
 l:CoreStuff
 l:KCalc
-l:Cryptocam_Companion
 l:Mira
 l:Groot
 l:Scraper
@@ -995,6 +994,7 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
+l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
