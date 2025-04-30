@@ -828,6 +828,7 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -1039,7 +1040,6 @@ l:Explorook
 l:Comic-Reader
 l:MediathekView
 l:nimbus-weather
-l:Cryptocam_Companion
 l:sipgate_Softphone
 l:PrimeWorldEditor
 l:TheCloudPortal_Signage_Client
