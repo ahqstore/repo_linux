@@ -964,7 +964,6 @@ l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
-l:Cryptocam_Companion
 l:element
 l:hyper
 l:eNoseAnnotator
@@ -1077,6 +1076,7 @@ l:FF-Password-Exporter
 l:spm
 l:movie-monad
 l:Eqonomize
+l:Cryptocam_Companion
 l:MediaInfo
 l:VNote
 l:nbrsync
