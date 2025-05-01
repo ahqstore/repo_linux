@@ -910,7 +910,6 @@ l:Firefox_Beta
 l:Artifact
 l:KevEdit
 l:ToastWallet
-l:Cryptocam_Companion
 l:Juggernaut
 l:QuickDoc
 l:XnViewMP
@@ -1008,6 +1007,7 @@ l:Puppetry
 l:CuteVariant
 l:Julius
 l:ioquake3
+l:Cryptocam_Companion
 l:SkeletonGame
 l:four
 l:GXC_Smart_Contract_IDE
@@ -1156,5 +1156,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
