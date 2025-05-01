@@ -791,6 +791,7 @@ l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
 l:qr-code-generator-desktop
+l:Cryptocam_Companion
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
@@ -994,7 +995,6 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
-l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
