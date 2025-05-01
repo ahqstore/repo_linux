@@ -1,1 +1,1 @@
-{"time":1746115040,"data":{"x86_64":null,"aarch64":null,"tag_name":"browser-v2025.4.0"}}
+{"time":1746129880,"data":{"x86_64":"https://github.com/bitwarden/clients/releases/download/desktop-mac-v2025.4.2/Bitwarden-2025.4.2-x86_64.AppImage","aarch64":null,"tag_name":"desktop-mac-v2025.4.2"}}
