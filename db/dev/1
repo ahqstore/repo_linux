@@ -965,7 +965,6 @@ l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
 l:element
-l:Cryptocam_Companion
 l:hyper
 l:eNoseAnnotator
 l:Geph
@@ -1061,6 +1060,7 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
+l:Cryptocam_Companion
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
