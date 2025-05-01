@@ -994,7 +994,6 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
-l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
@@ -1036,6 +1035,7 @@ l:Hypnos
 l:Artisan
 l:CRG_Data_Tool
 l:Steem_Messenger
+l:Cryptocam_Companion
 l:Explorook
 l:Comic-Reader
 l:MediathekView
