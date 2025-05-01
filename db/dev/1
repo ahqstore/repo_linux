@@ -828,7 +828,6 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
-l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -858,6 +857,7 @@ l:ConsoleWorkbench
 l:clownmdemu
 l:Opentrons
 l:Espanso
+l:Cryptocam_Companion
 l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
