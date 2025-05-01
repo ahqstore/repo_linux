@@ -857,7 +857,6 @@ l:ConsoleWorkbench
 l:clownmdemu
 l:Opentrons
 l:Espanso
-l:Cryptocam_Companion
 l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
@@ -995,6 +994,7 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
+l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
