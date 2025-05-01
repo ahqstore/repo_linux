@@ -995,6 +995,7 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
+l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
@@ -1060,7 +1061,6 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
-l:Cryptocam_Companion
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
@@ -1156,5 +1156,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
