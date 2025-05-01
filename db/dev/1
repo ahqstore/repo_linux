@@ -963,7 +963,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
@@ -1150,6 +1149,7 @@ l:CustomRPC
 l:FranceTV
 l:Carnet
 l:vifm
+l:Cryptocam_Companion
 l:Colobot
 l:OSRS_Tools
 l:Iceworks
