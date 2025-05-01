@@ -876,7 +876,6 @@ l:Markman
 l:hotspot
 l:GVim
 l:Krita
-l:Cryptocam_Companion
 l:heb12
 l:Plag_Patrol
 l:Woke
@@ -995,6 +994,7 @@ l:Mumble
 l:lescovex
 l:VisiCut
 l:ColorGenerator
+l:Cryptocam_Companion
 l:SerialPort_Assistant
 l:QtMips
 l:torrenttools
@@ -1156,5 +1156,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
