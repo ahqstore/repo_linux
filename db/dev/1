@@ -1060,6 +1060,7 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
+l:Cryptocam_Companion
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
@@ -1076,7 +1077,6 @@ l:FF-Password-Exporter
 l:spm
 l:movie-monad
 l:Eqonomize
-l:Cryptocam_Companion
 l:MediaInfo
 l:VNote
 l:nbrsync
