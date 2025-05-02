@@ -755,6 +755,7 @@ l:Rotki
 l:SonicVisualiser
 l:flameshot
 l:Apla
+l:Cryptocam_Companion
 l:KeeWeb
 l:SAManager
 l:Kage
@@ -1001,7 +1002,6 @@ l:TachiWeb
 l:Whalebird
 l:clippy
 l:neovim
-l:Cryptocam_Companion
 l:BlenSor
 l:Record_Compare
 l:Puppetry
