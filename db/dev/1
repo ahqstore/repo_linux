@@ -828,6 +828,7 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -980,7 +981,6 @@ l:jmbde
 l:Onenote
 l:Pulse
 l:EternalModManager
-l:Cryptocam_Companion
 l:Electron_App_Store
 l:Quick_Clone
 l:UHK.Agent
