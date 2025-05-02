@@ -828,6 +828,7 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -898,7 +899,6 @@ l:Vessel
 l:Widelands
 l:Jan
 l:xlights
-l:Cryptocam_Companion
 l:trader
 l:CrossCode_Map_Editor
 l:Emacs
