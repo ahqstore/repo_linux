@@ -855,7 +855,6 @@ l:scavengers
 l:HiDPI-Fixer
 l:ConsoleWorkbench
 l:clownmdemu
-l:Cryptocam_Companion
 l:Opentrons
 l:Espanso
 l:OpenStream_Music
@@ -1077,6 +1076,7 @@ l:FF-Password-Exporter
 l:spm
 l:movie-monad
 l:Eqonomize
+l:Cryptocam_Companion
 l:MediaInfo
 l:VNote
 l:nbrsync
