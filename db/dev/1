@@ -958,7 +958,6 @@ l:P2PDerivatives
 l:CoreStuff
 l:KCalc
 l:Mira
-l:Cryptocam_Companion
 l:Groot
 l:Scraper
 l:Scrite
@@ -993,6 +992,7 @@ l:EiskaltDC++
 l:Pingendo
 l:Mumble
 l:lescovex
+l:Cryptocam_Companion
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
