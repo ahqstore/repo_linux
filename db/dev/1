@@ -818,7 +818,6 @@ l:SourceGit
 l:Left
 l:APK_Editor_Studio
 l:Filmulator
-l:Cryptocam_Companion
 l:FreeCAD-asm3
 l:Chiaki
 l:SchildiChat
@@ -829,6 +828,7 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
