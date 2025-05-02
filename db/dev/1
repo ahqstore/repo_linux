@@ -1027,7 +1027,6 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
-l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
@@ -1077,6 +1076,7 @@ l:FF-Password-Exporter
 l:spm
 l:movie-monad
 l:Eqonomize
+l:Cryptocam_Companion
 l:MediaInfo
 l:VNote
 l:nbrsync
