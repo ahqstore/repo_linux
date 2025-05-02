@@ -855,6 +855,7 @@ l:scavengers
 l:HiDPI-Fixer
 l:ConsoleWorkbench
 l:clownmdemu
+l:Cryptocam_Companion
 l:Opentrons
 l:Espanso
 l:OpenStream_Music
@@ -963,7 +964,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
