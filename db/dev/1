@@ -1076,7 +1076,6 @@ l:FF-Password-Exporter
 l:spm
 l:movie-monad
 l:Eqonomize
-l:Cryptocam_Companion
 l:MediaInfo
 l:VNote
 l:nbrsync
@@ -1092,6 +1091,7 @@ l:Board_Game_Star
 l:Skycoin
 l:FastQt
 l:ao
+l:Cryptocam_Companion
 l:cabal-desktop
 l:steam-rom-manager
 l:Qredit
