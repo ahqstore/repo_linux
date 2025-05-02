@@ -769,7 +769,6 @@ l:NimiTV
 l:iQPuzzle
 l:Linphone
 l:Around
-l:Paletti
 l:Pathephone
 l:LikeTaskManager
 l:Beyond_All_Reason
@@ -963,7 +962,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
@@ -990,6 +988,7 @@ l:Navicat
 l:Sengi
 l:Parity_Fether
 l:EiskaltDC++
+l:Cryptocam_Companion
 l:Pingendo
 l:Mumble
 l:lescovex
@@ -1156,5 +1155,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
