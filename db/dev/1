@@ -861,7 +861,6 @@ l:OpenStream_Music
 l:Valeronoi
 l:Sayonara
 l:Kimitzu-Client
-l:Cryptocam_Companion
 l:CoreShot
 l:Bypass_Cors
 l:x-loc
@@ -1042,6 +1041,7 @@ l:MediathekView
 l:nimbus-weather
 l:sipgate_Softphone
 l:PrimeWorldEditor
+l:Cryptocam_Companion
 l:TheCloudPortal_Signage_Client
 l:sourcegit
 l:BottleBats
