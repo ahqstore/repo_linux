@@ -958,7 +958,6 @@ l:P2PDerivatives
 l:CoreStuff
 l:KCalc
 l:Mira
-l:Cryptocam_Companion
 l:Groot
 l:Scraper
 l:Scrite
@@ -1049,6 +1048,7 @@ l:NanoVault
 l:Elements
 l:Local_Browser
 l:Waterfox_Classic
+l:Cryptocam_Companion
 l:Plex
 l:SiliconSneaker
 l:AppImagePool
