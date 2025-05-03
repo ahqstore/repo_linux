@@ -828,7 +828,6 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
-l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -959,6 +958,7 @@ l:P2PDerivatives
 l:CoreStuff
 l:KCalc
 l:Mira
+l:Cryptocam_Companion
 l:Groot
 l:Scraper
 l:Scrite
