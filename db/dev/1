@@ -995,7 +995,6 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
-l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
@@ -1045,6 +1044,7 @@ l:PrimeWorldEditor
 l:TheCloudPortal_Signage_Client
 l:sourcegit
 l:BottleBats
+l:Cryptocam_Companion
 l:NanoVault
 l:Elements
 l:Local_Browser
