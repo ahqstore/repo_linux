@@ -963,7 +963,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
@@ -1062,6 +1061,7 @@ l:CoreArchiver
 l:PhotoQt
 l:Aspect
 l:Evolution_RTS
+l:Cryptocam_Companion
 l:RoboRock_Control_Center
 l:Ganache
 l:Leonflix
