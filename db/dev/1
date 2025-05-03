@@ -791,7 +791,6 @@ l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
 l:qr-code-generator-desktop
-l:Cryptocam_Companion
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
@@ -982,6 +981,7 @@ l:Onenote
 l:Pulse
 l:EternalModManager
 l:Electron_App_Store
+l:Cryptocam_Companion
 l:Quick_Clone
 l:UHK.Agent
 l:Subsurface
