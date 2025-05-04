@@ -791,7 +791,6 @@ l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
 l:qr-code-generator-desktop
-l:Cryptocam_Companion
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
@@ -1061,6 +1060,7 @@ l:elcalc
 l:CoreArchiver
 l:PhotoQt
 l:Aspect
+l:Cryptocam_Companion
 l:Evolution_RTS
 l:RoboRock_Control_Center
 l:Ganache
@@ -1139,7 +1139,6 @@ l:ExeQt
 l:clipr
 l:gsubs
 l:CPU-X
-l:Glaxnimate
 l:OpenBlok
 l:Hexinator
 l:Ripcord
@@ -1157,4 +1156,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Glaxnimate
 l:Alpine_Client
