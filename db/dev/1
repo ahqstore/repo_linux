@@ -912,7 +912,6 @@ l:KevEdit
 l:ToastWallet
 l:Juggernaut
 l:QuickDoc
-l:Cryptocam_Companion
 l:XnViewMP
 l:Bench_CLI
 l:ProcDepMonitor
@@ -965,6 +964,7 @@ l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
+l:Cryptocam_Companion
 l:element
 l:hyper
 l:eNoseAnnotator
