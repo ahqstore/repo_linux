@@ -848,6 +848,7 @@ l:getswell
 l:unreel
 l:Syncthing_Tray
 l:LiteIDE
+l:Cryptocam_Companion
 l:school-sections
 l:Electrum-NMC
 l:Mr.Dclutterer
@@ -1000,7 +1001,6 @@ l:torrenttools
 l:TachiWeb
 l:Whalebird
 l:clippy
-l:Cryptocam_Companion
 l:neovim
 l:BlenSor
 l:Record_Compare
