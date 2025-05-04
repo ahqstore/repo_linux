@@ -828,7 +828,6 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
-l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -1056,6 +1055,7 @@ l:ngPost
 l:CodePilot.ai
 l:Plover
 l:Stacer
+l:Cryptocam_Companion
 l:UltraScreen
 l:elcalc
 l:CoreArchiver
