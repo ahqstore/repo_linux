@@ -963,8 +963,8 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
+l:Cryptocam_Companion
 l:element
 l:hyper
 l:eNoseAnnotator
@@ -1135,7 +1135,6 @@ l:Tumblr_Scraper
 l:KeePassXC
 l:Revisionary
 l:Brackets
-l:Glaxnimate
 l:ExeQt
 l:clipr
 l:gsubs
@@ -1157,4 +1156,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Glaxnimate
 l:Alpine_Client
