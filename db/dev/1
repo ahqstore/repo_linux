@@ -910,6 +910,7 @@ l:Firefox_Beta
 l:Artifact
 l:KevEdit
 l:ToastWallet
+l:Cryptocam_Companion
 l:Juggernaut
 l:QuickDoc
 l:XnViewMP
@@ -1127,7 +1128,6 @@ l:Armagetron_Advanced
 l:Airspaces
 l:APhotoToolLibre
 l:Lemon
-l:Cryptocam_Companion
 l:linux_czkawka_gui
 l:YubiKey_Manager
 l:eDEX-UI
@@ -1156,5 +1156,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
