@@ -791,6 +791,7 @@ l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
 l:qr-code-generator-desktop
+l:Cryptocam_Companion
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
@@ -964,7 +965,6 @@ l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
-l:Cryptocam_Companion
 l:element
 l:hyper
 l:eNoseAnnotator
