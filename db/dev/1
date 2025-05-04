@@ -828,7 +828,6 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
-l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -913,6 +912,7 @@ l:KevEdit
 l:ToastWallet
 l:Juggernaut
 l:QuickDoc
+l:Cryptocam_Companion
 l:XnViewMP
 l:Bench_CLI
 l:ProcDepMonitor
