@@ -865,6 +865,7 @@ l:CoreShot
 l:Bypass_Cors
 l:x-loc
 l:QDriverStation
+l:Cryptocam_Companion
 l:CorePad
 l:BasiliskII
 l:Tumblr_Downloader_GUI
@@ -963,7 +964,6 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
-l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
