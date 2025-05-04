@@ -828,6 +828,7 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -890,7 +891,6 @@ l:OpenSCAD
 l:TeleDrive
 l:Spivak
 l:AKASHA
-l:Cryptocam_Companion
 l:Astrofox
 l:SonicLineup
 l:spark-wallet
