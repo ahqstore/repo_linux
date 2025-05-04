@@ -958,7 +958,6 @@ l:P2PDerivatives
 l:CoreStuff
 l:KCalc
 l:Mira
-l:Cryptocam_Companion
 l:Groot
 l:Scraper
 l:Scrite
@@ -1077,6 +1076,7 @@ l:FF-Password-Exporter
 l:spm
 l:movie-monad
 l:Eqonomize
+l:Cryptocam_Companion
 l:MediaInfo
 l:VNote
 l:nbrsync
