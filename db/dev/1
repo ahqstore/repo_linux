@@ -842,7 +842,6 @@ l:falcon-sql-client
 l:SpeedyLoader
 l:Translatium
 l:textosaurus
-l:Cryptocam_Companion
 l:Niffler
 l:MiniZinc_IDE
 l:getswell
@@ -869,6 +868,7 @@ l:QDriverStation
 l:CorePad
 l:BasiliskII
 l:Tumblr_Downloader_GUI
+l:Cryptocam_Companion
 l:mdview
 l:Thunderbird
 l:LibreSprite
