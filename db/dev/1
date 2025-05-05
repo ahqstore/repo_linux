@@ -791,7 +791,6 @@ l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
 l:qr-code-generator-desktop
-l:Cryptocam_Companion
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
@@ -1028,6 +1027,7 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
+l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
