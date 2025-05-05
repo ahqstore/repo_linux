@@ -926,6 +926,7 @@ l:qtchan
 l:Qt_DAB
 l:Qortal_UI
 l:Gingko
+l:Advanced_Rest_Client
 l:Motrix
 l:Textilosaurus
 l:stereophotoview
@@ -999,7 +1000,6 @@ l:torrenttools
 l:TachiWeb
 l:Whalebird
 l:clippy
-l:Cryptocam_Companion
 l:neovim
 l:BlenSor
 l:Record_Compare
@@ -1027,6 +1027,7 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
+l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
@@ -1076,6 +1077,7 @@ l:FF-Password-Exporter
 l:spm
 l:movie-monad
 l:Eqonomize
+l:Glaxnimate
 l:MediaInfo
 l:VNote
 l:nbrsync
@@ -1155,5 +1157,4 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Glaxnimate
 l:Alpine_Client
