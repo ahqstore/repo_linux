@@ -1048,7 +1048,6 @@ l:NanoVault
 l:Elements
 l:Local_Browser
 l:Waterfox_Classic
-l:Cryptocam_Companion
 l:Plex
 l:SiliconSneaker
 l:AppImagePool
@@ -1135,6 +1134,7 @@ l:Tumblr_Scraper
 l:KeePassXC
 l:Revisionary
 l:Brackets
+l:Cryptocam_Companion
 l:ExeQt
 l:clipr
 l:gsubs
