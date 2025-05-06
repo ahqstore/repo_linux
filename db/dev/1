@@ -965,6 +965,7 @@ l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
 l:element
+l:Cryptocam_Companion
 l:hyper
 l:eNoseAnnotator
 l:Geph
@@ -1000,7 +1001,6 @@ l:torrenttools
 l:TachiWeb
 l:Whalebird
 l:clippy
-l:Cryptocam_Companion
 l:neovim
 l:BlenSor
 l:Record_Compare
