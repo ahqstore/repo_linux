@@ -965,7 +965,6 @@ l:nvtop
 l:Speaky_MiniPlayer
 l:MellowPlayer
 l:element
-l:Cryptocam_Companion
 l:hyper
 l:eNoseAnnotator
 l:Geph
@@ -1156,5 +1155,6 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Cryptocam_Companion
 l:Glaxnimate
 l:Alpine_Client
