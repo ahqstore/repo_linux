@@ -995,6 +995,7 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
+l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
@@ -1062,7 +1063,6 @@ l:PhotoQt
 l:Aspect
 l:Evolution_RTS
 l:RoboRock_Control_Center
-l:Cryptocam_Companion
 l:Ganache
 l:Leonflix
 l:YUView
