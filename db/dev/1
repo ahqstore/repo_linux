@@ -755,6 +755,7 @@ l:Rotki
 l:SonicVisualiser
 l:flameshot
 l:Apla
+l:Cryptocam_Companion
 l:KeeWeb
 l:SAManager
 l:Kage
@@ -791,7 +792,6 @@ l:ai-bot-workspace
 l:sigrok-cli
 l:OWallet
 l:qr-code-generator-desktop
-l:Cryptocam_Companion
 l:WatchIt
 l:simplechroot
 l:flightgear-airports
@@ -1067,7 +1067,6 @@ l:Ganache
 l:Leonflix
 l:YUView
 l:Cacher
-l:Glaxnimate
 l:Join_Desktop
 l:Sia-UI
 l:PhreshPlayer
@@ -1157,4 +1156,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
+l:Glaxnimate
 l:Alpine_Client
