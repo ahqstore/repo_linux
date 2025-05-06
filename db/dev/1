@@ -866,7 +866,6 @@ l:Bypass_Cors
 l:x-loc
 l:QDriverStation
 l:CorePad
-l:Cryptocam_Companion
 l:BasiliskII
 l:Tumblr_Downloader_GUI
 l:mdview
@@ -959,6 +958,7 @@ l:P2PDerivatives
 l:CoreStuff
 l:KCalc
 l:Mira
+l:Cryptocam_Companion
 l:Groot
 l:Scraper
 l:Scrite
