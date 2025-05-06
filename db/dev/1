@@ -828,6 +828,7 @@ l:Thorium_Reader
 l:SavvyCAN
 l:stretchly
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:Makagiga
 l:M
 l:photoname
@@ -995,7 +996,6 @@ l:lescovex
 l:VisiCut
 l:ColorGenerator
 l:SerialPort_Assistant
-l:Cryptocam_Companion
 l:QtMips
 l:torrenttools
 l:TachiWeb
