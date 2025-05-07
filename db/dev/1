@@ -1096,6 +1096,7 @@ l:Altitude
 l:Taskizer
 l:Hexinator
 l:GoldenCheetah
+l:Glaxnimate
 l:dukto
 l:Espanso
 l:Around
@@ -1130,6 +1131,7 @@ l:githoard
 l:BitShares
 l:YubiKey_Manager
 l:Infection_Monkey
+l:Cryptocam_Companion
 l:Atomicwallet
 l:qtchan
 l:PostyBirb
@@ -1155,6 +1157,4 @@ l:StockStalk
 l:ipe
 l:LibreOfficeDev
 l:le
-l:Cryptocam_Companion
-l:Glaxnimate
 l:Alpine_Client
