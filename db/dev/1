@@ -1027,6 +1027,7 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
+l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
@@ -1110,7 +1111,6 @@ l:mki3dgame
 l:SmartGit
 l:NEST_Desktop
 l:zeltrez
-l:Cryptocam_Companion
 l:ExifCleaner
 l:Streamon
 l:GitNote
@@ -1156,5 +1156,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
