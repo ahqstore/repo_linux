@@ -958,6 +958,7 @@ l:P2PDerivatives
 l:CoreStuff
 l:KCalc
 l:Mira
+l:Cryptocam_Companion
 l:Groot
 l:Scraper
 l:Scrite
@@ -1000,7 +1001,6 @@ l:torrenttools
 l:TachiWeb
 l:Whalebird
 l:clippy
-l:Cryptocam_Companion
 l:neovim
 l:BlenSor
 l:Record_Compare
