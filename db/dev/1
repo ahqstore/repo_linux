@@ -1081,6 +1081,7 @@ l:gsubs
 l:Mockman
 l:SOIL_EDITOR
 l:OpenRGB
+l:Cryptocam_Companion
 l:Qucs-S
 l:marlin-conf
 l:Fidias_Database_Migration_App
@@ -1130,7 +1131,6 @@ l:githoard
 l:BitShares
 l:YubiKey_Manager
 l:Infection_Monkey
-l:Cryptocam_Companion
 l:Atomicwallet
 l:qtchan
 l:PostyBirb
