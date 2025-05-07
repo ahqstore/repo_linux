@@ -963,6 +963,7 @@ l:Scraper
 l:Scrite
 l:nvtop
 l:Speaky_MiniPlayer
+l:Cryptocam_Companion
 l:MellowPlayer
 l:element
 l:hyper
@@ -1027,7 +1028,6 @@ l:Buckets
 l:DockStation
 l:Mini_Diary
 l:Nitrokey
-l:Cryptocam_Companion
 l:YesPlayMusic
 l:Padloc
 l:Znax
@@ -1156,5 +1156,5 @@ l:Iceworks
 l:Vitomu
 l:LibreOfficeStill
 l:embedded-ide
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
