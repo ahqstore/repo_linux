@@ -1126,6 +1126,7 @@ l:nbrsync
 l:SimSpark
 l:cabal-desktop
 l:sqlitebrowser
+l:Cryptocam_Companion
 l:githoard
 l:BitShares
 l:YubiKey_Manager
@@ -1139,6 +1140,7 @@ l:youtube-music-desktop
 l:SSPlot
 l:FMS_File_Explorer
 l:puush-qt
+l:Glaxnimate
 l:Waterfox_Classic
 l:spm
 l:TurboWarp
@@ -1155,6 +1157,4 @@ l:StockStalk
 l:ipe
 l:LibreOfficeDev
 l:le
-l:Cryptocam_Companion
 l:Alpine_Client
-l:Glaxnimate
