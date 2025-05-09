@@ -886,6 +886,7 @@ l:VNote
 l:sigrok-cli
 l:violetbug
 l:CoreInfo
+l:Glaxnimate
 l:Onenote
 l:GoldenDict
 l:Circle-Z
@@ -1028,6 +1029,7 @@ l:ClownMapEd
 l:XPEViewer
 l:Webitel_Phone
 l:M
+l:Cryptocam_Companion
 l:Hyperspace
 l:Qt_JSON_diff
 l:feedseries
@@ -1139,6 +1141,7 @@ l:youtube-music-desktop
 l:SSPlot
 l:FMS_File_Explorer
 l:puush-qt
+l:Alpine_Client
 l:Waterfox_Classic
 l:spm
 l:TurboWarp
@@ -1155,6 +1158,3 @@ l:StockStalk
 l:ipe
 l:LibreOfficeDev
 l:le
-l:Glaxnimate
-l:Cryptocam_Companion
-l:Alpine_Client
