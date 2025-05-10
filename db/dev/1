@@ -1081,7 +1081,6 @@ l:gsubs
 l:Mockman
 l:SOIL_EDITOR
 l:OpenRGB
-l:Glaxnimate
 l:Qucs-S
 l:marlin-conf
 l:Fidias_Database_Migration_App
@@ -1157,4 +1156,5 @@ l:ipe
 l:LibreOfficeDev
 l:le
 l:Cryptocam_Companion
+l:Glaxnimate
 l:Alpine_Client
