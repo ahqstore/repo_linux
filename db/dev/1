@@ -1126,6 +1126,7 @@ l:nbrsync
 l:SimSpark
 l:cabal-desktop
 l:sqlitebrowser
+l:Glaxnimate
 l:githoard
 l:BitShares
 l:YubiKey_Manager
@@ -1139,7 +1140,6 @@ l:youtube-music-desktop
 l:SSPlot
 l:FMS_File_Explorer
 l:puush-qt
-l:Glaxnimate
 l:Waterfox_Classic
 l:spm
 l:TurboWarp
