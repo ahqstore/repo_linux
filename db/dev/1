@@ -1126,7 +1126,6 @@ l:nbrsync
 l:SimSpark
 l:cabal-desktop
 l:sqlitebrowser
-l:Glaxnimate
 l:githoard
 l:BitShares
 l:YubiKey_Manager
@@ -1156,5 +1155,6 @@ l:StockStalk
 l:ipe
 l:LibreOfficeDev
 l:le
+l:Glaxnimate
 l:Cryptocam_Companion
 l:Alpine_Client
