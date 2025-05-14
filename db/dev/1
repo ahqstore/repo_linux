@@ -820,7 +820,6 @@ l:gerbv
 l:Playbox
 l:OwlPlug
 l:BilibiliVideoDownload
-l:Cryptocam_Companion
 l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
@@ -953,6 +952,7 @@ l:lightning-peach-wallet
 l:Moonlight
 l:tmon
 l:TVALB
+l:Cryptocam_Companion
 l:ElectroCRUD
 l:LPub3D
 l:GL_warp2mp4
@@ -1093,6 +1093,7 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
+l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
@@ -1105,7 +1106,6 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
-l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
