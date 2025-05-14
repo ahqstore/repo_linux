@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -826,6 +825,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -915,7 +915,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Alpine_Client
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -1110,6 +1109,7 @@ l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
 l:QNapi
+l:Alpine_Client
 l:FontBase
 l:Flippy_Qualitative_Testbench
 l:synthv1
