@@ -731,7 +731,6 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
-l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -798,6 +797,7 @@ l:Giada
 l:ClipGrab
 l:Eplee
 l:pyappimage
+l:Cryptocam_Companion
 l:gsubs
 l:MuPDF
 l:NimiTV
@@ -951,6 +951,7 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
