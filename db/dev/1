@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -756,7 +757,6 @@ l:ossia_score
 l:StockStalk
 l:nordvpn-linux
 l:VLC
-l:Cryptocam_Companion
 l:CATcher
 l:qpdf
 l:mybelka
@@ -1105,7 +1105,6 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
-l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
