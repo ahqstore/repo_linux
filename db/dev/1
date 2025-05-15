@@ -824,8 +824,8 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:rmw
 l:Cryptocam_Companion
+l:rmw
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -923,7 +923,6 @@ l:PowerliminalsPlayer
 l:Sugarizer
 l:school-sections
 l:nbrsync
-l:Alpine_Client
 l:Qv2ray
 l:GpgFrontend
 l:T.Viewer
@@ -993,6 +992,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
