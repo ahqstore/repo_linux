@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -822,6 +821,7 @@ l:Playbox
 l:OwlPlug
 l:BilibiliVideoDownload
 l:PhotoQuick
+l:Cryptocam_Companion
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
