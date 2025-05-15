@@ -825,7 +825,6 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
-l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -915,6 +914,7 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
+l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -988,6 +988,7 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
+l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
@@ -1064,7 +1065,6 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
-l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
