@@ -825,6 +825,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -876,7 +877,6 @@ l:Left
 l:cncjs
 l:Voltra
 l:Cerebral-Debugger
-l:Cryptocam_Companion
 l:KeeWeb
 l:AKASHA
 l:pomotroid
@@ -1051,6 +1051,7 @@ l:Subsurface
 l:tT
 l:SeriousSamClassic-VK
 l:Nexus_Wallet
+l:Alpine_Client
 l:RSS-Guard
 l:Open_Markup_Editor
 l:Postman
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
