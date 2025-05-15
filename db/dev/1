@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -780,6 +779,7 @@ l:Subtitle_Composer
 l:ARAnyM
 l:QDriverStation
 l:Waterfox_Fourth_Generation
+l:Cryptocam_Companion
 l:Qortal_UI
 l:sqlitebrowser
 l:hyper
@@ -999,6 +999,7 @@ l:Sengi
 l:SmallBASIC
 l:NCSA_Mosaic
 l:Reactotron
+l:Alpine_Client
 l:PlotJuggler
 l:Niffler
 l:ldview
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
