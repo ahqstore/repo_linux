@@ -809,6 +809,7 @@ l:SAManager
 l:Downline
 l:Agora
 l:Arduino_IDE
+l:Cryptocam_Companion
 l:Joplin
 l:GridcoinResearch
 l:dingtalk
@@ -991,7 +992,6 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
-l:Cryptocam_Companion
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1064,7 +1064,6 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
-l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
