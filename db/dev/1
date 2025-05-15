@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -951,6 +950,7 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Cryptocam_Companion
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1027,6 +1027,7 @@ l:Jan
 l:clownmdemu
 l:Parom.TV
 l:LibreOfficeStill
+l:Alpine_Client
 l:Genesis
 l:Tusk
 l:Taskizer
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
