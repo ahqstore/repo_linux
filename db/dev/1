@@ -809,7 +809,6 @@ l:SAManager
 l:Downline
 l:Agora
 l:Arduino_IDE
-l:Cryptocam_Companion
 l:Joplin
 l:GridcoinResearch
 l:dingtalk
@@ -826,6 +825,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -923,6 +923,7 @@ l:PowerliminalsPlayer
 l:Sugarizer
 l:school-sections
 l:nbrsync
+l:Alpine_Client
 l:Qv2ray
 l:GpgFrontend
 l:T.Viewer
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
