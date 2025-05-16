@@ -825,6 +825,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -835,7 +836,6 @@ l:BetterCrewlink
 l:Steem_Messenger
 l:whu-library-seat
 l:Planes
-l:Cryptocam_Companion
 l:HyperLinq
 l:nRF_Connect
 l:Rats_on_The_Boat
@@ -1018,7 +1018,6 @@ l:ubpm
 l:Elements
 l:Inkscape
 l:Papercraft
-l:Alpine_Client
 l:PDFQuirk
 l:CRG_Data_Tool
 l:Painel-Web
@@ -1072,6 +1071,7 @@ l:MQTT-Explorer
 l:Substrate_IDE
 l:Cool_Retro_Term
 l:Bodhi
+l:Alpine_Client
 l:MCP2210_Configurator
 l:noteshrink-qt
 l:Kate
