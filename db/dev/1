@@ -832,7 +832,6 @@ l:VizGraph
 l:trader
 l:Skycoin
 l:BetterCrewlink
-l:Cryptocam_Companion
 l:Steem_Messenger
 l:whu-library-seat
 l:Planes
@@ -866,6 +865,7 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
+l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -990,6 +990,7 @@ l:dvdisaster
 l:strongbox
 l:ZeGrapher
 l:qr-code-generator-desktop
+l:Alpine_Client
 l:ElectrumRhodium
 l:buttercup
 l:Tagstoo
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
