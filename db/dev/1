@@ -855,6 +855,7 @@ l:hsinstall
 l:Cloud_Browser
 l:MicroPad
 l:wezterm
+l:Cryptocam_Companion
 l:QuickDoc
 l:EmuDeck
 l:CodePilot.ai
@@ -914,7 +915,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -1027,7 +1027,6 @@ l:Jan
 l:clownmdemu
 l:Parom.TV
 l:LibreOfficeStill
-l:Alpine_Client
 l:Genesis
 l:Tusk
 l:Taskizer
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
