@@ -620,7 +620,6 @@ l:ANT_Downloader
 l:ExeQt
 l:Artisan
 l:Firefox_Nightly
-l:Cryptocam_Companion
 l:CorePaint
 l:Bridge
 l:euromilhoes
@@ -751,6 +750,7 @@ l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
 l:Stellarium
+l:Cryptocam_Companion
 l:LampixJS
 l:Wonderwall
 l:ossia_score
