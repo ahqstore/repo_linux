@@ -816,7 +816,6 @@ l:streamcapture2
 l:ClassicImageViewer
 l:smtk2ssrf
 l:QmidiCtl
-l:Cryptocam_Companion
 l:gerbv
 l:Playbox
 l:OwlPlug
@@ -951,6 +950,7 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -958,6 +958,7 @@ l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
 l:WorkFlowy
+l:Cryptocam_Companion
 l:BottleBats
 l:Firefox
 l:Revisionary
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
