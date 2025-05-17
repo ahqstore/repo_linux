@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -840,6 +839,7 @@ l:HyperLinq
 l:nRF_Connect
 l:Rats_on_The_Boat
 l:Mochi
+l:Cryptocam_Companion
 l:LibrePCB
 l:HexoEditor
 l:Advanced_Rest_Client
@@ -992,6 +992,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1097,7 +1098,6 @@ l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
 l:torrenttools
-l:Alpine_Client
 l:Pext
 l:GooboxFileShare
 l:cordlauncher
