@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -784,7 +785,6 @@ l:sqlitebrowser
 l:hyper
 l:scavengers
 l:Znax
-l:Cryptocam_Companion
 l:Lunyr
 l:Yamagi_Quake_II
 l:Viper_Browser
@@ -915,7 +915,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Alpine_Client
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -958,6 +957,7 @@ l:ElectroCRUD
 l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
+l:Alpine_Client
 l:WorkFlowy
 l:BottleBats
 l:Firefox
