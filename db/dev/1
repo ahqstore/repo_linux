@@ -740,7 +740,6 @@ l:NEST_Desktop
 l:Diffuse
 l:windows2usb
 l:dataset-annotator
-l:Cryptocam_Companion
 l:Trezor_Suite
 l:Invoice-Generator
 l:Passky
@@ -866,6 +865,7 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
+l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -988,7 +988,6 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
-l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
