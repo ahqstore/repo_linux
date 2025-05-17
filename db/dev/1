@@ -957,7 +957,6 @@ l:ElectroCRUD
 l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
-l:Alpine_Client
 l:WorkFlowy
 l:BottleBats
 l:Firefox
@@ -989,6 +988,7 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
+l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
