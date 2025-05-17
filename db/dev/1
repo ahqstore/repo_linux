@@ -740,6 +740,7 @@ l:NEST_Desktop
 l:Diffuse
 l:windows2usb
 l:dataset-annotator
+l:Cryptocam_Companion
 l:Trezor_Suite
 l:Invoice-Generator
 l:Passky
@@ -747,7 +748,6 @@ l:MazeSolver
 l:Plex
 l:RefOrg
 l:VirtualBox-KVM
-l:Cryptocam_Companion
 l:Discord
 l:GM-Companion
 l:Stellarium
