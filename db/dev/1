@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -865,7 +866,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1093,7 +1093,6 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
-l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
