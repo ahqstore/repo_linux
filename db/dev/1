@@ -736,7 +736,6 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
-l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -752,6 +751,7 @@ l:Discord
 l:GM-Companion
 l:Stellarium
 l:LampixJS
+l:Cryptocam_Companion
 l:Wonderwall
 l:ossia_score
 l:StockStalk
@@ -965,6 +965,7 @@ l:Patchwork
 l:Lightning
 l:Panini
 l:BunqDesktop
+l:Alpine_Client
 l:qtchan
 l:BaijiMangaViewer
 l:Responsively
@@ -1156,4 +1157,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
