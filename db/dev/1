@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -914,7 +915,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -1097,6 +1097,7 @@ l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
 l:torrenttools
+l:Alpine_Client
 l:Pext
 l:GooboxFileShare
 l:cordlauncher
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
