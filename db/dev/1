@@ -736,6 +736,7 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
+l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -824,7 +825,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -1022,6 +1022,7 @@ l:PDFQuirk
 l:CRG_Data_Tool
 l:Painel-Web
 l:cubing-cmos
+l:Alpine_Client
 l:TeXstudio
 l:Jan
 l:clownmdemu
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
