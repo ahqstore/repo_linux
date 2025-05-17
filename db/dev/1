@@ -820,11 +820,11 @@ l:gerbv
 l:Playbox
 l:OwlPlug
 l:BilibiliVideoDownload
+l:Cryptocam_Companion
 l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -1129,7 +1129,6 @@ l:Pony_Compiler
 l:PacketSender
 l:privacy.sexy
 l:Blender_Config_Manager
-l:Alpine_Client
 l:tnt
 l:DockStation
 l:heb12
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
