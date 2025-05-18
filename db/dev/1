@@ -736,7 +736,6 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
-l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -750,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -1076,7 +1076,6 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
-l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
