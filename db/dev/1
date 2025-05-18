@@ -813,7 +813,6 @@ l:Joplin
 l:GridcoinResearch
 l:dingtalk
 l:streamcapture2
-l:Cryptocam_Companion
 l:ClassicImageViewer
 l:smtk2ssrf
 l:QmidiCtl
@@ -825,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -958,7 +958,6 @@ l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
 l:WorkFlowy
-l:Alpine_Client
 l:BottleBats
 l:Firefox
 l:Revisionary
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
