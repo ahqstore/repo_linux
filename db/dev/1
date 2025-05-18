@@ -736,6 +736,7 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
+l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -749,7 +750,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -992,6 +992,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1150,7 +1151,6 @@ l:OVideo
 l:Pulsar
 l:YUView
 l:SimpleInstaBot
-l:Alpine_Client
 l:youtube-music
 l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
