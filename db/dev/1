@@ -820,7 +820,6 @@ l:gerbv
 l:Playbox
 l:OwlPlug
 l:BilibiliVideoDownload
-l:Cryptocam_Companion
 l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
@@ -866,6 +865,7 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
+l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -979,6 +979,7 @@ l:Tag_Editor
 l:XnViewMP
 l:NoSQLBooster
 l:mandelbulber2
+l:Alpine_Client
 l:ScienceFair
 l:tagspaces
 l:accessimap-lecteur-der
@@ -1156,4 +1157,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
