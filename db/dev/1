@@ -824,8 +824,8 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:rmw
 l:Cryptocam_Companion
+l:rmw
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -1137,7 +1137,6 @@ l:Cromberg
 l:BasiliskII
 l:RPAN_Studio
 l:pb-for-desktop
-l:Alpine_Client
 l:YesPlayMusic
 l:HiDPI-Fixer
 l:SmartGit
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
