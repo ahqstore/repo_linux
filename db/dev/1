@@ -822,6 +822,7 @@ l:OwlPlug
 l:BilibiliVideoDownload
 l:PhotoQuick
 l:Raspirus
+l:Cryptocam_Companion
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
@@ -914,7 +915,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -951,7 +951,6 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
-l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
