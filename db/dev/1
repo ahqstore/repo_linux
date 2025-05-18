@@ -825,7 +825,6 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
-l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -915,6 +914,7 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
+l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -951,6 +951,7 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
