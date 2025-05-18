@@ -731,7 +731,6 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
-l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -772,6 +771,7 @@ l:movie-monad
 l:BloomRPC
 l:Qawl
 l:Frappe_Accounting
+l:Cryptocam_Companion
 l:Cryptomator
 l:AsarUI
 l:ridereceipts
@@ -1036,6 +1036,7 @@ l:wxMaxima
 l:Artifact
 l:LCEdit
 l:INSTEAD
+l:Alpine_Client
 l:Pixsrt
 l:FreeTexturePacker
 l:zsync2
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
