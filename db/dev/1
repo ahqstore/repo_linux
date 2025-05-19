@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -776,7 +777,6 @@ l:AsarUI
 l:ridereceipts
 l:Antares
 l:Subtitle_Composer
-l:Cryptocam_Companion
 l:ARAnyM
 l:QDriverStation
 l:Waterfox_Fourth_Generation
@@ -951,6 +951,7 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
