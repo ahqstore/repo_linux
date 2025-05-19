@@ -747,7 +747,6 @@ l:MazeSolver
 l:Plex
 l:RefOrg
 l:VirtualBox-KVM
-l:Cryptocam_Companion
 l:Discord
 l:GM-Companion
 l:Stellarium
@@ -810,6 +809,7 @@ l:SAManager
 l:Downline
 l:Agora
 l:Arduino_IDE
+l:Cryptocam_Companion
 l:Joplin
 l:GridcoinResearch
 l:dingtalk
@@ -1018,7 +1018,6 @@ l:ubpm
 l:Elements
 l:Inkscape
 l:Papercraft
-l:Alpine_Client
 l:PDFQuirk
 l:CRG_Data_Tool
 l:Painel-Web
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
