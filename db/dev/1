@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -766,7 +767,6 @@ l:githoard
 l:Obsidian
 l:Konjure
 l:SchildiChat
-l:Cryptocam_Companion
 l:LANShare
 l:movie-monad
 l:BloomRPC
@@ -1064,6 +1064,7 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
+l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1148,7 +1149,6 @@ l:flameshot
 l:Paper
 l:OVideo
 l:Pulsar
-l:Alpine_Client
 l:YUView
 l:SimpleInstaBot
 l:youtube-music
