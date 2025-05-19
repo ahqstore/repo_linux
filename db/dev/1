@@ -759,6 +759,7 @@ l:VLC
 l:CATcher
 l:qpdf
 l:mybelka
+l:Cryptocam_Companion
 l:Pullp
 l:Opentrons
 l:Gifcurry
@@ -865,7 +866,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -960,7 +960,6 @@ l:Trinity_Desktop
 l:WorkFlowy
 l:BottleBats
 l:Firefox
-l:Alpine_Client
 l:Revisionary
 l:Patchwork
 l:Lightning
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
