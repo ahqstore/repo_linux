@@ -1118,7 +1118,6 @@ l:SerialPort_Assistant
 l:VidCutter
 l:steam-rom-manager
 l:Deployer
-l:Alpine_Client
 l:erdesigner
 l:SOIL_EDITOR
 l:antimicroX
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
