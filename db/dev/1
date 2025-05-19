@@ -750,7 +750,6 @@ l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
 l:Stellarium
-l:Cryptocam_Companion
 l:LampixJS
 l:Wonderwall
 l:ossia_score
@@ -769,6 +768,7 @@ l:Konjure
 l:SchildiChat
 l:LANShare
 l:movie-monad
+l:Cryptocam_Companion
 l:BloomRPC
 l:Qawl
 l:Frappe_Accounting
@@ -992,6 +992,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
