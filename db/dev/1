@@ -736,7 +736,6 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
-l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -825,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -992,6 +992,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1015,7 +1016,6 @@ l:Plover
 l:LMMS
 l:BrickStore
 l:ubpm
-l:Alpine_Client
 l:Elements
 l:Inkscape
 l:Papercraft
@@ -1140,7 +1140,6 @@ l:RPAN_Studio
 l:pb-for-desktop
 l:YesPlayMusic
 l:HiDPI-Fixer
-l:SmartGit
 l:CorePad
 l:Minetest
 l:DeepTags
