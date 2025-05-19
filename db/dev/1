@@ -736,6 +736,7 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
+l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -770,7 +771,6 @@ l:LANShare
 l:movie-monad
 l:BloomRPC
 l:Qawl
-l:Cryptocam_Companion
 l:Frappe_Accounting
 l:Cryptomator
 l:AsarUI
@@ -958,7 +958,6 @@ l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
 l:WorkFlowy
-l:Alpine_Client
 l:BottleBats
 l:Firefox
 l:Revisionary
@@ -979,6 +978,7 @@ l:LiteIDE
 l:Tag_Editor
 l:XnViewMP
 l:NoSQLBooster
+l:Alpine_Client
 l:mandelbulber2
 l:ScienceFair
 l:tagspaces
