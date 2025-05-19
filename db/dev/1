@@ -710,6 +710,7 @@ l:falcon-sql-client
 l:Streamlink
 l:Endless_Sky
 l:prismlauncher
+l:Cryptocam_Companion
 l:Skrifa
 l:VNote
 l:Poddr
@@ -832,7 +833,6 @@ l:VizGraph
 l:trader
 l:Skycoin
 l:BetterCrewlink
-l:Cryptocam_Companion
 l:Steem_Messenger
 l:whu-library-seat
 l:Planes
@@ -1077,7 +1077,6 @@ l:Kate
 l:Rabix_Composer
 l:Qt_DAB
 l:FF-Password-Exporter
-l:Alpine_Client
 l:FastQt
 l:QLog
 l:MDL
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
