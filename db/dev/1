@@ -731,7 +731,6 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
-l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -840,6 +839,7 @@ l:HyperLinq
 l:nRF_Connect
 l:Rats_on_The_Boat
 l:Mochi
+l:Cryptocam_Companion
 l:LibrePCB
 l:HexoEditor
 l:Advanced_Rest_Client
@@ -1105,6 +1105,7 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
+l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
@@ -1136,7 +1137,6 @@ l:Quick_Clone
 l:Cromberg
 l:BasiliskII
 l:RPAN_Studio
-l:Alpine_Client
 l:pb-for-desktop
 l:YesPlayMusic
 l:HiDPI-Fixer
