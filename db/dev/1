@@ -710,6 +710,7 @@ l:falcon-sql-client
 l:Streamlink
 l:Endless_Sky
 l:prismlauncher
+l:Cryptocam_Companion
 l:Skrifa
 l:VNote
 l:Poddr
@@ -824,7 +825,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -992,7 +992,6 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
-l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1140,6 +1139,7 @@ l:RPAN_Studio
 l:pb-for-desktop
 l:YesPlayMusic
 l:HiDPI-Fixer
+l:SmartGit
 l:CorePad
 l:Minetest
 l:DeepTags
@@ -1155,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
