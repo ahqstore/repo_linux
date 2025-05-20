@@ -750,7 +750,6 @@ l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
 l:Stellarium
-l:Cryptocam_Companion
 l:LampixJS
 l:Wonderwall
 l:ossia_score
@@ -951,6 +950,7 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Cryptocam_Companion
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1076,7 +1076,6 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
-l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
