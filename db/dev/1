@@ -766,7 +766,6 @@ l:githoard
 l:Obsidian
 l:Konjure
 l:SchildiChat
-l:Cryptocam_Companion
 l:LANShare
 l:movie-monad
 l:BloomRPC
@@ -826,6 +825,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -1042,6 +1042,7 @@ l:zsync2
 l:Friture
 l:CoreStuff
 l:OVALE
+l:Alpine_Client
 l:LibreSprite
 l:Paletti
 l:Tropy
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
