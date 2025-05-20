@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -825,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -1027,7 +1027,6 @@ l:Jan
 l:clownmdemu
 l:Parom.TV
 l:LibreOfficeStill
-l:Alpine_Client
 l:Genesis
 l:Tusk
 l:Taskizer
@@ -1140,6 +1139,7 @@ l:RPAN_Studio
 l:pb-for-desktop
 l:YesPlayMusic
 l:HiDPI-Fixer
+l:Alpine_Client
 l:SmartGit
 l:CorePad
 l:Minetest
