@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -824,7 +825,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -1076,6 +1076,7 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
+l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1139,7 +1140,6 @@ l:RPAN_Studio
 l:pb-for-desktop
 l:YesPlayMusic
 l:HiDPI-Fixer
-l:Alpine_Client
 l:SmartGit
 l:CorePad
 l:Minetest
