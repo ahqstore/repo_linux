@@ -791,6 +791,7 @@ l:Symphonium
 l:WatchFlower
 l:OpenBlok
 l:Chobby
+l:Cryptocam_Companion
 l:Wrapbox
 l:MagicFountain
 l:Giada
@@ -865,7 +866,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1095,6 +1095,7 @@ l:Cscrypto
 l:vCloudcam
 l:Quixel_Bridge
 l:elzabrowser
+l:Alpine_Client
 l:SciTECO
 l:torrenttools
 l:Pext
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
