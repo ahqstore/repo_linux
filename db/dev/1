@@ -791,7 +791,6 @@ l:Symphonium
 l:WatchFlower
 l:OpenBlok
 l:Chobby
-l:Cryptocam_Companion
 l:Wrapbox
 l:MagicFountain
 l:Giada
@@ -825,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -1095,7 +1095,6 @@ l:Cscrypto
 l:vCloudcam
 l:Quixel_Bridge
 l:elzabrowser
-l:Alpine_Client
 l:SciTECO
 l:torrenttools
 l:Pext
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
