@@ -730,6 +730,7 @@ l:DeadGame-2048
 l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
+l:Cryptocam_Companion
 l:nfctools
 l:FranceTV
 l:Qucs-S
@@ -817,7 +818,6 @@ l:ClassicImageViewer
 l:smtk2ssrf
 l:QmidiCtl
 l:gerbv
-l:Cryptocam_Companion
 l:Playbox
 l:OwlPlug
 l:BilibiliVideoDownload
@@ -1108,6 +1108,7 @@ l:CoreHunt
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
+l:Alpine_Client
 l:QNapi
 l:FontBase
 l:Flippy_Qualitative_Testbench
@@ -1156,4 +1157,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
