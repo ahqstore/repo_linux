@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -941,7 +942,6 @@ l:TurboWarp
 l:bioanimation
 l:SimDSP
 l:Gemalaya
-l:Cryptocam_Companion
 l:ngrev
 l:x-loc
 l:appimagetool
