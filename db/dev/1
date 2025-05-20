@@ -745,6 +745,7 @@ l:Invoice-Generator
 l:Passky
 l:MazeSolver
 l:Plex
+l:Cryptocam_Companion
 l:RefOrg
 l:VirtualBox-KVM
 l:Discord
@@ -825,7 +826,6 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
-l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -938,7 +938,6 @@ l:Protracker
 l:Sige_Lite
 l:GrinPlusPlus
 l:NixNote
-l:Alpine_Client
 l:TurboWarp
 l:bioanimation
 l:SimDSP
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
