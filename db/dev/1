@@ -795,7 +795,6 @@ l:Wrapbox
 l:MagicFountain
 l:Giada
 l:ClipGrab
-l:Cryptocam_Companion
 l:Eplee
 l:pyappimage
 l:gsubs
@@ -866,6 +865,7 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
+l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1064,6 +1064,7 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
+l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
