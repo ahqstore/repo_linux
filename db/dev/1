@@ -785,6 +785,7 @@ l:hyper
 l:scavengers
 l:Znax
 l:Lunyr
+l:Cryptocam_Companion
 l:Yamagi_Quake_II
 l:Viper_Browser
 l:Symphonium
@@ -865,7 +866,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1064,7 +1064,6 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
-l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1094,6 +1093,7 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
+l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
