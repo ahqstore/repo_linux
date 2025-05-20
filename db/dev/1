@@ -771,7 +771,6 @@ l:movie-monad
 l:BloomRPC
 l:Qawl
 l:Frappe_Accounting
-l:Cryptocam_Companion
 l:Cryptomator
 l:AsarUI
 l:ridereceipts
@@ -796,6 +795,7 @@ l:Wrapbox
 l:MagicFountain
 l:Giada
 l:ClipGrab
+l:Cryptocam_Companion
 l:Eplee
 l:pyappimage
 l:gsubs
@@ -1155,5 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
