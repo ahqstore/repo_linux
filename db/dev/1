@@ -736,7 +736,6 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
-l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -846,6 +845,7 @@ l:Advanced_Rest_Client
 l:Upscayl
 l:stretchly
 l:Memento
+l:Cryptocam_Companion
 l:Zoom
 l:embedded-ide
 l:Slippi
@@ -963,7 +963,6 @@ l:Firefox
 l:Revisionary
 l:Patchwork
 l:Lightning
-l:Alpine_Client
 l:Panini
 l:BunqDesktop
 l:qtchan
@@ -1108,6 +1107,7 @@ l:Speaky_MiniPlayer
 l:CoreHunt
 l:Drawpile-Server
 l:evoplex
+l:Alpine_Client
 l:huwinterpreter
 l:QNapi
 l:FontBase
