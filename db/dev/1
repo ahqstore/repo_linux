@@ -736,6 +736,7 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
+l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -854,7 +855,6 @@ l:OCVvid2fulldome
 l:hsinstall
 l:Cloud_Browser
 l:MicroPad
-l:Cryptocam_Companion
 l:wezterm
 l:QuickDoc
 l:EmuDeck
@@ -963,6 +963,7 @@ l:Firefox
 l:Revisionary
 l:Patchwork
 l:Lightning
+l:Alpine_Client
 l:Panini
 l:BunqDesktop
 l:qtchan
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
