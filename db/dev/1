@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -839,7 +840,6 @@ l:HyperLinq
 l:nRF_Connect
 l:Rats_on_The_Boat
 l:Mochi
-l:Cryptocam_Companion
 l:LibrePCB
 l:HexoEditor
 l:Advanced_Rest_Client
