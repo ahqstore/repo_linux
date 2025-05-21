@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -788,6 +787,7 @@ l:Znax
 l:Lunyr
 l:Yamagi_Quake_II
 l:Viper_Browser
+l:Cryptocam_Companion
 l:Symphonium
 l:WatchFlower
 l:OpenBlok
@@ -977,6 +977,7 @@ l:BrainWaves
 l:LiteIDE
 l:Tag_Editor
 l:XnViewMP
+l:Alpine_Client
 l:NoSQLBooster
 l:mandelbulber2
 l:ScienceFair
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
