@@ -960,7 +960,6 @@ l:Trinity_Desktop
 l:WorkFlowy
 l:BottleBats
 l:Firefox
-l:Alpine_Client
 l:Revisionary
 l:Patchwork
 l:Lightning
@@ -984,6 +983,7 @@ l:ScienceFair
 l:tagspaces
 l:accessimap-lecteur-der
 l:Local_Browser
+l:Alpine_Client
 l:Translatium
 l:QOwnNotes
 l:Spectrum
