@@ -824,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -979,7 +980,6 @@ l:XnViewMP
 l:NoSQLBooster
 l:mandelbulber2
 l:ScienceFair
-l:Cryptocam_Companion
 l:tagspaces
 l:accessimap-lecteur-der
 l:Local_Browser
@@ -1086,6 +1086,7 @@ l:Bypass_Cors
 l:qikQR
 l:JReleaser
 l:LibreOfficeDev
+l:Alpine_Client
 l:electron-xiami
 l:DeDop-studio
 l:Meshmill
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
