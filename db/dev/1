@@ -764,7 +764,6 @@ l:Opentrons
 l:Gifcurry
 l:githoard
 l:Obsidian
-l:Cryptocam_Companion
 l:Konjure
 l:SchildiChat
 l:LANShare
@@ -825,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
