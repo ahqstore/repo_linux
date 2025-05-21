@@ -731,7 +731,6 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
-l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -749,6 +748,7 @@ l:Plex
 l:RefOrg
 l:VirtualBox-KVM
 l:Discord
+l:Cryptocam_Companion
 l:GM-Companion
 l:Stellarium
 l:LampixJS
@@ -1155,5 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
