@@ -620,6 +620,7 @@ l:ANT_Downloader
 l:ExeQt
 l:Artisan
 l:Firefox_Nightly
+l:Cryptocam_Companion
 l:CorePaint
 l:Bridge
 l:euromilhoes
@@ -824,7 +825,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -1148,7 +1148,6 @@ l:flameshot
 l:Paper
 l:OVideo
 l:Pulsar
-l:Alpine_Client
 l:YUView
 l:SimpleInstaBot
 l:youtube-music
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
