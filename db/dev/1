@@ -807,7 +807,6 @@ l:SigDigger
 l:blubVolley
 l:SAManager
 l:Downline
-l:Cryptocam_Companion
 l:Agora
 l:Arduino_IDE
 l:Joplin
@@ -881,6 +880,7 @@ l:KeeWeb
 l:AKASHA
 l:pomotroid
 l:Cliniface
+l:Cryptocam_Companion
 l:AtCore
 l:Circle-Z
 l:PhotoFlow
@@ -992,6 +992,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1076,7 +1077,6 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
-l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
