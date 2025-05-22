@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -893,7 +894,6 @@ l:DICOMautomaton
 l:photoname
 l:media-dupes
 l:Dwyco_Phoo
-l:Cryptocam_Companion
 l:pingviewer
 l:MLV-App
 l:ThermusQt
@@ -1026,7 +1026,6 @@ l:TeXstudio
 l:Jan
 l:clownmdemu
 l:Parom.TV
-l:Alpine_Client
 l:LibreOfficeStill
 l:Genesis
 l:Tusk
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
