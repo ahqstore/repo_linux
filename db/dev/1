@@ -893,6 +893,7 @@ l:DICOMautomaton
 l:photoname
 l:media-dupes
 l:Dwyco_Phoo
+l:Cryptocam_Companion
 l:pingviewer
 l:MLV-App
 l:ThermusQt
@@ -914,7 +915,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -1026,6 +1026,7 @@ l:TeXstudio
 l:Jan
 l:clownmdemu
 l:Parom.TV
+l:Alpine_Client
 l:LibreOfficeStill
 l:Genesis
 l:Tusk
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
