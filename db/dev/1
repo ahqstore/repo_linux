@@ -807,6 +807,7 @@ l:SigDigger
 l:blubVolley
 l:SAManager
 l:Downline
+l:Cryptocam_Companion
 l:Agora
 l:Arduino_IDE
 l:Joplin
@@ -914,7 +915,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -1076,6 +1076,7 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
+l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
