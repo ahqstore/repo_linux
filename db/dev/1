@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -880,7 +881,6 @@ l:KeeWeb
 l:AKASHA
 l:pomotroid
 l:Cliniface
-l:Cryptocam_Companion
 l:AtCore
 l:Circle-Z
 l:PhotoFlow
@@ -992,7 +992,6 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
-l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1118,6 +1117,7 @@ l:Shotcut
 l:SerialPort_Assistant
 l:VidCutter
 l:steam-rom-manager
+l:Alpine_Client
 l:Deployer
 l:erdesigner
 l:SOIL_EDITOR
