@@ -620,7 +620,6 @@ l:ANT_Downloader
 l:ExeQt
 l:Artisan
 l:Firefox_Nightly
-l:Cryptocam_Companion
 l:CorePaint
 l:Bridge
 l:euromilhoes
@@ -866,6 +865,7 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
+l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1025,6 +1025,7 @@ l:cubing-cmos
 l:TeXstudio
 l:Jan
 l:clownmdemu
+l:Alpine_Client
 l:Parom.TV
 l:LibreOfficeStill
 l:Genesis
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
