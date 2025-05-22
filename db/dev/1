@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -992,6 +991,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Cryptocam_Companion
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1108,6 +1108,7 @@ l:CoreHunt
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
+l:Alpine_Client
 l:QNapi
 l:FontBase
 l:Flippy_Qualitative_Testbench
@@ -1156,4 +1157,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
