@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -956,6 +957,7 @@ l:ElectroCRUD
 l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
+l:Alpine_Client
 l:WorkFlowy
 l:BottleBats
 l:Firefox
@@ -1154,6 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Cryptocam_Companion
 l:Glaxnimate
-l:Alpine_Client
