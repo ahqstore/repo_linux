@@ -620,7 +620,6 @@ l:ANT_Downloader
 l:ExeQt
 l:Artisan
 l:Firefox_Nightly
-l:Cryptocam_Companion
 l:CorePaint
 l:Bridge
 l:euromilhoes
@@ -732,6 +731,7 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
+l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -1064,6 +1064,7 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
+l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1156,4 +1157,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
