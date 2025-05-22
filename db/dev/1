@@ -914,7 +914,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -947,6 +946,7 @@ l:x-loc
 l:appimagetool
 l:Mini_Diary
 l:dashy-app
+l:Cryptocam_Companion
 l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
@@ -1117,6 +1117,7 @@ l:Shotcut
 l:SerialPort_Assistant
 l:VidCutter
 l:steam-rom-manager
+l:Alpine_Client
 l:Deployer
 l:erdesigner
 l:SOIL_EDITOR
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
