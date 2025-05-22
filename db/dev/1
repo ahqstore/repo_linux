@@ -710,7 +710,6 @@ l:falcon-sql-client
 l:Streamlink
 l:Endless_Sky
 l:prismlauncher
-l:Cryptocam_Companion
 l:Skrifa
 l:VNote
 l:Poddr
@@ -821,6 +820,7 @@ l:gerbv
 l:Playbox
 l:OwlPlug
 l:BilibiliVideoDownload
+l:Cryptocam_Companion
 l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
@@ -1131,7 +1131,6 @@ l:privacy.sexy
 l:Blender_Config_Manager
 l:tnt
 l:DockStation
-l:Alpine_Client
 l:heb12
 l:Quick_Clone
 l:Cromberg
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
