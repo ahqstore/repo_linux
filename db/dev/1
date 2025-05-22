@@ -736,6 +736,7 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
+l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -991,7 +992,6 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
-l:Cryptocam_Companion
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1105,10 +1105,10 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
+l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
-l:Alpine_Client
 l:QNapi
 l:FontBase
 l:Flippy_Qualitative_Testbench
