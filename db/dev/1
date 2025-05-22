@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -786,6 +785,7 @@ l:hyper
 l:scavengers
 l:Znax
 l:Lunyr
+l:Cryptocam_Companion
 l:Yamagi_Quake_II
 l:Viper_Browser
 l:Symphonium
