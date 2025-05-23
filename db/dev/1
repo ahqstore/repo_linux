@@ -824,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -959,7 +960,6 @@ l:Trinity_Desktop
 l:WorkFlowy
 l:BottleBats
 l:Firefox
-l:Cryptocam_Companion
 l:Revisionary
 l:Patchwork
 l:Lightning
@@ -1076,7 +1076,6 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
-l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
