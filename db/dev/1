@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -865,6 +864,7 @@ l:ChainX_Signer
 l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Syncthing_Tray
 l:langly
 l:Zenkit
