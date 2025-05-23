@@ -779,6 +779,7 @@ l:Subtitle_Composer
 l:ARAnyM
 l:QDriverStation
 l:Waterfox_Fourth_Generation
+l:Cryptocam_Companion
 l:Qortal_UI
 l:sqlitebrowser
 l:hyper
@@ -824,7 +825,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -1155,5 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
