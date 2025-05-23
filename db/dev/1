@@ -749,7 +749,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -782,6 +781,7 @@ l:QDriverStation
 l:Waterfox_Fourth_Generation
 l:Qortal_UI
 l:sqlitebrowser
+l:Cryptocam_Companion
 l:hyper
 l:scavengers
 l:Znax
@@ -992,6 +992,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1034,7 +1035,6 @@ l:SUMOCO
 l:twetter
 l:wxMaxima
 l:Artifact
-l:Alpine_Client
 l:LCEdit
 l:INSTEAD
 l:Pixsrt
