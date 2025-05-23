@@ -781,7 +781,6 @@ l:QDriverStation
 l:Waterfox_Fourth_Generation
 l:Qortal_UI
 l:sqlitebrowser
-l:Cryptocam_Companion
 l:hyper
 l:scavengers
 l:Znax
@@ -960,6 +959,7 @@ l:Trinity_Desktop
 l:WorkFlowy
 l:BottleBats
 l:Firefox
+l:Cryptocam_Companion
 l:Revisionary
 l:Patchwork
 l:Lightning
@@ -992,7 +992,6 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
-l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1077,6 +1076,7 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
+l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
