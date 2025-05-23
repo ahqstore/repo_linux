@@ -750,7 +750,6 @@ l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
 l:Stellarium
-l:Cryptocam_Companion
 l:LampixJS
 l:Wonderwall
 l:ossia_score
@@ -786,6 +785,7 @@ l:hyper
 l:scavengers
 l:Znax
 l:Lunyr
+l:Cryptocam_Companion
 l:Yamagi_Quake_II
 l:Viper_Browser
 l:Symphonium
@@ -992,6 +992,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1150,7 +1151,6 @@ l:OVideo
 l:Pulsar
 l:YUView
 l:SimpleInstaBot
-l:Alpine_Client
 l:youtube-music
 l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
