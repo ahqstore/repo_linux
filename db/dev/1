@@ -776,6 +776,7 @@ l:AsarUI
 l:ridereceipts
 l:Antares
 l:Subtitle_Composer
+l:Cryptocam_Companion
 l:ARAnyM
 l:QDriverStation
 l:Waterfox_Fourth_Generation
@@ -815,7 +816,6 @@ l:dingtalk
 l:streamcapture2
 l:ClassicImageViewer
 l:smtk2ssrf
-l:Cryptocam_Companion
 l:QmidiCtl
 l:gerbv
 l:Playbox
@@ -1076,7 +1076,6 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
-l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
