@@ -825,6 +825,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -933,7 +934,6 @@ l:feebas
 l:SynfigStudio
 l:UniShellect
 l:Bitwarden_Connector
-l:Cryptocam_Companion
 l:Protracker
 l:Sige_Lite
 l:GrinPlusPlus
@@ -1105,6 +1105,7 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
+l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
@@ -1149,7 +1150,6 @@ l:Paper
 l:OVideo
 l:Pulsar
 l:YUView
-l:Alpine_Client
 l:SimpleInstaBot
 l:youtube-music
 l:sipgate_Softphone
