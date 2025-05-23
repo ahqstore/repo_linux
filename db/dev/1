@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -888,7 +889,6 @@ l:Singlebox
 l:SonicLineup
 l:fre:ac
 l:NepaliUnicode
-l:Cryptocam_Companion
 l:Geph
 l:DICOMautomaton
 l:photoname
@@ -951,7 +951,6 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
-l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1152,6 +1151,7 @@ l:Pulsar
 l:YUView
 l:SimpleInstaBot
 l:youtube-music
+l:Alpine_Client
 l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
