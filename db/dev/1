@@ -736,7 +736,6 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
-l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -915,6 +914,7 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
+l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -993,7 +993,6 @@ l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
 l:Tagstoo
-l:Alpine_Client
 l:ksnip
 l:NMEASimulator
 l:Sengi
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
