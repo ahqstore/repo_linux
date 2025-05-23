@@ -784,6 +784,7 @@ l:sqlitebrowser
 l:hyper
 l:scavengers
 l:Znax
+l:Cryptocam_Companion
 l:Lunyr
 l:Yamagi_Quake_II
 l:Viper_Browser
@@ -865,7 +866,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -988,6 +988,7 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
+l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
@@ -1093,7 +1094,6 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
-l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
