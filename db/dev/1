@@ -742,7 +742,6 @@ l:windows2usb
 l:dataset-annotator
 l:Trezor_Suite
 l:Invoice-Generator
-l:Cryptocam_Companion
 l:Passky
 l:MazeSolver
 l:Plex
@@ -825,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -951,7 +951,6 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
-l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
