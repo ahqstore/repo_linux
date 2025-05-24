@@ -749,6 +749,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -808,7 +809,6 @@ l:blubVolley
 l:SAManager
 l:Downline
 l:Agora
-l:Cryptocam_Companion
 l:Arduino_IDE
 l:Joplin
 l:GridcoinResearch
@@ -1155,5 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
