@@ -824,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -839,7 +840,6 @@ l:HyperLinq
 l:nRF_Connect
 l:Rats_on_The_Boat
 l:Mochi
-l:Cryptocam_Companion
 l:LibrePCB
 l:HexoEditor
 l:Advanced_Rest_Client
@@ -1105,7 +1105,6 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
-l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
