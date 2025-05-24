@@ -824,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -845,7 +846,6 @@ l:Advanced_Rest_Client
 l:Upscayl
 l:stretchly
 l:Memento
-l:Cryptocam_Companion
 l:Zoom
 l:embedded-ide
 l:Slippi
@@ -957,7 +957,6 @@ l:ElectroCRUD
 l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
-l:Alpine_Client
 l:WorkFlowy
 l:BottleBats
 l:Firefox
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
