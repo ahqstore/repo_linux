@@ -808,6 +808,7 @@ l:blubVolley
 l:SAManager
 l:Downline
 l:Agora
+l:Cryptocam_Companion
 l:Arduino_IDE
 l:Joplin
 l:GridcoinResearch
@@ -899,7 +900,6 @@ l:ThermusQt
 l:WebDesktop
 l:CustomRPC
 l:Pennywise
-l:Cryptocam_Companion
 l:Paw-Search-Bar-Streaming
 l:paferashare
 l:City_Hub
@@ -1105,7 +1105,6 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
-l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
