@@ -809,6 +809,7 @@ l:SAManager
 l:Downline
 l:Agora
 l:Arduino_IDE
+l:Cryptocam_Companion
 l:Joplin
 l:GridcoinResearch
 l:dingtalk
@@ -824,7 +825,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -951,6 +951,7 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1102,7 +1103,6 @@ l:GooboxFileShare
 l:cordlauncher
 l:Siderus_Orion
 l:bottlenose
-l:Alpine_Client
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
