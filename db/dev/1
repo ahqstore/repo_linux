@@ -731,7 +731,6 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
-l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -826,6 +825,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -915,7 +915,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Alpine_Client
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
