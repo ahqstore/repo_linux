@@ -824,7 +824,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -866,6 +865,7 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
+l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1064,7 +1064,6 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
-l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1094,6 +1093,7 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
+l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
