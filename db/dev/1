@@ -736,7 +736,6 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
-l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -971,6 +970,7 @@ l:Responsively
 l:RemNote
 l:mockoon
 l:Stunt_Car_Remake
+l:Cryptocam_Companion
 l:OpenAudible
 l:Webamp
 l:BrainWaves
@@ -1095,6 +1095,7 @@ l:Cscrypto
 l:vCloudcam
 l:Quixel_Bridge
 l:elzabrowser
+l:Alpine_Client
 l:SciTECO
 l:torrenttools
 l:Pext
@@ -1156,4 +1157,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
