@@ -736,6 +736,7 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
+l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -840,7 +841,6 @@ l:nRF_Connect
 l:Rats_on_The_Boat
 l:Mochi
 l:LibrePCB
-l:Cryptocam_Companion
 l:HexoEditor
 l:Advanced_Rest_Client
 l:Upscayl
@@ -1096,7 +1096,6 @@ l:vCloudcam
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
-l:Alpine_Client
 l:torrenttools
 l:Pext
 l:GooboxFileShare
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
