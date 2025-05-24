@@ -824,8 +824,8 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -999,7 +999,6 @@ l:Sengi
 l:SmallBASIC
 l:NCSA_Mosaic
 l:Reactotron
-l:Alpine_Client
 l:PlotJuggler
 l:Niffler
 l:ldview
@@ -1156,4 +1155,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
