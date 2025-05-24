@@ -776,7 +776,6 @@ l:AsarUI
 l:ridereceipts
 l:Antares
 l:Subtitle_Composer
-l:Cryptocam_Companion
 l:ARAnyM
 l:QDriverStation
 l:Waterfox_Fourth_Generation
@@ -866,6 +865,7 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
+l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -988,7 +988,6 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
-l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
@@ -1149,6 +1148,7 @@ l:flameshot
 l:Paper
 l:OVideo
 l:Pulsar
+l:Alpine_Client
 l:YUView
 l:SimpleInstaBot
 l:youtube-music
