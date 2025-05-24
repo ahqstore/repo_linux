@@ -731,6 +731,7 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
+l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -749,7 +750,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -915,6 +915,7 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
+l:Alpine_Client
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -958,7 +959,6 @@ l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
 l:WorkFlowy
-l:Alpine_Client
 l:BottleBats
 l:Firefox
 l:Revisionary
