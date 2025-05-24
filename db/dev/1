@@ -776,6 +776,7 @@ l:AsarUI
 l:ridereceipts
 l:Antares
 l:Subtitle_Composer
+l:Cryptocam_Companion
 l:ARAnyM
 l:QDriverStation
 l:Waterfox_Fourth_Generation
@@ -825,7 +826,6 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
-l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -988,6 +988,7 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
+l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
@@ -1150,7 +1151,6 @@ l:OVideo
 l:Pulsar
 l:YUView
 l:SimpleInstaBot
-l:Alpine_Client
 l:youtube-music
 l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
