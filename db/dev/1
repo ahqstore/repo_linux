@@ -840,6 +840,7 @@ l:nRF_Connect
 l:Rats_on_The_Boat
 l:Mochi
 l:LibrePCB
+l:Cryptocam_Companion
 l:HexoEditor
 l:Advanced_Rest_Client
 l:Upscayl
@@ -865,7 +866,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1093,10 +1093,10 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
-l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
+l:Alpine_Client
 l:torrenttools
 l:Pext
 l:GooboxFileShare
