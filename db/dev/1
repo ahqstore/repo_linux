@@ -812,6 +812,7 @@ l:Arduino_IDE
 l:Joplin
 l:GridcoinResearch
 l:dingtalk
+l:Cryptocam_Companion
 l:streamcapture2
 l:ClassicImageViewer
 l:smtk2ssrf
@@ -865,7 +866,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1040,6 +1040,7 @@ l:Pixsrt
 l:FreeTexturePacker
 l:zsync2
 l:Friture
+l:Alpine_Client
 l:CoreStuff
 l:OVALE
 l:LibreSprite
@@ -1093,7 +1094,6 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
-l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
