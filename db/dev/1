@@ -825,7 +825,6 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
-l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -834,6 +833,7 @@ l:trader
 l:Skycoin
 l:BetterCrewlink
 l:Steem_Messenger
+l:Cryptocam_Companion
 l:whu-library-seat
 l:Planes
 l:HyperLinq
@@ -1148,6 +1148,7 @@ l:flameshot
 l:Paper
 l:OVideo
 l:Pulsar
+l:Alpine_Client
 l:YUView
 l:SimpleInstaBot
 l:youtube-music
@@ -1156,4 +1157,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
