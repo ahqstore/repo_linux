@@ -742,6 +742,7 @@ l:Diffuse
 l:windows2usb
 l:dataset-annotator
 l:Trezor_Suite
+l:Cryptocam_Companion
 l:Invoice-Generator
 l:Passky
 l:MazeSolver
@@ -842,7 +843,6 @@ l:Rats_on_The_Boat
 l:Mochi
 l:LibrePCB
 l:HexoEditor
-l:Cryptocam_Companion
 l:Advanced_Rest_Client
 l:Upscayl
 l:stretchly
@@ -1077,7 +1077,6 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
-l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1095,6 +1094,7 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
+l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
