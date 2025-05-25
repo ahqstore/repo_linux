@@ -787,7 +787,6 @@ l:scavengers
 l:Znax
 l:Lunyr
 l:Yamagi_Quake_II
-l:Cryptocam_Companion
 l:Viper_Browser
 l:Symphonium
 l:WatchFlower
@@ -916,6 +915,7 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
+l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -1094,6 +1094,7 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
+l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
@@ -1130,7 +1131,6 @@ l:Pony_Compiler
 l:PacketSender
 l:privacy.sexy
 l:Blender_Config_Manager
-l:Alpine_Client
 l:tnt
 l:DockStation
 l:heb12
