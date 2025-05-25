@@ -801,7 +801,6 @@ l:gsubs
 l:MuPDF
 l:NimiTV
 l:MeshLab
-l:Cryptocam_Companion
 l:CPU-X
 l:QHot
 l:SigDigger
@@ -825,6 +824,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -988,7 +988,6 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
-l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
@@ -1107,6 +1106,7 @@ l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
 l:Drawpile-Server
+l:Alpine_Client
 l:evoplex
 l:huwinterpreter
 l:QNapi
