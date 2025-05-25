@@ -620,6 +620,7 @@ l:ANT_Downloader
 l:ExeQt
 l:Artisan
 l:Firefox_Nightly
+l:Cryptocam_Companion
 l:CorePaint
 l:Bridge
 l:euromilhoes
@@ -865,7 +866,7 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
+l:Alpine_Client
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -992,7 +993,6 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
-l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
