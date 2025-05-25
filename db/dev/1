@@ -731,6 +731,7 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
+l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -865,7 +866,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -992,7 +992,6 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
-l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1065,6 +1064,7 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
+l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
