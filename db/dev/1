@@ -771,7 +771,6 @@ l:LANShare
 l:movie-monad
 l:BloomRPC
 l:Qawl
-l:Cryptocam_Companion
 l:Frappe_Accounting
 l:Cryptomator
 l:AsarUI
@@ -1150,7 +1149,6 @@ l:Paper
 l:OVideo
 l:Pulsar
 l:YUView
-l:Alpine_Client
 l:SimpleInstaBot
 l:youtube-music
 l:sipgate_Softphone
@@ -1158,3 +1156,5 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
+l:Cryptocam_Companion
