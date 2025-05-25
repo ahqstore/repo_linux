@@ -750,6 +750,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -825,7 +826,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -959,6 +959,7 @@ l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
 l:WorkFlowy
+l:Alpine_Client
 l:BottleBats
 l:Firefox
 l:Revisionary
@@ -993,7 +994,6 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
-l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
