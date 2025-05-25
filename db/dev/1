@@ -825,6 +825,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -893,7 +894,6 @@ l:DICOMautomaton
 l:photoname
 l:media-dupes
 l:Dwyco_Phoo
-l:Cryptocam_Companion
 l:pingviewer
 l:MLV-App
 l:ThermusQt
@@ -1076,7 +1076,6 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
-l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1157,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
