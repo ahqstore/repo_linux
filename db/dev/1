@@ -801,6 +801,7 @@ l:gsubs
 l:MuPDF
 l:NimiTV
 l:MeshLab
+l:Cryptocam_Companion
 l:CPU-X
 l:QHot
 l:SigDigger
@@ -987,6 +988,7 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
+l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
@@ -1075,7 +1077,6 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
-l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Cryptocam_Companion
 l:Glaxnimate
