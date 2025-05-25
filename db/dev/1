@@ -756,7 +756,6 @@ l:ossia_score
 l:StockStalk
 l:nordvpn-linux
 l:VLC
-l:Cryptocam_Companion
 l:CATcher
 l:qpdf
 l:mybelka
@@ -894,6 +893,7 @@ l:DICOMautomaton
 l:photoname
 l:media-dupes
 l:Dwyco_Phoo
+l:Cryptocam_Companion
 l:pingviewer
 l:MLV-App
 l:ThermusQt
@@ -1076,6 +1076,7 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
+l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1155,5 +1156,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
