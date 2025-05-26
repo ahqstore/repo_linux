@@ -826,6 +826,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -968,7 +969,6 @@ l:BunqDesktop
 l:qtchan
 l:BaijiMangaViewer
 l:Responsively
-l:Cryptocam_Companion
 l:RemNote
 l:mockoon
 l:Stunt_Car_Remake
@@ -1075,7 +1075,6 @@ l:Bodhi
 l:MCP2210_Configurator
 l:noteshrink-qt
 l:Kate
-l:Alpine_Client
 l:Rabix_Composer
 l:Qt_DAB
 l:FF-Password-Exporter
@@ -1158,3 +1157,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
