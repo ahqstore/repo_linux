@@ -750,7 +750,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -822,6 +821,7 @@ l:gerbv
 l:Playbox
 l:OwlPlug
 l:BilibiliVideoDownload
+l:Cryptocam_Companion
 l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
@@ -1046,6 +1046,7 @@ l:OVALE
 l:LibreSprite
 l:Paletti
 l:Tropy
+l:Alpine_Client
 l:jumpfm
 l:westeroscraftlauncher
 l:Subsurface
@@ -1106,7 +1107,6 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
-l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
