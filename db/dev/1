@@ -772,6 +772,7 @@ l:movie-monad
 l:BloomRPC
 l:Qawl
 l:Frappe_Accounting
+l:Cryptocam_Companion
 l:Cryptomator
 l:AsarUI
 l:ridereceipts
@@ -826,7 +827,6 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
-l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -961,7 +961,6 @@ l:Trinity_Desktop
 l:WorkFlowy
 l:BottleBats
 l:Firefox
-l:Alpine_Client
 l:Revisionary
 l:Patchwork
 l:Lightning
@@ -1082,6 +1081,7 @@ l:FF-Password-Exporter
 l:FastQt
 l:QLog
 l:MDL
+l:Alpine_Client
 l:XPEViewer
 l:Thinktool_Desktop
 l:Bypass_Cors
