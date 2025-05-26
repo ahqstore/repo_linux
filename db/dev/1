@@ -750,6 +750,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -771,7 +772,6 @@ l:LANShare
 l:movie-monad
 l:BloomRPC
 l:Qawl
-l:Cryptocam_Companion
 l:Frappe_Accounting
 l:Cryptomator
 l:AsarUI
@@ -1106,6 +1106,7 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
+l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
@@ -1149,7 +1150,6 @@ l:flameshot
 l:Paper
 l:OVideo
 l:Pulsar
-l:Alpine_Client
 l:YUView
 l:SimpleInstaBot
 l:youtube-music
