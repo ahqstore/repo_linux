@@ -697,6 +697,7 @@ l:Psi+
 l:FastTrack
 l:tc
 l:halium-tool
+l:RetroArch
 l:Bootstrap_Studio
 l:electron-wechat
 l:Buckets
@@ -714,6 +715,7 @@ l:Skrifa
 l:VNote
 l:Poddr
 l:PhotoTeleport
+l:GVim
 l:KiCad
 l:Phinch
 l:GitJournal
@@ -748,6 +750,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -757,6 +760,7 @@ l:nordvpn-linux
 l:VLC
 l:CATcher
 l:qpdf
+l:mybelka
 l:Pullp
 l:Opentrons
 l:Gifcurry
@@ -777,6 +781,7 @@ l:Subtitle_Composer
 l:ARAnyM
 l:QDriverStation
 l:Waterfox_Fourth_Generation
+l:Qortal_UI
 l:sqlitebrowser
 l:hyper
 l:scavengers
@@ -821,7 +826,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -875,6 +879,7 @@ l:cncjs
 l:Voltra
 l:Cerebral-Debugger
 l:KeeWeb
+l:AKASHA
 l:pomotroid
 l:Cliniface
 l:AtCore
@@ -911,6 +916,7 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
+l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
 l:guiscrcpy
@@ -946,11 +952,13 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:tmon
 l:TVALB
 l:ElectroCRUD
 l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
+l:WorkFlowy
 l:BottleBats
 l:Firefox
 l:Revisionary
@@ -960,6 +968,7 @@ l:Panini
 l:BunqDesktop
 l:qtchan
 l:BaijiMangaViewer
+l:Responsively
 l:RemNote
 l:mockoon
 l:Stunt_Car_Remake
@@ -974,6 +983,7 @@ l:mandelbulber2
 l:ScienceFair
 l:tagspaces
 l:accessimap-lecteur-der
+l:Local_Browser
 l:Translatium
 l:QOwnNotes
 l:Spectrum
@@ -1054,6 +1064,7 @@ l:QuickTwitch
 l:ocsstore
 l:Sup
 l:CoreStats
+l:GospelPdfViewer
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1064,6 +1075,7 @@ l:Bodhi
 l:MCP2210_Configurator
 l:noteshrink-qt
 l:Kate
+l:Rabix_Composer
 l:Qt_DAB
 l:FF-Password-Exporter
 l:FastQt
@@ -1110,6 +1122,7 @@ l:Deployer
 l:erdesigner
 l:SOIL_EDITOR
 l:antimicroX
+l:Procyon
 l:flightgear-airports
 l:plexamp
 l:Around
@@ -1124,8 +1137,10 @@ l:Quick_Clone
 l:Cromberg
 l:BasiliskII
 l:RPAN_Studio
+l:pb-for-desktop
 l:YesPlayMusic
 l:HiDPI-Fixer
+l:SmartGit
 l:CorePad
 l:Minetest
 l:DeepTags
@@ -1133,7 +1148,6 @@ l:tinyclerk
 l:flameshot
 l:Paper
 l:OVideo
-l:Pulsar
 l:YUView
 l:SimpleInstaBot
 l:youtube-music
