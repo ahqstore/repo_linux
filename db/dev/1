@@ -751,6 +751,7 @@ l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
 l:Stellarium
+l:Cryptocam_Companion
 l:LampixJS
 l:Wonderwall
 l:ossia_score
@@ -772,7 +773,6 @@ l:movie-monad
 l:BloomRPC
 l:Qawl
 l:Frappe_Accounting
-l:Cryptocam_Companion
 l:Cryptomator
 l:AsarUI
 l:ridereceipts
@@ -1077,11 +1077,11 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
+l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
 l:MDL
-l:Alpine_Client
 l:XPEViewer
 l:Thinktool_Desktop
 l:Bypass_Cors
