@@ -737,7 +737,6 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
-l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -1051,6 +1050,7 @@ l:westeroscraftlauncher
 l:Subsurface
 l:tT
 l:SeriousSamClassic-VK
+l:Alpine_Client
 l:Nexus_Wallet
 l:RSS-Guard
 l:Open_Markup_Editor
@@ -1065,7 +1065,6 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
-l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1157,4 +1156,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Cryptocam_Companion
 l:Glaxnimate
