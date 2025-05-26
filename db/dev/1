@@ -787,6 +787,7 @@ l:scavengers
 l:Znax
 l:Lunyr
 l:Yamagi_Quake_II
+l:Cryptocam_Companion
 l:Viper_Browser
 l:Symphonium
 l:WatchFlower
@@ -866,7 +867,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -952,7 +952,6 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
-l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1038,6 +1037,7 @@ l:wxMaxima
 l:Artifact
 l:LCEdit
 l:INSTEAD
+l:Alpine_Client
 l:Pixsrt
 l:FreeTexturePacker
 l:zsync2
