@@ -826,6 +826,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -894,7 +895,6 @@ l:DICOMautomaton
 l:photoname
 l:media-dupes
 l:Dwyco_Phoo
-l:Cryptocam_Companion
 l:pingviewer
 l:MLV-App
 l:ThermusQt
@@ -1024,6 +1024,7 @@ l:CRG_Data_Tool
 l:Painel-Web
 l:cubing-cmos
 l:TeXstudio
+l:Alpine_Client
 l:Jan
 l:clownmdemu
 l:Parom.TV
@@ -1156,5 +1157,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
