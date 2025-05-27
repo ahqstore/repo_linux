@@ -750,7 +750,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -952,13 +951,13 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Cryptocam_Companion
 l:tmon
 l:TVALB
 l:ElectroCRUD
 l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
-l:Alpine_Client
 l:WorkFlowy
 l:BottleBats
 l:Firefox
@@ -1085,6 +1084,7 @@ l:MDL
 l:XPEViewer
 l:Thinktool_Desktop
 l:Bypass_Cors
+l:Alpine_Client
 l:qikQR
 l:JReleaser
 l:LibreOfficeDev
