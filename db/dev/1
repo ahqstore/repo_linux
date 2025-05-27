@@ -738,6 +738,7 @@ l:Kcov
 l:Galacteek
 l:MuseScore
 l:NEST_Desktop
+l:Cryptocam_Companion
 l:Diffuse
 l:windows2usb
 l:dataset-annotator
@@ -762,7 +763,6 @@ l:qpdf
 l:mybelka
 l:Pullp
 l:Opentrons
-l:Cryptocam_Companion
 l:Gifcurry
 l:githoard
 l:Obsidian
@@ -1156,5 +1156,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
