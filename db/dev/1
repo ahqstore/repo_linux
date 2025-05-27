@@ -750,6 +750,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -792,7 +793,6 @@ l:Symphonium
 l:WatchFlower
 l:OpenBlok
 l:Chobby
-l:Cryptocam_Companion
 l:Wrapbox
 l:MagicFountain
 l:Giada
