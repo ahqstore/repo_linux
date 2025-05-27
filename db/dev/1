@@ -915,7 +915,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Alpine_Client
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -930,6 +929,7 @@ l:T.Viewer
 l:Whalebird
 l:YARC-Launcher
 l:Airspaces
+l:Cryptocam_Companion
 l:Focalizzare
 l:feebas
 l:SynfigStudio
@@ -958,6 +958,7 @@ l:ElectroCRUD
 l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
+l:Alpine_Client
 l:WorkFlowy
 l:BottleBats
 l:Firefox
@@ -1157,4 +1158,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Cryptocam_Companion
