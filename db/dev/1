@@ -738,7 +738,6 @@ l:Kcov
 l:Galacteek
 l:MuseScore
 l:NEST_Desktop
-l:Cryptocam_Companion
 l:Diffuse
 l:windows2usb
 l:dataset-annotator
@@ -751,6 +750,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -1156,5 +1156,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
