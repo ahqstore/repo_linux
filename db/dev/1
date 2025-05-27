@@ -793,6 +793,7 @@ l:WatchFlower
 l:OpenBlok
 l:Chobby
 l:Wrapbox
+l:Cryptocam_Companion
 l:MagicFountain
 l:Giada
 l:ClipGrab
@@ -826,7 +827,6 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
-l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
