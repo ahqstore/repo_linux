@@ -825,8 +825,8 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:rmw
 l:Cryptocam_Companion
+l:rmw
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -1017,7 +1017,6 @@ l:LMMS
 l:BrickStore
 l:ubpm
 l:Elements
-l:Alpine_Client
 l:Inkscape
 l:Papercraft
 l:PDFQuirk
@@ -1107,6 +1106,7 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
+l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
