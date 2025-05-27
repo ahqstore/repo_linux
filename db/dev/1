@@ -825,8 +825,8 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:rmw
 l:Cryptocam_Companion
+l:rmw
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -939,7 +939,6 @@ l:Protracker
 l:Sige_Lite
 l:GrinPlusPlus
 l:NixNote
-l:TurboWarp
 l:bioanimation
 l:SimDSP
 l:Gemalaya
@@ -958,7 +957,6 @@ l:ElectroCRUD
 l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
-l:Alpine_Client
 l:WorkFlowy
 l:BottleBats
 l:Firefox
@@ -1158,3 +1156,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
