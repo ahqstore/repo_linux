@@ -825,6 +825,7 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
+l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -866,7 +867,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -959,6 +959,7 @@ l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
 l:WorkFlowy
+l:Alpine_Client
 l:BottleBats
 l:Firefox
 l:Revisionary
@@ -1131,7 +1132,6 @@ l:PacketSender
 l:privacy.sexy
 l:Blender_Config_Manager
 l:tnt
-l:Alpine_Client
 l:DockStation
 l:heb12
 l:Quick_Clone
