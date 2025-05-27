@@ -750,6 +750,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -804,7 +805,6 @@ l:NimiTV
 l:MeshLab
 l:CPU-X
 l:QHot
-l:Cryptocam_Companion
 l:SigDigger
 l:blubVolley
 l:SAManager
@@ -1156,5 +1156,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
