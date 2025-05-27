@@ -750,7 +750,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -763,6 +762,7 @@ l:qpdf
 l:mybelka
 l:Pullp
 l:Opentrons
+l:Cryptocam_Companion
 l:Gifcurry
 l:githoard
 l:Obsidian
