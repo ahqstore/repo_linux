@@ -826,6 +826,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -866,7 +867,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -989,7 +989,6 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
-l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
@@ -1018,6 +1017,7 @@ l:LMMS
 l:BrickStore
 l:ubpm
 l:Elements
+l:Alpine_Client
 l:Inkscape
 l:Papercraft
 l:PDFQuirk
