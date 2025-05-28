@@ -711,7 +711,6 @@ l:falcon-sql-client
 l:Streamlink
 l:Endless_Sky
 l:prismlauncher
-l:Cryptocam_Companion
 l:Skrifa
 l:VNote
 l:Poddr
@@ -751,6 +750,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -959,6 +959,7 @@ l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
 l:WorkFlowy
+l:Alpine_Client
 l:BottleBats
 l:Firefox
 l:Revisionary
@@ -1157,4 +1158,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
