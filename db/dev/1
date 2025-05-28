@@ -811,6 +811,7 @@ l:Downline
 l:Agora
 l:Arduino_IDE
 l:Joplin
+l:Cryptocam_Companion
 l:GridcoinResearch
 l:dingtalk
 l:streamcapture2
@@ -951,7 +952,6 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
-l:Cryptocam_Companion
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -989,7 +989,6 @@ l:QOwnNotes
 l:Spectrum
 l:dvdisaster
 l:strongbox
-l:Alpine_Client
 l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
@@ -1026,6 +1025,7 @@ l:Painel-Web
 l:cubing-cmos
 l:TeXstudio
 l:Jan
+l:Alpine_Client
 l:clownmdemu
 l:Parom.TV
 l:LibreOfficeStill
