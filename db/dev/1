@@ -733,7 +733,6 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
-l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -841,6 +840,7 @@ l:Planes
 l:HyperLinq
 l:nRF_Connect
 l:Rats_on_The_Boat
+l:Cryptocam_Companion
 l:Mochi
 l:LibrePCB
 l:HexoEditor
@@ -1151,11 +1151,11 @@ l:Paper
 l:OVideo
 l:Pulsar
 l:YUView
+l:Alpine_Client
 l:SimpleInstaBot
 l:youtube-music
 l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
