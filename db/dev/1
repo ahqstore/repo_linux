@@ -840,7 +840,6 @@ l:Planes
 l:HyperLinq
 l:nRF_Connect
 l:Rats_on_The_Boat
-l:Cryptocam_Companion
 l:Mochi
 l:LibrePCB
 l:HexoEditor
@@ -953,6 +952,7 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Alpine_Client
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -962,6 +962,7 @@ l:Trinity_Desktop
 l:WorkFlowy
 l:BottleBats
 l:Firefox
+l:Cryptocam_Companion
 l:Revisionary
 l:Patchwork
 l:Lightning
@@ -1089,7 +1090,6 @@ l:qikQR
 l:JReleaser
 l:LibreOfficeDev
 l:electron-xiami
-l:Alpine_Client
 l:DeDop-studio
 l:Meshmill
 l:Join_Desktop
