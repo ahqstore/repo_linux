@@ -750,7 +750,6 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
-l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -993,6 +992,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Cryptocam_Companion
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
