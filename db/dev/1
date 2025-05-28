@@ -732,6 +732,7 @@ l:colorstatic-bash
 l:Tumblr_Scraper
 l:HexoClient
 l:nfctools
+l:Cryptocam_Companion
 l:FranceTV
 l:Qucs-S
 l:Kcov
@@ -825,7 +826,6 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
 l:Serial_Studio
 l:Naev
@@ -1077,6 +1077,7 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
+l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1157,4 +1158,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
