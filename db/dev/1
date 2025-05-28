@@ -737,7 +737,6 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
-l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -890,6 +889,7 @@ l:Singlebox
 l:SonicLineup
 l:fre:ac
 l:NepaliUnicode
+l:Cryptocam_Companion
 l:Geph
 l:DICOMautomaton
 l:photoname
@@ -959,6 +959,7 @@ l:LPub3D
 l:GL_warp2mp4
 l:Trinity_Desktop
 l:WorkFlowy
+l:Alpine_Client
 l:BottleBats
 l:Firefox
 l:Revisionary
@@ -1156,5 +1157,4 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
