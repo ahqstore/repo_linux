@@ -738,6 +738,7 @@ l:Qucs-S
 l:Kcov
 l:Galacteek
 l:MuseScore
+l:Cryptocam_Companion
 l:NEST_Desktop
 l:Diffuse
 l:windows2usb
@@ -867,7 +868,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1095,7 +1095,6 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
-l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
@@ -1108,6 +1107,7 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
+l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
