@@ -822,7 +822,6 @@ l:gerbv
 l:Playbox
 l:OwlPlug
 l:BilibiliVideoDownload
-l:Cryptocam_Companion
 l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
@@ -917,6 +916,7 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
+l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
