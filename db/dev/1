@@ -751,6 +751,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -952,7 +953,6 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
-l:Cryptocam_Companion
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -1066,6 +1066,7 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
+l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1107,7 +1108,6 @@ l:bottlenose
 l:TreeSheets
 l:Speaky_MiniPlayer
 l:CoreHunt
-l:Alpine_Client
 l:Drawpile-Server
 l:evoplex
 l:huwinterpreter
