@@ -826,8 +826,8 @@ l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
-l:Cryptocam_Companion
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -1095,6 +1095,7 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
+l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
@@ -1158,4 +1159,3 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
