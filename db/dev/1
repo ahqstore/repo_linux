@@ -810,6 +810,7 @@ l:blubVolley
 l:SAManager
 l:Downline
 l:Agora
+l:Cryptocam_Companion
 l:Arduino_IDE
 l:Joplin
 l:GridcoinResearch
@@ -916,7 +917,6 @@ l:VirtScreen
 l:unofficial-zalo
 l:Monot
 l:PocketCasts_Electron
-l:Cryptocam_Companion
 l:Beatconnect_Client
 l:Demonizer
 l:Raven_Reader
@@ -963,6 +963,7 @@ l:WorkFlowy
 l:BottleBats
 l:Firefox
 l:Revisionary
+l:Alpine_Client
 l:Patchwork
 l:Lightning
 l:Panini
@@ -994,7 +995,6 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
-l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
