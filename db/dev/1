@@ -739,7 +739,6 @@ l:Kcov
 l:Galacteek
 l:MuseScore
 l:NEST_Desktop
-l:Cryptocam_Companion
 l:Diffuse
 l:windows2usb
 l:dataset-annotator
@@ -752,6 +751,7 @@ l:RefOrg
 l:VirtualBox-KVM
 l:Discord
 l:GM-Companion
+l:Cryptocam_Companion
 l:Stellarium
 l:LampixJS
 l:Wonderwall
@@ -1066,7 +1066,6 @@ l:ocsstore
 l:Sup
 l:CoreStats
 l:GospelPdfViewer
-l:Alpine_Client
 l:Parity_Fether
 l:Qfsm
 l:graphql-playground
@@ -1159,3 +1158,4 @@ l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
