@@ -776,6 +776,7 @@ l:Frappe_Accounting
 l:Cryptomator
 l:AsarUI
 l:ridereceipts
+l:Cryptocam_Companion
 l:Antares
 l:Subtitle_Composer
 l:ARAnyM
@@ -825,7 +826,6 @@ l:BilibiliVideoDownload
 l:PhotoQuick
 l:Raspirus
 l:Aphelion_Wallet
-l:Cryptocam_Companion
 l:QXGEdit
 l:rmw
 l:Serial_Studio
@@ -1078,7 +1078,6 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
-l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1158,4 +1157,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
