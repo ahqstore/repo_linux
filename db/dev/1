@@ -827,6 +827,7 @@ l:Raspirus
 l:Aphelion_Wallet
 l:QXGEdit
 l:rmw
+l:Cryptocam_Companion
 l:Serial_Studio
 l:Naev
 l:ioquake3
@@ -867,7 +868,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -1078,6 +1078,7 @@ l:noteshrink-qt
 l:Kate
 l:Rabix_Composer
 l:Qt_DAB
+l:Alpine_Client
 l:FF-Password-Exporter
 l:FastQt
 l:QLog
@@ -1095,7 +1096,6 @@ l:Join_Desktop
 l:StopLight
 l:Cscrypto
 l:vCloudcam
-l:Alpine_Client
 l:Quixel_Bridge
 l:elzabrowser
 l:SciTECO
