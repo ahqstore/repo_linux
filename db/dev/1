@@ -997,6 +997,7 @@ l:GM-Companion
 l:ubpm
 l:Imagine
 l:GVim
+l:Alpine_Client
 l:Scraper
 l:MegaBasterd
 l:iptvnator
@@ -1140,7 +1141,6 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
-l:Cryptocam_Companion
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1158,4 +1158,4 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
-l:Alpine_Client
+l:Cryptocam_Companion
