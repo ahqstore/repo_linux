@@ -621,6 +621,7 @@ l:ANT_Downloader
 l:ExeQt
 l:Artisan
 l:Firefox_Nightly
+l:Cryptocam_Companion
 l:CorePaint
 l:Bridge
 l:euromilhoes
@@ -770,7 +771,6 @@ l:Konjure
 l:SchildiChat
 l:LANShare
 l:movie-monad
-l:Cryptocam_Companion
 l:BloomRPC
 l:Qawl
 l:Frappe_Accounting
@@ -995,7 +995,6 @@ l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
 l:Tagstoo
-l:Alpine_Client
 l:ksnip
 l:NMEASimulator
 l:Sengi
@@ -1158,4 +1157,5 @@ l:sipgate_Softphone
 l:Arma_3_Unix_Launcher
 l:O3
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
