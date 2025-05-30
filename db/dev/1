@@ -1007,7 +1007,6 @@ l:Onshape
 l:SimDSP
 l:XClicker
 l:Jacksum
-l:Alpine_Client
 l:P2PDerivatives
 l:Pulse
 l:Software-Challenge-GUI
@@ -1055,6 +1054,7 @@ l:triagem-touch
 l:dvdisaster
 l:Cerebral-Debugger
 l:theFrame
+l:Alpine_Client
 l:Mira
 l:Janice
 l:ANT_Downloader
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
 l:Glaxnimate
+l:Cryptocam_Companion
