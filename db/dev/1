@@ -1033,6 +1033,7 @@ l:Friture
 l:PRAGA
 l:cric
 l:PraxisLIVE
+l:Alpine_Client
 l:OCVvid2fulldome
 l:stereophotoview
 l:McPodcast
@@ -1095,7 +1096,6 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
-l:Glaxnimate
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1141,6 +1141,7 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
+l:Glaxnimate
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1158,4 +1159,3 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Cryptocam_Companion
-l:Alpine_Client
