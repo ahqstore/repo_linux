@@ -867,7 +867,6 @@ l:stereophotoview
 l:Sharp-Tune
 l:Catalyst_Browser
 l:Syncthing_Tray
-l:Cryptocam_Companion
 l:langly
 l:Zenkit
 l:Fidias_Database_Migration_App
@@ -953,6 +952,7 @@ l:ttth
 l:CRITERIA1D_PRO
 l:lightning-peach-wallet
 l:Moonlight
+l:Cryptocam_Companion
 l:tmon
 l:TVALB
 l:ElectroCRUD
@@ -994,6 +994,7 @@ l:ZeGrapher
 l:qr-code-generator-desktop
 l:ElectrumRhodium
 l:buttercup
+l:Alpine_Client
 l:Tagstoo
 l:ksnip
 l:NMEASimulator
@@ -1057,7 +1058,6 @@ l:RSS-Guard
 l:Open_Markup_Editor
 l:Postman
 l:sourcegit
-l:Alpine_Client
 l:eDEX-UI
 l:onnx2bnn
 l:Manta
