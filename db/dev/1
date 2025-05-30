@@ -1033,7 +1033,6 @@ l:Friture
 l:PRAGA
 l:cric
 l:PraxisLIVE
-l:Alpine_Client
 l:OCVvid2fulldome
 l:stereophotoview
 l:McPodcast
@@ -1078,6 +1077,7 @@ l:snapshot-slider
 l:android-messages-desktop
 l:Melodie
 l:Carnet
+l:Alpine_Client
 l:graphql-playground
 l:SynfigStudio
 l:elzabrowser
