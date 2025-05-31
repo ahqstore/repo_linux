@@ -1013,6 +1013,7 @@ l:Software-Challenge-GUI
 l:Google_Tasks_Desktop
 l:flameshot
 l:CutePeaks
+l:Alpine_Client
 l:ldview
 l:LibAssist
 l:Downline
@@ -1074,7 +1075,6 @@ l:Agora
 l:Isolate
 l:RemNote
 l:snapshot-slider
-l:Cryptocam_Companion
 l:android-messages-desktop
 l:Melodie
 l:Carnet
@@ -1158,4 +1158,4 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
-l:Alpine_Client
+l:Cryptocam_Companion
