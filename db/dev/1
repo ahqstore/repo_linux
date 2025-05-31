@@ -1047,6 +1047,7 @@ l:ngPost
 l:Datcord
 l:superProductivity
 l:mapton
+l:Cryptocam_Companion
 l:VeChain
 l:tubCloud
 l:FastTrack
@@ -1087,7 +1088,7 @@ l:avogadro
 l:XELFViewer
 l:Blowfish
 l:UltraScreen
-l:Glaxnimate
+l:Alpine_Client
 l:Upscayl
 l:Subtitle_Composer
 l:Altus
@@ -1141,13 +1142,13 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
-l:Cryptocam_Companion
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
 l:nmap
 l:AKASHA
 l:Astrofox
+l:Glaxnimate
 l:Colorpicker
 l:Zegarek
 l:Laigter
@@ -1158,4 +1159,3 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Alpine_Client
