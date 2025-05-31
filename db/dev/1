@@ -1115,7 +1115,6 @@ l:Syncthing_Tray
 l:Artisan
 l:Firefox_Beta
 l:ossia_score
-l:Cryptocam_Companion
 l:PrimeWorldEditor
 l:Vipster
 l:unofficial-zalo
@@ -1137,6 +1136,7 @@ l:CoreStuff
 l:PocketCasts_Electron
 l:CrossMobile
 l:Makagiga
+l:Alpine_Client
 l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
 l:Glaxnimate
-l:Alpine_Client
