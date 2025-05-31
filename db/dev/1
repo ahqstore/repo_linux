@@ -1107,6 +1107,7 @@ l:strongbox
 l:Detect_It_Easy
 l:Kiibohd_Configurator
 l:Bodhi
+l:Cryptocam_Companion
 l:GooboxFileShare
 l:TweakSophia
 l:RasterDraw
@@ -1156,6 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
