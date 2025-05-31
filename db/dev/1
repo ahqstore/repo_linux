@@ -1080,7 +1080,6 @@ l:Carnet
 l:graphql-playground
 l:SynfigStudio
 l:elzabrowser
-l:Alpine_Client
 l:SigmaSpectra
 l:Rambox
 l:LibrePCB-Nightly
@@ -1141,6 +1140,7 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
+l:Alpine_Client
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
