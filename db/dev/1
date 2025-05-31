@@ -982,7 +982,6 @@ l:Tagstoo
 l:lux
 l:draw.io
 l:NixNote
-l:Cryptocam_Companion
 l:moolticute
 l:FreeCAD2
 l:hotspot
@@ -1048,7 +1047,6 @@ l:ngPost
 l:Datcord
 l:superProductivity
 l:mapton
-l:Alpine_Client
 l:VeChain
 l:tubCloud
 l:FastTrack
@@ -1108,7 +1106,6 @@ l:TVALB
 l:strongbox
 l:Detect_It_Easy
 l:Kiibohd_Configurator
-l:Glaxnimate
 l:Bodhi
 l:GooboxFileShare
 l:TweakSophia
@@ -1159,3 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
+l:Alpine_Client
+l:Glaxnimate
