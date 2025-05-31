@@ -1007,6 +1007,7 @@ l:Onshape
 l:SimDSP
 l:XClicker
 l:Jacksum
+l:Cryptocam_Companion
 l:P2PDerivatives
 l:Pulse
 l:Software-Challenge-GUI
@@ -1047,7 +1048,6 @@ l:ngPost
 l:Datcord
 l:superProductivity
 l:mapton
-l:Cryptocam_Companion
 l:VeChain
 l:tubCloud
 l:FastTrack
@@ -1141,11 +1141,13 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
+l:Alpine_Client
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
 l:nmap
 l:AKASHA
+l:Glaxnimate
 l:Astrofox
 l:Colorpicker
 l:Zegarek
@@ -1157,5 +1159,3 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Alpine_Client
-l:Glaxnimate
