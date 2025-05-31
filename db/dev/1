@@ -1095,6 +1095,7 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
+l:Glaxnimate
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1140,9 +1141,7 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
-l:Alpine_Client
 l:ZapDesktop
-l:Cryptocam_Companion
 l:Speaky_MiniPlayer
 l:PicGo
 l:nmap
@@ -1158,4 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Glaxnimate
+l:Cryptocam_Companion
+l:Alpine_Client
