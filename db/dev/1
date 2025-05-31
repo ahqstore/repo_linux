@@ -1007,7 +1007,6 @@ l:Onshape
 l:SimDSP
 l:XClicker
 l:Jacksum
-l:Alpine_Client
 l:P2PDerivatives
 l:Pulse
 l:Software-Challenge-GUI
@@ -1088,6 +1087,8 @@ l:avogadro
 l:XELFViewer
 l:Blowfish
 l:UltraScreen
+l:Cryptocam_Companion
+l:Alpine_Client
 l:Upscayl
 l:Subtitle_Composer
 l:Altus
@@ -1151,11 +1152,10 @@ l:Colorpicker
 l:Zegarek
 l:Laigter
 l:GameHub
+l:Glaxnimate
 l:levior
 l:Buche
 l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Glaxnimate
-l:Cryptocam_Companion
