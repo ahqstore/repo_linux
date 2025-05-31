@@ -1040,7 +1040,6 @@ l:antimicroX
 l:Linphone
 l:Phinch
 l:sqlitebrowser
-l:Alpine_Client
 l:MDL
 l:EasyMercurial
 l:CBETA
@@ -1048,6 +1047,7 @@ l:ngPost
 l:Datcord
 l:superProductivity
 l:mapton
+l:Alpine_Client
 l:VeChain
 l:tubCloud
 l:FastTrack
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
 l:Glaxnimate
+l:Cryptocam_Companion
