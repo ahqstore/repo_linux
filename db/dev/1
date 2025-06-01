@@ -1113,6 +1113,7 @@ l:RasterDraw
 l:BetterCrewlink
 l:Syncthing_Tray
 l:Artisan
+l:Cryptocam_Companion
 l:Firefox_Beta
 l:ossia_score
 l:PrimeWorldEditor
@@ -1148,7 +1149,6 @@ l:AKASHA
 l:Astrofox
 l:Colorpicker
 l:Zegarek
-l:Alpine_Client
 l:Laigter
 l:GameHub
 l:levior
@@ -1158,4 +1158,4 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
-l:Cryptocam_Companion
+l:Alpine_Client
