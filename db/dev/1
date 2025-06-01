@@ -987,7 +987,6 @@ l:FreeCAD2
 l:hotspot
 l:storyboarder
 l:retail
-l:Alpine_Client
 l:eXtrema
 l:VivifyScrum
 l:SF_Tube
@@ -1157,5 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Glaxnimate
+l:Alpine_Client
 l:Cryptocam_Companion
+l:Glaxnimate
