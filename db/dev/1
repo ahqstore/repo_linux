@@ -1041,7 +1041,6 @@ l:Linphone
 l:Phinch
 l:sqlitebrowser
 l:MDL
-l:Alpine_Client
 l:EasyMercurial
 l:CBETA
 l:ngPost
@@ -1158,4 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Alpine_Client
 l:Glaxnimate
