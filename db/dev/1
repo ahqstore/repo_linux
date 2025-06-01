@@ -1073,6 +1073,7 @@ l:ipe
 l:Agora
 l:Isolate
 l:RemNote
+l:Alpine_Client
 l:snapshot-slider
 l:android-messages-desktop
 l:Melodie
@@ -1106,7 +1107,6 @@ l:TVALB
 l:strongbox
 l:Detect_It_Easy
 l:Kiibohd_Configurator
-l:Alpine_Client
 l:Bodhi
 l:GooboxFileShare
 l:TweakSophia
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Glaxnimate
 l:Cryptocam_Companion
+l:Glaxnimate
