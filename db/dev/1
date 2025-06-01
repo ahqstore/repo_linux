@@ -972,7 +972,6 @@ l:FMS_File_Explorer
 l:Mini_Diary
 l:HermesMessenger
 l:LibreOfficeStill
-l:Glaxnimate
 l:FreeCAD-asm3
 l:Bdash
 l:jag
@@ -1157,5 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
 l:Alpine_Client
+l:Cryptocam_Companion
+l:Glaxnimate
