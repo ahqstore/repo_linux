@@ -1070,7 +1070,6 @@ l:CoreAction
 l:Safe_Multisig
 l:MuWire
 l:ipe
-l:Cryptocam_Companion
 l:Agora
 l:Isolate
 l:RemNote
@@ -1141,6 +1140,7 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
+l:Cryptocam_Companion
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
