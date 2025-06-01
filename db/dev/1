@@ -1058,6 +1058,7 @@ l:Mira
 l:Janice
 l:ANT_Downloader
 l:QDriverStation
+l:Alpine_Client
 l:EnvKey
 l:ElectroCRUD
 l:OCVWarp
@@ -1140,7 +1141,6 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
-l:Alpine_Client
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
