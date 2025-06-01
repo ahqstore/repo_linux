@@ -995,6 +995,7 @@ l:pnpm
 l:Qortal_UI
 l:GM-Companion
 l:ubpm
+l:Alpine_Client
 l:Imagine
 l:GVim
 l:Scraper
@@ -1111,7 +1112,6 @@ l:GooboxFileShare
 l:TweakSophia
 l:RasterDraw
 l:BetterCrewlink
-l:Cryptocam_Companion
 l:Syncthing_Tray
 l:Artisan
 l:Firefox_Beta
@@ -1151,6 +1151,7 @@ l:Colorpicker
 l:Zegarek
 l:Laigter
 l:GameHub
+l:Cryptocam_Companion
 l:levior
 l:Buche
 l:Ember
@@ -1158,4 +1159,3 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
-l:Alpine_Client
