@@ -1039,6 +1039,7 @@ l:McPodcast
 l:antimicroX
 l:Linphone
 l:Phinch
+l:Alpine_Client
 l:sqlitebrowser
 l:MDL
 l:EasyMercurial
@@ -1140,7 +1141,6 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
-l:Cryptocam_Companion
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
 l:Glaxnimate
-l:Alpine_Client
