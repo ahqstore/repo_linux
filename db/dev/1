@@ -1006,7 +1006,6 @@ l:Raven_Reader
 l:Onshape
 l:SimDSP
 l:XClicker
-l:Alpine_Client
 l:Jacksum
 l:P2PDerivatives
 l:Pulse
@@ -1096,6 +1095,7 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
+l:Glaxnimate
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1158,4 +1158,4 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Cryptocam_Companion
-l:Glaxnimate
+l:Alpine_Client
