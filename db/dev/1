@@ -995,7 +995,6 @@ l:pnpm
 l:Qortal_UI
 l:GM-Companion
 l:ubpm
-l:Alpine_Client
 l:Imagine
 l:GVim
 l:Scraper
@@ -1151,7 +1150,6 @@ l:Colorpicker
 l:Zegarek
 l:Laigter
 l:GameHub
-l:Cryptocam_Companion
 l:levior
 l:Buche
 l:Ember
@@ -1159,3 +1157,5 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
+l:Cryptocam_Companion
+l:Alpine_Client
