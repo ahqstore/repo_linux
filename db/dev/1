@@ -1047,6 +1047,7 @@ l:ngPost
 l:Datcord
 l:superProductivity
 l:mapton
+l:Alpine_Client
 l:VeChain
 l:tubCloud
 l:FastTrack
@@ -1113,7 +1114,6 @@ l:RasterDraw
 l:BetterCrewlink
 l:Syncthing_Tray
 l:Artisan
-l:Cryptocam_Companion
 l:Firefox_Beta
 l:ossia_score
 l:PrimeWorldEditor
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
 l:Glaxnimate
-l:Alpine_Client
