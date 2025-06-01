@@ -1006,6 +1006,7 @@ l:Raven_Reader
 l:Onshape
 l:SimDSP
 l:XClicker
+l:Alpine_Client
 l:Jacksum
 l:P2PDerivatives
 l:Pulse
@@ -1156,6 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Glaxnimate
 l:Cryptocam_Companion
-l:Alpine_Client
+l:Glaxnimate
