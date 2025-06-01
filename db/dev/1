@@ -1007,6 +1007,7 @@ l:Onshape
 l:SimDSP
 l:XClicker
 l:Jacksum
+l:Alpine_Client
 l:P2PDerivatives
 l:Pulse
 l:Software-Challenge-GUI
@@ -1140,7 +1141,6 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
-l:Alpine_Client
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
 l:Glaxnimate
+l:Cryptocam_Companion
