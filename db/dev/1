@@ -1105,7 +1105,6 @@ l:osu
 l:TVALB
 l:strongbox
 l:Detect_It_Easy
-l:Glaxnimate
 l:Kiibohd_Configurator
 l:Bodhi
 l:GooboxFileShare
@@ -1157,5 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
 l:Alpine_Client
+l:Glaxnimate
+l:Cryptocam_Companion
