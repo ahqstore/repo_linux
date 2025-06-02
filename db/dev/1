@@ -1087,7 +1087,6 @@ l:avogadro
 l:XELFViewer
 l:Blowfish
 l:UltraScreen
-l:Glaxnimate
 l:Upscayl
 l:Subtitle_Composer
 l:Altus
@@ -1141,6 +1140,7 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
+l:Alpine_Client
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1158,4 +1158,4 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Cryptocam_Companion
-l:Alpine_Client
+l:Glaxnimate
