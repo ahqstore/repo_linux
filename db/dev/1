@@ -1081,7 +1081,6 @@ l:graphql-playground
 l:SynfigStudio
 l:elzabrowser
 l:SigmaSpectra
-l:Cryptocam_Companion
 l:Rambox
 l:LibrePCB-Nightly
 l:avogadro
@@ -1157,5 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
+l:Cryptocam_Companion
