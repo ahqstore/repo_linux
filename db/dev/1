@@ -1034,7 +1034,6 @@ l:PRAGA
 l:cric
 l:PraxisLIVE
 l:OCVvid2fulldome
-l:Cryptocam_Companion
 l:stereophotoview
 l:McPodcast
 l:antimicroX
@@ -1096,7 +1095,6 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
-l:Glaxnimate
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1113,7 +1111,6 @@ l:GooboxFileShare
 l:TweakSophia
 l:RasterDraw
 l:BetterCrewlink
-l:Alpine_Client
 l:Syncthing_Tray
 l:Artisan
 l:Firefox_Beta
@@ -1159,3 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
+l:Alpine_Client
+l:Glaxnimate
