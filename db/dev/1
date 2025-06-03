@@ -1095,7 +1095,6 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
-l:Cryptocam_Companion
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1151,7 +1150,6 @@ l:Colorpicker
 l:Zegarek
 l:Laigter
 l:GameHub
-l:Alpine_Client
 l:levior
 l:Buche
 l:Ember
@@ -1159,3 +1157,5 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
+l:Cryptocam_Companion
+l:Alpine_Client
