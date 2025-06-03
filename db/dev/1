@@ -1069,7 +1069,6 @@ l:VirtualBox-KVM
 l:CoreAction
 l:Safe_Multisig
 l:MuWire
-l:Cryptocam_Companion
 l:ipe
 l:Agora
 l:Isolate
@@ -1157,5 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
 l:Glaxnimate
 l:Alpine_Client
