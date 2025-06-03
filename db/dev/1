@@ -1144,6 +1144,7 @@ l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
 l:nmap
+l:Alpine_Client
 l:AKASHA
 l:Astrofox
 l:Colorpicker
@@ -1156,6 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Alpine_Client
 l:Cryptocam_Companion
 l:Glaxnimate
