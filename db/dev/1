@@ -1083,7 +1083,6 @@ l:elzabrowser
 l:SigmaSpectra
 l:Rambox
 l:LibrePCB-Nightly
-l:Cryptocam_Companion
 l:avogadro
 l:XELFViewer
 l:Blowfish
@@ -1157,5 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
+l:Cryptocam_Companion
