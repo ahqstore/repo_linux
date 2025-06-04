@@ -1111,7 +1111,6 @@ l:GooboxFileShare
 l:TweakSophia
 l:RasterDraw
 l:BetterCrewlink
-l:Alpine_Client
 l:Syncthing_Tray
 l:Artisan
 l:Firefox_Beta
@@ -1141,6 +1140,7 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
+l:Cryptocam_Companion
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
+l:Alpine_Client
 l:Glaxnimate
