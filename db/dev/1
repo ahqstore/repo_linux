@@ -1141,7 +1141,6 @@ l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
 l:ZapDesktop
-l:Cryptocam_Companion
 l:Speaky_MiniPlayer
 l:PicGo
 l:nmap
@@ -1157,5 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
 l:Glaxnimate
 l:Alpine_Client
