@@ -1041,6 +1041,7 @@ l:Linphone
 l:Phinch
 l:sqlitebrowser
 l:MDL
+l:Alpine_Client
 l:EasyMercurial
 l:CBETA
 l:ngPost
@@ -1097,7 +1098,6 @@ l:LPub3D
 l:Tablo_Tools
 l:Pingnoo
 l:HastyHeroes
-l:Cryptocam_Companion
 l:unreel
 l:Nuclino
 l:ZeGrapher
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
 l:Glaxnimate
-l:Alpine_Client
