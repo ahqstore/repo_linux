@@ -1095,7 +1095,6 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
-l:Alpine_Client
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1109,7 +1108,6 @@ l:Detect_It_Easy
 l:Kiibohd_Configurator
 l:Bodhi
 l:GooboxFileShare
-l:Cryptocam_Companion
 l:TweakSophia
 l:RasterDraw
 l:BetterCrewlink
@@ -1142,6 +1140,7 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
+l:Alpine_Client
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1158,4 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
 l:Glaxnimate
