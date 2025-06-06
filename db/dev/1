@@ -1047,6 +1047,7 @@ l:ngPost
 l:Datcord
 l:superProductivity
 l:mapton
+l:Alpine_Client
 l:VeChain
 l:tubCloud
 l:FastTrack
@@ -1140,7 +1141,6 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
-l:Cryptocam_Companion
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
 l:Glaxnimate
-l:Alpine_Client
