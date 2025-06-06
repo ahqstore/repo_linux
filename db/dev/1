@@ -1135,7 +1135,6 @@ l:theWeb
 l:CoreStuff
 l:PocketCasts_Electron
 l:CrossMobile
-l:Cryptocam_Companion
 l:Makagiga
 l:BetterSIS
 l:Sige_Lite
@@ -1157,5 +1156,6 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
+l:Cryptocam_Companion
 l:Glaxnimate
 l:Alpine_Client
