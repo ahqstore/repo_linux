@@ -1064,6 +1064,7 @@ l:OCVWarp
 l:devdocs-desktop
 l:SmartServoGui
 l:ScrapeStorm
+l:Cryptocam_Companion
 l:Qt_DAB
 l:VirtualBox-KVM
 l:CoreAction
@@ -1095,6 +1096,7 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
+l:Alpine_Client
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1157,5 +1159,3 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
-l:Alpine_Client
-l:Cryptocam_Companion
