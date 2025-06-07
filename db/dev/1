@@ -1084,6 +1084,7 @@ l:SigmaSpectra
 l:Rambox
 l:LibrePCB-Nightly
 l:avogadro
+l:Alpine_Client
 l:XELFViewer
 l:Blowfish
 l:UltraScreen
@@ -1144,7 +1145,6 @@ l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
 l:nmap
-l:Alpine_Client
 l:AKASHA
 l:Astrofox
 l:Colorpicker
