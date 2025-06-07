@@ -1087,6 +1087,7 @@ l:avogadro
 l:XELFViewer
 l:Blowfish
 l:UltraScreen
+l:Alpine_Client
 l:Upscayl
 l:Subtitle_Composer
 l:Altus
@@ -1107,7 +1108,6 @@ l:strongbox
 l:Detect_It_Easy
 l:Kiibohd_Configurator
 l:Bodhi
-l:Alpine_Client
 l:GooboxFileShare
 l:TweakSophia
 l:RasterDraw
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
 l:Glaxnimate
+l:Cryptocam_Companion
