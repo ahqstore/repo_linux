@@ -1087,7 +1087,6 @@ l:avogadro
 l:XELFViewer
 l:Blowfish
 l:UltraScreen
-l:Cryptocam_Companion
 l:Upscayl
 l:Subtitle_Composer
 l:Altus
@@ -1101,6 +1100,7 @@ l:HastyHeroes
 l:unreel
 l:Nuclino
 l:ZeGrapher
+l:Cryptocam_Companion
 l:Red_Eclipse-Development
 l:osu
 l:TVALB
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
