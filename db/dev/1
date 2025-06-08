@@ -1085,7 +1085,6 @@ l:Rambox
 l:LibrePCB-Nightly
 l:avogadro
 l:XELFViewer
-l:Alpine_Client
 l:Blowfish
 l:UltraScreen
 l:Upscayl
@@ -1152,10 +1151,11 @@ l:Zegarek
 l:Laigter
 l:GameHub
 l:levior
+l:Alpine_Client
 l:Buche
 l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
 l:Glaxnimate
+l:Cryptocam_Companion
