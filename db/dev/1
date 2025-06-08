@@ -1041,14 +1041,12 @@ l:Linphone
 l:Phinch
 l:sqlitebrowser
 l:MDL
-l:Cryptocam_Companion
 l:EasyMercurial
 l:CBETA
 l:ngPost
 l:Datcord
 l:superProductivity
 l:mapton
-l:Glaxnimate
 l:VeChain
 l:tubCloud
 l:FastTrack
@@ -1089,6 +1087,7 @@ l:avogadro
 l:XELFViewer
 l:Blowfish
 l:UltraScreen
+l:Alpine_Client
 l:Upscayl
 l:Subtitle_Composer
 l:Altus
@@ -1158,4 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Alpine_Client
+l:Glaxnimate
+l:Cryptocam_Companion
