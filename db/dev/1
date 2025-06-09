@@ -1055,6 +1055,7 @@ l:dvdisaster
 l:Cerebral-Debugger
 l:theFrame
 l:Mira
+l:Alpine_Client
 l:Janice
 l:ANT_Downloader
 l:QDriverStation
@@ -1095,7 +1096,6 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
-l:Alpine_Client
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1141,7 +1141,6 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
-l:Cryptocam_Companion
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1159,3 +1158,4 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
+l:Cryptocam_Companion
