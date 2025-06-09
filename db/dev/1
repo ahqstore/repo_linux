@@ -1007,6 +1007,7 @@ l:Onshape
 l:SimDSP
 l:XClicker
 l:Jacksum
+l:Alpine_Client
 l:P2PDerivatives
 l:Pulse
 l:Software-Challenge-GUI
@@ -1073,6 +1074,7 @@ l:ipe
 l:Agora
 l:Isolate
 l:RemNote
+l:Cryptocam_Companion
 l:snapshot-slider
 l:android-messages-desktop
 l:Melodie
@@ -1140,7 +1142,6 @@ l:BetterSIS
 l:Sige_Lite
 l:SMPlayer
 l:jexiftoolgui
-l:Cryptocam_Companion
 l:ZapDesktop
 l:Speaky_MiniPlayer
 l:PicGo
@@ -1150,6 +1151,7 @@ l:Astrofox
 l:Colorpicker
 l:Zegarek
 l:Laigter
+l:Glaxnimate
 l:GameHub
 l:levior
 l:Buche
@@ -1157,5 +1159,3 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Alpine_Client
-l:Glaxnimate
