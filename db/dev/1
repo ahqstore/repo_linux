@@ -1059,7 +1059,6 @@ l:Janice
 l:ANT_Downloader
 l:QDriverStation
 l:EnvKey
-l:Alpine_Client
 l:ElectroCRUD
 l:OCVWarp
 l:devdocs-desktop
@@ -1159,3 +1158,4 @@ l:elcalc
 l:qpp::cad
 l:Cryptocam_Companion
 l:Glaxnimate
+l:Alpine_Client
