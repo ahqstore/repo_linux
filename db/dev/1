@@ -1041,6 +1041,7 @@ l:Linphone
 l:Phinch
 l:sqlitebrowser
 l:MDL
+l:Alpine_Client
 l:EasyMercurial
 l:CBETA
 l:ngPost
@@ -1073,7 +1074,6 @@ l:ipe
 l:Agora
 l:Isolate
 l:RemNote
-l:Cryptocam_Companion
 l:snapshot-slider
 l:android-messages-desktop
 l:Melodie
@@ -1158,4 +1158,4 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
-l:Alpine_Client
+l:Cryptocam_Companion
