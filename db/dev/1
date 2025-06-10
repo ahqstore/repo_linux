@@ -1095,6 +1095,7 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
+l:Cryptocam_Companion
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1130,7 +1131,6 @@ l:WatchIt
 l:LMMS
 l:QuickViewer
 l:Cromberg
-l:Alpine_Client
 l:JSplacement
 l:theWeb
 l:CoreStuff
@@ -1158,4 +1158,4 @@ l:PicoLog
 l:elcalc
 l:qpp::cad
 l:Glaxnimate
-l:Cryptocam_Companion
+l:Alpine_Client
