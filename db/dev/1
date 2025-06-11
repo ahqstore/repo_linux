@@ -759,6 +759,7 @@ l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
 l:Bezique
+l:Cryptocam_Companion
 l:Blowfish
 l:thorium-client
 l:Astrofox
@@ -1010,7 +1011,6 @@ l:tnt
 l:Steem_Messenger
 l:Gitbumr
 l:runanode
-l:Cryptocam_Companion
 l:twetter
 l:media-dupes
 l:Firefox_Beta
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
