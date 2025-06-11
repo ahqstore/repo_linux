@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -757,7 +758,6 @@ l:ana-conversation-studio
 l:mybelka
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
-l:Cryptocam_Companion
 l:Emacs
 l:Bezique
 l:Blowfish
@@ -979,7 +979,6 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
-l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1077,6 +1076,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
