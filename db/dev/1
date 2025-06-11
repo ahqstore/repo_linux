@@ -1066,6 +1066,7 @@ l:SmartServoGui
 l:ScrapeStorm
 l:Qt_DAB
 l:VirtualBox-KVM
+l:Alpine_Client
 l:CoreAction
 l:Safe_Multisig
 l:MuWire
@@ -1158,4 +1159,3 @@ l:elcalc
 l:qpp::cad
 l:Cryptocam_Companion
 l:Glaxnimate
-l:Alpine_Client
