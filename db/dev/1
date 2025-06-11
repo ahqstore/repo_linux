@@ -1066,7 +1066,6 @@ l:SmartServoGui
 l:ScrapeStorm
 l:Qt_DAB
 l:VirtualBox-KVM
-l:Alpine_Client
 l:CoreAction
 l:Safe_Multisig
 l:MuWire
@@ -1096,6 +1095,7 @@ l:Converter432Hz
 l:BottleBats
 l:LPub3D
 l:Tablo_Tools
+l:Cryptocam_Companion
 l:Pingnoo
 l:HastyHeroes
 l:unreel
@@ -1157,5 +1157,5 @@ l:Ember
 l:PicoLog
 l:elcalc
 l:qpp::cad
-l:Cryptocam_Companion
+l:Alpine_Client
 l:Glaxnimate
