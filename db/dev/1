@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -956,7 +957,6 @@ l:QmidiCtl
 l:qtchan
 l:commandoo
 l:VisualLVMRemote.yml
-l:Cryptocam_Companion
 l:MellowPlayer
 l:strongbox
 l:Kitupiikki
