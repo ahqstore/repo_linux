@@ -778,6 +778,7 @@ l:Qt_JSON_diff
 l:PhreshPlayer
 l:Delir
 l:RetroShare
+l:Cryptocam_Companion
 l:bottlenose
 l:FAT_Wallet
 l:Colorpicker
@@ -819,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1063,6 +1063,7 @@ l:QNapi
 l:onnx2daq
 l:GVim
 l:Friture
+l:Glaxnimate
 l:M
 l:KopiaUI
 l:lightning-peach-wallet
@@ -1141,7 +1142,6 @@ l:BibleMultiTheLife
 l:FreeCAD2
 l:LibreOfficePreRelease
 l:Zoom
-l:Glaxnimate
 l:ConsoleWorkbench
 l:ytDownloader
 l:Focalizzare
