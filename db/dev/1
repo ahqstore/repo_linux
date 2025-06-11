@@ -819,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -848,7 +849,6 @@ l:MuWire
 l:TVALB
 l:Catalyst_Browser
 l:Pony_Compiler
-l:Cryptocam_Companion
 l:CorePins
 l:NoraGO
 l:hotspot
@@ -1076,7 +1076,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1142,6 +1141,7 @@ l:BibleMultiTheLife
 l:FreeCAD2
 l:LibreOfficePreRelease
 l:Zoom
+l:Glaxnimate
 l:ConsoleWorkbench
 l:ytDownloader
 l:Focalizzare
