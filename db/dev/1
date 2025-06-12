@@ -848,6 +848,7 @@ l:MuWire
 l:TVALB
 l:Catalyst_Browser
 l:Pony_Compiler
+l:Cryptocam_Companion
 l:CorePins
 l:NoraGO
 l:hotspot
@@ -870,7 +871,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1156,6 +1156,6 @@ l:Tulip
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
-l:Glaxnimate
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
