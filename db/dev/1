@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -1039,7 +1040,6 @@ l:GrinPlusPlus
 l:Lagrange
 l:pretty-handy-privacy
 l:clipr
-l:Glaxnimate
 l:SimpleX
 l:Bloks
 l:CodePilot.ai
@@ -1085,7 +1085,6 @@ l:IrScrutinizer
 l:Revisionary
 l:pkg2appimage
 l:WalletTech
-l:Cryptocam_Companion
 l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
@@ -1154,8 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
+l:Alpine_Client
