@@ -800,6 +800,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -929,7 +930,6 @@ l:ldview
 l:Podman
 l:Mapeo
 l:SavvyCAN
-l:Cryptocam_Companion
 l:Deployer
 l:Waterfox_Classic
 l:Phinch
@@ -1093,7 +1093,6 @@ l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
 l:SerialPort_Assistant
-l:Alpine_Client
 l:Qucs-S
 l:Mayo
 l:Pile
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
