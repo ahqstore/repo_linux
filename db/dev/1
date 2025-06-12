@@ -817,6 +817,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -829,7 +830,6 @@ l:Waterfox_Fourth_Generation
 l:AppImagePool
 l:FontBase
 l:streamcapture2
-l:Cryptocam_Companion
 l:linux-intel-undervolt-gui
 l:Tutanota
 l:Sup
@@ -1076,6 +1076,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1126,7 +1127,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
