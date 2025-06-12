@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -848,7 +849,6 @@ l:MuWire
 l:TVALB
 l:Catalyst_Browser
 l:Pony_Compiler
-l:Cryptocam_Companion
 l:CorePins
 l:NoraGO
 l:hotspot
@@ -1003,6 +1003,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1158,4 +1159,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
