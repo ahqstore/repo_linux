@@ -819,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -850,7 +851,6 @@ l:Catalyst_Browser
 l:Pony_Compiler
 l:CorePins
 l:NoraGO
-l:Cryptocam_Companion
 l:hotspot
 l:Cryptr
 l:Linedancer
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
