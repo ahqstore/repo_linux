@@ -755,6 +755,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -937,7 +938,6 @@ l:OVALE
 l:DeepTags
 l:Scraper
 l:SwitchHosts!
-l:Cryptocam_Companion
 l:ClementineRemote
 l:twitch-wrapper
 l:QmidiNet
