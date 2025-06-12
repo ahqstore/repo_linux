@@ -648,6 +648,7 @@ l:BunqDesktop
 l:Kanon
 l:XClicker
 l:ai-bot-workspace
+l:Cryptocam_Companion
 l:PrimeWorldEditor
 l:qBittorrent_Enhanced_Edition
 l:Pullp
@@ -978,6 +979,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1088,7 +1090,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1157,5 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Cryptocam_Companion
-l:Glaxnimate
+l:Alpine_Client
