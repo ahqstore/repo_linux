@@ -787,7 +787,6 @@ l:ChemCanvas
 l:Workbench
 l:StatusIm
 l:KeeWeb
-l:Cryptocam_Companion
 l:Datcord
 l:subtitles-composer-app
 l:Dana
@@ -930,6 +929,7 @@ l:ldview
 l:Podman
 l:Mapeo
 l:SavvyCAN
+l:Cryptocam_Companion
 l:Deployer
 l:Waterfox_Classic
 l:Phinch
@@ -1093,6 +1093,7 @@ l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
 l:SerialPort_Assistant
+l:Alpine_Client
 l:Qucs-S
 l:Mayo
 l:Pile
@@ -1153,9 +1154,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
