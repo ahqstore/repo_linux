@@ -711,7 +711,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -871,6 +870,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -882,7 +882,6 @@ l:Beyond_All_Reason
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
-l:Glaxnimate
 l:ArcadeManager
 l:EverInst
 l:CubicSDR
@@ -1154,6 +1153,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
