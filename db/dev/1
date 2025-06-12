@@ -800,7 +800,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1005,6 +1004,7 @@ l:CoreGarage
 l:neovim
 l:mockoon
 l:GSequencer
+l:Cryptocam_Companion
 l:Blizzard_4
 l:ehdev-shell
 l:tnt
@@ -1076,6 +1076,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1106,7 +1107,6 @@ l:SBLauncher
 l:Bench_CLI
 l:NimiTV
 l:spark-wallet
-l:Glaxnimate
 l:devdocs-desktop
 l:Synthein
 l:UHK.Agent
