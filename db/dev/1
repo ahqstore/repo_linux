@@ -937,6 +937,7 @@ l:OVALE
 l:DeepTags
 l:Scraper
 l:SwitchHosts!
+l:Cryptocam_Companion
 l:ClementineRemote
 l:twitch-wrapper
 l:QmidiNet
@@ -1006,7 +1007,6 @@ l:mockoon
 l:GSequencer
 l:Blizzard_4
 l:ehdev-shell
-l:Cryptocam_Companion
 l:tnt
 l:Steem_Messenger
 l:Gitbumr
@@ -1102,7 +1102,6 @@ l:Mini_Diary
 l:trader
 l:Shadow
 l:TeleDrive
-l:Alpine_Client
 l:SBLauncher
 l:Bench_CLI
 l:NimiTV
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
