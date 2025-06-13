@@ -817,7 +817,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -858,6 +857,7 @@ l:MQTT-Explorer
 l:ClipGrab
 l:Neon
 l:appimagetool
+l:Cryptocam_Companion
 l:textosaurus
 l:City_Hub
 l:SpringBoard
@@ -1132,7 +1132,6 @@ l:Vipster
 l:GitHubDesktop
 l:keyrier-json
 l:Sige_Lite
-l:Glaxnimate
 l:LeoCAD
 l:Parity_Fether
 l:Arma_3_Unix_Launcher
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
