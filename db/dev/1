@@ -800,7 +800,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -981,6 +980,7 @@ l:Firefox_Nightly
 l:Rotki
 l:WebDesktop
 l:ideaMaker
+l:Cryptocam_Companion
 l:Cantata
 l:Stacer
 l:KeePassXC
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
