@@ -800,7 +800,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -986,6 +985,7 @@ l:Stacer
 l:KeePassXC
 l:Plex
 l:SquishPic
+l:Cryptocam_Companion
 l:RBDL-Toolkit
 l:dashy-app
 l:iota1k
@@ -1158,3 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
