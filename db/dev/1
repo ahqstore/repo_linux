@@ -819,7 +819,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -883,6 +882,7 @@ l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
 l:ArcadeManager
+l:Cryptocam_Companion
 l:EverInst
 l:CubicSDR
 l:Carpenters
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
