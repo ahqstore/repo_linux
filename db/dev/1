@@ -792,7 +792,6 @@ l:subtitles-composer-app
 l:Dana
 l:Cabal_Desktop_Mini
 l:HEAT1D
-l:Cryptocam_Companion
 l:Postman
 l:Mochi
 l:SmartGit
@@ -879,6 +878,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1089,6 +1089,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1128,6 +1129,7 @@ l:autoEdit2
 l:BscanFFTwebcam
 l:MapperoGeotagger
 l:VivifyScrum
+l:Glaxnimate
 l:Vipster
 l:GitHubDesktop
 l:keyrier-json
@@ -1157,5 +1159,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
-l:Alpine_Client
