@@ -890,7 +890,6 @@ l:FastTrack
 l:BloomRPC
 l:Kcov
 l:Dust3D
-l:Cryptocam_Companion
 l:Flippy_Qualitative_Testbench
 l:Canoe
 l:CutePeaks
@@ -1003,6 +1002,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Cryptocam_Companion
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
