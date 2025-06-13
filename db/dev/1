@@ -817,6 +817,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -863,7 +864,6 @@ l:SpringBoard
 l:KiCad
 l:Crypter
 l:AudioMoth
-l:Cryptocam_Companion
 l:luna
 l:Buche
 l:Gulden
@@ -1047,6 +1047,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1158,4 +1159,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
