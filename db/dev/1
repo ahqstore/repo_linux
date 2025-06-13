@@ -817,7 +817,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -982,7 +981,6 @@ l:Rotki
 l:WebDesktop
 l:ideaMaker
 l:Cantata
-l:Glaxnimate
 l:Stacer
 l:KeePassXC
 l:Plex
@@ -1154,6 +1152,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
+l:Cryptocam_Companion
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
