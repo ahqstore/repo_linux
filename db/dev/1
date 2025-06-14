@@ -1021,6 +1021,7 @@ l:school-sections
 l:Pennywise
 l:cric
 l:ANT_Downloader
+l:Cryptocam_Companion
 l:steam-rom-manager
 l:MagicFountain
 l:ElectroCRUD
@@ -1074,7 +1075,6 @@ l:CircuitBlocks
 l:flameshot
 l:GitQlient
 l:Auryo
-l:Cryptocam_Companion
 l:RHB
 l:Spectrum
 l:ProofKeeper
@@ -1150,12 +1150,12 @@ l:LampixJS
 l:Lunyr
 l:gsubs
 l:Pingendo
+l:Glaxnimate
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
