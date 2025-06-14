@@ -759,6 +759,7 @@ l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
 l:Bezique
+l:Cryptocam_Companion
 l:Blowfish
 l:thorium-client
 l:Astrofox
@@ -813,7 +814,6 @@ l:CoCoMusic
 l:colorstatic-bash
 l:Brackets
 l:GM-Companion
-l:Cryptocam_Companion
 l:x-loc
 l:Vitomu
 l:nxshell
@@ -1014,6 +1014,7 @@ l:runanode
 l:twetter
 l:media-dupes
 l:Firefox_Beta
+l:Glaxnimate
 l:HastyHeroes
 l:mutool
 l:plexamp
@@ -1157,5 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
