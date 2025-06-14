@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -834,7 +835,6 @@ l:Tutanota
 l:Sup
 l:Left
 l:PicGo
-l:Cryptocam_Companion
 l:Yamagi_Quake_II
 l:HyperDEX
 l:Cool_Retro_Term
@@ -1156,6 +1156,6 @@ l:Tulip
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
-l:Glaxnimate
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
