@@ -870,6 +870,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1027,7 +1028,6 @@ l:ElectroCRUD
 l:ser-player
 l:Inboxer
 l:Drill
-l:Cryptocam_Companion
 l:avogadro
 l:GospelPdfViewer
 l:synthv1
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
