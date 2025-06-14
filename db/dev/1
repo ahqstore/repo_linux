@@ -834,6 +834,7 @@ l:Tutanota
 l:Sup
 l:Left
 l:PicGo
+l:Cryptocam_Companion
 l:Yamagi_Quake_II
 l:HyperDEX
 l:Cool_Retro_Term
@@ -1088,7 +1089,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1102,7 +1102,6 @@ l:Mini_Diary
 l:trader
 l:Shadow
 l:TeleDrive
-l:Cryptocam_Companion
 l:SBLauncher
 l:Bench_CLI
 l:NimiTV
@@ -1157,5 +1156,6 @@ l:Tulip
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
+l:Glaxnimate
 l:PolkaKey
 l:Alpine_Client
