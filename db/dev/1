@@ -870,6 +870,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -913,6 +914,7 @@ l:nmap
 l:Google_Tasks_Desktop
 l:LikeTaskManager
 l:BetterCrewlink
+l:Glaxnimate
 l:EmuDeck
 l:ReliefValve
 l:OpenTodoList
@@ -1075,7 +1077,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Cryptocam_Companion
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1157,5 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
