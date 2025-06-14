@@ -627,7 +627,6 @@ l:Linphone
 l:Zegarek
 l:Scytale
 l:Pulsar
-l:Cryptocam_Companion
 l:Cromberg
 l:Eternal-Lands
 l:Mob
@@ -740,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -898,7 +898,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1126,6 +1125,7 @@ l:notepadqq
 l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
+l:Glaxnimate
 l:BscanFFTwebcam
 l:MapperoGeotagger
 l:VivifyScrum
