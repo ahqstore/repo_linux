@@ -755,7 +755,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -887,6 +886,7 @@ l:EverInst
 l:CubicSDR
 l:Carpenters
 l:QtMips
+l:Cryptocam_Companion
 l:FastTrack
 l:BloomRPC
 l:Kcov
@@ -1043,7 +1043,6 @@ l:clipr
 l:SimpleX
 l:Bloks
 l:CodePilot.ai
-l:Glaxnimate
 l:qpdf
 l:Syncthing_Tray
 l:Skrifa
@@ -1127,6 +1126,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
