@@ -817,7 +817,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1006,6 +1005,7 @@ l:neovim
 l:mockoon
 l:GSequencer
 l:Blizzard_4
+l:Cryptocam_Companion
 l:ehdev-shell
 l:tnt
 l:Steem_Messenger
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
