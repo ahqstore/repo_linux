@@ -871,7 +871,6 @@ l:ttth
 l:ZeGrapher
 l:Negibox
 l:Heimer
-l:Cryptocam_Companion
 l:ThermusQt
 l:SultanPOS
 l:cabal-desktop
@@ -1089,6 +1088,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1102,6 +1102,7 @@ l:Mini_Diary
 l:trader
 l:Shadow
 l:TeleDrive
+l:Cryptocam_Companion
 l:SBLauncher
 l:Bench_CLI
 l:NimiTV
@@ -1153,9 +1154,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
