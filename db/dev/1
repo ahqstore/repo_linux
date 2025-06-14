@@ -755,11 +755,11 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
 l:Bezique
-l:Cryptocam_Companion
 l:Blowfish
 l:thorium-client
 l:Astrofox
@@ -979,6 +979,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1014,7 +1015,6 @@ l:runanode
 l:twetter
 l:media-dupes
 l:Firefox_Beta
-l:Glaxnimate
 l:HastyHeroes
 l:mutool
 l:plexamp
