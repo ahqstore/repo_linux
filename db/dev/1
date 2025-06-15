@@ -817,7 +817,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -938,6 +937,7 @@ l:OVALE
 l:DeepTags
 l:Scraper
 l:SwitchHosts!
+l:Cryptocam_Companion
 l:ClementineRemote
 l:twitch-wrapper
 l:QmidiNet
