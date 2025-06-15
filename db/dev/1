@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -769,7 +770,6 @@ l:LibreOfficeDev
 l:Record_Compare
 l:BottleBats
 l:QHot
-l:Cryptocam_Companion
 l:Genesis
 l:Planet_Blupi
 l:SynfigStudio
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
