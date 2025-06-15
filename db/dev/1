@@ -779,7 +779,6 @@ l:PhreshPlayer
 l:Delir
 l:RetroShare
 l:bottlenose
-l:Cryptocam_Companion
 l:FAT_Wallet
 l:Colorpicker
 l:RemNote
@@ -801,6 +800,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1141,6 +1141,7 @@ l:BibleMultiTheLife
 l:FreeCAD2
 l:LibreOfficePreRelease
 l:Zoom
+l:Glaxnimate
 l:ConsoleWorkbench
 l:ytDownloader
 l:Focalizzare
@@ -1157,5 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
