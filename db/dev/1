@@ -898,6 +898,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1135,7 +1136,6 @@ l:Sige_Lite
 l:LeoCAD
 l:Parity_Fether
 l:Arma_3_Unix_Launcher
-l:Glaxnimate
 l:Geph
 l:APhotoToolLibre
 l:BibleMultiTheLife
@@ -1154,8 +1154,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
