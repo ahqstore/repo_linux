@@ -711,7 +711,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -801,6 +800,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1052,7 +1052,6 @@ l:FontForge
 l:Kdenlive
 l:CozyDrive
 l:KevEdit
-l:Glaxnimate
 l:UltraScreen
 l:V2Ray-Desktop
 l:Beatconnect_Client
@@ -1158,4 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
