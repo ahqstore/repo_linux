@@ -817,7 +817,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -871,6 +870,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1140,7 +1140,6 @@ l:APhotoToolLibre
 l:BibleMultiTheLife
 l:FreeCAD2
 l:LibreOfficePreRelease
-l:Glaxnimate
 l:Zoom
 l:ConsoleWorkbench
 l:ytDownloader
@@ -1158,4 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
