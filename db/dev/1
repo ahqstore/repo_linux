@@ -1076,7 +1076,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1105,9 +1104,9 @@ l:Shadow
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
-l:Alpine_Client
 l:NimiTV
 l:spark-wallet
+l:Glaxnimate
 l:devdocs-desktop
 l:Synthein
 l:UHK.Agent
@@ -1159,3 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
