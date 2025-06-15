@@ -711,7 +711,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -780,6 +779,7 @@ l:PhreshPlayer
 l:Delir
 l:RetroShare
 l:bottlenose
+l:Cryptocam_Companion
 l:FAT_Wallet
 l:Colorpicker
 l:RemNote
@@ -871,7 +871,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Glaxnimate
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1158,4 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
