@@ -825,6 +825,7 @@ l:Biplanes_Revival
 l:CP2130_Commander
 l:movie-monad
 l:QuickRedis
+l:Cryptocam_Companion
 l:Waterfox_Fourth_Generation
 l:AppImagePool
 l:FontBase
@@ -885,7 +886,6 @@ l:ArcadeManager
 l:EverInst
 l:CubicSDR
 l:Carpenters
-l:Cryptocam_Companion
 l:QtMips
 l:FastTrack
 l:BloomRPC
@@ -1126,7 +1126,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
