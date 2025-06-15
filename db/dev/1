@@ -755,6 +755,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -913,7 +914,6 @@ l:nmap
 l:Google_Tasks_Desktop
 l:LikeTaskManager
 l:BetterCrewlink
-l:Cryptocam_Companion
 l:EmuDeck
 l:ReliefValve
 l:OpenTodoList
@@ -1127,6 +1127,7 @@ l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
 l:MapperoGeotagger
+l:Glaxnimate
 l:VivifyScrum
 l:Vipster
 l:GitHubDesktop
@@ -1153,7 +1154,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
