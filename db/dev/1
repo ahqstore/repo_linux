@@ -755,7 +755,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -818,6 +817,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1145,6 +1145,7 @@ l:ConsoleWorkbench
 l:ytDownloader
 l:Focalizzare
 l:Pathio
+l:Glaxnimate
 l:foxfolio
 l:LampixJS
 l:Lunyr
@@ -1157,5 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
