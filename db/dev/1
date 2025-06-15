@@ -855,7 +855,6 @@ l:Cryptr
 l:Linedancer
 l:MQTT-Explorer
 l:ClipGrab
-l:Cryptocam_Companion
 l:Neon
 l:appimagetool
 l:textosaurus
@@ -871,6 +870,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1150,10 +1150,10 @@ l:LampixJS
 l:Lunyr
 l:gsubs
 l:Pingendo
+l:Alpine_Client
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
