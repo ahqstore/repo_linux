@@ -800,7 +800,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -820,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1141,7 +1141,6 @@ l:BibleMultiTheLife
 l:FreeCAD2
 l:LibreOfficePreRelease
 l:Zoom
-l:Glaxnimate
 l:ConsoleWorkbench
 l:ytDownloader
 l:Focalizzare
@@ -1154,8 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
