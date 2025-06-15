@@ -711,6 +711,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -817,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1052,6 +1052,7 @@ l:FontForge
 l:Kdenlive
 l:CozyDrive
 l:KevEdit
+l:Glaxnimate
 l:UltraScreen
 l:V2Ray-Desktop
 l:Beatconnect_Client
@@ -1153,7 +1154,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
