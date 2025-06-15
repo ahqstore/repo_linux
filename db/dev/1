@@ -755,6 +755,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -817,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -871,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Glaxnimate
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1136,7 +1137,6 @@ l:LeoCAD
 l:Parity_Fether
 l:Arma_3_Unix_Launcher
 l:Geph
-l:Glaxnimate
 l:APhotoToolLibre
 l:BibleMultiTheLife
 l:FreeCAD2
