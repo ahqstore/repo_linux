@@ -819,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -930,6 +931,7 @@ l:Podman
 l:Mapeo
 l:SavvyCAN
 l:Deployer
+l:Glaxnimate
 l:Waterfox_Classic
 l:Phinch
 l:sticker-convert
@@ -937,7 +939,6 @@ l:OVALE
 l:DeepTags
 l:Scraper
 l:SwitchHosts!
-l:Cryptocam_Companion
 l:ClementineRemote
 l:twitch-wrapper
 l:QmidiNet
@@ -1153,7 +1154,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
