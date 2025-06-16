@@ -897,7 +897,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1041,6 +1040,7 @@ l:Lagrange
 l:pretty-handy-privacy
 l:clipr
 l:SimpleX
+l:Glaxnimate
 l:Bloks
 l:CodePilot.ai
 l:qpdf
@@ -1158,4 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
+l:Cryptocam_Companion
