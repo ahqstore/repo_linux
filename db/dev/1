@@ -739,7 +739,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -818,6 +817,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1021,6 +1021,7 @@ l:violetbug
 l:school-sections
 l:Pennywise
 l:cric
+l:Glaxnimate
 l:ANT_Downloader
 l:steam-rom-manager
 l:MagicFountain
@@ -1092,7 +1093,6 @@ l:Rambox
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
-l:Glaxnimate
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
