@@ -817,6 +817,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -870,7 +871,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -915,7 +915,6 @@ l:Google_Tasks_Desktop
 l:LikeTaskManager
 l:BetterCrewlink
 l:EmuDeck
-l:Glaxnimate
 l:ReliefValve
 l:OpenTodoList
 l:nextoncloudLogistic
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
