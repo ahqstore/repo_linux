@@ -755,6 +755,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -871,7 +872,6 @@ l:ttth
 l:ZeGrapher
 l:Negibox
 l:Heimer
-l:Cryptocam_Companion
 l:ThermusQt
 l:SultanPOS
 l:cabal-desktop
@@ -985,6 +985,7 @@ l:Cantata
 l:Stacer
 l:KeePassXC
 l:Plex
+l:Glaxnimate
 l:SquishPic
 l:RBDL-Toolkit
 l:dashy-app
@@ -1158,4 +1159,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
