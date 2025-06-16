@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -956,6 +957,7 @@ l:QmidiCtl
 l:qtchan
 l:commandoo
 l:VisualLVMRemote.yml
+l:Glaxnimate
 l:MellowPlayer
 l:strongbox
 l:Kitupiikki
@@ -1002,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Cryptocam_Companion
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1153,9 +1154,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
