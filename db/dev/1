@@ -772,7 +772,6 @@ l:QHot
 l:Genesis
 l:Planet_Blupi
 l:SynfigStudio
-l:Cryptocam_Companion
 l:ocsstore
 l:tinyclerk
 l:Qt_JSON_diff
@@ -820,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1089,7 +1089,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1145,6 +1144,7 @@ l:Zoom
 l:ConsoleWorkbench
 l:ytDownloader
 l:Focalizzare
+l:Glaxnimate
 l:Pathio
 l:foxfolio
 l:LampixJS
