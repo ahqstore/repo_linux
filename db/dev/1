@@ -811,7 +811,6 @@ l:Gemalaya
 l:PhotoFlow
 l:CoCoMusic
 l:colorstatic-bash
-l:Cryptocam_Companion
 l:Brackets
 l:GM-Companion
 l:x-loc
@@ -871,6 +870,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
