@@ -1003,7 +1003,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1048,6 +1047,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1132,7 +1132,6 @@ l:VivifyScrum
 l:Vipster
 l:GitHubDesktop
 l:keyrier-json
-l:Alpine_Client
 l:Sige_Lite
 l:LeoCAD
 l:Parity_Fether
@@ -1159,3 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
