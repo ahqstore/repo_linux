@@ -800,7 +800,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -820,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -941,6 +941,7 @@ l:SwitchHosts!
 l:ClementineRemote
 l:twitch-wrapper
 l:QmidiNet
+l:Glaxnimate
 l:qtrfpowermeter
 l:embedded-ide
 l:jumpfm
@@ -1015,7 +1016,6 @@ l:twetter
 l:media-dupes
 l:Firefox_Beta
 l:HastyHeroes
-l:Glaxnimate
 l:mutool
 l:plexamp
 l:violetbug
