@@ -819,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -878,7 +879,6 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Glaxnimate
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -948,6 +948,7 @@ l:ElDumper
 l:Quark
 l:Rats_on_The_Boat
 l:DICOMautomaton
+l:Glaxnimate
 l:guiscrcpy
 l:AnimaShooter
 l:VNote
@@ -1023,7 +1024,6 @@ l:Pennywise
 l:cric
 l:ANT_Downloader
 l:steam-rom-manager
-l:Cryptocam_Companion
 l:MagicFountain
 l:ElectroCRUD
 l:ser-player
@@ -1086,7 +1086,6 @@ l:IrScrutinizer
 l:Revisionary
 l:pkg2appimage
 l:WalletTech
-l:Alpine_Client
 l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
@@ -1159,3 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
