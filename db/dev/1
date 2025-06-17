@@ -755,6 +755,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -900,7 +901,6 @@ l:CoreAction
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
-l:Cryptocam_Companion
 l:PostyBirb
 l:BasiliskII
 l:ridereceipts
@@ -943,6 +943,7 @@ l:twitch-wrapper
 l:QmidiNet
 l:qtrfpowermeter
 l:embedded-ide
+l:Glaxnimate
 l:jumpfm
 l:ElDumper
 l:Quark
@@ -1158,4 +1159,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
