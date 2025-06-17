@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -819,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -941,7 +941,6 @@ l:SwitchHosts!
 l:ClementineRemote
 l:twitch-wrapper
 l:QmidiNet
-l:Glaxnimate
 l:qtrfpowermeter
 l:embedded-ide
 l:jumpfm
@@ -1143,6 +1142,7 @@ l:FreeCAD2
 l:LibreOfficePreRelease
 l:Zoom
 l:ConsoleWorkbench
+l:Glaxnimate
 l:ytDownloader
 l:Focalizzare
 l:Pathio
