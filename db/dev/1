@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -755,7 +756,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -943,7 +943,6 @@ l:twitch-wrapper
 l:QmidiNet
 l:qtrfpowermeter
 l:embedded-ide
-l:Glaxnimate
 l:jumpfm
 l:ElDumper
 l:Quark
@@ -1154,6 +1153,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
