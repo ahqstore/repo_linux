@@ -800,6 +800,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -878,7 +879,6 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1138,7 +1138,6 @@ l:Arma_3_Unix_Launcher
 l:Geph
 l:APhotoToolLibre
 l:BibleMultiTheLife
-l:Alpine_Client
 l:FreeCAD2
 l:LibreOfficePreRelease
 l:Zoom
@@ -1154,8 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
