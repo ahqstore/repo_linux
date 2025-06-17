@@ -55,6 +55,7 @@ l:RasterDraw
 l:QaterialHotReload
 l:Nextcloud
 l:CIAA_Suite
+l:Subtitle_Composer
 l:Scilab
 l:PicoLog
 l:Minecraft_Pi_Reborn_Server
@@ -139,6 +140,7 @@ l:MuPDF
 l:NixNote
 l:simple-s3-uploader
 l:MediaConchGUI
+l:PacketSender
 l:Paper
 l:Artisan
 l:GooboxFileShare
@@ -518,6 +520,7 @@ l:Cscrypto
 l:Ember
 l:JSplacement
 l:RedDiamond
+l:Responsively
 l:GXC_Smart_Contract_IDE
 l:Thunderbird
 l:triagem-touch
@@ -533,6 +536,7 @@ l:MAngbandClient
 l:yaya
 l:Whalebird
 l:Slippi
+l:nimbus-weather
 l:Play_2048
 l:Tag_Editor
 l:storyboarder
@@ -840,7 +844,6 @@ l:Around
 l:kitupiikki
 l:Drawpile-Server
 l:ScrapeStorm
-l:Cryptocam_Companion
 l:MuWire
 l:TVALB
 l:Catalyst_Browser
@@ -867,6 +870,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -988,7 +992,6 @@ l:iota1k
 l:laravel-kit
 l:KADE
 l:nRF_Connect
-l:Glaxnimate
 l:dvdisaster
 l:Detect_It_Easy
 l:LANShare
@@ -1154,3 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
+l:Alpine_Client
