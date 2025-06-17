@@ -739,7 +739,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -879,6 +878,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1041,7 +1041,6 @@ l:Lagrange
 l:pretty-handy-privacy
 l:clipr
 l:SimpleX
-l:Glaxnimate
 l:Bloks
 l:CodePilot.ai
 l:qpdf
@@ -1139,6 +1138,7 @@ l:Arma_3_Unix_Launcher
 l:Geph
 l:APhotoToolLibre
 l:BibleMultiTheLife
+l:Alpine_Client
 l:FreeCAD2
 l:LibreOfficePreRelease
 l:Zoom
@@ -1158,4 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
