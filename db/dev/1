@@ -739,7 +739,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -786,6 +785,7 @@ l:RemNote
 l:Moonlight
 l:ChemCanvas
 l:Workbench
+l:Cryptocam_Companion
 l:StatusIm
 l:KeeWeb
 l:Datcord
