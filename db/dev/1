@@ -739,7 +739,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -866,6 +865,7 @@ l:Crypter
 l:AudioMoth
 l:luna
 l:Buche
+l:Cryptocam_Companion
 l:Gulden
 l:Patchwork
 l:ttth
@@ -1076,6 +1076,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1142,7 +1143,6 @@ l:FreeCAD2
 l:LibreOfficePreRelease
 l:Zoom
 l:ConsoleWorkbench
-l:Glaxnimate
 l:ytDownloader
 l:Focalizzare
 l:Pathio
