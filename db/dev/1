@@ -789,7 +789,6 @@ l:StatusIm
 l:KeeWeb
 l:Datcord
 l:subtitles-composer-app
-l:Cryptocam_Companion
 l:Dana
 l:Cabal_Desktop_Mini
 l:HEAT1D
@@ -1014,7 +1013,6 @@ l:runanode
 l:twetter
 l:media-dupes
 l:Firefox_Beta
-l:Glaxnimate
 l:HastyHeroes
 l:mutool
 l:plexamp
@@ -1090,6 +1088,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Cryptocam_Companion
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
