@@ -711,7 +711,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -901,6 +900,7 @@ l:CoreAction
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
+l:Cryptocam_Companion
 l:PostyBirb
 l:BasiliskII
 l:ridereceipts
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
