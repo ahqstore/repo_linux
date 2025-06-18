@@ -836,7 +836,6 @@ l:Left
 l:PicGo
 l:Yamagi_Quake_II
 l:HyperDEX
-l:Cryptocam_Companion
 l:Cool_Retro_Term
 l:sipgate_Softphone
 l:Memento
@@ -1047,6 +1046,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Cryptocam_Companion
 l:Alpine_Client
