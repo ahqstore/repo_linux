@@ -711,6 +711,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -931,7 +932,6 @@ l:Mapeo
 l:SavvyCAN
 l:Deployer
 l:Waterfox_Classic
-l:Cryptocam_Companion
 l:Phinch
 l:sticker-convert
 l:OVALE
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
