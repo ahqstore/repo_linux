@@ -870,7 +870,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1071,6 +1070,7 @@ l:Tusk
 l:linuxdeployqt
 l:GameHub
 l:Papercraft
+l:Cryptocam_Companion
 l:CircuitBlocks
 l:flameshot
 l:GitQlient
@@ -1089,7 +1089,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1145,7 +1144,6 @@ l:Zoom
 l:ConsoleWorkbench
 l:ytDownloader
 l:Focalizzare
-l:Glaxnimate
 l:Pathio
 l:foxfolio
 l:LampixJS
@@ -1159,3 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
+l:Glaxnimate
