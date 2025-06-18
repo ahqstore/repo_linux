@@ -751,7 +751,6 @@ l:SVGWall
 l:whiteboard
 l:Todoist
 l:Vieb
-l:Cryptocam_Companion
 l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
@@ -994,6 +993,7 @@ l:KADE
 l:nRF_Connect
 l:dvdisaster
 l:Detect_It_Easy
+l:Cryptocam_Companion
 l:LANShare
 l:iQPuzzle
 l:Zap
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
