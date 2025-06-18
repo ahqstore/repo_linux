@@ -897,6 +897,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1046,7 +1047,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
