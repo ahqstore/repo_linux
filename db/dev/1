@@ -777,6 +777,7 @@ l:tinyclerk
 l:Qt_JSON_diff
 l:PhreshPlayer
 l:Delir
+l:Cryptocam_Companion
 l:RetroShare
 l:bottlenose
 l:FAT_Wallet
@@ -1088,7 +1089,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Cryptocam_Companion
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
