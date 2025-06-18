@@ -835,7 +835,6 @@ l:Sup
 l:Left
 l:PicGo
 l:Yamagi_Quake_II
-l:Cryptocam_Companion
 l:HyperDEX
 l:Cool_Retro_Term
 l:sipgate_Softphone
@@ -879,6 +878,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1047,7 +1047,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
