@@ -957,7 +957,6 @@ l:qtchan
 l:commandoo
 l:VisualLVMRemote.yml
 l:MellowPlayer
-l:Cryptocam_Companion
 l:strongbox
 l:Kitupiikki
 l:Scatter
@@ -1089,6 +1088,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
+l:Cryptocam_Companion
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
