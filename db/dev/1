@@ -771,6 +771,7 @@ l:BottleBats
 l:QHot
 l:Genesis
 l:Planet_Blupi
+l:Cryptocam_Companion
 l:SynfigStudio
 l:ocsstore
 l:tinyclerk
@@ -828,7 +829,6 @@ l:QuickRedis
 l:Waterfox_Fourth_Generation
 l:AppImagePool
 l:FontBase
-l:Cryptocam_Companion
 l:streamcapture2
 l:linux-intel-undervolt-gui
 l:Tutanota
@@ -1109,7 +1109,6 @@ l:spark-wallet
 l:devdocs-desktop
 l:Synthein
 l:UHK.Agent
-l:Alpine_Client
 l:nbrsync
 l:PlayMe
 l:Tumblr_Scraper
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
