@@ -711,7 +711,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -1126,6 +1125,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Cryptocam_Companion
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1156,6 +1156,6 @@ l:Tulip
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
+l:Alpine_Client
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
