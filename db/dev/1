@@ -800,6 +800,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1070,7 +1071,6 @@ l:Tusk
 l:linuxdeployqt
 l:GameHub
 l:Papercraft
-l:Cryptocam_Companion
 l:CircuitBlocks
 l:flameshot
 l:GitQlient
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
