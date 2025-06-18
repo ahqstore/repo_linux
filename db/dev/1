@@ -1089,6 +1089,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1144,6 +1145,7 @@ l:Zoom
 l:ConsoleWorkbench
 l:ytDownloader
 l:Focalizzare
+l:Glaxnimate
 l:Pathio
 l:foxfolio
 l:LampixJS
@@ -1157,5 +1159,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
-l:Alpine_Client
