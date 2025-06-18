@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -775,7 +776,6 @@ l:SynfigStudio
 l:ocsstore
 l:tinyclerk
 l:Qt_JSON_diff
-l:Cryptocam_Companion
 l:PhreshPlayer
 l:Delir
 l:RetroShare
@@ -979,6 +979,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1089,7 +1090,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1158,4 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
