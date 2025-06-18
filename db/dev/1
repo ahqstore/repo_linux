@@ -870,7 +870,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -981,6 +980,7 @@ l:Firefox_Nightly
 l:Rotki
 l:WebDesktop
 l:ideaMaker
+l:Glaxnimate
 l:Cantata
 l:Stacer
 l:KeePassXC
@@ -1158,4 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
+l:Cryptocam_Companion
