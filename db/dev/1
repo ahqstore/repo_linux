@@ -828,6 +828,7 @@ l:QuickRedis
 l:Waterfox_Fourth_Generation
 l:AppImagePool
 l:FontBase
+l:Cryptocam_Companion
 l:streamcapture2
 l:linux-intel-undervolt-gui
 l:Tutanota
@@ -870,7 +871,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1109,6 +1109,7 @@ l:spark-wallet
 l:devdocs-desktop
 l:Synthein
 l:UHK.Agent
+l:Alpine_Client
 l:nbrsync
 l:PlayMe
 l:Tumblr_Scraper
@@ -1153,9 +1154,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
