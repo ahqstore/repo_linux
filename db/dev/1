@@ -755,6 +755,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -770,7 +771,6 @@ l:Record_Compare
 l:BottleBats
 l:QHot
 l:Genesis
-l:Cryptocam_Companion
 l:Planet_Blupi
 l:SynfigStudio
 l:ocsstore
@@ -1032,6 +1032,7 @@ l:avogadro
 l:GospelPdfViewer
 l:synthv1
 l:UniShellect
+l:Glaxnimate
 l:youtube-music
 l:jitsi-meet
 l:VK_Desktop
@@ -1158,4 +1159,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
