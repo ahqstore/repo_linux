@@ -755,6 +755,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -978,7 +979,6 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
-l:Cryptocam_Companion
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1156,6 +1156,6 @@ l:Tulip
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
-l:Glaxnimate
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
