@@ -779,7 +779,6 @@ l:PhreshPlayer
 l:Delir
 l:RetroShare
 l:bottlenose
-l:Cryptocam_Companion
 l:FAT_Wallet
 l:Colorpicker
 l:RemNote
@@ -801,6 +800,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1003,6 +1003,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1011,7 +1012,6 @@ l:tnt
 l:Steem_Messenger
 l:Gitbumr
 l:runanode
-l:Glaxnimate
 l:twetter
 l:media-dupes
 l:Firefox_Beta
