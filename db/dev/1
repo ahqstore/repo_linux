@@ -1021,7 +1021,6 @@ l:school-sections
 l:Pennywise
 l:cric
 l:ANT_Downloader
-l:Cryptocam_Companion
 l:steam-rom-manager
 l:MagicFountain
 l:ElectroCRUD
@@ -1066,6 +1065,7 @@ l:Friture
 l:M
 l:KopiaUI
 l:lightning-peach-wallet
+l:Alpine_Client
 l:Giada
 l:Tusk
 l:linuxdeployqt
@@ -1080,6 +1080,7 @@ l:Spectrum
 l:ProofKeeper
 l:Museeks
 l:Gpredict
+l:Cryptocam_Companion
 l:midi123
 l:IrScrutinizer
 l:Revisionary
@@ -1158,4 +1159,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
