@@ -777,7 +777,6 @@ l:tinyclerk
 l:Qt_JSON_diff
 l:PhreshPlayer
 l:Delir
-l:Cryptocam_Companion
 l:RetroShare
 l:bottlenose
 l:FAT_Wallet
@@ -1003,6 +1002,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Cryptocam_Companion
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
