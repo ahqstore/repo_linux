@@ -755,7 +755,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -818,6 +817,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1054,7 +1054,6 @@ l:CozyDrive
 l:KevEdit
 l:UltraScreen
 l:V2Ray-Desktop
-l:Glaxnimate
 l:Beatconnect_Client
 l:snake.js
 l:Poddr
@@ -1088,6 +1087,7 @@ l:pkg2appimage
 l:WalletTech
 l:ToastWallet
 l:Wonderwall
+l:Glaxnimate
 l:ProcDepMonitor
 l:Rambox
 l:SimpleInstaBot
