@@ -819,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -938,7 +939,6 @@ l:DeepTags
 l:Scraper
 l:SwitchHosts!
 l:ClementineRemote
-l:Cryptocam_Companion
 l:twitch-wrapper
 l:QmidiNet
 l:qtrfpowermeter
@@ -1092,7 +1092,6 @@ l:Rambox
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
-l:Glaxnimate
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
@@ -1127,6 +1126,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
