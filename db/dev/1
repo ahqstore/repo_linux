@@ -777,6 +777,7 @@ l:tinyclerk
 l:Qt_JSON_diff
 l:PhreshPlayer
 l:Delir
+l:Cryptocam_Companion
 l:RetroShare
 l:bottlenose
 l:FAT_Wallet
@@ -817,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1100,7 +1100,6 @@ l:qr-code-generator-desktop
 l:Bazecor
 l:Mini_Diary
 l:trader
-l:Glaxnimate
 l:Shadow
 l:TeleDrive
 l:SBLauncher
@@ -1154,6 +1153,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
