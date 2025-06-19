@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -923,7 +924,6 @@ l:MuseScore
 l:Spectral
 l:lumi
 l:paferashare
-l:Cryptocam_Companion
 l:Sharp-Tune
 l:SF_Tube
 l:ldview
@@ -1129,6 +1129,7 @@ l:BscanFFTwebcam
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
+l:Glaxnimate
 l:GitHubDesktop
 l:keyrier-json
 l:Sige_Lite
@@ -1157,5 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
