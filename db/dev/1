@@ -767,6 +767,7 @@ l:Electrum-NMC
 l:YARC-Launcher
 l:LibreOfficeDev
 l:Record_Compare
+l:Cryptocam_Companion
 l:BottleBats
 l:QHot
 l:Genesis
@@ -800,7 +801,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1014,7 +1014,6 @@ l:runanode
 l:twetter
 l:media-dupes
 l:Firefox_Beta
-l:Glaxnimate
 l:HastyHeroes
 l:mutool
 l:plexamp
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
