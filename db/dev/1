@@ -819,7 +819,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -939,6 +938,7 @@ l:DeepTags
 l:Scraper
 l:SwitchHosts!
 l:ClementineRemote
+l:Cryptocam_Companion
 l:twitch-wrapper
 l:QmidiNet
 l:qtrfpowermeter
@@ -1089,10 +1089,10 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
+l:Glaxnimate
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
