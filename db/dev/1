@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -1065,7 +1066,6 @@ l:Friture
 l:M
 l:KopiaUI
 l:lightning-peach-wallet
-l:Alpine_Client
 l:Giada
 l:Tusk
 l:linuxdeployqt
@@ -1080,7 +1080,6 @@ l:Spectrum
 l:ProofKeeper
 l:Museeks
 l:Gpredict
-l:Cryptocam_Companion
 l:midi123
 l:IrScrutinizer
 l:Revisionary
@@ -1089,6 +1088,7 @@ l:WalletTech
 l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
+l:Glaxnimate
 l:Rambox
 l:SimpleInstaBot
 l:Subsurface
@@ -1158,4 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
