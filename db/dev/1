@@ -908,6 +908,7 @@ l:StatusPilatus
 l:Scrum-Retroboard
 l:VirtualBox-KVM
 l:Wsocks
+l:Glaxnimate
 l:Shuttle
 l:Demonizer
 l:nmap
@@ -1157,5 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
