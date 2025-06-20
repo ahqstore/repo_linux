@@ -711,6 +711,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -979,7 +980,6 @@ l:bioanimation
 l:Firefox_Nightly
 l:Rotki
 l:WebDesktop
-l:Cryptocam_Companion
 l:ideaMaker
 l:Cantata
 l:Stacer
@@ -1076,6 +1076,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1156,6 +1157,5 @@ l:Tulip
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
-l:Alpine_Client
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
