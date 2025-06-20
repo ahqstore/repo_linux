@@ -713,7 +713,6 @@ l:Naev
 l:Scribus
 l:BulkURLOpener
 l:NoSQLBooster
-l:Cryptocam_Companion
 l:nheko
 l:Lemon
 l:Paletti
@@ -791,6 +790,7 @@ l:KeeWeb
 l:Datcord
 l:subtitles-composer-app
 l:Dana
+l:Cryptocam_Companion
 l:Cabal_Desktop_Mini
 l:HEAT1D
 l:Postman
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
