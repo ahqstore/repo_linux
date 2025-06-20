@@ -739,7 +739,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -879,6 +878,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Glaxnimate
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -908,7 +908,6 @@ l:StatusPilatus
 l:Scrum-Retroboard
 l:VirtualBox-KVM
 l:Wsocks
-l:Glaxnimate
 l:Shuttle
 l:Demonizer
 l:nmap
@@ -1104,6 +1103,7 @@ l:trader
 l:Shadow
 l:TeleDrive
 l:SBLauncher
+l:Cryptocam_Companion
 l:Bench_CLI
 l:NimiTV
 l:spark-wallet
