@@ -817,7 +817,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -898,6 +897,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1076,7 +1076,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1144,6 +1143,7 @@ l:LibreOfficePreRelease
 l:Zoom
 l:ConsoleWorkbench
 l:ytDownloader
+l:Glaxnimate
 l:Focalizzare
 l:Pathio
 l:foxfolio
