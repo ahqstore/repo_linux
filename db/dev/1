@@ -955,6 +955,7 @@ l:vifm
 l:QmidiCtl
 l:qtchan
 l:commandoo
+l:Cryptocam_Companion
 l:VisualLVMRemote.yml
 l:MellowPlayer
 l:strongbox
@@ -1046,7 +1047,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
