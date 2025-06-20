@@ -762,7 +762,6 @@ l:Bezique
 l:Blowfish
 l:thorium-client
 l:Astrofox
-l:Cryptocam_Companion
 l:GoldenCheetah
 l:Electrum-NMC
 l:YARC-Launcher
@@ -865,6 +864,7 @@ l:KiCad
 l:Crypter
 l:AudioMoth
 l:luna
+l:Cryptocam_Companion
 l:Buche
 l:Gulden
 l:Patchwork
@@ -898,6 +898,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1157,5 +1158,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
