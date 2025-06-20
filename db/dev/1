@@ -789,6 +789,7 @@ l:StatusIm
 l:KeeWeb
 l:Datcord
 l:subtitles-composer-app
+l:Cryptocam_Companion
 l:Dana
 l:Cabal_Desktop_Mini
 l:HEAT1D
@@ -817,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
