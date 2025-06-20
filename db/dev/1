@@ -711,6 +711,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -1012,7 +1013,6 @@ l:Gitbumr
 l:runanode
 l:twetter
 l:media-dupes
-l:Cryptocam_Companion
 l:Firefox_Beta
 l:HastyHeroes
 l:mutool
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
