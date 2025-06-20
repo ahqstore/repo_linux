@@ -755,6 +755,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -1002,6 +1003,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1040,7 +1042,6 @@ l:Lagrange
 l:pretty-handy-privacy
 l:clipr
 l:SimpleX
-l:Glaxnimate
 l:Bloks
 l:CodePilot.ai
 l:qpdf
@@ -1076,7 +1077,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Alpine_Client
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1154,8 +1154,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Cryptocam_Companion
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
