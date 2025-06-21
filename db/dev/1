@@ -897,7 +897,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1047,7 +1046,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1077,6 +1075,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Cryptocam_Companion
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1127,7 +1126,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1159,3 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
+l:Glaxnimate
