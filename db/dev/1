@@ -869,8 +869,8 @@ l:Gulden
 l:Patchwork
 l:ttth
 l:ZeGrapher
-l:Negibox
 l:Cryptocam_Companion
+l:Negibox
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1101,7 +1101,6 @@ l:Bazecor
 l:Mini_Diary
 l:trader
 l:Shadow
-l:Glaxnimate
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
