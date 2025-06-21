@@ -819,7 +819,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1003,7 +1002,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1072,6 +1070,7 @@ l:Tusk
 l:linuxdeployqt
 l:GameHub
 l:Papercraft
+l:Alpine_Client
 l:CircuitBlocks
 l:flameshot
 l:GitQlient
@@ -1149,13 +1148,14 @@ l:Pathio
 l:foxfolio
 l:LampixJS
 l:Lunyr
+l:Cryptocam_Companion
 l:gsubs
 l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
