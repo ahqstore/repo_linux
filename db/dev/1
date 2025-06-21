@@ -748,6 +748,7 @@ l:Artifact
 l:James
 l:Speaky_MiniPlayer
 l:SVGWall
+l:Cryptocam_Companion
 l:whiteboard
 l:Todoist
 l:Vieb
@@ -819,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -970,7 +970,6 @@ l:marktext
 l:RefOrg
 l:Electron_App_Store
 l:Krita
-l:Glaxnimate
 l:Zenkit
 l:Bodhi
 l:slang-ed
@@ -1013,6 +1012,7 @@ l:Steem_Messenger
 l:Gitbumr
 l:runanode
 l:twetter
+l:Glaxnimate
 l:media-dupes
 l:Firefox_Beta
 l:HastyHeroes
