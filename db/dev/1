@@ -872,6 +872,7 @@ l:ZeGrapher
 l:Negibox
 l:Heimer
 l:ThermusQt
+l:Cryptocam_Companion
 l:SultanPOS
 l:cabal-desktop
 l:Kristall
@@ -1097,7 +1098,6 @@ l:Mayo
 l:Pile
 l:qr-code-generator-desktop
 l:Bazecor
-l:Cryptocam_Companion
 l:Mini_Diary
 l:trader
 l:Shadow
@@ -1127,6 +1127,7 @@ l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
 l:MapperoGeotagger
+l:Glaxnimate
 l:VivifyScrum
 l:Vipster
 l:GitHubDesktop
@@ -1158,4 +1159,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
