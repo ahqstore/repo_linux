@@ -800,6 +800,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -826,7 +827,6 @@ l:CP2130_Commander
 l:movie-monad
 l:QuickRedis
 l:Waterfox_Fourth_Generation
-l:Cryptocam_Companion
 l:AppImagePool
 l:FontBase
 l:streamcapture2
@@ -931,7 +931,6 @@ l:Podman
 l:Mapeo
 l:SavvyCAN
 l:Deployer
-l:Glaxnimate
 l:Waterfox_Classic
 l:Phinch
 l:sticker-convert
@@ -1004,6 +1003,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
