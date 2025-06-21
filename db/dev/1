@@ -800,7 +800,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -827,6 +826,7 @@ l:CP2130_Commander
 l:movie-monad
 l:QuickRedis
 l:Waterfox_Fourth_Generation
+l:Cryptocam_Companion
 l:AppImagePool
 l:FontBase
 l:streamcapture2
@@ -1078,7 +1078,6 @@ l:Auryo
 l:RHB
 l:Spectrum
 l:ProofKeeper
-l:Glaxnimate
 l:Museeks
 l:Gpredict
 l:midi123
@@ -1154,8 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
