@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -923,7 +924,6 @@ l:MuseScore
 l:Spectral
 l:lumi
 l:paferashare
-l:Cryptocam_Companion
 l:Sharp-Tune
 l:SF_Tube
 l:ldview
@@ -979,6 +979,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1153,9 +1154,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
