@@ -797,6 +797,7 @@ l:Mochi
 l:SmartGit
 l:Waterfox_Current
 l:Wexond
+l:Cryptocam_Companion
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
@@ -872,7 +873,6 @@ l:ZeGrapher
 l:Negibox
 l:Heimer
 l:ThermusQt
-l:Cryptocam_Companion
 l:SultanPOS
 l:cabal-desktop
 l:Kristall
@@ -1127,7 +1127,6 @@ l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
 l:MapperoGeotagger
-l:Glaxnimate
 l:VivifyScrum
 l:Vipster
 l:GitHubDesktop
@@ -1158,4 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
