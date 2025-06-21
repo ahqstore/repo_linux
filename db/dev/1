@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -1011,11 +1012,9 @@ l:Steem_Messenger
 l:Gitbumr
 l:runanode
 l:twetter
-l:Cryptocam_Companion
 l:media-dupes
 l:Firefox_Beta
 l:HastyHeroes
-l:Glaxnimate
 l:mutool
 l:plexamp
 l:violetbug
@@ -1090,6 +1089,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
