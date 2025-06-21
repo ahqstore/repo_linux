@@ -817,6 +817,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -870,7 +871,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1087,6 +1087,7 @@ l:pkg2appimage
 l:WalletTech
 l:ToastWallet
 l:Wonderwall
+l:Glaxnimate
 l:ProcDepMonitor
 l:Rambox
 l:SimpleInstaBot
@@ -1153,9 +1154,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
