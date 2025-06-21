@@ -755,6 +755,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -804,7 +805,6 @@ l:Colobot
 l:Protracker
 l:APK_Editor_Studio
 l:Atomicwallet
-l:Cryptocam_Companion
 l:JoalDesktop
 l:Geometrize
 l:antimicroX
@@ -1031,7 +1031,6 @@ l:Drill
 l:avogadro
 l:GospelPdfViewer
 l:synthv1
-l:Glaxnimate
 l:UniShellect
 l:youtube-music
 l:jitsi-meet
@@ -1077,6 +1076,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
