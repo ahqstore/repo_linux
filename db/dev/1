@@ -748,7 +748,6 @@ l:Artifact
 l:James
 l:Speaky_MiniPlayer
 l:SVGWall
-l:Cryptocam_Companion
 l:whiteboard
 l:Todoist
 l:Vieb
@@ -780,6 +779,7 @@ l:PhreshPlayer
 l:Delir
 l:RetroShare
 l:bottlenose
+l:Cryptocam_Companion
 l:FAT_Wallet
 l:Colorpicker
 l:RemNote
@@ -1012,7 +1012,6 @@ l:Steem_Messenger
 l:Gitbumr
 l:runanode
 l:twetter
-l:Glaxnimate
 l:media-dupes
 l:Firefox_Beta
 l:HastyHeroes
@@ -1158,4 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
