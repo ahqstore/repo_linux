@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -786,7 +787,6 @@ l:Moonlight
 l:ChemCanvas
 l:Workbench
 l:StatusIm
-l:Cryptocam_Companion
 l:KeeWeb
 l:Datcord
 l:subtitles-composer-app
@@ -998,7 +998,6 @@ l:LANShare
 l:iQPuzzle
 l:Zap
 l:Digitales_Klassenzimmer
-l:Glaxnimate
 l:HDRMerge
 l:privacy.sexy
 l:T.Viewer
@@ -1063,6 +1062,7 @@ l:OWallet
 l:QNapi
 l:onnx2daq
 l:GVim
+l:Glaxnimate
 l:Friture
 l:M
 l:KopiaUI
