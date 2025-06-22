@@ -755,7 +755,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -787,6 +786,7 @@ l:Moonlight
 l:ChemCanvas
 l:Workbench
 l:StatusIm
+l:Cryptocam_Companion
 l:KeeWeb
 l:Datcord
 l:subtitles-composer-app
@@ -916,7 +916,6 @@ l:LikeTaskManager
 l:BetterCrewlink
 l:EmuDeck
 l:ReliefValve
-l:Glaxnimate
 l:OpenTodoList
 l:nextoncloudLogistic
 l:Guitar
@@ -999,6 +998,7 @@ l:LANShare
 l:iQPuzzle
 l:Zap
 l:Digitales_Klassenzimmer
+l:Glaxnimate
 l:HDRMerge
 l:privacy.sexy
 l:T.Viewer
