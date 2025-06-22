@@ -755,7 +755,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -775,6 +774,7 @@ l:Planet_Blupi
 l:SynfigStudio
 l:ocsstore
 l:tinyclerk
+l:Cryptocam_Companion
 l:Qt_JSON_diff
 l:PhreshPlayer
 l:Delir
@@ -1126,7 +1126,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1159,3 +1158,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
