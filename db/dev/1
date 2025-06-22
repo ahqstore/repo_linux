@@ -847,6 +847,7 @@ l:ScrapeStorm
 l:MuWire
 l:TVALB
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Pony_Compiler
 l:CorePins
 l:NoraGO
@@ -878,7 +879,6 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -898,7 +898,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1158,4 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
