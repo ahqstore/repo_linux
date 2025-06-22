@@ -623,7 +623,6 @@ l:Winds
 l:Anchor
 l:getswell
 l:GPUpad
-l:Cryptocam_Companion
 l:Linphone
 l:Zegarek
 l:Scytale
@@ -879,6 +878,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Glaxnimate
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -957,7 +957,6 @@ l:QmidiCtl
 l:qtchan
 l:commandoo
 l:VisualLVMRemote.yml
-l:Glaxnimate
 l:MellowPlayer
 l:strongbox
 l:Kitupiikki
@@ -1048,6 +1047,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
