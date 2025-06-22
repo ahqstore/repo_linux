@@ -819,7 +819,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1070,6 +1069,7 @@ l:Giada
 l:Tusk
 l:linuxdeployqt
 l:GameHub
+l:Cryptocam_Companion
 l:Papercraft
 l:CircuitBlocks
 l:flameshot
@@ -1080,6 +1080,7 @@ l:Spectrum
 l:ProofKeeper
 l:Museeks
 l:Gpredict
+l:Glaxnimate
 l:midi123
 l:IrScrutinizer
 l:Revisionary
@@ -1153,7 +1154,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
