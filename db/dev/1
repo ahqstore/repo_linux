@@ -847,7 +847,6 @@ l:ScrapeStorm
 l:MuWire
 l:TVALB
 l:Catalyst_Browser
-l:Cryptocam_Companion
 l:Pony_Compiler
 l:CorePins
 l:NoraGO
@@ -1153,9 +1152,10 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
+l:Cryptocam_Companion
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
