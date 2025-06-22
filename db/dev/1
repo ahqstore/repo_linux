@@ -931,6 +931,7 @@ l:Mapeo
 l:SavvyCAN
 l:Deployer
 l:Waterfox_Classic
+l:Cryptocam_Companion
 l:Phinch
 l:sticker-convert
 l:OVALE
@@ -1075,7 +1076,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1151,9 +1151,9 @@ l:Lunyr
 l:gsubs
 l:Pingendo
 l:four
-l:Cryptocam_Companion
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
