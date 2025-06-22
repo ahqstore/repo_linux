@@ -819,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1088,7 +1089,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Cryptocam_Companion
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1146,6 +1146,7 @@ l:ytDownloader
 l:Focalizzare
 l:Pathio
 l:foxfolio
+l:Glaxnimate
 l:LampixJS
 l:Lunyr
 l:gsubs
@@ -1158,4 +1159,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
