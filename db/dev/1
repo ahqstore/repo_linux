@@ -978,6 +978,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Cryptocam_Companion
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1099,7 +1100,6 @@ l:qr-code-generator-desktop
 l:Bazecor
 l:Mini_Diary
 l:trader
-l:Cryptocam_Companion
 l:Shadow
 l:TeleDrive
 l:SBLauncher
@@ -1153,9 +1153,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
