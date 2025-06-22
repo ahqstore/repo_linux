@@ -739,6 +739,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -1046,7 +1047,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1084,7 +1084,6 @@ l:midi123
 l:IrScrutinizer
 l:Revisionary
 l:pkg2appimage
-l:Cryptocam_Companion
 l:WalletTech
 l:ToastWallet
 l:Wonderwall
@@ -1108,7 +1107,6 @@ l:Bench_CLI
 l:NimiTV
 l:spark-wallet
 l:devdocs-desktop
-l:Alpine_Client
 l:Synthein
 l:UHK.Agent
 l:nbrsync
@@ -1159,3 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
+l:Glaxnimate
