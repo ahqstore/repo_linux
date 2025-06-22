@@ -774,7 +774,6 @@ l:Planet_Blupi
 l:SynfigStudio
 l:ocsstore
 l:tinyclerk
-l:Cryptocam_Companion
 l:Qt_JSON_diff
 l:PhreshPlayer
 l:Delir
@@ -871,6 +870,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1157,5 +1157,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
