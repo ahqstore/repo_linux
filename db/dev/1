@@ -99,6 +99,7 @@ l:Rainbow_Board
 l:Keys
 l:Safe_Multisig
 l:Downline
+l:Master_PDF_Editor_5.9.90-x86_64.AppImage
 l:rmw
 l:beurerscalemanager
 l:patchbay
@@ -739,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -820,6 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1047,6 +1048,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1153,7 +1155,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
