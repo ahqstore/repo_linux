@@ -769,6 +769,7 @@ l:YARC-Launcher
 l:LibreOfficeDev
 l:Record_Compare
 l:BottleBats
+l:Cryptocam_Companion
 l:QHot
 l:Genesis
 l:Planet_Blupi
@@ -879,7 +880,6 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -980,6 +980,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1105,7 +1106,6 @@ l:Shadow
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
-l:Alpine_Client
 l:NimiTV
 l:spark-wallet
 l:devdocs-desktop
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
