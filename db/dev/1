@@ -739,7 +739,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -820,6 +819,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -919,6 +919,7 @@ l:ReliefValve
 l:OpenTodoList
 l:nextoncloudLogistic
 l:Guitar
+l:Glaxnimate
 l:Sugarizer
 l:MuseScore
 l:Spectral
@@ -1076,7 +1077,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
