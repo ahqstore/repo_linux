@@ -792,7 +792,6 @@ l:Datcord
 l:subtitles-composer-app
 l:Dana
 l:Cabal_Desktop_Mini
-l:Cryptocam_Companion
 l:HEAT1D
 l:Postman
 l:Mochi
@@ -802,6 +801,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1012,7 +1012,6 @@ l:tnt
 l:Steem_Messenger
 l:Gitbumr
 l:runanode
-l:Glaxnimate
 l:twetter
 l:media-dupes
 l:Firefox_Beta
@@ -1091,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
