@@ -740,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -949,6 +950,7 @@ l:Quark
 l:Rats_on_The_Boat
 l:DICOMautomaton
 l:guiscrcpy
+l:Glaxnimate
 l:AnimaShooter
 l:VNote
 l:Infection_Monkey
@@ -1116,7 +1118,6 @@ l:MediaElch
 l:CrossMobile
 l:accessimap-lecteur-der
 l:Bypass_Cors
-l:Glaxnimate
 l:Vulkan_Hardware_Capability_Viewer
 l:SyncMyL2P
 l:Carnet
@@ -1154,7 +1155,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Cryptocam_Companion
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
