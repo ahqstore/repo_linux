@@ -767,6 +767,7 @@ l:GoldenCheetah
 l:Electrum-NMC
 l:YARC-Launcher
 l:LibreOfficeDev
+l:Cryptocam_Companion
 l:Record_Compare
 l:BottleBats
 l:QHot
@@ -820,7 +821,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1127,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1159,4 +1160,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
