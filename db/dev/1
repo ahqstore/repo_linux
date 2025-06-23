@@ -892,13 +892,13 @@ l:BloomRPC
 l:Kcov
 l:Dust3D
 l:Flippy_Qualitative_Testbench
+l:Cryptocam_Companion
 l:Canoe
 l:CutePeaks
 l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1026,7 +1026,6 @@ l:ANT_Downloader
 l:steam-rom-manager
 l:MagicFountain
 l:ElectroCRUD
-l:Glaxnimate
 l:ser-player
 l:Inboxer
 l:Drill
@@ -1159,4 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
