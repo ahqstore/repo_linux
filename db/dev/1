@@ -756,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -827,7 +828,6 @@ l:CP2130_Commander
 l:movie-monad
 l:QuickRedis
 l:Waterfox_Fourth_Generation
-l:Cryptocam_Companion
 l:AppImagePool
 l:FontBase
 l:streamcapture2
@@ -1009,7 +1009,6 @@ l:GSequencer
 l:Blizzard_4
 l:ehdev-shell
 l:tnt
-l:Glaxnimate
 l:Steem_Messenger
 l:Gitbumr
 l:runanode
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
