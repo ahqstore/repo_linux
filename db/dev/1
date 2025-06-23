@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -899,7 +898,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1061,6 +1059,7 @@ l:snake.js
 l:Poddr
 l:OwlPlug
 l:OWallet
+l:Cryptocam_Companion
 l:QNapi
 l:onnx2daq
 l:GVim
@@ -1155,8 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
