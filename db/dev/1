@@ -801,6 +801,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -871,7 +872,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -981,6 +981,7 @@ l:bioanimation
 l:Firefox_Nightly
 l:Rotki
 l:WebDesktop
+l:Glaxnimate
 l:ideaMaker
 l:Cantata
 l:Stacer
@@ -1159,4 +1160,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
