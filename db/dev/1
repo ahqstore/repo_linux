@@ -760,9 +760,9 @@ l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
 l:Bezique
+l:Cryptocam_Companion
 l:Blowfish
 l:thorium-client
-l:Cryptocam_Companion
 l:Astrofox
 l:GoldenCheetah
 l:Electrum-NMC
@@ -899,7 +899,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1159,4 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
