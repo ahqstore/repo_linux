@@ -740,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -760,7 +761,6 @@ l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
 l:Bezique
-l:Cryptocam_Companion
 l:Blowfish
 l:thorium-client
 l:Astrofox
@@ -1149,6 +1149,7 @@ l:Pathio
 l:foxfolio
 l:LampixJS
 l:Lunyr
+l:Glaxnimate
 l:gsubs
 l:Pingendo
 l:four
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
