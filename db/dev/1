@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -950,13 +949,13 @@ l:Quark
 l:Rats_on_The_Boat
 l:DICOMautomaton
 l:guiscrcpy
-l:Glaxnimate
 l:AnimaShooter
 l:VNote
 l:Infection_Monkey
 l:vifm
 l:QmidiCtl
 l:qtchan
+l:Cryptocam_Companion
 l:commandoo
 l:VisualLVMRemote.yml
 l:MellowPlayer
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
