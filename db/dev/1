@@ -818,6 +818,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1059,7 +1060,6 @@ l:snake.js
 l:Poddr
 l:OwlPlug
 l:OWallet
-l:Cryptocam_Companion
 l:QNapi
 l:onnx2daq
 l:GVim
@@ -1127,7 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
+l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
