@@ -971,7 +971,6 @@ l:RefOrg
 l:Electron_App_Store
 l:Krita
 l:Zenkit
-l:Cryptocam_Companion
 l:Bodhi
 l:slang-ed
 l:MineTime
@@ -1048,6 +1047,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
