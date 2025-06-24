@@ -740,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -820,7 +821,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -905,6 +905,7 @@ l:VPaint
 l:PostyBirb
 l:BasiliskII
 l:ridereceipts
+l:Glaxnimate
 l:StatusPilatus
 l:Scrum-Retroboard
 l:VirtualBox-KVM
@@ -951,7 +952,6 @@ l:Rats_on_The_Boat
 l:DICOMautomaton
 l:guiscrcpy
 l:AnimaShooter
-l:Glaxnimate
 l:VNote
 l:Infection_Monkey
 l:vifm
