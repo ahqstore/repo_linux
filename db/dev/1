@@ -791,7 +791,6 @@ l:KeeWeb
 l:Datcord
 l:subtitles-composer-app
 l:Dana
-l:Cryptocam_Companion
 l:Cabal_Desktop_Mini
 l:HEAT1D
 l:Postman
@@ -821,6 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1094,7 +1094,6 @@ l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
 l:SerialPort_Assistant
-l:Alpine_Client
 l:Qucs-S
 l:Mayo
 l:Pile
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
