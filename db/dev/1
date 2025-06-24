@@ -329,6 +329,7 @@ l:SPlayer
 l:Summoners.War.Exporter
 l:Antares
 l:QXGEdit
+l:FMS_File_Explorer
 l:Join_Desktop
 l:FromScratch
 l:SkeletonGame
@@ -545,6 +546,7 @@ l:DockStation
 l:eOSVC
 l:Diffuse
 l:Music_Blocks
+l:SnippetStore
 l:Minecraft_Pi_Reborn_Client
 l:Audacity
 l:Apache_NetBeans
@@ -738,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -780,6 +781,7 @@ l:Delir
 l:RetroShare
 l:bottlenose
 l:FAT_Wallet
+l:Cryptocam_Companion
 l:Colorpicker
 l:RemNote
 l:Moonlight
