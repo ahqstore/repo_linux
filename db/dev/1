@@ -756,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -781,7 +782,6 @@ l:Delir
 l:RetroShare
 l:bottlenose
 l:FAT_Wallet
-l:Cryptocam_Companion
 l:Colorpicker
 l:RemNote
 l:Moonlight
@@ -1028,6 +1028,7 @@ l:MagicFountain
 l:ElectroCRUD
 l:ser-player
 l:Inboxer
+l:Glaxnimate
 l:Drill
 l:avogadro
 l:GospelPdfViewer
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
