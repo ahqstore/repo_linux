@@ -329,7 +329,6 @@ l:SPlayer
 l:Summoners.War.Exporter
 l:Antares
 l:QXGEdit
-l:FMS_File_Explorer
 l:Join_Desktop
 l:FromScratch
 l:SkeletonGame
@@ -546,7 +545,6 @@ l:DockStation
 l:eOSVC
 l:Diffuse
 l:Music_Blocks
-l:SnippetStore
 l:Minecraft_Pi_Reborn_Client
 l:Audacity
 l:Apache_NetBeans
@@ -740,6 +738,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -898,7 +897,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1090,7 +1088,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Cryptocam_Companion
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1159,4 +1156,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
