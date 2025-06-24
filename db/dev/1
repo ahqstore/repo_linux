@@ -796,6 +796,7 @@ l:HEAT1D
 l:Postman
 l:Mochi
 l:SmartGit
+l:Cryptocam_Companion
 l:Waterfox_Current
 l:Wexond
 l:ShareMyHost
@@ -1047,7 +1048,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
