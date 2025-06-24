@@ -756,7 +756,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -1028,7 +1027,6 @@ l:MagicFountain
 l:ElectroCRUD
 l:ser-player
 l:Inboxer
-l:Glaxnimate
 l:Drill
 l:avogadro
 l:GospelPdfViewer
@@ -1061,6 +1059,7 @@ l:snake.js
 l:Poddr
 l:OwlPlug
 l:OWallet
+l:Cryptocam_Companion
 l:QNapi
 l:onnx2daq
 l:GVim
@@ -1128,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
