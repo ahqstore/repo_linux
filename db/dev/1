@@ -822,6 +822,7 @@ l:SigDigger
 l:ngrev
 l:TreeSheets
 l:Puppetry
+l:Cryptocam_Companion
 l:Biplanes_Revival
 l:CP2130_Commander
 l:movie-monad
@@ -869,7 +870,6 @@ l:Buche
 l:Gulden
 l:Patchwork
 l:ttth
-l:Cryptocam_Companion
 l:ZeGrapher
 l:Negibox
 l:Heimer
@@ -1158,5 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
