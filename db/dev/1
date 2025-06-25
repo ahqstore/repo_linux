@@ -857,6 +857,7 @@ l:Linedancer
 l:MQTT-Explorer
 l:ClipGrab
 l:Neon
+l:Cryptocam_Companion
 l:appimagetool
 l:textosaurus
 l:City_Hub
@@ -1066,6 +1067,7 @@ l:Friture
 l:M
 l:KopiaUI
 l:lightning-peach-wallet
+l:Glaxnimate
 l:Giada
 l:Tusk
 l:linuxdeployqt
@@ -1126,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Cryptocam_Companion
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
