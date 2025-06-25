@@ -783,7 +783,6 @@ l:bottlenose
 l:FAT_Wallet
 l:Colorpicker
 l:RemNote
-l:Cryptocam_Companion
 l:Moonlight
 l:ChemCanvas
 l:Workbench
@@ -1006,7 +1005,6 @@ l:CoreGarage
 l:neovim
 l:mockoon
 l:GSequencer
-l:Glaxnimate
 l:Blizzard_4
 l:ehdev-shell
 l:tnt
@@ -1034,6 +1032,7 @@ l:avogadro
 l:GospelPdfViewer
 l:synthv1
 l:UniShellect
+l:Cryptocam_Companion
 l:youtube-music
 l:jitsi-meet
 l:VK_Desktop
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
