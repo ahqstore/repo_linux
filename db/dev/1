@@ -871,7 +871,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -879,6 +878,7 @@ l:cabal-desktop
 l:Kristall
 l:Fluent_Reader
 l:ao
+l:Cryptocam_Companion
 l:Beyond_All_Reason
 l:Hypnos
 l:LiveMe_Pro_Tools
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
