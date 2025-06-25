@@ -820,6 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -857,7 +858,6 @@ l:Linedancer
 l:MQTT-Explorer
 l:ClipGrab
 l:Neon
-l:Cryptocam_Companion
 l:appimagetool
 l:textosaurus
 l:City_Hub
@@ -1067,7 +1067,6 @@ l:Friture
 l:M
 l:KopiaUI
 l:lightning-peach-wallet
-l:Glaxnimate
 l:Giada
 l:Tusk
 l:linuxdeployqt
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
