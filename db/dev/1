@@ -797,6 +797,7 @@ l:Postman
 l:Mochi
 l:SmartGit
 l:Waterfox_Current
+l:Cryptocam_Companion
 l:Wexond
 l:ShareMyHost
 l:CorePaint
@@ -820,7 +821,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -915,6 +915,7 @@ l:nmap
 l:Google_Tasks_Desktop
 l:LikeTaskManager
 l:BetterCrewlink
+l:Glaxnimate
 l:EmuDeck
 l:ReliefValve
 l:OpenTodoList
@@ -1127,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
