@@ -820,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1013,6 +1012,7 @@ l:Steem_Messenger
 l:Gitbumr
 l:runanode
 l:twetter
+l:Glaxnimate
 l:media-dupes
 l:Firefox_Beta
 l:HastyHeroes
@@ -1060,6 +1060,7 @@ l:snake.js
 l:Poddr
 l:OwlPlug
 l:OWallet
+l:Cryptocam_Companion
 l:QNapi
 l:onnx2daq
 l:GVim
@@ -1067,7 +1068,6 @@ l:Friture
 l:M
 l:KopiaUI
 l:lightning-peach-wallet
-l:Glaxnimate
 l:Giada
 l:Tusk
 l:linuxdeployqt
