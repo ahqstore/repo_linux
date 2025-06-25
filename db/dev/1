@@ -818,6 +818,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1032,7 +1033,6 @@ l:avogadro
 l:GospelPdfViewer
 l:synthv1
 l:UniShellect
-l:Cryptocam_Companion
 l:youtube-music
 l:jitsi-meet
 l:VK_Desktop
@@ -1045,6 +1045,7 @@ l:SimpleX
 l:Bloks
 l:CodePilot.ai
 l:qpdf
+l:Glaxnimate
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
@@ -1159,4 +1160,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
