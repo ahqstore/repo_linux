@@ -756,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -1140,7 +1141,6 @@ l:APhotoToolLibre
 l:BibleMultiTheLife
 l:FreeCAD2
 l:LibreOfficePreRelease
-l:Alpine_Client
 l:Zoom
 l:ConsoleWorkbench
 l:ytDownloader
@@ -1158,5 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Cryptocam_Companion
 l:Glaxnimate
+l:Alpine_Client
