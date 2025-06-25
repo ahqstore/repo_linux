@@ -712,7 +712,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -1064,6 +1063,7 @@ l:QNapi
 l:onnx2daq
 l:GVim
 l:Friture
+l:Cryptocam_Companion
 l:M
 l:KopiaUI
 l:lightning-peach-wallet
