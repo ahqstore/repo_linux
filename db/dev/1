@@ -783,6 +783,7 @@ l:bottlenose
 l:FAT_Wallet
 l:Colorpicker
 l:RemNote
+l:Cryptocam_Companion
 l:Moonlight
 l:ChemCanvas
 l:Workbench
@@ -801,7 +802,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1006,6 +1006,7 @@ l:CoreGarage
 l:neovim
 l:mockoon
 l:GSequencer
+l:Glaxnimate
 l:Blizzard_4
 l:ehdev-shell
 l:tnt
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
