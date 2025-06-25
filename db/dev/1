@@ -740,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -822,7 +823,6 @@ l:SigDigger
 l:ngrev
 l:TreeSheets
 l:Puppetry
-l:Cryptocam_Companion
 l:Biplanes_Revival
 l:CP2130_Commander
 l:movie-monad
@@ -979,6 +979,7 @@ l:VisiCut
 l:Qredit
 l:bioanimation
 l:Firefox_Nightly
+l:Glaxnimate
 l:Rotki
 l:WebDesktop
 l:ideaMaker
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
