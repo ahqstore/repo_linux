@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -899,6 +898,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -941,7 +941,6 @@ l:Scraper
 l:SwitchHosts!
 l:ClementineRemote
 l:twitch-wrapper
-l:Glaxnimate
 l:QmidiNet
 l:qtrfpowermeter
 l:embedded-ide
@@ -1043,6 +1042,7 @@ l:Lagrange
 l:pretty-handy-privacy
 l:clipr
 l:SimpleX
+l:Glaxnimate
 l:Bloks
 l:CodePilot.ai
 l:qpdf
