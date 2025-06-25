@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -798,6 +797,7 @@ l:Postman
 l:Mochi
 l:SmartGit
 l:Waterfox_Current
+l:Cryptocam_Companion
 l:Wexond
 l:ShareMyHost
 l:CorePaint
@@ -979,7 +979,6 @@ l:VisiCut
 l:Qredit
 l:bioanimation
 l:Firefox_Nightly
-l:Glaxnimate
 l:Rotki
 l:WebDesktop
 l:ideaMaker
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
