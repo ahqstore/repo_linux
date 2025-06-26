@@ -708,6 +708,7 @@ l:theWeb
 l:ColorGenerator
 l:Electron_Cash
 l:Joy2DroidX
+l:Cryptocam_Companion
 l:Meshmill
 l:MediaInfo
 l:Naev
@@ -871,7 +872,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
