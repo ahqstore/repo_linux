@@ -637,7 +637,6 @@ l:android-messages-desktop
 l:Aphelion_Wallet
 l:vue-calc
 l:moniteur-admin
-l:Cryptocam_Companion
 l:App_Outlet
 l:DawnlightSearch
 l:Ghostty
@@ -650,6 +649,7 @@ l:BunqDesktop
 l:Kanon
 l:XClicker
 l:ai-bot-workspace
+l:Cryptocam_Companion
 l:PrimeWorldEditor
 l:qBittorrent_Enhanced_Edition
 l:Pullp
@@ -1048,7 +1048,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1159,4 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
