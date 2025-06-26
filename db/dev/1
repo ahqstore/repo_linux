@@ -712,7 +712,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -899,7 +898,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
+l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1073,6 +1072,7 @@ l:Tusk
 l:linuxdeployqt
 l:GameHub
 l:Papercraft
+l:Glaxnimate
 l:CircuitBlocks
 l:flameshot
 l:GitQlient
