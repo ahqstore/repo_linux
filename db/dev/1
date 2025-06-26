@@ -898,6 +898,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -951,7 +952,6 @@ l:DICOMautomaton
 l:guiscrcpy
 l:AnimaShooter
 l:VNote
-l:Cryptocam_Companion
 l:Infection_Monkey
 l:vifm
 l:QmidiCtl
@@ -1104,7 +1104,6 @@ l:trader
 l:Shadow
 l:TeleDrive
 l:SBLauncher
-l:Alpine_Client
 l:Bench_CLI
 l:NimiTV
 l:spark-wallet
@@ -1125,10 +1124,10 @@ l:CRITERIA1D_PRO
 l:ZY_Player
 l:notepadqq
 l:ledger-live-desktop
-l:Glaxnimate
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1160,3 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
