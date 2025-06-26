@@ -625,7 +625,6 @@ l:Anchor
 l:getswell
 l:GPUpad
 l:Linphone
-l:Cryptocam_Companion
 l:Zegarek
 l:Scytale
 l:Pulsar
@@ -713,6 +712,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -899,6 +899,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -938,7 +939,6 @@ l:sticker-convert
 l:OVALE
 l:DeepTags
 l:Scraper
-l:Glaxnimate
 l:SwitchHosts!
 l:ClementineRemote
 l:twitch-wrapper
