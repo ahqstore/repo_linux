@@ -640,7 +640,6 @@ l:moniteur-admin
 l:App_Outlet
 l:DawnlightSearch
 l:Ghostty
-l:Cryptocam_Companion
 l:climaxima
 l:swradio
 l:vREST_NG
@@ -802,6 +801,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1077,7 +1077,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1091,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
