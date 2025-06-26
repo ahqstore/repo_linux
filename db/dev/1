@@ -625,6 +625,7 @@ l:Anchor
 l:getswell
 l:GPUpad
 l:Linphone
+l:Cryptocam_Companion
 l:Zegarek
 l:Scytale
 l:Pulsar
@@ -808,7 +809,6 @@ l:Atomicwallet
 l:JoalDesktop
 l:Geometrize
 l:antimicroX
-l:Cryptocam_Companion
 l:Gemalaya
 l:PhotoFlow
 l:CoCoMusic
@@ -938,6 +938,7 @@ l:sticker-convert
 l:OVALE
 l:DeepTags
 l:Scraper
+l:Glaxnimate
 l:SwitchHosts!
 l:ClementineRemote
 l:twitch-wrapper
@@ -1154,9 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
