@@ -628,7 +628,6 @@ l:Linphone
 l:Zegarek
 l:Scytale
 l:Pulsar
-l:Cryptocam_Companion
 l:Cromberg
 l:Eternal-Lands
 l:Mob
@@ -1004,7 +1003,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1049,6 +1047,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1151,12 +1150,13 @@ l:foxfolio
 l:LampixJS
 l:Lunyr
 l:gsubs
+l:Alpine_Client
 l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
