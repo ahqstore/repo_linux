@@ -708,7 +708,6 @@ l:theWeb
 l:ColorGenerator
 l:Electron_Cash
 l:Joy2DroidX
-l:Cryptocam_Companion
 l:Meshmill
 l:MediaInfo
 l:Naev
@@ -741,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -1102,6 +1102,7 @@ l:Bazecor
 l:Mini_Diary
 l:trader
 l:Shadow
+l:Glaxnimate
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
@@ -1154,7 +1155,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
