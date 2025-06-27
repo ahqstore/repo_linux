@@ -685,6 +685,7 @@ l:Pelusica
 l:smtk2ssrf
 l:ImHex
 l:Iceworks
+l:Cryptocam_Companion
 l:Notable
 l:FF-Password-Exporter
 l:Malice
@@ -712,7 +713,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -1127,7 +1127,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1155,8 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
