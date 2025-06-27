@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -758,6 +757,7 @@ l:hw-probe
 l:ana-conversation-studio
 l:mybelka
 l:Elphyre-WalletShell
+l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:Emacs
 l:Bezique
@@ -926,7 +926,6 @@ l:Spectral
 l:lumi
 l:paferashare
 l:Sharp-Tune
-l:Glaxnimate
 l:SF_Tube
 l:ldview
 l:Podman
@@ -1041,6 +1040,7 @@ l:superProductivity
 l:GrinPlusPlus
 l:Lagrange
 l:pretty-handy-privacy
+l:Glaxnimate
 l:clipr
 l:SimpleX
 l:Bloks
@@ -1103,6 +1103,7 @@ l:Bazecor
 l:Mini_Diary
 l:trader
 l:Shadow
+l:Alpine_Client
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
@@ -1159,4 +1160,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
