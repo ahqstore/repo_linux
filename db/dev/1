@@ -861,6 +861,7 @@ l:appimagetool
 l:textosaurus
 l:City_Hub
 l:SpringBoard
+l:Cryptocam_Companion
 l:KiCad
 l:Crypter
 l:AudioMoth
@@ -1047,7 +1048,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1090,7 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Glaxnimate
+l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
