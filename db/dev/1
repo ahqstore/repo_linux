@@ -792,6 +792,7 @@ l:Datcord
 l:subtitles-composer-app
 l:Dana
 l:Cabal_Desktop_Mini
+l:Cryptocam_Companion
 l:HEAT1D
 l:Postman
 l:Mochi
@@ -871,7 +872,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Glaxnimate
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -915,7 +915,6 @@ l:nmap
 l:Google_Tasks_Desktop
 l:LikeTaskManager
 l:BetterCrewlink
-l:Cryptocam_Companion
 l:EmuDeck
 l:ReliefValve
 l:OpenTodoList
@@ -1049,6 +1048,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
