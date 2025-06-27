@@ -649,7 +649,6 @@ l:BunqDesktop
 l:Kanon
 l:XClicker
 l:ai-bot-workspace
-l:Cryptocam_Companion
 l:PrimeWorldEditor
 l:qBittorrent_Enhanced_Edition
 l:Pullp
@@ -884,6 +883,7 @@ l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
 l:ArcadeManager
+l:Cryptocam_Companion
 l:EverInst
 l:CubicSDR
 l:Carpenters
@@ -1004,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1093,6 +1092,7 @@ l:ProcDepMonitor
 l:Rambox
 l:SimpleInstaBot
 l:Subsurface
+l:Alpine_Client
 l:Inkscape
 l:SerialPort_Assistant
 l:Qucs-S
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
