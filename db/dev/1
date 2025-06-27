@@ -622,6 +622,7 @@ l:LibreWolf
 l:gerbv
 l:Winds
 l:Anchor
+l:Cryptocam_Companion
 l:getswell
 l:GPUpad
 l:Linphone
@@ -801,7 +802,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
-l:Glaxnimate
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
+l:Alpine_Client
