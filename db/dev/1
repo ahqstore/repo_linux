@@ -766,6 +766,7 @@ l:Astrofox
 l:GoldenCheetah
 l:Electrum-NMC
 l:YARC-Launcher
+l:Cryptocam_Companion
 l:LibreOfficeDev
 l:Record_Compare
 l:BottleBats
@@ -861,7 +862,6 @@ l:appimagetool
 l:textosaurus
 l:City_Hub
 l:SpringBoard
-l:Cryptocam_Companion
 l:KiCad
 l:Crypter
 l:AudioMoth
@@ -1090,7 +1090,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1155,8 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
