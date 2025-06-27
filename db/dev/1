@@ -672,6 +672,7 @@ l:MediathekView
 l:mapton
 l:Passky
 l:EiskaltDC++
+l:Cryptocam_Companion
 l:Hexinator
 l:Textilosaurus
 l:MDL
@@ -823,7 +824,6 @@ l:ngrev
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
-l:Cryptocam_Companion
 l:CP2130_Commander
 l:movie-monad
 l:QuickRedis
@@ -899,6 +899,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1154,9 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
