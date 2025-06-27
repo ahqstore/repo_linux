@@ -1005,6 +1005,7 @@ l:T.Viewer
 l:CoreGarage
 l:neovim
 l:mockoon
+l:Glaxnimate
 l:GSequencer
 l:Blizzard_4
 l:ehdev-shell
@@ -1077,7 +1078,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Alpine_Client
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
