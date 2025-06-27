@@ -712,7 +712,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -906,6 +905,7 @@ l:PostyBirb
 l:BasiliskII
 l:ridereceipts
 l:StatusPilatus
+l:Cryptocam_Companion
 l:Scrum-Retroboard
 l:VirtualBox-KVM
 l:Wsocks
@@ -1067,7 +1067,6 @@ l:Friture
 l:M
 l:KopiaUI
 l:lightning-peach-wallet
-l:Glaxnimate
 l:Giada
 l:Tusk
 l:linuxdeployqt
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
