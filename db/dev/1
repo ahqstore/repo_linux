@@ -678,6 +678,7 @@ l:MDL
 l:CrossCode_Map_Editor
 l:Wrapbox
 l:Advanced_Rest_Client
+l:Cryptocam_Companion
 l:Thunderbird_Nightly
 l:ChainX_Signer
 l:WorkFlowy
@@ -818,7 +819,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -899,6 +899,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1154,7 +1155,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
