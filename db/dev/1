@@ -622,7 +622,6 @@ l:LibreWolf
 l:gerbv
 l:Winds
 l:Anchor
-l:Cryptocam_Companion
 l:getswell
 l:GPUpad
 l:Linphone
@@ -1013,6 +1012,7 @@ l:Steem_Messenger
 l:Gitbumr
 l:runanode
 l:twetter
+l:Glaxnimate
 l:media-dupes
 l:Firefox_Beta
 l:HastyHeroes
@@ -1090,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Cryptocam_Companion
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
