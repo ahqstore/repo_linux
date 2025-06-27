@@ -871,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Glaxnimate
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -914,6 +915,7 @@ l:nmap
 l:Google_Tasks_Desktop
 l:LikeTaskManager
 l:BetterCrewlink
+l:Cryptocam_Companion
 l:EmuDeck
 l:ReliefValve
 l:OpenTodoList
@@ -992,7 +994,6 @@ l:iota1k
 l:laravel-kit
 l:KADE
 l:nRF_Connect
-l:Cryptocam_Companion
 l:dvdisaster
 l:Detect_It_Easy
 l:LANShare
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
