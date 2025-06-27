@@ -757,7 +757,6 @@ l:hw-probe
 l:ana-conversation-studio
 l:mybelka
 l:Elphyre-WalletShell
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:Emacs
 l:Bezique
@@ -824,6 +823,7 @@ l:ngrev
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
+l:Cryptocam_Companion
 l:CP2130_Commander
 l:movie-monad
 l:QuickRedis
@@ -1040,7 +1040,6 @@ l:superProductivity
 l:GrinPlusPlus
 l:Lagrange
 l:pretty-handy-privacy
-l:Glaxnimate
 l:clipr
 l:SimpleX
 l:Bloks
@@ -1103,7 +1102,6 @@ l:Bazecor
 l:Mini_Diary
 l:trader
 l:Shadow
-l:Alpine_Client
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
@@ -1156,7 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
