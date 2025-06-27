@@ -622,6 +622,7 @@ l:LibreWolf
 l:gerbv
 l:Winds
 l:Anchor
+l:Cryptocam_Companion
 l:getswell
 l:GPUpad
 l:Linphone
@@ -712,7 +713,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -819,7 +819,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Glaxnimate
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
