@@ -801,6 +801,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -905,7 +906,6 @@ l:PostyBirb
 l:BasiliskII
 l:ridereceipts
 l:StatusPilatus
-l:Cryptocam_Companion
 l:Scrum-Retroboard
 l:VirtualBox-KVM
 l:Wsocks
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
+l:Alpine_Client
 l:UltraGrid
+l:Glaxnimate
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
