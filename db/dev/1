@@ -871,7 +871,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -880,6 +879,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -972,6 +972,7 @@ l:RefOrg
 l:Electron_App_Store
 l:Krita
 l:Zenkit
+l:Alpine_Client
 l:Bodhi
 l:slang-ed
 l:MineTime
@@ -982,7 +983,6 @@ l:Firefox_Nightly
 l:Rotki
 l:WebDesktop
 l:ideaMaker
-l:Glaxnimate
 l:Cantata
 l:Stacer
 l:KeePassXC
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
