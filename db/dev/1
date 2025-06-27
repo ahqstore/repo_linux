@@ -818,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -909,6 +908,7 @@ l:StatusPilatus
 l:Scrum-Retroboard
 l:VirtualBox-KVM
 l:Wsocks
+l:Cryptocam_Companion
 l:Shuttle
 l:Demonizer
 l:nmap
@@ -1003,6 +1003,7 @@ l:HDRMerge
 l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
+l:Alpine_Client
 l:neovim
 l:mockoon
 l:GSequencer
@@ -1159,4 +1160,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
