@@ -801,6 +801,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -883,7 +884,6 @@ l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
 l:ArcadeManager
-l:Cryptocam_Companion
 l:EverInst
 l:CubicSDR
 l:Carpenters
@@ -1092,7 +1092,6 @@ l:ProcDepMonitor
 l:Rambox
 l:SimpleInstaBot
 l:Subsurface
-l:Alpine_Client
 l:Inkscape
 l:SerialPort_Assistant
 l:Qucs-S
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
