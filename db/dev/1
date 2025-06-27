@@ -871,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -908,7 +909,6 @@ l:StatusPilatus
 l:Scrum-Retroboard
 l:VirtualBox-KVM
 l:Wsocks
-l:Cryptocam_Companion
 l:Shuttle
 l:Demonizer
 l:nmap
@@ -982,6 +982,7 @@ l:Firefox_Nightly
 l:Rotki
 l:WebDesktop
 l:ideaMaker
+l:Glaxnimate
 l:Cantata
 l:Stacer
 l:KeePassXC
@@ -1003,7 +1004,6 @@ l:HDRMerge
 l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
-l:Alpine_Client
 l:neovim
 l:mockoon
 l:GSequencer
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
