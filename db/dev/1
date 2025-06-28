@@ -818,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -869,6 +868,7 @@ l:luna
 l:Buche
 l:Gulden
 l:Patchwork
+l:Cryptocam_Companion
 l:ttth
 l:ZeGrapher
 l:Negibox
@@ -1077,6 +1077,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1104,6 +1105,7 @@ l:trader
 l:Shadow
 l:TeleDrive
 l:SBLauncher
+l:Alpine_Client
 l:Bench_CLI
 l:NimiTV
 l:spark-wallet
@@ -1158,5 +1160,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
-l:Alpine_Client
