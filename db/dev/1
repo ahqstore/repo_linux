@@ -587,6 +587,7 @@ l:DevHub
 l:Software-Challenge-GUI
 l:Jan
 l:pyappimage
+l:BilibiliVideoDownload
 l:elzabrowser
 l:Jacksum
 l:xlights
@@ -623,7 +624,6 @@ l:Winds
 l:Anchor
 l:getswell
 l:GPUpad
-l:Cryptocam_Companion
 l:Linphone
 l:Zegarek
 l:Scytale
@@ -1047,6 +1047,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1126,7 +1127,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1149,6 +1149,7 @@ l:Pathio
 l:foxfolio
 l:LampixJS
 l:Lunyr
+l:Glaxnimate
 l:gsubs
 l:Pingendo
 l:four
