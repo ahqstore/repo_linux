@@ -712,6 +712,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -795,7 +796,6 @@ l:Cabal_Desktop_Mini
 l:HEAT1D
 l:Postman
 l:Mochi
-l:Cryptocam_Companion
 l:SmartGit
 l:Waterfox_Current
 l:Wexond
@@ -880,6 +880,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Glaxnimate
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1017,7 +1018,6 @@ l:media-dupes
 l:Firefox_Beta
 l:HastyHeroes
 l:mutool
-l:Glaxnimate
 l:plexamp
 l:violetbug
 l:school-sections
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
