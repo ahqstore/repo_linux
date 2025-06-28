@@ -651,7 +651,6 @@ l:XClicker
 l:ai-bot-workspace
 l:PrimeWorldEditor
 l:qBittorrent_Enhanced_Edition
-l:Cryptocam_Companion
 l:Pullp
 l:Gai
 l:Markman
@@ -741,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -799,6 +799,7 @@ l:Mochi
 l:SmartGit
 l:Waterfox_Current
 l:Wexond
+l:Glaxnimate
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
@@ -944,7 +945,6 @@ l:twitch-wrapper
 l:QmidiNet
 l:qtrfpowermeter
 l:embedded-ide
-l:Glaxnimate
 l:jumpfm
 l:ElDumper
 l:Quark
@@ -1078,6 +1078,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Alpine_Client
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1159,4 +1160,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
