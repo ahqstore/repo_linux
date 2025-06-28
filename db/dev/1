@@ -651,6 +651,7 @@ l:XClicker
 l:ai-bot-workspace
 l:PrimeWorldEditor
 l:qBittorrent_Enhanced_Edition
+l:Cryptocam_Companion
 l:Pullp
 l:Gai
 l:Markman
@@ -943,6 +944,7 @@ l:twitch-wrapper
 l:QmidiNet
 l:qtrfpowermeter
 l:embedded-ide
+l:Glaxnimate
 l:jumpfm
 l:ElDumper
 l:Quark
@@ -1068,7 +1070,6 @@ l:KopiaUI
 l:lightning-peach-wallet
 l:Giada
 l:Tusk
-l:Glaxnimate
 l:linuxdeployqt
 l:GameHub
 l:Papercraft
@@ -1154,9 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Cryptocam_Companion
+l:Alpine_Client
