@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -799,7 +798,6 @@ l:Mochi
 l:SmartGit
 l:Waterfox_Current
 l:Wexond
-l:Glaxnimate
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
@@ -822,6 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1078,7 +1077,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Alpine_Client
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1156,7 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
