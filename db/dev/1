@@ -795,6 +795,7 @@ l:Cabal_Desktop_Mini
 l:HEAT1D
 l:Postman
 l:Mochi
+l:Cryptocam_Companion
 l:SmartGit
 l:Waterfox_Current
 l:Wexond
@@ -871,7 +872,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1017,6 +1017,7 @@ l:media-dupes
 l:Firefox_Beta
 l:HastyHeroes
 l:mutool
+l:Glaxnimate
 l:plexamp
 l:violetbug
 l:school-sections
@@ -1154,9 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
