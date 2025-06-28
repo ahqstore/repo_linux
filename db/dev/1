@@ -801,7 +801,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -980,7 +979,6 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
-l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1043,6 +1041,7 @@ l:Lagrange
 l:pretty-handy-privacy
 l:clipr
 l:SimpleX
+l:Glaxnimate
 l:Bloks
 l:CodePilot.ai
 l:qpdf
@@ -1128,7 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Alpine_Client
+l:Cryptocam_Companion
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1160,3 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
