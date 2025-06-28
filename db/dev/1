@@ -649,7 +649,6 @@ l:BunqDesktop
 l:Kanon
 l:XClicker
 l:ai-bot-workspace
-l:Cryptocam_Companion
 l:PrimeWorldEditor
 l:qBittorrent_Enhanced_Edition
 l:Pullp
@@ -741,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -1053,7 +1053,6 @@ l:FontForge
 l:Kdenlive
 l:CozyDrive
 l:KevEdit
-l:Glaxnimate
 l:UltraScreen
 l:V2Ray-Desktop
 l:Beatconnect_Client
@@ -1128,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
