@@ -682,7 +682,6 @@ l:Thunderbird_Nightly
 l:ChainX_Signer
 l:WorkFlowy
 l:Pelusica
-l:Cryptocam_Companion
 l:smtk2ssrf
 l:ImHex
 l:Iceworks
@@ -741,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -872,6 +872,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Glaxnimate
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1045,6 +1046,7 @@ l:SimpleX
 l:Bloks
 l:CodePilot.ai
 l:qpdf
+l:Alpine_Client
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
@@ -1158,5 +1160,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
-l:Alpine_Client
