@@ -624,7 +624,6 @@ l:Winds
 l:Anchor
 l:getswell
 l:GPUpad
-l:Cryptocam_Companion
 l:Linphone
 l:Zegarek
 l:Scytale
@@ -821,6 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1004,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1091,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
