@@ -871,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1047,7 +1048,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1090,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1149,7 +1150,6 @@ l:Pathio
 l:foxfolio
 l:LampixJS
 l:Lunyr
-l:Glaxnimate
 l:gsubs
 l:Pingendo
 l:four
