@@ -712,7 +712,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -821,6 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -899,7 +899,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1152,6 +1151,7 @@ l:LampixJS
 l:Lunyr
 l:gsubs
 l:Pingendo
+l:Alpine_Client
 l:four
 l:jscad-desktop
 l:Tulip
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
