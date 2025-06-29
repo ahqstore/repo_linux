@@ -637,7 +637,6 @@ l:android-messages-desktop
 l:Aphelion_Wallet
 l:vue-calc
 l:moniteur-admin
-l:Cryptocam_Companion
 l:App_Outlet
 l:DawnlightSearch
 l:Ghostty
@@ -757,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -1004,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1159,4 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
