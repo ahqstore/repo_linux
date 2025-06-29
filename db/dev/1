@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -872,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1073,7 +1073,6 @@ l:linuxdeployqt
 l:GameHub
 l:Papercraft
 l:CircuitBlocks
-l:Glaxnimate
 l:flameshot
 l:GitQlient
 l:Auryo
@@ -1128,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1152,6 +1152,7 @@ l:LampixJS
 l:Lunyr
 l:gsubs
 l:Pingendo
+l:Glaxnimate
 l:four
 l:jscad-desktop
 l:Tulip
@@ -1159,4 +1160,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
