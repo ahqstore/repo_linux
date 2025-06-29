@@ -756,7 +756,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -880,6 +879,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Glaxnimate
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -993,6 +993,7 @@ l:iota1k
 l:laravel-kit
 l:KADE
 l:nRF_Connect
+l:Cryptocam_Companion
 l:dvdisaster
 l:Detect_It_Easy
 l:LANShare
@@ -1157,6 +1158,5 @@ l:Tulip
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
-l:Alpine_Client
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
