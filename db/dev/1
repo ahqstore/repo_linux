@@ -740,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -854,7 +855,6 @@ l:NoraGO
 l:hotspot
 l:Cryptr
 l:Linedancer
-l:Cryptocam_Companion
 l:MQTT-Explorer
 l:ClipGrab
 l:Neon
@@ -980,6 +980,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1090,7 +1091,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
