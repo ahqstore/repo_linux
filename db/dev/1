@@ -732,7 +732,6 @@ l:dingtalk
 l:Infinitex
 l:Raspirus
 l:erdesigner
-l:Cryptocam_Companion
 l:etichetta
 l:VirtScreen
 l:Fidias_Database_Migration_App
@@ -741,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -899,7 +899,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1001,6 +1000,7 @@ l:iQPuzzle
 l:Zap
 l:Digitales_Klassenzimmer
 l:HDRMerge
+l:Glaxnimate
 l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
