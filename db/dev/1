@@ -777,10 +777,10 @@ l:ocsstore
 l:tinyclerk
 l:Qt_JSON_diff
 l:PhreshPlayer
+l:Cryptocam_Companion
 l:Delir
 l:RetroShare
 l:bottlenose
-l:Cryptocam_Companion
 l:FAT_Wallet
 l:Colorpicker
 l:RemNote
@@ -1035,7 +1035,6 @@ l:synthv1
 l:UniShellect
 l:youtube-music
 l:jitsi-meet
-l:Glaxnimate
 l:VK_Desktop
 l:superProductivity
 l:GrinPlusPlus
@@ -1072,6 +1071,7 @@ l:Giada
 l:Tusk
 l:linuxdeployqt
 l:GameHub
+l:Alpine_Client
 l:Papercraft
 l:CircuitBlocks
 l:flameshot
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
