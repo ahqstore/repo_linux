@@ -740,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -1042,7 +1043,6 @@ l:pretty-handy-privacy
 l:clipr
 l:SimpleX
 l:Bloks
-l:Cryptocam_Companion
 l:CodePilot.ai
 l:qpdf
 l:Syncthing_Tray
@@ -1073,6 +1073,7 @@ l:linuxdeployqt
 l:GameHub
 l:Papercraft
 l:CircuitBlocks
+l:Glaxnimate
 l:flameshot
 l:GitQlient
 l:Auryo
@@ -1127,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
