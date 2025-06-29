@@ -801,8 +801,8 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Colobot
 l:Cryptocam_Companion
+l:Colobot
 l:Protracker
 l:APK_Editor_Studio
 l:Atomicwallet
@@ -980,7 +980,6 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
-l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
