@@ -820,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -855,6 +854,7 @@ l:NoraGO
 l:hotspot
 l:Cryptr
 l:Linedancer
+l:Cryptocam_Companion
 l:MQTT-Explorer
 l:ClipGrab
 l:Neon
@@ -1090,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1154,7 +1155,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
