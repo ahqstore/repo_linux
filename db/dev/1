@@ -788,6 +788,7 @@ l:ChemCanvas
 l:Workbench
 l:StatusIm
 l:KeeWeb
+l:Cryptocam_Companion
 l:Datcord
 l:subtitles-composer-app
 l:Dana
@@ -871,7 +872,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
