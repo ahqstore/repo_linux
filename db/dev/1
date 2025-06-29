@@ -788,7 +788,6 @@ l:ChemCanvas
 l:Workbench
 l:StatusIm
 l:KeeWeb
-l:Cryptocam_Companion
 l:Datcord
 l:subtitles-composer-app
 l:Dana
@@ -1043,6 +1042,7 @@ l:pretty-handy-privacy
 l:clipr
 l:SimpleX
 l:Bloks
+l:Cryptocam_Companion
 l:CodePilot.ai
 l:qpdf
 l:Syncthing_Tray
@@ -1127,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1159,4 +1160,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
