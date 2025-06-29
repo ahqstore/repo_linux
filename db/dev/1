@@ -818,6 +818,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1003,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1068,6 +1068,7 @@ l:M
 l:KopiaUI
 l:lightning-peach-wallet
 l:Giada
+l:Glaxnimate
 l:Tusk
 l:linuxdeployqt
 l:GameHub
@@ -1105,7 +1106,6 @@ l:Shadow
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
-l:Alpine_Client
 l:NimiTV
 l:spark-wallet
 l:devdocs-desktop
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Cryptocam_Companion
+l:Alpine_Client
