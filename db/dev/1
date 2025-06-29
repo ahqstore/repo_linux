@@ -756,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -801,7 +802,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -890,7 +890,6 @@ l:Carpenters
 l:QtMips
 l:FastTrack
 l:BloomRPC
-l:Alpine_Client
 l:Kcov
 l:Dust3D
 l:Flippy_Qualitative_Testbench
@@ -1052,7 +1051,6 @@ l:Calculist
 l:EncryptPad
 l:FontForge
 l:Kdenlive
-l:Glaxnimate
 l:CozyDrive
 l:KevEdit
 l:UltraScreen
@@ -1092,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1160,3 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
