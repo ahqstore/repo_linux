@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -757,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -880,7 +880,6 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Alpine_Client
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1005,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1050,6 +1048,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Alpine_Client
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1157,6 +1156,7 @@ l:four
 l:jscad-desktop
 l:Tulip
 l:UltraGrid
+l:Glaxnimate
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
