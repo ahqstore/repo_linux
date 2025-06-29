@@ -780,6 +780,7 @@ l:PhreshPlayer
 l:Delir
 l:RetroShare
 l:bottlenose
+l:Cryptocam_Companion
 l:FAT_Wallet
 l:Colorpicker
 l:RemNote
@@ -820,7 +821,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1035,6 +1035,7 @@ l:synthv1
 l:UniShellect
 l:youtube-music
 l:jitsi-meet
+l:Glaxnimate
 l:VK_Desktop
 l:superProductivity
 l:GrinPlusPlus
@@ -1127,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
