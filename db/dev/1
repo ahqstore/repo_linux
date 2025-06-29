@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -757,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -1000,7 +1000,6 @@ l:iQPuzzle
 l:Zap
 l:Digitales_Klassenzimmer
 l:HDRMerge
-l:Glaxnimate
 l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
@@ -1158,5 +1157,6 @@ l:Tulip
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
-l:PolkaKey
 l:Alpine_Client
+l:PolkaKey
+l:Glaxnimate
