@@ -801,6 +801,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -864,7 +865,6 @@ l:SpringBoard
 l:KiCad
 l:Crypter
 l:AudioMoth
-l:Cryptocam_Companion
 l:luna
 l:Buche
 l:Gulden
@@ -890,6 +890,7 @@ l:Carpenters
 l:QtMips
 l:FastTrack
 l:BloomRPC
+l:Alpine_Client
 l:Kcov
 l:Dust3D
 l:Flippy_Qualitative_Testbench
@@ -1051,6 +1052,7 @@ l:Calculist
 l:EncryptPad
 l:FontForge
 l:Kdenlive
+l:Glaxnimate
 l:CozyDrive
 l:KevEdit
 l:UltraScreen
@@ -1154,9 +1156,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
