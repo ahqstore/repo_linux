@@ -818,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -880,6 +879,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -893,7 +893,6 @@ l:BloomRPC
 l:Kcov
 l:Dust3D
 l:Flippy_Qualitative_Testbench
-l:Glaxnimate
 l:Canoe
 l:CutePeaks
 l:CPod
@@ -1091,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1157,6 +1157,6 @@ l:jscad-desktop
 l:Tulip
 l:UltraGrid
 l:ONLYOFFICE
-l:Alpine_Client
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
