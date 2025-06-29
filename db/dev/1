@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -855,6 +854,7 @@ l:NoraGO
 l:hotspot
 l:Cryptr
 l:Linedancer
+l:Cryptocam_Companion
 l:MQTT-Explorer
 l:ClipGrab
 l:Neon
@@ -1143,7 +1143,6 @@ l:FreeCAD2
 l:LibreOfficePreRelease
 l:Zoom
 l:ConsoleWorkbench
-l:Alpine_Client
 l:ytDownloader
 l:Focalizzare
 l:Pathio
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
