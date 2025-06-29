@@ -979,7 +979,6 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
-l:Cryptocam_Companion
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1004,6 +1003,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1105,6 +1105,7 @@ l:Shadow
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
+l:Alpine_Client
 l:NimiTV
 l:spark-wallet
 l:devdocs-desktop
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
-l:Alpine_Client
+l:Cryptocam_Companion
