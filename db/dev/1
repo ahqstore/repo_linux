@@ -762,6 +762,7 @@ l:Emacs
 l:Bezique
 l:Blowfish
 l:thorium-client
+l:Cryptocam_Companion
 l:Astrofox
 l:GoldenCheetah
 l:Electrum-NMC
@@ -801,7 +802,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1062,7 +1062,6 @@ l:OwlPlug
 l:OWallet
 l:QNapi
 l:onnx2daq
-l:Glaxnimate
 l:GVim
 l:Friture
 l:M
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
