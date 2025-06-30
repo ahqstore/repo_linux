@@ -712,7 +712,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -1107,6 +1106,7 @@ l:SBLauncher
 l:Bench_CLI
 l:NimiTV
 l:spark-wallet
+l:Cryptocam_Companion
 l:devdocs-desktop
 l:Synthein
 l:UHK.Agent
@@ -1158,5 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
