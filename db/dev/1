@@ -762,7 +762,6 @@ l:Emacs
 l:Bezique
 l:Blowfish
 l:thorium-client
-l:Cryptocam_Companion
 l:Astrofox
 l:GoldenCheetah
 l:Electrum-NMC
@@ -899,6 +898,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1032,6 +1032,7 @@ l:Drill
 l:avogadro
 l:GospelPdfViewer
 l:synthv1
+l:Glaxnimate
 l:UniShellect
 l:youtube-music
 l:jitsi-meet
@@ -1154,9 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
