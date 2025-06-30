@@ -876,10 +876,10 @@ l:ThermusQt
 l:SultanPOS
 l:cabal-desktop
 l:Kristall
+l:Cryptocam_Companion
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1006,6 +1006,7 @@ l:CoreGarage
 l:neovim
 l:mockoon
 l:GSequencer
+l:Glaxnimate
 l:Blizzard_4
 l:ehdev-shell
 l:tnt
@@ -1039,7 +1040,6 @@ l:VK_Desktop
 l:superProductivity
 l:GrinPlusPlus
 l:Lagrange
-l:Alpine_Client
 l:pretty-handy-privacy
 l:clipr
 l:SimpleX
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
