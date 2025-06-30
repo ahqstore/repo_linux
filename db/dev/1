@@ -712,7 +712,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -1045,6 +1044,7 @@ l:SimpleX
 l:Bloks
 l:CodePilot.ai
 l:qpdf
+l:Cryptocam_Companion
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
@@ -1104,6 +1104,7 @@ l:trader
 l:Shadow
 l:TeleDrive
 l:SBLauncher
+l:Alpine_Client
 l:Bench_CLI
 l:NimiTV
 l:spark-wallet
@@ -1154,9 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
-l:Alpine_Client
