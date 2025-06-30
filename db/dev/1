@@ -797,7 +797,6 @@ l:Postman
 l:Mochi
 l:SmartGit
 l:Waterfox_Current
-l:Cryptocam_Companion
 l:Wexond
 l:ShareMyHost
 l:CorePaint
@@ -880,6 +879,7 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
+l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1002,6 +1002,7 @@ l:Digitales_Klassenzimmer
 l:HDRMerge
 l:privacy.sexy
 l:T.Viewer
+l:Glaxnimate
 l:CoreGarage
 l:neovim
 l:mockoon
@@ -1048,7 +1049,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
