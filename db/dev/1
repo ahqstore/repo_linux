@@ -644,7 +644,6 @@ l:climaxima
 l:swradio
 l:vREST_NG
 l:FastQt
-l:Cryptocam_Companion
 l:glulxe
 l:BunqDesktop
 l:Kanon
@@ -819,6 +818,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1094,6 +1094,7 @@ l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
 l:SerialPort_Assistant
+l:Glaxnimate
 l:Qucs-S
 l:Mayo
 l:Pile
@@ -1127,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
