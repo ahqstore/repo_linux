@@ -871,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -898,6 +899,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1044,7 +1046,6 @@ l:SimpleX
 l:Bloks
 l:CodePilot.ai
 l:qpdf
-l:Cryptocam_Companion
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
@@ -1104,7 +1105,6 @@ l:trader
 l:Shadow
 l:TeleDrive
 l:SBLauncher
-l:Alpine_Client
 l:Bench_CLI
 l:NimiTV
 l:spark-wallet
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
