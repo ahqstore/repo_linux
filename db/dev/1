@@ -712,6 +712,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -757,7 +758,6 @@ l:hw-probe
 l:ana-conversation-studio
 l:mybelka
 l:Elphyre-WalletShell
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:Emacs
 l:Bezique
@@ -1158,5 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
