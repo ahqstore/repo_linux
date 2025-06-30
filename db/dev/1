@@ -820,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -834,6 +833,7 @@ l:streamcapture2
 l:linux-intel-undervolt-gui
 l:Tutanota
 l:Sup
+l:Cryptocam_Companion
 l:Left
 l:PicGo
 l:Yamagi_Quake_II
@@ -1151,12 +1151,12 @@ l:LampixJS
 l:Lunyr
 l:gsubs
 l:Pingendo
-l:Alpine_Client
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
