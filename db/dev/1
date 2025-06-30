@@ -670,6 +670,7 @@ l:tT
 l:Niffler
 l:MediathekView
 l:mapton
+l:Cryptocam_Companion
 l:Passky
 l:EiskaltDC++
 l:Hexinator
@@ -879,7 +880,6 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1002,7 +1002,6 @@ l:Digitales_Klassenzimmer
 l:HDRMerge
 l:privacy.sexy
 l:T.Viewer
-l:Glaxnimate
 l:CoreGarage
 l:neovim
 l:mockoon
@@ -1084,6 +1083,7 @@ l:Museeks
 l:Gpredict
 l:midi123
 l:IrScrutinizer
+l:Glaxnimate
 l:Revisionary
 l:pkg2appimage
 l:WalletTech
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
