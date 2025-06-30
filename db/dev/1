@@ -712,6 +712,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -820,7 +821,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1127,7 +1127,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
