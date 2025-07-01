@@ -818,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -890,6 +889,7 @@ l:Carpenters
 l:QtMips
 l:FastTrack
 l:BloomRPC
+l:Cryptocam_Companion
 l:Kcov
 l:Dust3D
 l:Flippy_Qualitative_Testbench
@@ -1004,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1159,4 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
