@@ -871,8 +871,8 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Heimer
 l:Cryptocam_Companion
+l:Heimer
 l:ThermusQt
 l:SultanPOS
 l:cabal-desktop
@@ -1127,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
