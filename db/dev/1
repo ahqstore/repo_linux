@@ -756,7 +756,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -922,6 +921,7 @@ l:nextoncloudLogistic
 l:Guitar
 l:Sugarizer
 l:MuseScore
+l:Glaxnimate
 l:Spectral
 l:lumi
 l:paferashare
@@ -1048,6 +1048,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1154,7 +1155,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
