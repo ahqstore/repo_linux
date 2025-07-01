@@ -638,6 +638,7 @@ l:Aphelion_Wallet
 l:vue-calc
 l:moniteur-admin
 l:App_Outlet
+l:Cryptocam_Companion
 l:DawnlightSearch
 l:Ghostty
 l:climaxima
@@ -801,7 +802,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -872,6 +872,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Glaxnimate
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1154,9 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
