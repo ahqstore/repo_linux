@@ -695,6 +695,7 @@ l:eNoseAnnotator
 l:Slacktronic
 l:Juggernaut
 l:FontLet
+l:Cryptocam_Companion
 l:appium-desktop
 l:TurboWarp
 l:Qortal_UI
@@ -857,7 +858,6 @@ l:Linedancer
 l:MQTT-Explorer
 l:ClipGrab
 l:Neon
-l:Cryptocam_Companion
 l:appimagetool
 l:textosaurus
 l:City_Hub
@@ -922,7 +922,6 @@ l:nextoncloudLogistic
 l:Guitar
 l:Sugarizer
 l:MuseScore
-l:Glaxnimate
 l:Spectral
 l:lumi
 l:paferashare
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
