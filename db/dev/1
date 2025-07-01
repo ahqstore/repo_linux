@@ -872,6 +872,7 @@ l:ttth
 l:ZeGrapher
 l:Negibox
 l:Heimer
+l:Cryptocam_Companion
 l:ThermusQt
 l:SultanPOS
 l:cabal-desktop
@@ -898,7 +899,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1158,5 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
