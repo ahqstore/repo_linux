@@ -756,7 +756,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -798,6 +797,7 @@ l:Postman
 l:Mochi
 l:SmartGit
 l:Waterfox_Current
+l:Cryptocam_Companion
 l:Wexond
 l:ShareMyHost
 l:CorePaint
@@ -1072,7 +1072,6 @@ l:Tusk
 l:linuxdeployqt
 l:GameHub
 l:Papercraft
-l:Glaxnimate
 l:CircuitBlocks
 l:flameshot
 l:GitQlient
@@ -1128,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
