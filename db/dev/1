@@ -668,6 +668,7 @@ l:SonicLineup
 l:Bridge
 l:tT
 l:Niffler
+l:Cryptocam_Companion
 l:MediathekView
 l:mapton
 l:Passky
@@ -740,7 +741,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -980,6 +980,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1090,7 +1091,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
