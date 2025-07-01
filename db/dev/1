@@ -951,7 +951,6 @@ l:DICOMautomaton
 l:guiscrcpy
 l:AnimaShooter
 l:VNote
-l:Glaxnimate
 l:Infection_Monkey
 l:vifm
 l:QmidiCtl
@@ -1004,6 +1003,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Alpine_Client
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1042,7 +1042,6 @@ l:Lagrange
 l:pretty-handy-privacy
 l:clipr
 l:SimpleX
-l:Alpine_Client
 l:Bloks
 l:CodePilot.ai
 l:qpdf
@@ -1091,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Cryptocam_Companion
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Cryptocam_Companion
+l:Glaxnimate
