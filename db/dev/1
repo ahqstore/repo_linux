@@ -818,6 +818,7 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
+l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1003,7 +1004,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Alpine_Client
+l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1090,7 +1091,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Cryptocam_Companion
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
