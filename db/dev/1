@@ -768,7 +768,6 @@ l:Electrum-NMC
 l:YARC-Launcher
 l:LibreOfficeDev
 l:Record_Compare
-l:Cryptocam_Companion
 l:BottleBats
 l:QHot
 l:Genesis
@@ -821,7 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Glaxnimate
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1049,6 +1048,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
