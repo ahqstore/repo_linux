@@ -921,7 +921,6 @@ l:nextoncloudLogistic
 l:Guitar
 l:Sugarizer
 l:MuseScore
-l:Glaxnimate
 l:Spectral
 l:lumi
 l:paferashare
@@ -980,6 +979,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Cryptocam_Companion
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1048,7 +1048,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Cryptocam_Companion
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1159,4 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
 l:Alpine_Client
