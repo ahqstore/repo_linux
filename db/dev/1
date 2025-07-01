@@ -756,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -797,7 +798,6 @@ l:Postman
 l:Mochi
 l:SmartGit
 l:Waterfox_Current
-l:Cryptocam_Companion
 l:Wexond
 l:ShareMyHost
 l:CorePaint
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
