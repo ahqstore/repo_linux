@@ -857,6 +857,7 @@ l:Linedancer
 l:MQTT-Explorer
 l:ClipGrab
 l:Neon
+l:Cryptocam_Companion
 l:appimagetool
 l:textosaurus
 l:City_Hub
@@ -879,7 +880,6 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -922,6 +922,7 @@ l:nextoncloudLogistic
 l:Guitar
 l:Sugarizer
 l:MuseScore
+l:Glaxnimate
 l:Spectral
 l:lumi
 l:paferashare
@@ -1127,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1152,7 +1152,6 @@ l:LampixJS
 l:Lunyr
 l:gsubs
 l:Pingendo
-l:Alpine_Client
 l:four
 l:jscad-desktop
 l:Tulip
@@ -1160,3 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
