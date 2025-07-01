@@ -889,7 +889,6 @@ l:Carpenters
 l:QtMips
 l:FastTrack
 l:BloomRPC
-l:Cryptocam_Companion
 l:Kcov
 l:Dust3D
 l:Flippy_Qualitative_Testbench
@@ -899,6 +898,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
