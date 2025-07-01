@@ -911,7 +911,6 @@ l:VirtualBox-KVM
 l:Wsocks
 l:Shuttle
 l:Demonizer
-l:Glaxnimate
 l:nmap
 l:Google_Tasks_Desktop
 l:LikeTaskManager
@@ -1091,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
