@@ -731,6 +731,7 @@ l:Videomass
 l:dingtalk
 l:Infinitex
 l:Raspirus
+l:erdesigner
 l:etichetta
 l:VirtScreen
 l:Fidias_Database_Migration_App
@@ -819,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1046,6 +1046,7 @@ l:CodePilot.ai
 l:qpdf
 l:Syncthing_Tray
 l:Skrifa
+l:Cryptocam_Companion
 l:Calculist
 l:EncryptPad
 l:FontForge
@@ -1126,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Alpine_Client
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1158,4 +1160,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
