@@ -756,7 +756,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -894,6 +893,7 @@ l:Kcov
 l:Dust3D
 l:Flippy_Qualitative_Testbench
 l:Canoe
+l:Cryptocam_Companion
 l:CutePeaks
 l:CPod
 l:lux
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
