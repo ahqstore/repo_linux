@@ -891,8 +891,8 @@ l:FastTrack
 l:BloomRPC
 l:Kcov
 l:Dust3D
-l:Flippy_Qualitative_Testbench
 l:Cryptocam_Companion
+l:Flippy_Qualitative_Testbench
 l:Canoe
 l:CutePeaks
 l:CPod
@@ -1071,7 +1071,6 @@ l:Giada
 l:Tusk
 l:linuxdeployqt
 l:GameHub
-l:Glaxnimate
 l:Papercraft
 l:CircuitBlocks
 l:flameshot
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
