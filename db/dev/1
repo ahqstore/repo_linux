@@ -820,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -909,6 +908,7 @@ l:StatusPilatus
 l:Scrum-Retroboard
 l:VirtualBox-KVM
 l:Wsocks
+l:Glaxnimate
 l:Shuttle
 l:Demonizer
 l:nmap
@@ -1045,6 +1045,7 @@ l:SimpleX
 l:Bloks
 l:CodePilot.ai
 l:qpdf
+l:Cryptocam_Companion
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
@@ -1093,7 +1094,6 @@ l:Rambox
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
-l:Glaxnimate
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
