@@ -824,7 +824,6 @@ l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
 l:CP2130_Commander
-l:Cryptocam_Companion
 l:movie-monad
 l:QuickRedis
 l:Waterfox_Fourth_Generation
@@ -1004,6 +1003,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Cryptocam_Companion
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1097,6 +1097,7 @@ l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
 l:Pile
+l:Glaxnimate
 l:qr-code-generator-desktop
 l:Bazecor
 l:Mini_Diary
@@ -1154,9 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
