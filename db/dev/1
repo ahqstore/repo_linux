@@ -922,6 +922,7 @@ l:Guitar
 l:Sugarizer
 l:MuseScore
 l:Spectral
+l:Cryptocam_Companion
 l:lumi
 l:paferashare
 l:Sharp-Tune
@@ -1003,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Cryptocam_Companion
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1097,7 +1097,6 @@ l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
 l:Pile
-l:Glaxnimate
 l:qr-code-generator-desktop
 l:Bazecor
 l:Mini_Diary
@@ -1128,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
