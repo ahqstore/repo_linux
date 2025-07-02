@@ -801,7 +801,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -980,6 +979,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Alpine_Client
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1078,6 +1078,7 @@ l:GitQlient
 l:Auryo
 l:RHB
 l:Spectrum
+l:Cryptocam_Companion
 l:ProofKeeper
 l:Museeks
 l:Gpredict
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
