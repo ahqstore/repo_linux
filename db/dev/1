@@ -801,7 +801,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -914,6 +913,7 @@ l:Demonizer
 l:nmap
 l:Google_Tasks_Desktop
 l:LikeTaskManager
+l:Cryptocam_Companion
 l:BetterCrewlink
 l:EmuDeck
 l:ReliefValve
@@ -1077,7 +1077,6 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
-l:Alpine_Client
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1159,4 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
