@@ -801,6 +801,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -863,7 +864,6 @@ l:City_Hub
 l:SpringBoard
 l:KiCad
 l:Crypter
-l:Cryptocam_Companion
 l:AudioMoth
 l:luna
 l:Buche
@@ -1077,6 +1077,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Alpine_Client
 l:Spectrum
 l:ProofKeeper
 l:Museeks
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
