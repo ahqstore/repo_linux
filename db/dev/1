@@ -780,6 +780,7 @@ l:PhreshPlayer
 l:Delir
 l:RetroShare
 l:bottlenose
+l:Cryptocam_Companion
 l:FAT_Wallet
 l:Colorpicker
 l:RemNote
@@ -937,7 +938,6 @@ l:sticker-convert
 l:OVALE
 l:DeepTags
 l:Scraper
-l:Cryptocam_Companion
 l:SwitchHosts!
 l:ClementineRemote
 l:twitch-wrapper
@@ -1093,7 +1093,6 @@ l:Rambox
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
-l:Alpine_Client
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
