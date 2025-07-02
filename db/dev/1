@@ -848,6 +848,7 @@ l:ScrapeStorm
 l:MuWire
 l:TVALB
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Pony_Compiler
 l:CorePins
 l:NoraGO
@@ -861,7 +862,6 @@ l:appimagetool
 l:textosaurus
 l:City_Hub
 l:SpringBoard
-l:Cryptocam_Companion
 l:KiCad
 l:Crypter
 l:AudioMoth
@@ -1127,7 +1127,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
