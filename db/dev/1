@@ -624,7 +624,6 @@ l:Winds
 l:Anchor
 l:getswell
 l:GPUpad
-l:Cryptocam_Companion
 l:Linphone
 l:Zegarek
 l:Scytale
@@ -821,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Glaxnimate
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -939,6 +937,7 @@ l:sticker-convert
 l:OVALE
 l:DeepTags
 l:Scraper
+l:Cryptocam_Companion
 l:SwitchHosts!
 l:ClementineRemote
 l:twitch-wrapper
@@ -1094,6 +1093,7 @@ l:Rambox
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
+l:Alpine_Client
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
