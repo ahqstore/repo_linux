@@ -749,6 +749,7 @@ l:Artifact
 l:James
 l:Speaky_MiniPlayer
 l:SVGWall
+l:Cryptocam_Companion
 l:whiteboard
 l:Todoist
 l:Vieb
@@ -818,7 +819,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -902,7 +902,6 @@ l:CoreAction
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
-l:Glaxnimate
 l:PostyBirb
 l:BasiliskII
 l:ridereceipts
@@ -1078,6 +1077,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
