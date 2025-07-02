@@ -692,6 +692,7 @@ l:QuickDoc
 l:Kate
 l:BTS-CE-Lite
 l:eNoseAnnotator
+l:Cryptocam_Companion
 l:Slacktronic
 l:Juggernaut
 l:FontLet
@@ -756,7 +757,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -1048,11 +1048,9 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Alpine_Client
 l:EncryptPad
 l:FontForge
 l:Kdenlive
-l:Glaxnimate
 l:CozyDrive
 l:KevEdit
 l:UltraScreen
@@ -1156,7 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
