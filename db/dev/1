@@ -712,7 +712,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -1119,6 +1118,7 @@ l:accessimap-lecteur-der
 l:Bypass_Cors
 l:Vulkan_Hardware_Capability_Viewer
 l:SyncMyL2P
+l:Cryptocam_Companion
 l:Carnet
 l:CRITERIA1D_PRO
 l:ZY_Player
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
