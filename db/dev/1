@@ -590,6 +590,7 @@ l:pyappimage
 l:BilibiliVideoDownload
 l:elzabrowser
 l:Jacksum
+l:Cryptocam_Companion
 l:xlights
 l:Statsbook_Tool
 l:TeXstudio
@@ -756,7 +757,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -866,6 +866,7 @@ l:KiCad
 l:Crypter
 l:AudioMoth
 l:luna
+l:Glaxnimate
 l:Buche
 l:Gulden
 l:Patchwork
@@ -1127,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
