@@ -712,6 +712,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -908,7 +909,6 @@ l:StatusPilatus
 l:Scrum-Retroboard
 l:VirtualBox-KVM
 l:Wsocks
-l:Glaxnimate
 l:Shuttle
 l:Demonizer
 l:nmap
@@ -1045,7 +1045,6 @@ l:SimpleX
 l:Bloks
 l:CodePilot.ai
 l:qpdf
-l:Cryptocam_Companion
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
