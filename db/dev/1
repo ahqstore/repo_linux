@@ -820,6 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -839,7 +840,6 @@ l:Yamagi_Quake_II
 l:HyperDEX
 l:Cool_Retro_Term
 l:sipgate_Softphone
-l:Cryptocam_Companion
 l:Memento
 l:LosslessCut
 l:Around
@@ -1004,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Glaxnimate
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1094,6 +1093,7 @@ l:Rambox
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
+l:Glaxnimate
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
