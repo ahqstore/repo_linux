@@ -590,7 +590,6 @@ l:pyappimage
 l:BilibiliVideoDownload
 l:elzabrowser
 l:Jacksum
-l:Cryptocam_Companion
 l:xlights
 l:Statsbook_Tool
 l:TeXstudio
@@ -713,6 +712,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -866,7 +866,6 @@ l:KiCad
 l:Crypter
 l:AudioMoth
 l:luna
-l:Glaxnimate
 l:Buche
 l:Gulden
 l:Patchwork
@@ -1078,6 +1077,7 @@ l:flameshot
 l:GitQlient
 l:Auryo
 l:RHB
+l:Glaxnimate
 l:Spectrum
 l:ProofKeeper
 l:Museeks
