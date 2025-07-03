@@ -801,7 +801,6 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
-l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -1012,7 +1011,6 @@ l:tnt
 l:Steem_Messenger
 l:Gitbumr
 l:runanode
-l:Alpine_Client
 l:twetter
 l:media-dupes
 l:Firefox_Beta
@@ -1082,6 +1080,7 @@ l:Spectrum
 l:ProofKeeper
 l:Museeks
 l:Gpredict
+l:Cryptocam_Companion
 l:midi123
 l:IrScrutinizer
 l:Revisionary
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
