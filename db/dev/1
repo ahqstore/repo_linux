@@ -812,7 +812,6 @@ l:Gemalaya
 l:PhotoFlow
 l:CoCoMusic
 l:colorstatic-bash
-l:Cryptocam_Companion
 l:Brackets
 l:GM-Companion
 l:x-loc
@@ -899,7 +898,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1128,6 +1126,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Cryptocam_Companion
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
