@@ -628,6 +628,7 @@ l:Linphone
 l:Zegarek
 l:Scytale
 l:Pulsar
+l:Cryptocam_Companion
 l:Cromberg
 l:Eternal-Lands
 l:Mob
@@ -961,7 +962,6 @@ l:MellowPlayer
 l:strongbox
 l:Kitupiikki
 l:Scatter
-l:Cryptocam_Companion
 l:altair
 l:Board_Game_Star
 l:DeadGame-2048
@@ -980,6 +980,7 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
+l:Alpine_Client
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1043,6 +1044,7 @@ l:pretty-handy-privacy
 l:clipr
 l:SimpleX
 l:Bloks
+l:Glaxnimate
 l:CodePilot.ai
 l:qpdf
 l:Syncthing_Tray
@@ -1158,5 +1160,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
-l:Glaxnimate
