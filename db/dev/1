@@ -712,7 +712,6 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
-l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -757,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -944,6 +944,7 @@ l:twitch-wrapper
 l:QmidiNet
 l:qtrfpowermeter
 l:embedded-ide
+l:Glaxnimate
 l:jumpfm
 l:ElDumper
 l:Quark
@@ -1113,7 +1114,6 @@ l:UHK.Agent
 l:nbrsync
 l:PlayMe
 l:Tumblr_Scraper
-l:Glaxnimate
 l:MediaElch
 l:CrossMobile
 l:accessimap-lecteur-der
