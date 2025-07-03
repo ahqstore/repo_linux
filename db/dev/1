@@ -854,6 +854,7 @@ l:NoraGO
 l:hotspot
 l:Cryptr
 l:Linedancer
+l:Cryptocam_Companion
 l:MQTT-Explorer
 l:ClipGrab
 l:Neon
@@ -879,7 +880,6 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Cryptocam_Companion
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1137,6 +1137,7 @@ l:LeoCAD
 l:Parity_Fether
 l:Arma_3_Unix_Launcher
 l:Geph
+l:Glaxnimate
 l:APhotoToolLibre
 l:BibleMultiTheLife
 l:FreeCAD2
@@ -1159,4 +1160,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
-l:Glaxnimate
