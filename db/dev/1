@@ -871,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1003,7 +1004,6 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Cryptocam_Companion
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1025,7 +1025,6 @@ l:cric
 l:ANT_Downloader
 l:steam-rom-manager
 l:MagicFountain
-l:Glaxnimate
 l:ElectroCRUD
 l:ser-player
 l:Inboxer
@@ -1155,6 +1154,7 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
