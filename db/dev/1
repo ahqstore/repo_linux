@@ -722,7 +722,6 @@ l:ZapDesktop
 l:Altitude
 l:SchildiChat
 l:Pext
-l:Cryptocam_Companion
 l:Cura
 l:PanWriter
 l:qikQR
@@ -1090,10 +1089,10 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Alpine_Client
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
-l:Glaxnimate
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
@@ -1159,4 +1158,5 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
+l:Cryptocam_Companion
