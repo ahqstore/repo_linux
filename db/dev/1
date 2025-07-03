@@ -712,6 +712,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -820,7 +821,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -872,7 +872,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Glaxnimate
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1114,6 +1113,7 @@ l:UHK.Agent
 l:nbrsync
 l:PlayMe
 l:Tumblr_Scraper
+l:Glaxnimate
 l:MediaElch
 l:CrossMobile
 l:accessimap-lecteur-der
