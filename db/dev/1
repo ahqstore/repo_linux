@@ -649,6 +649,7 @@ l:BunqDesktop
 l:Kanon
 l:XClicker
 l:ai-bot-workspace
+l:Cryptocam_Companion
 l:PrimeWorldEditor
 l:qBittorrent_Enhanced_Edition
 l:Pullp
@@ -740,7 +741,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -1090,7 +1090,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1103,6 +1102,7 @@ l:Bazecor
 l:Mini_Diary
 l:trader
 l:Shadow
+l:Glaxnimate
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
