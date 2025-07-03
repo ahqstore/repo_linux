@@ -628,7 +628,6 @@ l:Linphone
 l:Zegarek
 l:Scytale
 l:Pulsar
-l:Cryptocam_Companion
 l:Cromberg
 l:Eternal-Lands
 l:Mob
@@ -899,6 +898,7 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
+l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -999,12 +999,12 @@ l:LANShare
 l:iQPuzzle
 l:Zap
 l:Digitales_Klassenzimmer
+l:Cryptocam_Companion
 l:HDRMerge
 l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
-l:Alpine_Client
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1016,7 +1016,6 @@ l:runanode
 l:twetter
 l:media-dupes
 l:Firefox_Beta
-l:Glaxnimate
 l:HastyHeroes
 l:mutool
 l:plexamp
@@ -1160,3 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
