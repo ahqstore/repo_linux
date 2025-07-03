@@ -820,6 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1080,7 +1081,6 @@ l:Spectrum
 l:ProofKeeper
 l:Museeks
 l:Gpredict
-l:Cryptocam_Companion
 l:midi123
 l:IrScrutinizer
 l:Revisionary
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
 l:Glaxnimate
