@@ -740,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -854,7 +855,6 @@ l:NoraGO
 l:hotspot
 l:Cryptr
 l:Linedancer
-l:Cryptocam_Companion
 l:MQTT-Explorer
 l:ClipGrab
 l:Neon
@@ -1090,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1137,7 +1138,6 @@ l:LeoCAD
 l:Parity_Fether
 l:Arma_3_Unix_Launcher
 l:Geph
-l:Glaxnimate
 l:APhotoToolLibre
 l:BibleMultiTheLife
 l:FreeCAD2
