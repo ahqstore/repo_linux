@@ -718,7 +718,6 @@ l:nheko
 l:Lemon
 l:Paletti
 l:Ganache
-l:Cryptocam_Companion
 l:ZapDesktop
 l:Altitude
 l:SchildiChat
@@ -821,6 +820,7 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
+l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1117,6 +1117,7 @@ l:MediaElch
 l:CrossMobile
 l:accessimap-lecteur-der
 l:Bypass_Cors
+l:Alpine_Client
 l:Vulkan_Hardware_Capability_Viewer
 l:SyncMyL2P
 l:Carnet
@@ -1127,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
