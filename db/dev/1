@@ -801,6 +801,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -820,7 +821,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -1012,6 +1012,7 @@ l:tnt
 l:Steem_Messenger
 l:Gitbumr
 l:runanode
+l:Alpine_Client
 l:twetter
 l:media-dupes
 l:Firefox_Beta
@@ -1159,4 +1160,3 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
-l:Alpine_Client
