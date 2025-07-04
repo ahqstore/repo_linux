@@ -624,7 +624,6 @@ l:Winds
 l:Anchor
 l:getswell
 l:GPUpad
-l:Cryptocam_Companion
 l:Linphone
 l:Zegarek
 l:Scytale
@@ -723,6 +722,7 @@ l:ZapDesktop
 l:Altitude
 l:SchildiChat
 l:Pext
+l:Cryptocam_Companion
 l:Cura
 l:PanWriter
 l:qikQR
@@ -1048,6 +1048,7 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
+l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
