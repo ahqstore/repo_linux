@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -757,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -939,7 +939,6 @@ l:OVALE
 l:DeepTags
 l:Scraper
 l:SwitchHosts!
-l:Glaxnimate
 l:ClementineRemote
 l:twitch-wrapper
 l:QmidiNet
@@ -984,6 +983,7 @@ l:Rotki
 l:WebDesktop
 l:ideaMaker
 l:Cantata
+l:Glaxnimate
 l:Stacer
 l:KeePassXC
 l:Plex
