@@ -722,7 +722,6 @@ l:ZapDesktop
 l:Altitude
 l:SchildiChat
 l:Pext
-l:Cryptocam_Companion
 l:Cura
 l:PanWriter
 l:qikQR
@@ -741,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -1048,7 +1048,6 @@ l:qpdf
 l:Syncthing_Tray
 l:Skrifa
 l:Calculist
-l:Glaxnimate
 l:EncryptPad
 l:FontForge
 l:Kdenlive
@@ -1091,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
