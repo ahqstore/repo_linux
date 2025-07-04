@@ -818,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1073,6 +1072,7 @@ l:linuxdeployqt
 l:GameHub
 l:Papercraft
 l:CircuitBlocks
+l:Cryptocam_Companion
 l:flameshot
 l:GitQlient
 l:Auryo
@@ -1096,7 +1096,6 @@ l:Inkscape
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
-l:Alpine_Client
 l:Pile
 l:qr-code-generator-desktop
 l:Bazecor
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Glaxnimate
+l:Alpine_Client
