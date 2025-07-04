@@ -649,7 +649,6 @@ l:BunqDesktop
 l:Kanon
 l:XClicker
 l:ai-bot-workspace
-l:Cryptocam_Companion
 l:PrimeWorldEditor
 l:qBittorrent_Enhanced_Edition
 l:Pullp
@@ -872,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1125,7 +1125,6 @@ l:ZY_Player
 l:notepadqq
 l:ledger-live-desktop
 l:My_Jira
-l:Glaxnimate
 l:autoEdit2
 l:BscanFFTwebcam
 l:MapperoGeotagger
@@ -1155,8 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
