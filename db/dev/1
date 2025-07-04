@@ -771,7 +771,6 @@ l:Record_Compare
 l:BottleBats
 l:QHot
 l:Genesis
-l:Cryptocam_Companion
 l:Planet_Blupi
 l:SynfigStudio
 l:ocsstore
@@ -819,7 +818,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Glaxnimate
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -829,6 +827,7 @@ l:CP2130_Commander
 l:movie-monad
 l:QuickRedis
 l:Waterfox_Fourth_Generation
+l:Cryptocam_Companion
 l:AppImagePool
 l:FontBase
 l:streamcapture2
@@ -1155,8 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Alpine_Client
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
