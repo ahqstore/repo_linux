@@ -801,6 +801,7 @@ l:Wexond
 l:ShareMyHost
 l:CorePaint
 l:Thorium_Reader
+l:Cryptocam_Companion
 l:Colobot
 l:Protracker
 l:APK_Editor_Studio
@@ -871,7 +872,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Glaxnimate
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -899,7 +899,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1071,6 +1070,7 @@ l:lightning-peach-wallet
 l:Giada
 l:Tusk
 l:linuxdeployqt
+l:Glaxnimate
 l:GameHub
 l:Papercraft
 l:CircuitBlocks
