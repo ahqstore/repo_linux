@@ -740,6 +740,7 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
+l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -756,7 +757,6 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
-l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -1115,6 +1115,7 @@ l:PlayMe
 l:Tumblr_Scraper
 l:MediaElch
 l:CrossMobile
+l:Glaxnimate
 l:accessimap-lecteur-der
 l:Bypass_Cors
 l:Vulkan_Hardware_Capability_Viewer
@@ -1127,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
