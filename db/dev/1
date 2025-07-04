@@ -1051,7 +1051,6 @@ l:EncryptPad
 l:FontForge
 l:Kdenlive
 l:CozyDrive
-l:Cryptocam_Companion
 l:KevEdit
 l:UltraScreen
 l:V2Ray-Desktop
@@ -1090,6 +1089,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Cryptocam_Companion
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1154,9 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
