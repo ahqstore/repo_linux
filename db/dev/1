@@ -820,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -872,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -980,7 +980,6 @@ l:Qredit
 l:bioanimation
 l:Firefox_Nightly
 l:Rotki
-l:Glaxnimate
 l:WebDesktop
 l:ideaMaker
 l:Cantata
@@ -1005,6 +1004,7 @@ l:privacy.sexy
 l:T.Viewer
 l:CoreGarage
 l:neovim
+l:Alpine_Client
 l:mockoon
 l:GSequencer
 l:Blizzard_4
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
