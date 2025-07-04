@@ -637,7 +637,6 @@ l:android-messages-desktop
 l:Aphelion_Wallet
 l:vue-calc
 l:moniteur-admin
-l:Cryptocam_Companion
 l:App_Outlet
 l:DawnlightSearch
 l:Ghostty
@@ -872,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -899,7 +899,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1132,6 +1131,7 @@ l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
 l:GitHubDesktop
+l:Alpine_Client
 l:keyrier-json
 l:Sige_Lite
 l:LeoCAD
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
+l:Glaxnimate
