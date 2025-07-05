@@ -658,7 +658,6 @@ l:KOReader
 l:Cascade_Image_Editor
 l:Padloc
 l:Nitrokey
-l:Cryptocam_Companion
 l:SmallBASIC
 l:Circle-Z
 l:SourceGit
@@ -872,6 +871,7 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
+l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1029,6 +1029,7 @@ l:ElectroCRUD
 l:ser-player
 l:Inboxer
 l:Drill
+l:Alpine_Client
 l:avogadro
 l:GospelPdfViewer
 l:synthv1
@@ -1127,7 +1128,6 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
-l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
