@@ -759,6 +759,7 @@ l:mybelka
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
+l:Cryptocam_Companion
 l:Bezique
 l:Blowfish
 l:thorium-client
@@ -898,7 +899,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Cryptocam_Companion
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -951,6 +951,7 @@ l:Rats_on_The_Boat
 l:DICOMautomaton
 l:guiscrcpy
 l:AnimaShooter
+l:Glaxnimate
 l:VNote
 l:Infection_Monkey
 l:vifm
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
 l:Alpine_Client
