@@ -756,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -813,7 +814,6 @@ l:PhotoFlow
 l:CoCoMusic
 l:colorstatic-bash
 l:Brackets
-l:Cryptocam_Companion
 l:GM-Companion
 l:x-loc
 l:Vitomu
@@ -1127,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1141,6 +1142,7 @@ l:APhotoToolLibre
 l:BibleMultiTheLife
 l:FreeCAD2
 l:LibreOfficePreRelease
+l:Alpine_Client
 l:Zoom
 l:ConsoleWorkbench
 l:ytDownloader
@@ -1158,5 +1160,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
-l:Alpine_Client
