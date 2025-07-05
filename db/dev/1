@@ -712,6 +712,7 @@ l:Meshmill
 l:MediaInfo
 l:Naev
 l:Scribus
+l:Cryptocam_Companion
 l:BulkURLOpener
 l:NoSQLBooster
 l:nheko
@@ -818,7 +819,6 @@ l:x-loc
 l:Vitomu
 l:nxshell
 l:Minions
-l:Cryptocam_Companion
 l:SigDigger
 l:ngrev
 l:TreeSheets
@@ -1090,6 +1090,7 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
+l:Glaxnimate
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1115,7 +1116,6 @@ l:PlayMe
 l:Tumblr_Scraper
 l:MediaElch
 l:CrossMobile
-l:Alpine_Client
 l:accessimap-lecteur-der
 l:Bypass_Cors
 l:Vulkan_Hardware_Capability_Viewer
@@ -1155,8 +1155,8 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
