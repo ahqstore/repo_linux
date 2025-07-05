@@ -740,7 +740,6 @@ l:AsarUI
 l:CoreHunt
 l:weweChat
 l:marlin-conf
-l:Cryptocam_Companion
 l:stretchly
 l:Trinity_Desktop
 l:qpp::cad
@@ -963,6 +962,7 @@ l:strongbox
 l:Kitupiikki
 l:Scatter
 l:altair
+l:Cryptocam_Companion
 l:Board_Game_Star
 l:DeadGame-2048
 l:Etcher
@@ -1093,6 +1093,7 @@ l:Rambox
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
+l:Alpine_Client
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
