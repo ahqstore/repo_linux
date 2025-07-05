@@ -756,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -962,7 +963,6 @@ l:strongbox
 l:Kitupiikki
 l:Scatter
 l:altair
-l:Cryptocam_Companion
 l:Board_Game_Star
 l:DeadGame-2048
 l:Etcher
@@ -1093,7 +1093,6 @@ l:Rambox
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
-l:Alpine_Client
 l:SerialPort_Assistant
 l:Qucs-S
 l:Mayo
@@ -1128,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1159,4 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Glaxnimate
+l:Alpine_Client
