@@ -871,7 +871,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -899,7 +898,6 @@ l:CPod
 l:lux
 l:MrWriter
 l:CoreAction
-l:Glaxnimate
 l:BaijiMangaViewer
 l:pingviewer
 l:VPaint
@@ -1125,10 +1123,10 @@ l:CRITERIA1D_PRO
 l:ZY_Player
 l:notepadqq
 l:ledger-live-desktop
-l:Alpine_Client
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1156,7 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
+l:Cryptocam_Companion
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Alpine_Client
