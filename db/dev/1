@@ -820,7 +820,6 @@ l:nxshell
 l:Minions
 l:SigDigger
 l:ngrev
-l:Cryptocam_Companion
 l:TreeSheets
 l:Puppetry
 l:Biplanes_Revival
@@ -880,7 +879,6 @@ l:Kristall
 l:Fluent_Reader
 l:ao
 l:Beyond_All_Reason
-l:Glaxnimate
 l:Hypnos
 l:LiveMe_Pro_Tools
 l:westeroscraftlauncher
@@ -1007,6 +1005,7 @@ l:CoreGarage
 l:neovim
 l:mockoon
 l:GSequencer
+l:Glaxnimate
 l:Blizzard_4
 l:ehdev-shell
 l:tnt
@@ -1066,6 +1065,7 @@ l:onnx2daq
 l:GVim
 l:Friture
 l:M
+l:Cryptocam_Companion
 l:KopiaUI
 l:lightning-peach-wallet
 l:Giada
