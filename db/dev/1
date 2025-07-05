@@ -803,6 +803,7 @@ l:CorePaint
 l:Thorium_Reader
 l:Colobot
 l:Protracker
+l:Cryptocam_Companion
 l:APK_Editor_Studio
 l:Atomicwallet
 l:JoalDesktop
@@ -827,7 +828,6 @@ l:CP2130_Commander
 l:movie-monad
 l:QuickRedis
 l:Waterfox_Fourth_Generation
-l:Cryptocam_Companion
 l:AppImagePool
 l:FontBase
 l:streamcapture2
@@ -1091,6 +1091,7 @@ l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
 l:SimpleInstaBot
+l:Alpine_Client
 l:Subsurface
 l:Inkscape
 l:SerialPort_Assistant
@@ -1102,7 +1103,6 @@ l:Bazecor
 l:Mini_Diary
 l:trader
 l:Shadow
-l:Alpine_Client
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
