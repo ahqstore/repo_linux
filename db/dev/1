@@ -813,6 +813,7 @@ l:PhotoFlow
 l:CoCoMusic
 l:colorstatic-bash
 l:Brackets
+l:Cryptocam_Companion
 l:GM-Companion
 l:x-loc
 l:Vitomu
@@ -871,7 +872,6 @@ l:Patchwork
 l:ttth
 l:ZeGrapher
 l:Negibox
-l:Cryptocam_Companion
 l:Heimer
 l:ThermusQt
 l:SultanPOS
@@ -1029,7 +1029,6 @@ l:ElectroCRUD
 l:ser-player
 l:Inboxer
 l:Drill
-l:Alpine_Client
 l:avogadro
 l:GospelPdfViewer
 l:synthv1
@@ -1155,8 +1154,9 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
+l:Glaxnimate
+l:Alpine_Client
