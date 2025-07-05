@@ -756,6 +756,7 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
@@ -1005,7 +1006,6 @@ l:CoreGarage
 l:neovim
 l:mockoon
 l:GSequencer
-l:Glaxnimate
 l:Blizzard_4
 l:ehdev-shell
 l:tnt
@@ -1057,6 +1057,7 @@ l:UltraScreen
 l:V2Ray-Desktop
 l:Beatconnect_Client
 l:snake.js
+l:Alpine_Client
 l:Poddr
 l:OwlPlug
 l:OWallet
@@ -1065,7 +1066,6 @@ l:onnx2daq
 l:GVim
 l:Friture
 l:M
-l:Cryptocam_Companion
 l:KopiaUI
 l:lightning-peach-wallet
 l:Giada
@@ -1106,6 +1106,7 @@ l:Shadow
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
+l:Glaxnimate
 l:NimiTV
 l:spark-wallet
 l:devdocs-desktop
@@ -1159,4 +1160,3 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
