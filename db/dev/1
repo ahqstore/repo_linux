@@ -756,10 +756,10 @@ l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
 l:mybelka
+l:Cryptocam_Companion
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
 l:Emacs
-l:Cryptocam_Companion
 l:Bezique
 l:Blowfish
 l:thorium-client
@@ -951,7 +951,6 @@ l:Rats_on_The_Boat
 l:DICOMautomaton
 l:guiscrcpy
 l:AnimaShooter
-l:Glaxnimate
 l:VNote
 l:Infection_Monkey
 l:vifm
@@ -1160,3 +1159,4 @@ l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
 l:Alpine_Client
+l:Glaxnimate
