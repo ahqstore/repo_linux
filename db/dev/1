@@ -827,6 +827,7 @@ l:CP2130_Commander
 l:movie-monad
 l:QuickRedis
 l:Waterfox_Fourth_Generation
+l:Cryptocam_Companion
 l:AppImagePool
 l:FontBase
 l:streamcapture2
@@ -1089,7 +1090,6 @@ l:ToastWallet
 l:Wonderwall
 l:ProcDepMonitor
 l:Rambox
-l:Cryptocam_Companion
 l:SimpleInstaBot
 l:Subsurface
 l:Inkscape
@@ -1102,6 +1102,7 @@ l:Bazecor
 l:Mini_Diary
 l:trader
 l:Shadow
+l:Alpine_Client
 l:TeleDrive
 l:SBLauncher
 l:Bench_CLI
@@ -1158,5 +1159,4 @@ l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
 l:PolkaKey
-l:Alpine_Client
 l:Glaxnimate
