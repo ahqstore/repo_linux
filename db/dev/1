@@ -658,6 +658,7 @@ l:KOReader
 l:Cascade_Image_Editor
 l:Padloc
 l:Nitrokey
+l:Cryptocam_Companion
 l:SmallBASIC
 l:Circle-Z
 l:SourceGit
@@ -755,7 +756,6 @@ l:Vieb
 l:SonicVisualiser
 l:hw-probe
 l:ana-conversation-studio
-l:Cryptocam_Companion
 l:mybelka
 l:Elphyre-WalletShell
 l:Thunderbird_Beta
@@ -1127,6 +1127,7 @@ l:ledger-live-desktop
 l:My_Jira
 l:autoEdit2
 l:BscanFFTwebcam
+l:Glaxnimate
 l:MapperoGeotagger
 l:VivifyScrum
 l:Vipster
@@ -1154,7 +1155,6 @@ l:Pingendo
 l:four
 l:jscad-desktop
 l:Tulip
-l:Glaxnimate
 l:UltraGrid
 l:ONLYOFFICE
 l:Evolution_RTS
