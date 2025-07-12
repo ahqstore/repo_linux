@@ -854,7 +854,6 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
-l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
@@ -1083,6 +1082,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1094,7 +1094,6 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
-l:Glaxnimate
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
