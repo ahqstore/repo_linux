@@ -112,8 +112,8 @@ impl Map {
       let _ = fs::write(format!("./db/res/{}/{}", &app.appId, id), bytes);
     }
 
-    app.appId = format!("f:{}", app.appId);
-    app.authorId = format!("f:{}", app.authorId);
+    app.appId = format!("l:{}", app.appId);
+    app.authorId = format!("l:{}", app.authorId);
 
     println!("✅ Adding {}", &app.appId);
 
