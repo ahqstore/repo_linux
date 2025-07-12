@@ -914,6 +914,7 @@ l:Master_PDF_Editor_5.9.90-x86_64.AppImage
 l:wxMaxima
 l:todo-bash
 l:unreel
+l:Cryptocam_Companion
 l:lumi
 l:notepadqq
 l:tinyclerk
@@ -991,7 +992,6 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
-l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
@@ -1137,7 +1137,6 @@ l:Zap
 l:Intiface
 l:gerbv
 l:Widelands
-l:Glaxnimate
 l:Mechvibes
 l:GoldenCheetah
 l:le
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
