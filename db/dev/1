@@ -1073,6 +1073,7 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
+l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1082,7 +1083,6 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
-l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1106,7 +1106,6 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
-l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
@@ -1136,6 +1135,7 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
+l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
