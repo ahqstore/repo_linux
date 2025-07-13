@@ -867,6 +867,7 @@ l:GoldenDict
 l:ipe
 l:CustomRPC
 l:Blowfish
+l:Cryptocam_Companion
 l:Keibo-MoneyTracker-x86_64
 l:mybelka
 l:Rubber_Band_Audio
@@ -953,7 +954,6 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
-l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
