@@ -1037,6 +1037,7 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
+l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1048,7 +1049,6 @@ l:eXtrema
 l:Artifact
 l:Kcov
 l:Znax
-l:Cryptocam_Companion
 l:SnippetStore
 l:Sayonara
 l:Black_Chocobo
