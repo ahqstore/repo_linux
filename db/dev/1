@@ -953,7 +953,6 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
-l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -983,6 +982,7 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
+l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1099,6 +1099,7 @@ l:TheCloudPortal_Signage_Client
 l:clownmdemu
 l:UHK.Agent
 l:Todoist
+l:Glaxnimate
 l:KADE
 l:Negibox
 l:Evolution_RTS
@@ -1135,7 +1136,6 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
-l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
