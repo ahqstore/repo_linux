@@ -813,7 +813,6 @@ l:BulkURLOpener
 l:Cavoke
 l:Moonitor
 l:Malice
-l:Cryptocam_Companion
 l:KeePassXC
 l:onnx2daq
 l:Drawpile-Server
@@ -992,6 +991,7 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
