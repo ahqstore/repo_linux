@@ -881,7 +881,6 @@ l:VLC
 l:ehdev-shell
 l:eNoseAnnotator
 l:Padloc
-l:Cryptocam_Companion
 l:CoreArchiver
 l:MicroPad
 l:ProcDepMonitor
@@ -953,6 +952,7 @@ l:McPodcast
 l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
+l:Cryptocam_Companion
 l:elcalc
 l:ExtremeCooling4Linux
 l:elzabrowser
