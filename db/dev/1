@@ -813,6 +813,7 @@ l:BulkURLOpener
 l:Cavoke
 l:Moonitor
 l:Malice
+l:Cryptocam_Companion
 l:KeePassXC
 l:onnx2daq
 l:Drawpile-Server
@@ -1053,7 +1054,6 @@ l:Sayonara
 l:Black_Chocobo
 l:lescovex
 l:PicoLog
-l:Cryptocam_Companion
 l:BLOCK-DX
 l:SeriousSamClassic-VK
 l:ttth
@@ -1153,10 +1153,10 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
