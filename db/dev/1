@@ -1037,6 +1037,7 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
+l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1145,7 +1146,6 @@ l:noteshrink-qt
 l:Markman
 l:smtk2ssrf
 l:Scytale
-l:Cryptocam_Companion
 l:CP2130_Configurator
 l:GitHubDesktop
 l:Bitwarden_Connector
