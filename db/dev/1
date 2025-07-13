@@ -936,7 +936,6 @@ l:O3
 l:BrainWaves
 l:KCalc
 l:mdview
-l:Cryptocam_Companion
 l:Qrop
 l:Moonlight
 l:Puppetry
@@ -992,6 +991,7 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
