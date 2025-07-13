@@ -982,7 +982,6 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
-l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -992,6 +991,7 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
@@ -1099,7 +1099,6 @@ l:TheCloudPortal_Signage_Client
 l:clownmdemu
 l:UHK.Agent
 l:Todoist
-l:Glaxnimate
 l:KADE
 l:Negibox
 l:Evolution_RTS
@@ -1107,6 +1106,7 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
