@@ -807,6 +807,7 @@ l:Pile
 l:GitJournal
 l:OpenSCAD
 l:Melodie
+l:Cryptocam_Companion
 l:Marvin
 l:keyrier-json
 l:BulkURLOpener
@@ -843,7 +844,6 @@ l:Bottles
 l:Sengi
 l:levior
 l:ArcadeManager
-l:Cryptocam_Companion
 l:P2PDerivatives
 l:ai-bot-workspace
 l:flightgear-airports
@@ -1106,10 +1106,10 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
-l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
