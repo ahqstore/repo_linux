@@ -843,6 +843,7 @@ l:Bottles
 l:Sengi
 l:levior
 l:ArcadeManager
+l:Cryptocam_Companion
 l:P2PDerivatives
 l:ai-bot-workspace
 l:flightgear-airports
@@ -867,7 +868,6 @@ l:GoldenDict
 l:ipe
 l:CustomRPC
 l:Blowfish
-l:Cryptocam_Companion
 l:Keibo-MoneyTracker-x86_64
 l:mybelka
 l:Rubber_Band_Audio
@@ -1109,6 +1109,7 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
