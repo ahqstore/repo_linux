@@ -924,6 +924,7 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
+l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
@@ -936,7 +937,6 @@ l:O3
 l:BrainWaves
 l:KCalc
 l:mdview
-l:Cryptocam_Companion
 l:Qrop
 l:Moonlight
 l:Puppetry
@@ -1106,10 +1106,10 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
-l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
