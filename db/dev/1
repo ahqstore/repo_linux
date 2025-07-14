@@ -953,7 +953,6 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
-l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -978,6 +977,7 @@ l:qr-code-generator-desktop
 l:Sia-UI
 l:QuickViewer
 l:StatusPilatus
+l:Cryptocam_Companion
 l:simple-s3-uploader
 l:CRG_Data_Tool
 l:TachiWeb
