@@ -854,6 +854,7 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
+l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
@@ -900,7 +901,6 @@ l:Plover
 l:twetter
 l:SmallBASIC
 l:JoalDesktop
-l:Cryptocam_Companion
 l:Tumblr_Scraper
 l:Speaky_MiniPlayer
 l:NEST_Desktop
