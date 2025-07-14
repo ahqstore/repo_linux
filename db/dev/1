@@ -771,7 +771,6 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
-l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -992,6 +991,7 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
