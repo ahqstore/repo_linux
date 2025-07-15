@@ -1037,6 +1037,7 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
+l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1152,7 +1153,6 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
-l:Cryptocam_Companion
 l:parsec-linux-appimage
 l:CARTA
 l:tc
