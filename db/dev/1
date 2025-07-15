@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -989,7 +990,6 @@ l:City_Hub
 l:HyperDEX
 l:AnzeigenChef
 l:Knowte
-l:Cryptocam_Companion
 l:laravel-kit
 l:Catalyst_Browser
 l:Qfsm
@@ -1135,7 +1135,6 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
-l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
@@ -1150,6 +1149,7 @@ l:Scytale
 l:CP2130_Configurator
 l:GitHubDesktop
 l:Bitwarden_Connector
+l:Glaxnimate
 l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
