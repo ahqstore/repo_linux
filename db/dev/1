@@ -1073,6 +1073,7 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
+l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1152,7 +1153,6 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
-l:Cryptocam_Companion
 l:parsec-linux-appimage
 l:CARTA
 l:tc
