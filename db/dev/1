@@ -44,7 +44,6 @@ l:BottleBats
 l:SimDSP
 l:Sugarizer
 l:Stellarium
-l:Zoom
 l:ao
 l:Cascade_Image_Editor
 l:Blockbench
@@ -953,7 +952,6 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
-l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -1158,5 +1156,6 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Cryptocam_Companion
 l:Glaxnimate
 l:Alpine_Client
