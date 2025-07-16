@@ -1042,7 +1042,6 @@ l:CoreUniverse
 l:android-messages-desktop
 l:vCloudcam
 l:Electron_Cash
-l:Cryptocam_Companion
 l:ElectrumFair
 l:ReliefValve
 l:eXtrema
@@ -1106,6 +1105,7 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Cryptocam_Companion
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
