@@ -1054,7 +1054,6 @@ l:Black_Chocobo
 l:lescovex
 l:PicoLog
 l:BLOCK-DX
-l:Cryptocam_Companion
 l:SeriousSamClassic-VK
 l:ttth
 l:PostyBirb
@@ -1083,6 +1082,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
