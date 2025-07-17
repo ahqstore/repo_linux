@@ -1082,6 +1082,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1128,7 +1129,6 @@ l:Lagrange
 l:GitQlient
 l:Bezique
 l:SmartServoGui
-l:Cryptocam_Companion
 l:Rambox
 l:Cromberg
 l:TeleDrive
