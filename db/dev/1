@@ -45,7 +45,6 @@ l:SimDSP
 l:Sugarizer
 l:Stellarium
 l:Zoom
-l:ao
 l:Cascade_Image_Editor
 l:Blockbench
 l:OpenStream_Music
@@ -1037,7 +1036,6 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
-l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1135,6 +1133,7 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
+l:Cryptocam_Companion
 l:gerbv
 l:Widelands
 l:Mechvibes
