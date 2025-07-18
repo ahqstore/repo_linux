@@ -883,7 +883,6 @@ l:eNoseAnnotator
 l:Padloc
 l:CoreArchiver
 l:MicroPad
-l:Cryptocam_Companion
 l:ProcDepMonitor
 l:Vessel
 l:Konjure
@@ -992,6 +991,7 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
