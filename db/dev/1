@@ -863,7 +863,6 @@ l:VisiCut
 l:Substrate_IDE
 l:HEAT1D
 l:snapshot-slider
-l:Cryptocam_Companion
 l:GoldenDict
 l:ipe
 l:CustomRPC
@@ -1038,6 +1037,7 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
+l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
