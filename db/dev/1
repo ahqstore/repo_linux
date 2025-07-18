@@ -854,7 +854,6 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
-l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
@@ -997,6 +996,7 @@ l:RefOrg
 l:Motrix
 l:PhotoQuick
 l:Inkscape
+l:Cryptocam_Companion
 l:playyourdamnturn.com
 l:ana-conversation-studio
 l:mjml-app
