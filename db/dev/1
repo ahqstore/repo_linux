@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -1063,7 +1064,6 @@ l:Shotcut
 l:LibreOfficeFresh
 l:AvantGarde
 l:pdf-sync
-l:Cryptocam_Companion
 l:Wexond
 l:Memento
 l:ommpfritt
@@ -1153,10 +1153,10 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
