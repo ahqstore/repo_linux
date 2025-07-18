@@ -863,6 +863,7 @@ l:VisiCut
 l:Substrate_IDE
 l:HEAT1D
 l:snapshot-slider
+l:Cryptocam_Companion
 l:GoldenDict
 l:ipe
 l:CustomRPC
@@ -996,7 +997,6 @@ l:RefOrg
 l:Motrix
 l:PhotoQuick
 l:Inkscape
-l:Cryptocam_Companion
 l:playyourdamnturn.com
 l:ana-conversation-studio
 l:mjml-app
@@ -1109,7 +1109,6 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
-l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
