@@ -854,6 +854,7 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
+l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
@@ -1073,7 +1074,6 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
-l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
