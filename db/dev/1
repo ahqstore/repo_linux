@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -815,7 +816,6 @@ l:Moonitor
 l:Malice
 l:KeePassXC
 l:onnx2daq
-l:Cryptocam_Companion
 l:Drawpile-Server
 l:ytDownloader
 l:GitNote
