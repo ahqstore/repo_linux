@@ -883,6 +883,7 @@ l:eNoseAnnotator
 l:Padloc
 l:CoreArchiver
 l:MicroPad
+l:Cryptocam_Companion
 l:ProcDepMonitor
 l:Vessel
 l:Konjure
@@ -955,7 +956,6 @@ l:Mudlet
 l:elcalc
 l:ExtremeCooling4Linux
 l:elzabrowser
-l:Cryptocam_Companion
 l:electron-wechat
 l:p2p-chat
 l:Glyphr_Studio_Desktop
@@ -1106,6 +1106,7 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
