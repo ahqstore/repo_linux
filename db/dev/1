@@ -953,11 +953,11 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
-l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
 l:p2p-chat
+l:Cryptocam_Companion
 l:Glyphr_Studio_Desktop
 l:COMPASS
 l:RetroShare
@@ -1109,7 +1109,6 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
-l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1136,6 +1135,7 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
+l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
