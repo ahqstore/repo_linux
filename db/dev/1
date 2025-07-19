@@ -924,7 +924,6 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
-l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
@@ -992,6 +991,7 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
@@ -1135,7 +1135,6 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
-l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
