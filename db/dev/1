@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -1037,7 +1038,6 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
-l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1121,7 +1121,6 @@ l:AKASHA
 l:ZY_Player
 l:TreeSheets
 l:tipitaka_pali_reader
-l:Glaxnimate
 l:torrenttools
 l:ngrev
 l:protonmail-desktop
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
