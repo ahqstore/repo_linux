@@ -925,7 +925,6 @@ l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
 l:EncryptPad
-l:Cryptocam_Companion
 l:fSpy
 l:rmw
 l:appium-desktop
@@ -954,6 +953,7 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
+l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -1121,7 +1121,6 @@ l:AKASHA
 l:ZY_Player
 l:TreeSheets
 l:tipitaka_pali_reader
-l:Glaxnimate
 l:torrenttools
 l:ngrev
 l:protonmail-desktop
@@ -1154,6 +1153,7 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
