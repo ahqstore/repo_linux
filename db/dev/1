@@ -924,6 +924,7 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
+l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
@@ -1073,7 +1074,6 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
-l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
