@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -982,7 +983,6 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
-l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1074,6 +1074,7 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
+l:Glaxnimate
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
