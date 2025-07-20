@@ -898,6 +898,7 @@ l:Scatter
 l:MediaInfo
 l:Plover
 l:twetter
+l:Cryptocam_Companion
 l:SmallBASIC
 l:JoalDesktop
 l:Tumblr_Scraper
@@ -1157,6 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Cryptocam_Companion
 l:Glaxnimate
 l:Alpine_Client
