@@ -807,6 +807,7 @@ l:Pile
 l:GitJournal
 l:OpenSCAD
 l:Melodie
+l:Cryptocam_Companion
 l:Marvin
 l:keyrier-json
 l:BulkURLOpener
@@ -898,7 +899,6 @@ l:Scatter
 l:MediaInfo
 l:Plover
 l:twetter
-l:Cryptocam_Companion
 l:SmallBASIC
 l:JoalDesktop
 l:Tumblr_Scraper
@@ -1158,5 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
