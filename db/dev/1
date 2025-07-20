@@ -807,7 +807,6 @@ l:Pile
 l:GitJournal
 l:OpenSCAD
 l:Melodie
-l:Cryptocam_Companion
 l:Marvin
 l:keyrier-json
 l:BulkURLOpener
@@ -1038,6 +1037,7 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
+l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
