@@ -930,7 +930,6 @@ l:rmw
 l:appium-desktop
 l:xiangxuema
 l:SwitchHosts!
-l:Cryptocam_Companion
 l:Simdock
 l:MagicFountain
 l:O3
@@ -947,6 +946,7 @@ l:Bodhi
 l:SultanPOS
 l:Aptakube
 l:Friction
+l:Cryptocam_Companion
 l:synthv1
 l:Beatconnect_Client
 l:McPodcast
