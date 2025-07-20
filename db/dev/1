@@ -946,7 +946,6 @@ l:Bodhi
 l:SultanPOS
 l:Aptakube
 l:Friction
-l:Cryptocam_Companion
 l:synthv1
 l:Beatconnect_Client
 l:McPodcast
@@ -1022,6 +1021,7 @@ l:Poddr
 l:nimbus-weather
 l:Pennywise
 l:ProofKeeper
+l:Cryptocam_Companion
 l:APK_Editor_Studio
 l:TurboWarp
 l:tubCloud
@@ -1106,6 +1106,7 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
