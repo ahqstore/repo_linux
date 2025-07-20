@@ -1053,6 +1053,7 @@ l:Sayonara
 l:Black_Chocobo
 l:lescovex
 l:PicoLog
+l:Cryptocam_Companion
 l:BLOCK-DX
 l:SeriousSamClassic-VK
 l:ttth
@@ -1073,7 +1074,6 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
-l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1109,6 +1109,7 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
