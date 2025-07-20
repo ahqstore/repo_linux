@@ -807,6 +807,7 @@ l:Pile
 l:GitJournal
 l:OpenSCAD
 l:Melodie
+l:Cryptocam_Companion
 l:Marvin
 l:keyrier-json
 l:BulkURLOpener
@@ -1105,7 +1106,6 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
-l:Cryptocam_Companion
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
