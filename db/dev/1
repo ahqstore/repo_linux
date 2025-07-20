@@ -991,6 +991,7 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
+l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
@@ -1037,7 +1038,6 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
-l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1106,10 +1106,10 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
-l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
