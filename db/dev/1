@@ -936,7 +936,6 @@ l:O3
 l:BrainWaves
 l:KCalc
 l:mdview
-l:Cryptocam_Companion
 l:Qrop
 l:Moonlight
 l:Puppetry
@@ -983,6 +982,7 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
+l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1106,6 +1106,7 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
@@ -1153,7 +1154,6 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
-l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
