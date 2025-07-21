@@ -960,6 +960,7 @@ l:p2p-chat
 l:Glyphr_Studio_Desktop
 l:COMPASS
 l:RetroShare
+l:Cryptocam_Companion
 l:CoreTime
 l:Dragoman
 l:Open_Markup_Editor
@@ -1038,7 +1039,6 @@ l:QMPlay2
 l:Blink1Control2
 l:CRIC
 l:RetroArch
-l:Cryptocam_Companion
 l:CoreUniverse
 l:android-messages-desktop
 l:vCloudcam
@@ -1153,10 +1153,10 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
-l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
