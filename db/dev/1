@@ -830,7 +830,6 @@ l:Hyperspace
 l:Isolate
 l:QmidiCtl
 l:ProQuaere
-l:Cryptocam_Companion
 l:RedmineTimeTracker
 l:ngPost
 l:ToastWallet
@@ -855,6 +854,7 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
+l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
