@@ -886,7 +886,6 @@ l:MicroPad
 l:ProcDepMonitor
 l:Vessel
 l:Konjure
-l:Cryptocam_Companion
 l:StockStalk
 l:Kdenlive
 l:Gifcurry
@@ -1074,6 +1073,7 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
+l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
