@@ -854,7 +854,6 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
-l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
@@ -887,6 +886,7 @@ l:MicroPad
 l:ProcDepMonitor
 l:Vessel
 l:Konjure
+l:Cryptocam_Companion
 l:StockStalk
 l:Kdenlive
 l:Gifcurry
