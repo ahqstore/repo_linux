@@ -854,6 +854,7 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
+l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
@@ -1053,7 +1054,6 @@ l:Sayonara
 l:Black_Chocobo
 l:lescovex
 l:PicoLog
-l:Cryptocam_Companion
 l:BLOCK-DX
 l:SeriousSamClassic-VK
 l:ttth
@@ -1114,6 +1114,7 @@ l:langly
 l:BscanFFTwebcam
 l:GpgFrontend
 l:Dhewm3
+l:Glaxnimate
 l:Streamlink
 l:clipr
 l:HexoEditor
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
