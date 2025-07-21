@@ -982,7 +982,6 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
-l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1027,6 +1026,7 @@ l:TurboWarp
 l:tubCloud
 l:Datcord
 l:Board_Game_Star
+l:Cryptocam_Companion
 l:zsync2
 l:qikQR
 l:fre:ac
@@ -1153,10 +1153,10 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
-l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
