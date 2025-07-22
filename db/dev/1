@@ -885,6 +885,7 @@ l:CoreArchiver
 l:MicroPad
 l:ProcDepMonitor
 l:Vessel
+l:Cryptocam_Companion
 l:Konjure
 l:StockStalk
 l:Kdenlive
@@ -985,7 +986,6 @@ l:86Box
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
-l:Cryptocam_Companion
 l:City_Hub
 l:HyperDEX
 l:AnzeigenChef
