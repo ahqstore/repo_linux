@@ -924,7 +924,6 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
-l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
@@ -986,6 +985,7 @@ l:86Box
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
+l:Cryptocam_Companion
 l:City_Hub
 l:HyperDEX
 l:AnzeigenChef
@@ -1141,7 +1141,6 @@ l:Mechvibes
 l:GoldenCheetah
 l:le
 l:Nextcloud
-l:Glaxnimate
 l:CPod
 l:noteshrink-qt
 l:Markman
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
