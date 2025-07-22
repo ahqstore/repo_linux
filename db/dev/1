@@ -878,7 +878,6 @@ l:Insight
 l:Upscayl
 l:Vipster
 l:VLC
-l:Cryptocam_Companion
 l:ehdev-shell
 l:eNoseAnnotator
 l:Padloc
@@ -954,6 +953,7 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
+l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -1109,7 +1109,6 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
-l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1136,6 +1135,7 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
+l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
