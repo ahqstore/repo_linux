@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -939,7 +940,6 @@ l:mdview
 l:Qrop
 l:Moonlight
 l:Puppetry
-l:Cryptocam_Companion
 l:Canoe
 l:StopLight
 l:vREST_NG
@@ -1102,6 +1102,7 @@ l:Todoist
 l:KADE
 l:Negibox
 l:Evolution_RTS
+l:Glaxnimate
 l:Thunderbird
 l:Plex
 l:NoraGO
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
