@@ -771,7 +771,6 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
-l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -994,6 +993,7 @@ l:laravel-kit
 l:Catalyst_Browser
 l:Qfsm
 l:RefOrg
+l:Cryptocam_Companion
 l:Motrix
 l:PhotoQuick
 l:Inkscape
