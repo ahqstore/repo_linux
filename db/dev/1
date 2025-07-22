@@ -746,6 +746,7 @@ l:hero-display
 l:Mumble
 l:Archipelago
 l:moniteur-admin
+l:Cryptocam_Companion
 l:ITUSB1_Manager
 l:Kate
 l:BulkReviewer
@@ -1053,7 +1054,6 @@ l:Sayonara
 l:Black_Chocobo
 l:lescovex
 l:PicoLog
-l:Cryptocam_Companion
 l:BLOCK-DX
 l:SeriousSamClassic-VK
 l:ttth
@@ -1083,6 +1083,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Glaxnimate
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1108,7 +1109,6 @@ l:NoraGO
 l:cordlauncher
 l:Tesseract
 l:StatusIm
-l:Glaxnimate
 l:Aphelion_Wallet
 l:KiCad
 l:langly
