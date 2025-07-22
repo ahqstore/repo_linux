@@ -746,7 +746,6 @@ l:hero-display
 l:Mumble
 l:Archipelago
 l:moniteur-admin
-l:Cryptocam_Companion
 l:ITUSB1_Manager
 l:Kate
 l:BulkReviewer
@@ -925,6 +924,7 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
+l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
@@ -1083,7 +1083,6 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
-l:Glaxnimate
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1142,6 +1141,7 @@ l:Mechvibes
 l:GoldenCheetah
 l:le
 l:Nextcloud
+l:Glaxnimate
 l:CPod
 l:noteshrink-qt
 l:Markman
