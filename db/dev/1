@@ -854,6 +854,7 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
+l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
@@ -952,7 +953,6 @@ l:McPodcast
 l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
-l:Cryptocam_Companion
 l:elcalc
 l:ExtremeCooling4Linux
 l:elzabrowser
