@@ -807,6 +807,7 @@ l:Pile
 l:GitJournal
 l:OpenSCAD
 l:Melodie
+l:Cryptocam_Companion
 l:Marvin
 l:keyrier-json
 l:BulkURLOpener
@@ -885,7 +886,6 @@ l:CoreArchiver
 l:MicroPad
 l:ProcDepMonitor
 l:Vessel
-l:Cryptocam_Companion
 l:Konjure
 l:StockStalk
 l:Kdenlive
