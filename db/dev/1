@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -1088,7 +1089,6 @@ l:SyncMyL2P
 l:Deployer
 l:beurerscalemanager
 l:Phinch
-l:Cryptocam_Companion
 l:Infection_Monkey
 l:sipgate_Softphone
 l:Tutanota
@@ -1109,6 +1109,7 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1139,7 +1140,6 @@ l:gerbv
 l:Widelands
 l:Mechvibes
 l:GoldenCheetah
-l:Glaxnimate
 l:le
 l:Nextcloud
 l:CPod
