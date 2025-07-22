@@ -953,6 +953,7 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
+l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -993,7 +994,6 @@ l:laravel-kit
 l:Catalyst_Browser
 l:Qfsm
 l:RefOrg
-l:Cryptocam_Companion
 l:Motrix
 l:PhotoQuick
 l:Inkscape
@@ -1074,6 +1074,7 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
+l:Glaxnimate
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1109,7 +1110,6 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
-l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
