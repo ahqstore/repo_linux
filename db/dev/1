@@ -807,6 +807,7 @@ l:Pile
 l:GitJournal
 l:OpenSCAD
 l:Melodie
+l:Cryptocam_Companion
 l:Marvin
 l:keyrier-json
 l:BulkURLOpener
@@ -1073,7 +1074,6 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
-l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
