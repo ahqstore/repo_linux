@@ -924,7 +924,6 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
-l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
@@ -954,6 +953,7 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
+l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
