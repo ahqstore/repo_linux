@@ -807,6 +807,7 @@ l:Pile
 l:GitJournal
 l:OpenSCAD
 l:Melodie
+l:Cryptocam_Companion
 l:Marvin
 l:keyrier-json
 l:BulkURLOpener
@@ -1082,7 +1083,6 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
-l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
