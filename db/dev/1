@@ -953,7 +953,6 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
-l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -983,6 +982,7 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
+l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1116,7 +1116,6 @@ l:GpgFrontend
 l:Dhewm3
 l:Streamlink
 l:clipr
-l:Glaxnimate
 l:HexoEditor
 l:AKASHA
 l:ZY_Player
@@ -1154,6 +1153,7 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
