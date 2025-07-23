@@ -924,7 +924,6 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
-l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
@@ -1106,6 +1105,7 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Cryptocam_Companion
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
