@@ -939,7 +939,6 @@ l:mdview
 l:Qrop
 l:Moonlight
 l:Puppetry
-l:Cryptocam_Companion
 l:Canoe
 l:StopLight
 l:vREST_NG
@@ -983,6 +982,7 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
+l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1094,7 +1094,6 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
-l:Glaxnimate
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
