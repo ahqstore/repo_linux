@@ -901,7 +901,6 @@ l:twetter
 l:SmallBASIC
 l:JoalDesktop
 l:Tumblr_Scraper
-l:Cryptocam_Companion
 l:Speaky_MiniPlayer
 l:NEST_Desktop
 l:My_Jira
@@ -983,6 +982,7 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
+l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1135,7 +1135,6 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
-l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
@@ -1154,6 +1153,7 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
