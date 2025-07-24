@@ -936,6 +936,7 @@ l:O3
 l:BrainWaves
 l:KCalc
 l:mdview
+l:Cryptocam_Companion
 l:Qrop
 l:Moonlight
 l:Puppetry
@@ -991,7 +992,6 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
-l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
@@ -1038,6 +1038,7 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
+l:Glaxnimate
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1135,7 +1136,6 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
-l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
