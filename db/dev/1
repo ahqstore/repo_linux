@@ -906,7 +906,6 @@ l:NEST_Desktop
 l:My_Jira
 l:ser-player
 l:erdesigner
-l:Cryptocam_Companion
 l:Figma
 l:Pixsrt
 l:ImapSyncClient
@@ -937,6 +936,7 @@ l:O3
 l:BrainWaves
 l:KCalc
 l:mdview
+l:Cryptocam_Companion
 l:Qrop
 l:Moonlight
 l:Puppetry
