@@ -878,7 +878,6 @@ l:Insight
 l:Upscayl
 l:Vipster
 l:VLC
-l:Cryptocam_Companion
 l:ehdev-shell
 l:eNoseAnnotator
 l:Padloc
@@ -954,6 +953,7 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
+l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
