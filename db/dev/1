@@ -807,6 +807,7 @@ l:Pile
 l:GitJournal
 l:OpenSCAD
 l:Melodie
+l:Cryptocam_Companion
 l:Marvin
 l:keyrier-json
 l:BulkURLOpener
@@ -982,7 +983,6 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
-l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
