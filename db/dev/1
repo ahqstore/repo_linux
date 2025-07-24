@@ -792,7 +792,6 @@ l:TweakSophia
 l:CoreImage
 l:SteamCAD
 l:OpenBlok
-l:Cryptocam_Companion
 l:Webamp
 l:buttercup
 l:Videomass
@@ -1054,6 +1053,7 @@ l:Sayonara
 l:Black_Chocobo
 l:lescovex
 l:PicoLog
+l:Cryptocam_Companion
 l:BLOCK-DX
 l:SeriousSamClassic-VK
 l:ttth
@@ -1109,6 +1109,7 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
