@@ -978,11 +978,11 @@ l:Sia-UI
 l:QuickViewer
 l:StatusPilatus
 l:simple-s3-uploader
-l:Cryptocam_Companion
 l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
+l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1135,6 +1135,7 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
+l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
