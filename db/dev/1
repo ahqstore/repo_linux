@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -853,7 +854,6 @@ l:Subsurface
 l:FromScratch
 l:LibreSprite
 l:nmap
-l:Cryptocam_Companion
 l:XPEViewer
 l:UltraGrid
 l:bottlenose
