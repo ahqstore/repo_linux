@@ -924,6 +924,7 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
+l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
@@ -936,7 +937,6 @@ l:O3
 l:BrainWaves
 l:KCalc
 l:mdview
-l:Cryptocam_Companion
 l:Qrop
 l:Moonlight
 l:Puppetry
@@ -1038,7 +1038,6 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
-l:Glaxnimate
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1055,6 +1054,7 @@ l:Sayonara
 l:Black_Chocobo
 l:lescovex
 l:PicoLog
+l:Glaxnimate
 l:BLOCK-DX
 l:SeriousSamClassic-VK
 l:ttth
