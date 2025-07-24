@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -936,7 +937,6 @@ l:O3
 l:BrainWaves
 l:KCalc
 l:mdview
-l:Cryptocam_Companion
 l:Qrop
 l:Moonlight
 l:Puppetry
@@ -1074,6 +1074,7 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
+l:Glaxnimate
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1110,7 +1111,6 @@ l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
 l:KiCad
-l:Glaxnimate
 l:langly
 l:BscanFFTwebcam
 l:GpgFrontend
