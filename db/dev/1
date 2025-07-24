@@ -982,7 +982,6 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
-l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1001,6 +1000,7 @@ l:playyourdamnturn.com
 l:ana-conversation-studio
 l:mjml-app
 l:Responsively
+l:Cryptocam_Companion
 l:Spark.Payments
 l:CorePad
 l:Wonderwall
@@ -1154,9 +1154,9 @@ l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
 l:parsec-linux-appimage
+l:Glaxnimate
 l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
