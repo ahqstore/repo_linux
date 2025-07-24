@@ -32,7 +32,6 @@ l:CoreInfo
 l:Calculist
 l:nvtop
 l:Sourcetrail
-l:dbet-wallet
 l:tagspaces
 l:SlackBackup
 l:Iceworks
@@ -771,7 +770,6 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
-l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -1074,7 +1072,6 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
-l:Glaxnimate
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1095,6 +1092,7 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
+l:Cryptocam_Companion
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
@@ -1160,3 +1158,4 @@ l:tc
 l:Record_Compare
 l:NMEASimulator
 l:Alpine_Client
+l:Glaxnimate
