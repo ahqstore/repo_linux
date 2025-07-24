@@ -850,6 +850,7 @@ l:MQTTCute
 l:Elements
 l:Gingko
 l:Subsurface
+l:Cryptocam_Companion
 l:FromScratch
 l:LibreSprite
 l:nmap
@@ -1082,7 +1083,6 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
-l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
