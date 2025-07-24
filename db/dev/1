@@ -1109,6 +1109,7 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1153,7 +1154,6 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
-l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
