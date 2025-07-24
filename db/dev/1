@@ -888,6 +888,7 @@ l:Vessel
 l:Konjure
 l:StockStalk
 l:Kdenlive
+l:Cryptocam_Companion
 l:Gifcurry
 l:hotspot
 l:Joy2DroidX
@@ -915,7 +916,6 @@ l:wxMaxima
 l:todo-bash
 l:unreel
 l:lumi
-l:Cryptocam_Companion
 l:notepadqq
 l:tinyclerk
 l:CoreGarage
@@ -1094,6 +1094,7 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
+l:Glaxnimate
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
