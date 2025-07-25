@@ -771,6 +771,7 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
+l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -850,7 +851,6 @@ l:MQTTCute
 l:Elements
 l:Gingko
 l:Subsurface
-l:Cryptocam_Companion
 l:FromScratch
 l:LibreSprite
 l:nmap
@@ -1074,6 +1074,7 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
+l:Glaxnimate
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1106,7 +1107,6 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
-l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
