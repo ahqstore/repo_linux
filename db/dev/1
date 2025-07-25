@@ -924,6 +924,7 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
+l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
@@ -953,7 +954,6 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
-l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -1054,7 +1054,6 @@ l:Sayonara
 l:Black_Chocobo
 l:lescovex
 l:PicoLog
-l:Glaxnimate
 l:BLOCK-DX
 l:SeriousSamClassic-VK
 l:ttth
@@ -1136,6 +1135,7 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
+l:Glaxnimate
 l:gerbv
 l:Widelands
 l:Mechvibes
