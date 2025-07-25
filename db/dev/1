@@ -856,7 +856,6 @@ l:nmap
 l:XPEViewer
 l:UltraGrid
 l:bottlenose
-l:Cryptocam_Companion
 l:VirtualBox-KVM
 l:quokkagit
 l:CoCoMusic
@@ -925,6 +924,7 @@ l:Anchor
 l:SOIL_EDITOR
 l:jumpfm
 l:Kristall
+l:Cryptocam_Companion
 l:EncryptPad
 l:fSpy
 l:rmw
