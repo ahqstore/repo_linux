@@ -856,6 +856,7 @@ l:nmap
 l:XPEViewer
 l:UltraGrid
 l:bottlenose
+l:Cryptocam_Companion
 l:VirtualBox-KVM
 l:quokkagit
 l:CoCoMusic
@@ -1073,7 +1074,6 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
-l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
