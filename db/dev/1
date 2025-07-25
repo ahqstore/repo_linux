@@ -853,6 +853,7 @@ l:Subsurface
 l:FromScratch
 l:LibreSprite
 l:nmap
+l:Cryptocam_Companion
 l:XPEViewer
 l:UltraGrid
 l:bottlenose
@@ -900,7 +901,6 @@ l:Plover
 l:twetter
 l:SmallBASIC
 l:JoalDesktop
-l:Cryptocam_Companion
 l:Tumblr_Scraper
 l:Speaky_MiniPlayer
 l:NEST_Desktop
