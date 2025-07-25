@@ -838,7 +838,6 @@ l:Artisan
 l:FranceTV
 l:vue-calc
 l:upterm
-l:Cryptocam_Companion
 l:JSplacement
 l:Bottles
 l:Sengi
@@ -855,6 +854,7 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
+l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
@@ -1094,6 +1094,7 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
+l:Glaxnimate
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
