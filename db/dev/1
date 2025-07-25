@@ -953,6 +953,7 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
+l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -991,7 +992,6 @@ l:AnzeigenChef
 l:Knowte
 l:laravel-kit
 l:Catalyst_Browser
-l:Cryptocam_Companion
 l:Qfsm
 l:RefOrg
 l:Motrix
@@ -1054,6 +1054,7 @@ l:Sayonara
 l:Black_Chocobo
 l:lescovex
 l:PicoLog
+l:Glaxnimate
 l:BLOCK-DX
 l:SeriousSamClassic-VK
 l:ttth
@@ -1158,5 +1159,4 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
