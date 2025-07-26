@@ -771,7 +771,6 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
-l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -958,6 +957,7 @@ l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
 l:p2p-chat
+l:Cryptocam_Companion
 l:Glyphr_Studio_Desktop
 l:COMPASS
 l:RetroShare
@@ -1083,7 +1083,6 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
-l:Glaxnimate
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1107,6 +1106,7 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
