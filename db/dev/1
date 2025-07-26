@@ -761,7 +761,6 @@ l:Cool_Retro_Term
 l:Bootstrap_Studio
 l:DFileManager
 l:ONLYOFFICE
-l:Cryptocam_Companion
 l:Eplee
 l:dataset-annotator
 l:Reactotron
@@ -1083,6 +1082,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1109,7 +1109,6 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
-l:Glaxnimate
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
