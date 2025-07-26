@@ -950,7 +950,6 @@ l:synthv1
 l:Beatconnect_Client
 l:McPodcast
 l:Delir
-l:Cryptocam_Companion
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
@@ -1083,6 +1082,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
