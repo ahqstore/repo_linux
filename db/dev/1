@@ -771,7 +771,6 @@ l:Mob
 l:Vitomu
 l:LiberTEM
 l:PraxisLIVE
-l:Cryptocam_Companion
 l:xde
 l:Slippi
 l:PRAGA
@@ -1031,6 +1030,7 @@ l:zsync2
 l:qikQR
 l:fre:ac
 l:Apache_NetBeans
+l:Cryptocam_Companion
 l:MrWriter
 l:CoreAction
 l:QtMips
@@ -1106,7 +1106,6 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
-l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
