@@ -813,7 +813,6 @@ l:BulkURLOpener
 l:Cavoke
 l:Moonitor
 l:Malice
-l:Cryptocam_Companion
 l:KeePassXC
 l:onnx2daq
 l:Drawpile-Server
@@ -910,6 +909,7 @@ l:erdesigner
 l:Figma
 l:Pixsrt
 l:ImapSyncClient
+l:Cryptocam_Companion
 l:RoloViewer
 l:Master_PDF_Editor_5.9.90-x86_64.AppImage
 l:wxMaxima
@@ -1083,6 +1083,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Glaxnimate
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1094,7 +1095,6 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
-l:Glaxnimate
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
