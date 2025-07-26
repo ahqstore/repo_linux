@@ -1108,7 +1108,6 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
-l:Cryptocam_Companion
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1124,6 +1123,7 @@ l:tipitaka_pali_reader
 l:torrenttools
 l:ngrev
 l:protonmail-desktop
+l:Cryptocam_Companion
 l:pigs-n-cows
 l:Lagrange
 l:GitQlient
