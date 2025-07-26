@@ -854,6 +854,7 @@ l:FromScratch
 l:LibreSprite
 l:nmap
 l:XPEViewer
+l:Cryptocam_Companion
 l:UltraGrid
 l:bottlenose
 l:VirtualBox-KVM
@@ -957,7 +958,6 @@ l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
 l:p2p-chat
-l:Cryptocam_Companion
 l:Glyphr_Studio_Desktop
 l:COMPASS
 l:RetroShare
@@ -1106,7 +1106,6 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
-l:Glaxnimate
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
