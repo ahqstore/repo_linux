@@ -909,7 +909,6 @@ l:erdesigner
 l:Figma
 l:Pixsrt
 l:ImapSyncClient
-l:Cryptocam_Companion
 l:RoloViewer
 l:Master_PDF_Editor_5.9.90-x86_64.AppImage
 l:wxMaxima
@@ -983,6 +982,7 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
+l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1083,7 +1083,6 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
-l:Glaxnimate
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1154,6 +1153,7 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
