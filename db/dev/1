@@ -1073,7 +1073,6 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
-l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1107,6 +1106,7 @@ l:Plex
 l:NoraGO
 l:cordlauncher
 l:Tesseract
+l:Cryptocam_Companion
 l:StatusIm
 l:Aphelion_Wallet
 l:KiCad
@@ -1158,5 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
