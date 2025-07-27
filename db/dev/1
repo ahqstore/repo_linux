@@ -1003,7 +1003,6 @@ l:Responsively
 l:Spark.Payments
 l:CorePad
 l:Wonderwall
-l:Cryptocam_Companion
 l:RPAN_Studio
 l:cubing-cmos
 l:yaya
@@ -1153,6 +1152,7 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Cryptocam_Companion
 l:parsec-linux-appimage
 l:CARTA
 l:tc
