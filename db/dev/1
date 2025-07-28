@@ -1083,7 +1083,6 @@ l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
 l:perl-executing-browser
-l:Cryptocam_Companion
 l:hw-probe
 l:SyncMyL2P
 l:Deployer
@@ -1094,6 +1093,7 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
+l:Cryptocam_Companion
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
