@@ -953,7 +953,6 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
-l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -1077,6 +1076,7 @@ l:NixNote
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
+l:Cryptocam_Companion
 l:RedDiamond
 l:Dwyco_Phoo
 l:qtrfpowermeter
@@ -1153,10 +1153,10 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
