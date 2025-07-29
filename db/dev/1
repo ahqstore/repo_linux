@@ -1108,7 +1108,6 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
-l:Cryptocam_Companion
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1160,3 +1159,4 @@ l:Record_Compare
 l:NMEASimulator
 l:Glaxnimate
 l:Alpine_Client
+l:Cryptocam_Companion
