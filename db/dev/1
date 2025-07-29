@@ -1085,7 +1085,6 @@ l:MiniZinc_IDE
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
-l:Cryptocam_Companion
 l:Deployer
 l:beurerscalemanager
 l:Phinch
@@ -1094,6 +1093,7 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
+l:Cryptocam_Companion
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
@@ -1153,10 +1153,10 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Glaxnimate
 l:parsec-linux-appimage
 l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Glaxnimate
 l:Alpine_Client
