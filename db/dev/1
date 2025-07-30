@@ -1152,6 +1152,7 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Cryptocam_Companion
 l:parsec-linux-appimage
 l:CARTA
 l:tc
@@ -1159,4 +1160,3 @@ l:Record_Compare
 l:NMEASimulator
 l:Glaxnimate
 l:Alpine_Client
-l:Cryptocam_Companion
