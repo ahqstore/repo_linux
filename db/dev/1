@@ -1108,6 +1108,7 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Cryptocam_Companion
 l:KiCad
 l:langly
 l:BscanFFTwebcam
@@ -1134,7 +1135,6 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
-l:Cryptocam_Companion
 l:gerbv
 l:Widelands
 l:Mechvibes
