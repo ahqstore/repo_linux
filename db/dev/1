@@ -1037,6 +1037,7 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
+l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1157,6 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
-l:Cryptocam_Companion
 l:Glaxnimate
 l:Alpine_Client
