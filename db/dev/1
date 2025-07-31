@@ -1134,7 +1134,6 @@ l:TeleDrive
 l:Shannon_Calculator
 l:Zap
 l:Intiface
-l:Cryptocam_Companion
 l:gerbv
 l:Widelands
 l:Mechvibes
@@ -1153,6 +1152,7 @@ l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
 l:Notable
+l:Cryptocam_Companion
 l:parsec-linux-appimage
 l:CARTA
 l:tc
