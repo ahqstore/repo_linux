@@ -1037,7 +1037,6 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
-l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1079,6 +1078,7 @@ l:FreeCAD2
 l:Syncthing_Tray
 l:RedDiamond
 l:Dwyco_Phoo
+l:Cryptocam_Companion
 l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
