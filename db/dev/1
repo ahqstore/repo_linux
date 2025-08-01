@@ -1107,7 +1107,6 @@ l:NoraGO
 l:cordlauncher
 l:Tesseract
 l:StatusIm
-l:Cryptocam_Companion
 l:Aphelion_Wallet
 l:KiCad
 l:langly
@@ -1126,6 +1125,7 @@ l:ngrev
 l:protonmail-desktop
 l:pigs-n-cows
 l:Lagrange
+l:Cryptocam_Companion
 l:GitQlient
 l:Bezique
 l:SmartServoGui
