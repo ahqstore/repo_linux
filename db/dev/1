@@ -982,7 +982,6 @@ l:CRG_Data_Tool
 l:TachiWeb
 l:Patchwork
 l:86Box
-l:Cryptocam_Companion
 l:MyCrypto
 l:euromilhoes
 l:PhotoFlow
@@ -1109,6 +1108,7 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Cryptocam_Companion
 l:KiCad
 l:langly
 l:BscanFFTwebcam
