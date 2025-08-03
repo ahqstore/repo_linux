@@ -1082,6 +1082,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1093,7 +1094,6 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
-l:Cryptocam_Companion
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
@@ -1149,7 +1149,6 @@ l:Scytale
 l:CP2130_Configurator
 l:GitHubDesktop
 l:Bitwarden_Connector
-l:Glaxnimate
 l:strongbox
 l:Fidias_Database_Migration_App
 l:Lunyr
@@ -1159,4 +1158,5 @@ l:CARTA
 l:tc
 l:Record_Compare
 l:NMEASimulator
+l:Glaxnimate
 l:Alpine_Client
