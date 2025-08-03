@@ -953,6 +953,7 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
+l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -1084,7 +1085,6 @@ l:Translatium
 l:MiniZinc_IDE
 l:perl-executing-browser
 l:hw-probe
-l:Cryptocam_Companion
 l:SyncMyL2P
 l:Deployer
 l:beurerscalemanager
