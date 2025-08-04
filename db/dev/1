@@ -1073,7 +1073,6 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
-l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1109,6 +1108,7 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Cryptocam_Companion
 l:KiCad
 l:langly
 l:BscanFFTwebcam
