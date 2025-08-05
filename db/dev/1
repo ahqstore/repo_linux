@@ -1093,7 +1093,6 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
-l:Cryptocam_Companion
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
@@ -1148,6 +1147,7 @@ l:smtk2ssrf
 l:Scytale
 l:CP2130_Configurator
 l:GitHubDesktop
+l:Cryptocam_Companion
 l:Bitwarden_Connector
 l:strongbox
 l:Fidias_Database_Migration_App
