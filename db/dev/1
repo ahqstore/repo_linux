@@ -1081,6 +1081,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
@@ -1092,7 +1093,6 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
-l:Cryptocam_Companion
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
