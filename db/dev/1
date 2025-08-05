@@ -237,7 +237,6 @@ l:FontBase
 l:vifm
 l:ubpm
 l:KeeWeb
-l:ElDumper
 l:Sharp-Tune
 l:youtube-music
 l:Colorpicker
@@ -1053,6 +1052,7 @@ l:Sayonara
 l:Black_Chocobo
 l:lescovex
 l:PicoLog
+l:Cryptocam_Companion
 l:BLOCK-DX
 l:SeriousSamClassic-VK
 l:ttth
@@ -1147,7 +1147,6 @@ l:smtk2ssrf
 l:Scytale
 l:CP2130_Configurator
 l:GitHubDesktop
-l:Cryptocam_Companion
 l:Bitwarden_Connector
 l:strongbox
 l:Fidias_Database_Migration_App
