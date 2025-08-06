@@ -1092,7 +1092,6 @@ l:sipgate_Softphone
 l:Tutanota
 l:CoreHunt
 l:CP2130_Commander
-l:Cryptocam_Companion
 l:KOReader
 l:TheCloudPortal_Signage_Client
 l:clownmdemu
@@ -1105,6 +1104,7 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
+l:Cryptocam_Companion
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
