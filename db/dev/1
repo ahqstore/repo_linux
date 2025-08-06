@@ -1072,6 +1072,7 @@ l:Navicat
 l:Blender_Config_Manager
 l:Mochi
 l:NixNote
+l:Cryptocam_Companion
 l:SonicVisualiser
 l:FreeCAD2
 l:Syncthing_Tray
@@ -1081,7 +1082,6 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
-l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
