@@ -1010,7 +1010,6 @@ l:Downline
 l:e2designer
 l:Vusic
 l:paferashare
-l:Cryptocam_Companion
 l:QPrompt
 l:ExeQt
 l:Shadowsocks
@@ -1082,6 +1081,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
