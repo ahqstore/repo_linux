@@ -1036,6 +1036,7 @@ l:Singlebox
 l:QMPlay2
 l:Blink1Control2
 l:CRIC
+l:Cryptocam_Companion
 l:RetroArch
 l:CoreUniverse
 l:android-messages-desktop
@@ -1104,7 +1105,6 @@ l:Thunderbird
 l:Plex
 l:NoraGO
 l:cordlauncher
-l:Cryptocam_Companion
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
