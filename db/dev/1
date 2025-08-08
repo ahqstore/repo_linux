@@ -1024,7 +1024,6 @@ l:APK_Editor_Studio
 l:TurboWarp
 l:tubCloud
 l:Datcord
-l:Cryptocam_Companion
 l:Board_Game_Star
 l:zsync2
 l:qikQR
@@ -1082,6 +1081,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
