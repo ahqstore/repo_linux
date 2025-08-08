@@ -1077,7 +1077,6 @@ l:FreeCAD2
 l:Syncthing_Tray
 l:RedDiamond
 l:Dwyco_Phoo
-l:Cryptocam_Companion
 l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
@@ -1108,6 +1107,7 @@ l:cordlauncher
 l:Tesseract
 l:StatusIm
 l:Aphelion_Wallet
+l:Cryptocam_Companion
 l:KiCad
 l:langly
 l:BscanFFTwebcam
