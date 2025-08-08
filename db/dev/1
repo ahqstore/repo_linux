@@ -952,7 +952,6 @@ l:Delir
 l:Vulkan_Hardware_Capability_Viewer
 l:Mudlet
 l:elcalc
-l:Cryptocam_Companion
 l:ExtremeCooling4Linux
 l:elzabrowser
 l:electron-wechat
@@ -1078,6 +1077,7 @@ l:FreeCAD2
 l:Syncthing_Tray
 l:RedDiamond
 l:Dwyco_Phoo
+l:Cryptocam_Companion
 l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
