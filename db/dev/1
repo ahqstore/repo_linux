@@ -1067,7 +1067,6 @@ l:Memento
 l:ommpfritt
 l:BitShares
 l:FlightGear
-l:Cryptocam_Companion
 l:MazeSolver
 l:Navicat
 l:Blender_Config_Manager
@@ -1082,6 +1081,7 @@ l:qtrfpowermeter
 l:KeyboardClient
 l:Translatium
 l:MiniZinc_IDE
+l:Cryptocam_Companion
 l:perl-executing-browser
 l:hw-probe
 l:SyncMyL2P
