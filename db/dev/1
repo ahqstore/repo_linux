@@ -986,7 +986,6 @@ l:GitJournal
 l:Fraktal
 l:MagicFountain
 l:pomotroid
-l:Cryptocam_Companion
 l:CP_Editor
 l:QHot
 l:Bypass_Cors
@@ -1010,6 +1009,7 @@ l:Simdock
 l:Alduin
 l:electron-xiami
 l:Apache_NetBeans
+l:Cryptocam_Companion
 l:Cantata
 l:stash-electron
 l:Electron_App_Store
@@ -1056,12 +1056,12 @@ l:GDevelop
 l:thorium-client
 l:Tag_Editor
 l:CorePins
-l:Glaxnimate
 l:CIAA_Suite
 l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
+l:Glaxnimate
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
