@@ -1050,11 +1050,11 @@ l:Joy2DroidX
 l:Pingnoo
 l:Hexinator
 l:ClipGrab
-l:Cryptocam_Companion
 l:GDevelop
 l:thorium-client
 l:Tag_Editor
 l:CorePins
+l:Cryptocam_Companion
 l:CIAA_Suite
 l:Memento
 l:DICOMautomaton
@@ -1097,7 +1097,6 @@ l:Minetest
 l:tmon
 l:superProductivity
 l:GameHub
-l:Alpine_Client
 l:Pony_Compiler
 l:EternalModManager
 l:Procyon
@@ -1158,3 +1157,4 @@ l:Patchwork
 l:perl-executing-browser
 l:Firefox
 l:Glaxnimate
+l:Alpine_Client
