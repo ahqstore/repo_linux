@@ -1048,6 +1048,7 @@ l:BetterSIS
 l:evoplex
 l:Joy2DroidX
 l:Pingnoo
+l:Cryptocam_Companion
 l:Hexinator
 l:ClipGrab
 l:GDevelop
@@ -1059,7 +1060,6 @@ l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
-l:Cryptocam_Companion
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
@@ -1153,8 +1153,8 @@ l:Kristall
 l:MellowPlayer
 l:Neon
 l:ITUSB1_Manager
+l:Alpine_Client
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
-l:Alpine_Client
 l:Glaxnimate
