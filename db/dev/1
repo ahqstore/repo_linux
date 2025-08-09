@@ -1000,6 +1000,7 @@ l:Scrite
 l:tT
 l:GpgFrontend
 l:StockStalk
+l:Cryptocam_Companion
 l:levior
 l:Planes
 l:Kdevelop
@@ -1059,7 +1060,6 @@ l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
-l:Cryptocam_Companion
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
@@ -1099,7 +1099,6 @@ l:superProductivity
 l:GameHub
 l:Pony_Compiler
 l:EternalModManager
-l:Glaxnimate
 l:Procyon
 l:NepaliUnicode
 l:P2PDerivatives
@@ -1157,4 +1156,5 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
+l:Glaxnimate
 l:Alpine_Client
