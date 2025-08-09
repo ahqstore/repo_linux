@@ -584,7 +584,6 @@ l:dbet-wallet
 l:dvdisaster
 l:CoreImage
 l:Kitupiikki
-l:Spark.Payments
 l:GSequencer
 l:Melodie
 l:ProcDepMonitor
@@ -1157,5 +1156,5 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
