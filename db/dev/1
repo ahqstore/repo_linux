@@ -1000,6 +1000,7 @@ l:Scrite
 l:tT
 l:GpgFrontend
 l:StockStalk
+l:Cryptocam_Companion
 l:levior
 l:Planes
 l:Kdevelop
@@ -1054,7 +1055,6 @@ l:GDevelop
 l:thorium-client
 l:Tag_Editor
 l:CorePins
-l:Cryptocam_Companion
 l:CIAA_Suite
 l:Memento
 l:DICOMautomaton
@@ -1096,6 +1096,7 @@ l:Software-Challenge-GUI
 l:Minetest
 l:tmon
 l:superProductivity
+l:Glaxnimate
 l:GameHub
 l:Pony_Compiler
 l:EternalModManager
@@ -1156,5 +1157,4 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
-l:Glaxnimate
 l:Alpine_Client
