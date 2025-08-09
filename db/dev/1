@@ -1012,6 +1012,7 @@ l:Cantata
 l:stash-electron
 l:Electron_App_Store
 l:Woke
+l:Cryptocam_Companion
 l:FMS_File_Explorer
 l:Inkscape
 l:YUView
@@ -1054,13 +1055,11 @@ l:GDevelop
 l:thorium-client
 l:Tag_Editor
 l:CorePins
-l:Cryptocam_Companion
 l:CIAA_Suite
 l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
-l:Glaxnimate
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
@@ -1157,4 +1156,5 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
+l:Glaxnimate
 l:Alpine_Client
