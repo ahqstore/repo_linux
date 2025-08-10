@@ -1003,7 +1003,6 @@ l:Scrite
 l:tT
 l:GpgFrontend
 l:StockStalk
-l:Cryptocam_Companion
 l:levior
 l:Planes
 l:Kdevelop
@@ -1018,6 +1017,7 @@ l:Electron_App_Store
 l:Woke
 l:FMS_File_Explorer
 l:Inkscape
+l:Cryptocam_Companion
 l:YUView
 l:OpenSCAD
 l:tinyclerk
@@ -1107,7 +1107,6 @@ l:NepaliUnicode
 l:P2PDerivatives
 l:Steem_Messenger
 l:Emacs
-l:Glaxnimate
 l:Tutanota
 l:hsinstall
 l:PowerliminalsPlayer
@@ -1161,3 +1160,4 @@ l:Patchwork
 l:perl-executing-browser
 l:Firefox
 l:Alpine_Client
+l:Glaxnimate
