@@ -1044,6 +1044,7 @@ l:Vessel
 l:MediaConchGUI
 l:PolkaKey
 l:eNoseAnnotator
+l:Cryptocam_Companion
 l:Tesseract
 l:ZapDesktop
 l:SMPlayer
@@ -1062,6 +1063,7 @@ l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
+l:Glaxnimate
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
@@ -1098,7 +1100,6 @@ l:Software-Challenge-GUI
 l:Minetest
 l:tmon
 l:superProductivity
-l:Cryptocam_Companion
 l:GameHub
 l:Pony_Compiler
 l:EternalModManager
@@ -1160,4 +1161,3 @@ l:Patchwork
 l:perl-executing-browser
 l:Firefox
 l:Alpine_Client
-l:Glaxnimate
