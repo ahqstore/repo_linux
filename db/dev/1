@@ -988,6 +988,7 @@ l:pomotroid
 l:CP_Editor
 l:QHot
 l:Bypass_Cors
+l:Cryptocam_Companion
 l:SavvyCAN
 l:midi123
 l:WatchFlower
@@ -1054,7 +1055,6 @@ l:GDevelop
 l:thorium-client
 l:Tag_Editor
 l:CorePins
-l:Cryptocam_Companion
 l:CIAA_Suite
 l:Memento
 l:DICOMautomaton
