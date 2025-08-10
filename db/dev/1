@@ -991,7 +991,6 @@ l:pomotroid
 l:CP_Editor
 l:QHot
 l:Bypass_Cors
-l:Cryptocam_Companion
 l:SavvyCAN
 l:midi123
 l:WatchFlower
@@ -1031,6 +1030,7 @@ l:wezterm
 l:Hyperspace
 l:FastTrack
 l:UltraGrid
+l:Cryptocam_Companion
 l:KADE
 l:Antares
 l:ProQuaere
@@ -1154,10 +1154,10 @@ l:Birds_Kitchen
 l:Music_Blocks
 l:Kristall
 l:MellowPlayer
-l:Glaxnimate
 l:Neon
 l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
 l:Alpine_Client
+l:Glaxnimate
