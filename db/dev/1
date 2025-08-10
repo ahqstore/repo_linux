@@ -1014,7 +1014,6 @@ l:Electron_App_Store
 l:Woke
 l:FMS_File_Explorer
 l:Inkscape
-l:Cryptocam_Companion
 l:YUView
 l:OpenSCAD
 l:tinyclerk
@@ -1096,7 +1095,7 @@ l:Software-Challenge-GUI
 l:Minetest
 l:tmon
 l:superProductivity
-l:Glaxnimate
+l:Cryptocam_Companion
 l:GameHub
 l:Pony_Compiler
 l:EternalModManager
@@ -1157,4 +1156,5 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
+l:Glaxnimate
 l:Alpine_Client
