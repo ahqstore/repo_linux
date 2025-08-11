@@ -1017,6 +1017,7 @@ l:Electron_App_Store
 l:Woke
 l:FMS_File_Explorer
 l:Inkscape
+l:Cryptocam_Companion
 l:YUView
 l:OpenSCAD
 l:tinyclerk
@@ -1057,7 +1058,6 @@ l:GDevelop
 l:thorium-client
 l:Tag_Editor
 l:CorePins
-l:Cryptocam_Companion
 l:CIAA_Suite
 l:Memento
 l:DICOMautomaton
@@ -1159,5 +1159,5 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
