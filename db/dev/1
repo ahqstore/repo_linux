@@ -991,7 +991,6 @@ l:pomotroid
 l:CP_Editor
 l:QHot
 l:Bypass_Cors
-l:Cryptocam_Companion
 l:SavvyCAN
 l:midi123
 l:WatchFlower
@@ -1063,6 +1062,7 @@ l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
+l:Cryptocam_Companion
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
