@@ -1062,6 +1062,7 @@ l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
+l:Cryptocam_Companion
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
@@ -1159,5 +1160,4 @@ l:Patchwork
 l:perl-executing-browser
 l:Firefox
 l:Glaxnimate
-l:Cryptocam_Companion
 l:Alpine_Client
