@@ -942,7 +942,6 @@ l:SimplEOS
 l:Joplin
 l:Pulsar
 l:ngrev
-l:Cryptocam_Companion
 l:LOVE
 l:RSS-Guard
 l:mockoon
@@ -998,6 +997,7 @@ l:WatchFlower
 l:DeadGame-2048
 l:Sup
 l:feebas
+l:Cryptocam_Companion
 l:cabal-desktop
 l:Kate
 l:Scrite
@@ -1159,5 +1159,5 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
