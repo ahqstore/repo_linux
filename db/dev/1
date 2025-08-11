@@ -1099,6 +1099,7 @@ l:Software-Challenge-GUI
 l:Minetest
 l:tmon
 l:superProductivity
+l:Alpine_Client
 l:GameHub
 l:Pony_Compiler
 l:EternalModManager
@@ -1159,5 +1160,4 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
-l:Alpine_Client
 l:Glaxnimate
