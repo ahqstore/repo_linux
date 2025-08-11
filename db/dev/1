@@ -997,7 +997,6 @@ l:WatchFlower
 l:DeadGame-2048
 l:Sup
 l:feebas
-l:Cryptocam_Companion
 l:cabal-desktop
 l:Kate
 l:Scrite
@@ -1016,6 +1015,7 @@ l:Cantata
 l:stash-electron
 l:Electron_App_Store
 l:Woke
+l:Cryptocam_Companion
 l:FMS_File_Explorer
 l:Inkscape
 l:YUView
@@ -1099,7 +1099,6 @@ l:Software-Challenge-GUI
 l:Minetest
 l:tmon
 l:superProductivity
-l:Alpine_Client
 l:GameHub
 l:Pony_Compiler
 l:EternalModManager
@@ -1161,3 +1160,4 @@ l:Patchwork
 l:perl-executing-browser
 l:Firefox
 l:Glaxnimate
+l:Alpine_Client
