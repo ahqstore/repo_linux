@@ -1062,6 +1062,7 @@ l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
+l:Cryptocam_Companion
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
@@ -1098,7 +1099,6 @@ l:Software-Challenge-GUI
 l:Minetest
 l:tmon
 l:superProductivity
-l:Cryptocam_Companion
 l:GameHub
 l:Pony_Compiler
 l:EternalModManager
