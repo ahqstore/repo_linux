@@ -591,7 +591,6 @@ l:M
 l:FromScratch
 l:vue-calc
 l:Converter432Hz
-l:Open_Markup_Editor
 l:EncryptPad
 l:storyboarder
 l:Cerebral-Debugger
@@ -1159,5 +1158,5 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
