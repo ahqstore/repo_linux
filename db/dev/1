@@ -775,6 +775,7 @@ l:vREST_NG
 l:Espanso
 l:SciTECO
 l:Aphelion_Wallet
+l:Parallelcoin
 l:Jan
 l:Aptakube
 l:OpenRGB
@@ -1010,6 +1011,7 @@ l:Simdock
 l:Alduin
 l:electron-xiami
 l:Apache_NetBeans
+l:Cryptocam_Companion
 l:Cantata
 l:stash-electron
 l:Electron_App_Store
@@ -1061,7 +1063,6 @@ l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
-l:Cryptocam_Companion
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
