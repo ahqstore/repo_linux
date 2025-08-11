@@ -1001,6 +1001,7 @@ l:cabal-desktop
 l:Kate
 l:Scrite
 l:tT
+l:Cryptocam_Companion
 l:GpgFrontend
 l:StockStalk
 l:levior
@@ -1062,7 +1063,6 @@ l:Memento
 l:DICOMautomaton
 l:OCVWarp
 l:GospelPdfViewer
-l:Cryptocam_Companion
 l:QLog
 l:ChemCanvas
 l:GL_warp2mp4
