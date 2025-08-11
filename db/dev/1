@@ -991,6 +991,7 @@ l:pomotroid
 l:CP_Editor
 l:QHot
 l:Bypass_Cors
+l:Cryptocam_Companion
 l:SavvyCAN
 l:midi123
 l:WatchFlower
@@ -1015,7 +1016,6 @@ l:Cantata
 l:stash-electron
 l:Electron_App_Store
 l:Woke
-l:Cryptocam_Companion
 l:FMS_File_Explorer
 l:Inkscape
 l:YUView
@@ -1159,5 +1159,5 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
