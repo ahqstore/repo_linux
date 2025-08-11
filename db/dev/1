@@ -1003,7 +1003,6 @@ l:Scrite
 l:tT
 l:GpgFrontend
 l:StockStalk
-l:Cryptocam_Companion
 l:levior
 l:Planes
 l:Kdevelop
@@ -1159,5 +1158,6 @@ l:ITUSB1_Manager
 l:Patchwork
 l:perl-executing-browser
 l:Firefox
-l:Glaxnimate
+l:Cryptocam_Companion
 l:Alpine_Client
+l:Glaxnimate
