@@ -1004,7 +1004,6 @@ l:Scrite
 l:tT
 l:GpgFrontend
 l:StockStalk
-l:Glaxnimate
 l:levior
 l:Planes
 l:Kdevelop
@@ -1161,3 +1160,4 @@ l:Patchwork
 l:perl-executing-browser
 l:Firefox
 l:Alpine_Client
+l:Glaxnimate
