@@ -178,7 +178,7 @@ fn _get_icon(icons: Option<Vec<String>>) -> Option<Vec<u8>> {
   let icons = icons?;
   let loc: &str = icons.iter().find(|x| x.ends_with(".png"))?;
 
-  let data = fs::read(format!("./appimage.github.io/database/{loc}")).ok()?
+  let data = fs::read(format!("./appimage.github.io/database/{loc}")).ok()?;
 
   if data.is_empty() {
     return None;
