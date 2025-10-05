@@ -218,7 +218,7 @@ async fn parse_push(app: ParsedApp, map: &mut Map) -> Option<()> {
   }
 
   let app = AHQStoreApplication {
-    usrVersion: version,
+    usrVersion: Some(version),
     version: 0,
     appDisplayName: app.name.clone(),
     appShortcutName: app.name.clone(),
