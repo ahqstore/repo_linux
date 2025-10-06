@@ -975,6 +975,7 @@ l:Local_Browser
 l:Vieb
 l:pdf-sync
 l:Patchwork
+l:Cryptocam_Companion
 l:OpenAudible
 l:MrWriter
 l:twitch-wrapper
@@ -1001,7 +1002,6 @@ l:VirtualBox-KVM
 l:DFileManager
 l:Bypass_Cors
 l:Cura
-l:Cryptocam_Companion
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
 l:KeyboardClient
