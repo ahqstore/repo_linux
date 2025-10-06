@@ -1001,6 +1001,7 @@ l:VirtualBox-KVM
 l:DFileManager
 l:Bypass_Cors
 l:Cura
+l:Cryptocam_Companion
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
 l:KeyboardClient
@@ -1088,7 +1089,6 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1133,7 +1133,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1158,4 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Alpine_Client
 l:Glaxnimate
