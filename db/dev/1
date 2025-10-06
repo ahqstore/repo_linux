@@ -955,7 +955,6 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1059,6 +1058,7 @@ l:Passky
 l:nxshell
 l:ProofKeeper
 l:Konjure
+l:Cryptocam_Companion
 l:Qv2ray
 l:Scribus
 l:sqlitebrowser
