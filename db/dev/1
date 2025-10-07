@@ -904,7 +904,6 @@ l:Frappe_Accounting
 l:nimbus-weather
 l:LPub3D
 l:MuWire
-l:Cryptocam_Companion
 l:xiangxuema
 l:ANT_Downloader
 l:Plag_Patrol
@@ -956,7 +955,7 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Glaxnimate
+l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1116,6 +1115,7 @@ l:Meshmill
 l:Explorook
 l:Navicat
 l:Aptakube
+l:Glaxnimate
 l:Subsurface
 l:Mark_Mind
 l:Fraktal
