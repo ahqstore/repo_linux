@@ -953,7 +953,6 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
-l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -1105,6 +1104,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1150,7 +1150,6 @@ l:eNoseAnnotator
 l:PhotoFlow
 l:YARC-Launcher
 l:Astrofox
-l:Alpine_Client
 l:VizGraph
 l:Kate
 l:Protracker
@@ -1159,3 +1158,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
+l:Alpine_Client
