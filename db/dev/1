@@ -953,7 +953,6 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
-l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -1070,6 +1069,7 @@ l:HexoEditor
 l:tnt
 l:Webitel_Phone
 l:ConsoleWorkbench
+l:Cryptocam_Companion
 l:keyrier-json
 l:Keibo-MoneyTracker-x86_64
 l:Tesseract
@@ -1157,5 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
