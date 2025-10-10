@@ -955,7 +955,6 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1118,7 +1117,6 @@ l:Aptakube
 l:Subsurface
 l:Mark_Mind
 l:Fraktal
-l:Alpine_Client
 l:Cacher
 l:Addaps
 l:Translatium
@@ -1134,6 +1132,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1158,4 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Cryptocam_Companion
 l:Glaxnimate
