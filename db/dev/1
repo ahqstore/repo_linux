@@ -955,6 +955,7 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
+l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1070,7 +1071,6 @@ l:tnt
 l:Webitel_Phone
 l:ConsoleWorkbench
 l:keyrier-json
-l:Cryptocam_Companion
 l:Keibo-MoneyTracker-x86_64
 l:Tesseract
 l:upterm
@@ -1118,6 +1118,7 @@ l:Aptakube
 l:Subsurface
 l:Mark_Mind
 l:Fraktal
+l:Alpine_Client
 l:Cacher
 l:Addaps
 l:Translatium
@@ -1158,4 +1159,3 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Alpine_Client
