@@ -1084,11 +1084,11 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1143,7 +1143,6 @@ l:Mumble
 l:GitHubDesktop
 l:Onshape
 l:Obsidian
-l:Alpine_Client
 l:Minetest
 l:SocNetV
 l:twetter
@@ -1158,4 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Alpine_Client
 l:Glaxnimate
