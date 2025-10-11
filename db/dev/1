@@ -1145,7 +1145,6 @@ l:Onshape
 l:Obsidian
 l:Minetest
 l:SocNetV
-l:Alpine_Client
 l:twetter
 l:eNoseAnnotator
 l:PhotoFlow
@@ -1158,4 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Alpine_Client
 l:Glaxnimate
