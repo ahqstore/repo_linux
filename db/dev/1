@@ -1011,7 +1011,6 @@ l:ElectrumFair
 l:Waterfox_Fourth_Generation
 l:Axe_Electrum
 l:Shadow
-l:Cryptocam_Companion
 l:appimagehelper
 l:MicroPad
 l:MediathekView
@@ -1134,7 +1133,6 @@ l:PhotoTeleport
 l:moolticute
 l:halium-tool
 l:zeltrez
-l:Alpine_Client
 l:Carnet
 l:qpdf
 l:CoreHunt
@@ -1156,6 +1154,8 @@ l:Kate
 l:Protracker
 l:slang-ed
 l:ClownMapEd
+l:Alpine_Client
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
+l:Cryptocam_Companion
