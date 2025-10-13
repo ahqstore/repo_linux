@@ -1094,6 +1094,7 @@ l:CoreArchiver
 l:StockStalk
 l:Sayonara
 l:cric
+l:Alpine_Client
 l:puush-qt
 l:TagSpaces
 l:Advanced_Rest_Client
@@ -1158,4 +1159,3 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Alpine_Client
