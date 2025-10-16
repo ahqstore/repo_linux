@@ -1010,7 +1010,6 @@ l:ridereceipts
 l:ElectrumFair
 l:Waterfox_Fourth_Generation
 l:Axe_Electrum
-l:Cryptocam_Companion
 l:Shadow
 l:appimagehelper
 l:MicroPad
@@ -1055,6 +1054,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1157,5 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
