@@ -1106,7 +1106,6 @@ l:gsubs
 l:Serial_Studio
 l:QtMips
 l:school-sections
-l:Cryptocam_Companion
 l:cubing-cmos
 l:xlights
 l:KOReader
@@ -1157,5 +1156,6 @@ l:HastyHeroes
 l:elcalc
 l:Subtitle_Composer
 l:Pullp
+l:Cryptocam_Companion
 l:Alpine_Client
 l:Glaxnimate
