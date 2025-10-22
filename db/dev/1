@@ -1054,7 +1054,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1122,6 +1121,7 @@ l:Cacher
 l:Addaps
 l:Translatium
 l:MediaElch
+l:Cryptocam_Companion
 l:Waterfox_Third_Generation
 l:SmallBASIC
 l:UniShellect
@@ -1157,5 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
