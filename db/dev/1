@@ -1054,7 +1054,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1062,6 +1061,7 @@ l:Konjure
 l:Qv2ray
 l:Scribus
 l:sqlitebrowser
+l:Cryptocam_Companion
 l:WorkFlowy
 l:Board_Game_Star
 l:LazPaint
@@ -1089,6 +1089,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Glaxnimate
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1158,4 +1159,3 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
-l:Glaxnimate
