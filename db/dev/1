@@ -955,6 +955,7 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
+l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1087,6 +1088,7 @@ l:Eplee
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
+l:Alpine_Client
 l:Quick_Clone
 l:LMMS
 l:CoreArchiver
@@ -1104,7 +1106,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1133,6 +1134,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1150,7 +1152,6 @@ l:eNoseAnnotator
 l:PhotoFlow
 l:YARC-Launcher
 l:Astrofox
-l:Alpine_Client
 l:VizGraph
 l:Kate
 l:Protracker
@@ -1158,4 +1159,3 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
