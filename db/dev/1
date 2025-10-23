@@ -981,6 +981,7 @@ l:twitch-wrapper
 l:Figma
 l:Pulse
 l:Ripcord
+l:Cryptocam_Companion
 l:Zegarek
 l:Cloud_Browser
 l:Slippi
@@ -1132,7 +1133,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1157,5 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
+l:Alpine_Client
 l:Glaxnimate
