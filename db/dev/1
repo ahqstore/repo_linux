@@ -981,7 +981,6 @@ l:twitch-wrapper
 l:Figma
 l:Pulse
 l:Ripcord
-l:Cryptocam_Companion
 l:Zegarek
 l:Cloud_Browser
 l:Slippi
@@ -1089,6 +1088,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1141,6 +1141,7 @@ l:climaxima
 l:nheko
 l:Mumble
 l:GitHubDesktop
+l:Alpine_Client
 l:Onshape
 l:Obsidian
 l:Minetest
@@ -1157,5 +1158,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
