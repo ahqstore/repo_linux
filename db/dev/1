@@ -979,7 +979,6 @@ l:OpenAudible
 l:MrWriter
 l:twitch-wrapper
 l:Figma
-l:Cryptocam_Companion
 l:Pulse
 l:Ripcord
 l:Zegarek
@@ -1074,6 +1073,7 @@ l:keyrier-json
 l:Keibo-MoneyTracker-x86_64
 l:Tesseract
 l:upterm
+l:VLC
 l:sticker-convert
 l:Apla
 l:alan-connect
@@ -1084,6 +1084,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1132,6 +1133,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1156,5 +1158,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
