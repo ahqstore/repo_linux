@@ -1060,7 +1060,6 @@ l:ProofKeeper
 l:Konjure
 l:Qv2ray
 l:Scribus
-l:Cryptocam_Companion
 l:sqlitebrowser
 l:WorkFlowy
 l:Board_Game_Star
@@ -1089,6 +1088,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1131,6 +1131,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1157,5 +1158,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
