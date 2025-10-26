@@ -966,6 +966,7 @@ l:AsarUI
 l:VPaint
 l:quokkagit
 l:runanode
+l:Cryptocam_Companion
 l:Dragoman
 l:Pathio
 l:neovim
@@ -1084,7 +1085,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1157,5 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
