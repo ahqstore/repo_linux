@@ -953,7 +953,6 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
-l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -1080,6 +1079,7 @@ l:Apla
 l:alan-connect
 l:NanoVault
 l:Scrum-Retroboard
+l:Cryptocam_Companion
 l:Tusk
 l:ngPost
 l:Quixel_Bridge
@@ -1105,7 +1105,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Alpine_Client
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1132,6 +1131,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Glaxnimate
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1158,4 +1158,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
+l:Alpine_Client
