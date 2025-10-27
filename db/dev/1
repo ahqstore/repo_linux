@@ -990,6 +990,7 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
+l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:linuxdeployqt
@@ -1054,7 +1055,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1122,7 +1122,6 @@ l:Cacher
 l:Addaps
 l:Translatium
 l:MediaElch
-l:Alpine_Client
 l:Waterfox_Third_Generation
 l:SmallBASIC
 l:UniShellect
@@ -1159,3 +1158,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
+l:Alpine_Client
