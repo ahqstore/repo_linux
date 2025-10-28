@@ -990,7 +990,6 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:linuxdeployqt
@@ -1048,6 +1047,7 @@ l:iQPuzzle
 l:Qt_JSON_diff
 l:Stunt_Car_Remake
 l:ao
+l:Cryptocam_Companion
 l:Qucs-S
 l:86Box
 l:NoraGO
@@ -1133,7 +1133,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1141,6 +1140,7 @@ l:CoreHunt
 l:climaxima
 l:nheko
 l:Mumble
+l:Glaxnimate
 l:GitHubDesktop
 l:Onshape
 l:Obsidian
