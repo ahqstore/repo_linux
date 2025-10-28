@@ -1076,7 +1076,6 @@ l:upterm
 l:VLC
 l:sticker-convert
 l:Apla
-l:Cryptocam_Companion
 l:alan-connect
 l:NanoVault
 l:Scrum-Retroboard
@@ -1133,6 +1132,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1158,4 +1158,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Alpine_Client
+l:Cryptocam_Companion
