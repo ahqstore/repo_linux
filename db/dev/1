@@ -1026,7 +1026,6 @@ l:dexter_dev_env
 l:Glyphr_Studio_Desktop
 l:GospelPdfViewer
 l:BibleMultiTheLife
-l:Cryptocam_Companion
 l:qikQR
 l:Sige_Lite
 l:HyperionIDE
@@ -1089,7 +1088,6 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1134,6 +1132,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1158,4 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Cryptocam_Companion
 l:Glaxnimate
