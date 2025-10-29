@@ -963,7 +963,6 @@ l:Scilab
 l:XPEViewer
 l:BTS-CE-Lite
 l:AsarUI
-l:Cryptocam_Companion
 l:VPaint
 l:quokkagit
 l:runanode
@@ -997,6 +996,7 @@ l:linuxdeployqt
 l:Blizzard_4
 l:acreom
 l:NixNote
+l:Cryptocam_Companion
 l:gerbv
 l:VirtualBox-KVM
 l:DFileManager
