@@ -1084,8 +1084,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
-l:Alpine_Client
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1124,6 +1122,7 @@ l:Addaps
 l:Translatium
 l:MediaElch
 l:Waterfox_Third_Generation
+l:Cryptocam_Companion
 l:SmallBASIC
 l:UniShellect
 l:Cascade_Image_Editor
@@ -1158,4 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Alpine_Client
 l:Glaxnimate
