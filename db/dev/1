@@ -990,7 +990,6 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:linuxdeployqt
@@ -1085,6 +1084,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1151,7 +1151,6 @@ l:PhotoFlow
 l:YARC-Launcher
 l:Astrofox
 l:VizGraph
-l:Glaxnimate
 l:Kate
 l:Protracker
 l:slang-ed
@@ -1159,3 +1158,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
+l:Glaxnimate
