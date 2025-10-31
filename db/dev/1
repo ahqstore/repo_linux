@@ -1012,7 +1012,6 @@ l:Waterfox_Fourth_Generation
 l:Axe_Electrum
 l:Shadow
 l:appimagehelper
-l:Cryptocam_Companion
 l:MicroPad
 l:MediathekView
 l:ossia_score
@@ -1089,6 +1088,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1131,9 +1131,9 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Alpine_Client
 l:moolticute
 l:halium-tool
-l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
