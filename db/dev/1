@@ -988,7 +988,6 @@ l:iPuissance_4D
 l:jexiftoolgui
 l:AvantGarde
 l:Mochi
-l:Cryptocam_Companion
 l:O3
 l:moniteur-admin
 l:CBETA
@@ -1013,6 +1012,7 @@ l:Waterfox_Fourth_Generation
 l:Axe_Electrum
 l:Shadow
 l:appimagehelper
+l:Cryptocam_Companion
 l:MicroPad
 l:MediathekView
 l:ossia_score
@@ -1131,9 +1131,9 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Glaxnimate
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1158,4 +1158,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
+l:Glaxnimate
