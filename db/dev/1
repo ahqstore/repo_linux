@@ -962,7 +962,6 @@ l:clippy
 l:Scilab
 l:XPEViewer
 l:BTS-CE-Lite
-l:Cryptocam_Companion
 l:AsarUI
 l:VPaint
 l:quokkagit
@@ -1089,6 +1088,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1133,6 +1133,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1157,5 +1158,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
 l:Alpine_Client
