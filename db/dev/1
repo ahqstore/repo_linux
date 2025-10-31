@@ -962,6 +962,7 @@ l:clippy
 l:Scilab
 l:XPEViewer
 l:BTS-CE-Lite
+l:Cryptocam_Companion
 l:AsarUI
 l:VPaint
 l:quokkagit
@@ -1048,7 +1049,6 @@ l:Qt_JSON_diff
 l:Stunt_Car_Remake
 l:ao
 l:Qucs-S
-l:Cryptocam_Companion
 l:86Box
 l:NoraGO
 l:Electorrent
@@ -1133,7 +1133,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1158,4 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Alpine_Client
