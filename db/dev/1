@@ -1054,7 +1054,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1089,6 +1088,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1133,6 +1133,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1151,11 +1152,10 @@ l:PhotoFlow
 l:YARC-Launcher
 l:Astrofox
 l:VizGraph
+l:Alpine_Client
 l:Kate
 l:Protracker
 l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
-l:Alpine_Client
