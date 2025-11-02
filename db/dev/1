@@ -993,6 +993,7 @@ l:moniteur-admin
 l:CBETA
 l:LibreOfficePreRelease
 l:linuxdeployqt
+l:Cryptocam_Companion
 l:Blizzard_4
 l:acreom
 l:NixNote
@@ -1013,7 +1014,6 @@ l:Axe_Electrum
 l:Shadow
 l:appimagehelper
 l:MicroPad
-l:Cryptocam_Companion
 l:MediathekView
 l:ossia_score
 l:Tagstoo
@@ -1105,7 +1105,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1158,4 +1157,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Alpine_Client
