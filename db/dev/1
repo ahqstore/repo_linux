@@ -150,7 +150,6 @@ l:Chiaki
 l:Cliniface
 l:SMF-DSP
 l:QLog
-l:graphql-playground
 l:MuPDF
 l:KiCad
 l:Pile
@@ -1026,7 +1025,6 @@ l:dexter_dev_env
 l:Glyphr_Studio_Desktop
 l:GospelPdfViewer
 l:BibleMultiTheLife
-l:Cryptocam_Companion
 l:qikQR
 l:Sige_Lite
 l:HyperionIDE
@@ -1048,6 +1046,7 @@ l:iQPuzzle
 l:Qt_JSON_diff
 l:Stunt_Car_Remake
 l:ao
+l:Cryptocam_Companion
 l:Qucs-S
 l:86Box
 l:NoraGO
@@ -1105,6 +1104,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1158,4 +1158,3 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
-l:Glaxnimate
