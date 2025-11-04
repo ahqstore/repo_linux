@@ -953,7 +953,6 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
-l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -1035,6 +1034,7 @@ l:heb12
 l:Vusic
 l:ideaMaker
 l:Krita
+l:Cryptocam_Companion
 l:Colobot
 l:scavengers
 l:RefOrg
@@ -1089,7 +1089,6 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Glaxnimate
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1134,6 +1133,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1158,4 +1158,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
+l:Glaxnimate
