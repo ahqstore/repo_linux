@@ -637,7 +637,6 @@ l:Drill
 l:onnx2daq
 l:SimSpark
 l:Infinitex
-l:Tulip
 l:mutool
 l:Neon
 l:PicoLog
@@ -1088,6 +1087,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1156,6 +1156,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
