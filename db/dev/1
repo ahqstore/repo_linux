@@ -1046,6 +1046,7 @@ l:iQPuzzle
 l:Qt_JSON_diff
 l:Stunt_Car_Remake
 l:ao
+l:Cryptocam_Companion
 l:Qucs-S
 l:86Box
 l:NoraGO
@@ -1053,7 +1054,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1130,8 +1130,8 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
 l:moolticute
+l:Glaxnimate
 l:halium-tool
 l:zeltrez
 l:Carnet
@@ -1157,4 +1157,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
+l:Alpine_Client
