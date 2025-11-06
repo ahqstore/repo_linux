@@ -954,7 +954,6 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1104,6 +1103,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1127,6 +1127,7 @@ l:UniShellect
 l:Cascade_Image_Editor
 l:MellowPlayer
 l:Spectral
+l:Alpine_Client
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
@@ -1156,5 +1157,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
-l:Alpine_Client
+l:Cryptocam_Companion
