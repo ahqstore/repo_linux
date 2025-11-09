@@ -993,7 +993,6 @@ l:CBETA
 l:LibreOfficePreRelease
 l:linuxdeployqt
 l:Blizzard_4
-l:Cryptocam_Companion
 l:acreom
 l:NixNote
 l:gerbv
@@ -1047,6 +1046,7 @@ l:iQPuzzle
 l:Qt_JSON_diff
 l:Stunt_Car_Remake
 l:ao
+l:Cryptocam_Companion
 l:Qucs-S
 l:86Box
 l:NoraGO
@@ -1129,9 +1129,9 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Glaxnimate
 l:moolticute
 l:halium-tool
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
