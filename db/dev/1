@@ -1000,6 +1000,7 @@ l:VirtualBox-KVM
 l:DFileManager
 l:Bypass_Cors
 l:Cura
+l:Cryptocam_Companion
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
 l:KeyboardClient
@@ -1082,6 +1083,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Glaxnimate
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1118,7 +1120,6 @@ l:Fraktal
 l:Cacher
 l:Addaps
 l:Translatium
-l:Alpine_Client
 l:MediaElch
 l:Waterfox_Third_Generation
 l:SmallBASIC
@@ -1155,5 +1156,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
-l:Glaxnimate
+l:Alpine_Client
