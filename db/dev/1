@@ -989,7 +989,6 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:linuxdeployqt
@@ -1087,6 +1086,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1146,6 +1146,7 @@ l:SocNetV
 l:twetter
 l:eNoseAnnotator
 l:PhotoFlow
+l:Alpine_Client
 l:YARC-Launcher
 l:Astrofox
 l:VizGraph
@@ -1155,5 +1156,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
