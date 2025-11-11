@@ -960,7 +960,6 @@ l:Spectrum
 l:clippy
 l:Scilab
 l:XPEViewer
-l:Cryptocam_Companion
 l:BTS-CE-Lite
 l:AsarUI
 l:VPaint
@@ -986,6 +985,7 @@ l:Cloud_Browser
 l:Slippi
 l:iPuissance_4D
 l:jexiftoolgui
+l:Cryptocam_Companion
 l:AvantGarde
 l:Mochi
 l:O3
@@ -1116,13 +1116,13 @@ l:Navicat
 l:Aptakube
 l:Subsurface
 l:Mark_Mind
-l:Alpine_Client
 l:Fraktal
 l:Cacher
 l:Addaps
 l:Translatium
 l:MediaElch
 l:Waterfox_Third_Generation
+l:Glaxnimate
 l:SmallBASIC
 l:UniShellect
 l:Cascade_Image_Editor
@@ -1157,4 +1157,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
+l:Alpine_Client
