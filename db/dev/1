@@ -960,6 +960,7 @@ l:Spectrum
 l:clippy
 l:Scilab
 l:XPEViewer
+l:Cryptocam_Companion
 l:BTS-CE-Lite
 l:AsarUI
 l:VPaint
@@ -1083,7 +1084,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1116,6 +1116,7 @@ l:Navicat
 l:Aptakube
 l:Subsurface
 l:Mark_Mind
+l:Alpine_Client
 l:Fraktal
 l:Cacher
 l:Addaps
@@ -1157,4 +1158,3 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Alpine_Client
