@@ -985,7 +985,6 @@ l:Cloud_Browser
 l:Slippi
 l:iPuissance_4D
 l:jexiftoolgui
-l:Cryptocam_Companion
 l:AvantGarde
 l:Mochi
 l:O3
@@ -1122,7 +1121,6 @@ l:Addaps
 l:Translatium
 l:MediaElch
 l:Waterfox_Third_Generation
-l:Glaxnimate
 l:SmallBASIC
 l:UniShellect
 l:Cascade_Image_Editor
@@ -1131,6 +1129,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1157,4 +1156,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
+l:Cryptocam_Companion
+l:Glaxnimate
