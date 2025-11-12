@@ -995,6 +995,7 @@ l:linuxdeployqt
 l:Blizzard_4
 l:acreom
 l:NixNote
+l:Cryptocam_Companion
 l:gerbv
 l:VirtualBox-KVM
 l:DFileManager
@@ -1040,7 +1041,6 @@ l:PowerliminalsPlayer
 l:Nitrokey
 l:stereophotoview
 l:colorstatic-bash
-l:Cryptocam_Companion
 l:vuerd
 l:makoureactor
 l:iQPuzzle
@@ -1130,6 +1130,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1157,4 +1158,3 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Alpine_Client
