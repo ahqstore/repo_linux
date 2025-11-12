@@ -904,6 +904,7 @@ l:nimbus-weather
 l:LPub3D
 l:MuWire
 l:xiangxuema
+l:Cryptocam_Companion
 l:ANT_Downloader
 l:Plag_Patrol
 l:BLOCK-DX
@@ -990,7 +991,6 @@ l:Mochi
 l:O3
 l:moniteur-admin
 l:CBETA
-l:Cryptocam_Companion
 l:LibreOfficePreRelease
 l:linuxdeployqt
 l:Blizzard_4
@@ -1000,6 +1000,7 @@ l:gerbv
 l:VirtualBox-KVM
 l:DFileManager
 l:Bypass_Cors
+l:Glaxnimate
 l:Cura
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
@@ -1132,7 +1133,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
