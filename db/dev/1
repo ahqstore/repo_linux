@@ -1009,6 +1009,7 @@ l:ridereceipts
 l:ElectrumFair
 l:Waterfox_Fourth_Generation
 l:Axe_Electrum
+l:Cryptocam_Companion
 l:Shadow
 l:appimagehelper
 l:MicroPad
@@ -1020,7 +1021,6 @@ l:eOSVC
 l:Todoist
 l:lescovex
 l:Moonitor
-l:Cryptocam_Companion
 l:Bench_CLI
 l:dexter_dev_env
 l:Glyphr_Studio_Desktop
@@ -1132,6 +1132,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1144,7 +1145,6 @@ l:Onshape
 l:Obsidian
 l:Minetest
 l:SocNetV
-l:Alpine_Client
 l:twetter
 l:eNoseAnnotator
 l:PhotoFlow
