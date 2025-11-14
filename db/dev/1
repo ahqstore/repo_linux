@@ -1020,6 +1020,7 @@ l:eOSVC
 l:Todoist
 l:lescovex
 l:Moonitor
+l:Cryptocam_Companion
 l:Bench_CLI
 l:dexter_dev_env
 l:Glyphr_Studio_Desktop
@@ -1083,7 +1084,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1144,6 +1144,7 @@ l:Onshape
 l:Obsidian
 l:Minetest
 l:SocNetV
+l:Alpine_Client
 l:twetter
 l:eNoseAnnotator
 l:PhotoFlow
@@ -1156,5 +1157,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
