@@ -1071,6 +1071,7 @@ l:ConsoleWorkbench
 l:keyrier-json
 l:Keibo-MoneyTracker-x86_64
 l:Tesseract
+l:Cryptocam_Companion
 l:upterm
 l:VLC
 l:sticker-convert
@@ -1083,7 +1084,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1156,5 +1156,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
