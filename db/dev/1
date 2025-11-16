@@ -989,6 +989,7 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
+l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:linuxdeployqt
@@ -1103,7 +1104,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Cryptocam_Companion
+l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1130,7 +1131,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1157,4 +1157,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
+l:Alpine_Client
