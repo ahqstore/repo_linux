@@ -1103,7 +1103,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1121,6 +1120,7 @@ l:Cacher
 l:Addaps
 l:Translatium
 l:MediaElch
+l:Cryptocam_Companion
 l:Waterfox_Third_Generation
 l:SmallBASIC
 l:UniShellect
