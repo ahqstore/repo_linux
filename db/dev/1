@@ -903,6 +903,7 @@ l:Frappe_Accounting
 l:nimbus-weather
 l:LPub3D
 l:MuWire
+l:Cryptocam_Companion
 l:xiangxuema
 l:ANT_Downloader
 l:Plag_Patrol
@@ -1053,7 +1054,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Glaxnimate
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1084,6 +1084,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Alpine_Client
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1130,7 +1131,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1157,4 +1157,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
+l:Glaxnimate
