@@ -1037,7 +1037,6 @@ l:Colobot
 l:scavengers
 l:RefOrg
 l:PowerliminalsPlayer
-l:Cryptocam_Companion
 l:Nitrokey
 l:stereophotoview
 l:colorstatic-bash
@@ -1084,6 +1083,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
