@@ -954,7 +954,6 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -969,6 +968,7 @@ l:runanode
 l:Dragoman
 l:Pathio
 l:neovim
+l:Cryptocam_Companion
 l:DevHub
 l:Sup
 l:Local_Browser
@@ -1156,5 +1156,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
