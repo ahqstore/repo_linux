@@ -1073,6 +1073,7 @@ l:Keibo-MoneyTracker-x86_64
 l:Tesseract
 l:upterm
 l:VLC
+l:Cryptocam_Companion
 l:sticker-convert
 l:Apla
 l:alan-connect
@@ -1103,7 +1104,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1143,6 +1143,7 @@ l:GitHubDesktop
 l:Onshape
 l:Obsidian
 l:Minetest
+l:Alpine_Client
 l:SocNetV
 l:twetter
 l:eNoseAnnotator
@@ -1156,5 +1157,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
