@@ -1048,7 +1048,6 @@ l:Stunt_Car_Remake
 l:ao
 l:Qucs-S
 l:86Box
-l:Cryptocam_Companion
 l:NoraGO
 l:Electorrent
 l:SquishPic
@@ -1088,7 +1087,9 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Alpine_Client
 l:LMMS
+l:Cryptocam_Companion
 l:CoreArchiver
 l:StockStalk
 l:Sayonara
@@ -1130,9 +1131,9 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Glaxnimate
 l:moolticute
 l:halium-tool
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1157,4 +1158,3 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
