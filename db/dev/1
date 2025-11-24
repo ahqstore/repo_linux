@@ -954,7 +954,6 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1011,6 +1010,7 @@ l:ElectrumFair
 l:Waterfox_Fourth_Generation
 l:Axe_Electrum
 l:Shadow
+l:Cryptocam_Companion
 l:appimagehelper
 l:MicroPad
 l:MediathekView
@@ -1156,5 +1156,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
