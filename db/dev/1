@@ -237,7 +237,6 @@ l:textosaurus
 l:Record_Compare
 l:admin-tools
 l:SigDigger
-l:jmbde
 l:Thunderbird_Nightly
 l:Firefox
 l:qpp::cad
@@ -1053,6 +1052,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1087,7 +1087,6 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1132,6 +1131,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1156,5 +1156,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
 l:Glaxnimate
