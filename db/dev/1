@@ -990,7 +990,6 @@ l:moniteur-admin
 l:CBETA
 l:LibreOfficePreRelease
 l:linuxdeployqt
-l:Cryptocam_Companion
 l:Blizzard_4
 l:acreom
 l:NixNote
@@ -1082,7 +1081,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Glaxnimate
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1155,4 +1154,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Alpine_Client
