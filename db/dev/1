@@ -951,6 +951,7 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
+l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1050,7 +1051,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Glaxnimate
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1122,6 +1122,7 @@ l:Waterfox_Third_Generation
 l:SmallBASIC
 l:UniShellect
 l:Cascade_Image_Editor
+l:Alpine_Client
 l:MellowPlayer
 l:Spectral
 l:Apache_NetBeans
@@ -1153,5 +1154,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
-l:Alpine_Client
+l:Glaxnimate
