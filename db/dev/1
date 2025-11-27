@@ -1101,6 +1101,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1122,7 +1123,6 @@ l:Waterfox_Third_Generation
 l:SmallBASIC
 l:UniShellect
 l:Cascade_Image_Editor
-l:Alpine_Client
 l:MellowPlayer
 l:Spectral
 l:Apache_NetBeans
@@ -1154,4 +1154,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
+l:Alpine_Client
