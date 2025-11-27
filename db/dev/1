@@ -952,6 +952,7 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
+l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1076,7 +1077,6 @@ l:Apla
 l:alan-connect
 l:NanoVault
 l:Scrum-Retroboard
-l:Cryptocam_Companion
 l:Tusk
 l:ngPost
 l:Quixel_Bridge
@@ -1128,6 +1128,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1155,4 +1156,3 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Alpine_Client
