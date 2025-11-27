@@ -222,7 +222,6 @@ l:triagem-touch
 l:COMPASS
 l:Joy2DroidX
 l:Antares
-l:PlotJuggler
 l:Gai
 l:Bodhi
 l:Canoe
@@ -1102,6 +1101,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Alpine_Client
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1128,7 +1128,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
