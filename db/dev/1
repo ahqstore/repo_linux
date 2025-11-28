@@ -1047,7 +1047,6 @@ l:Qucs-S
 l:86Box
 l:NoraGO
 l:Electorrent
-l:Cryptocam_Companion
 l:SquishPic
 l:clipr
 l:whiteboard
@@ -1081,6 +1080,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1140,7 +1140,6 @@ l:GitHubDesktop
 l:Onshape
 l:Obsidian
 l:Minetest
-l:Glaxnimate
 l:SocNetV
 l:twetter
 l:eNoseAnnotator
@@ -1154,4 +1153,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Alpine_Client
