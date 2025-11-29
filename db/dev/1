@@ -987,6 +987,7 @@ l:Mochi
 l:O3
 l:moniteur-admin
 l:CBETA
+l:Cryptocam_Companion
 l:LibreOfficePreRelease
 l:linuxdeployqt
 l:Blizzard_4
@@ -1043,7 +1044,6 @@ l:iQPuzzle
 l:Qt_JSON_diff
 l:Stunt_Car_Remake
 l:ao
-l:Cryptocam_Companion
 l:Qucs-S
 l:86Box
 l:NoraGO
@@ -1101,6 +1101,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Alpine_Client
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1153,5 +1154,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
