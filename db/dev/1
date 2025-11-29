@@ -1051,6 +1051,7 @@ l:SquishPic
 l:clipr
 l:whiteboard
 l:Passky
+l:Cryptocam_Companion
 l:nxshell
 l:ProofKeeper
 l:Konjure
@@ -1080,7 +1081,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Alpine_Client
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1127,7 +1127,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1155,3 +1154,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
+l:Alpine_Client
