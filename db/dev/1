@@ -997,7 +997,6 @@ l:VirtualBox-KVM
 l:DFileManager
 l:Bypass_Cors
 l:Cura
-l:Cryptocam_Companion
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
 l:KeyboardClient
@@ -1081,11 +1080,11 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Alpine_Client
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1128,6 +1127,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
 l:zeltrez
