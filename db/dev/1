@@ -907,6 +907,7 @@ l:BLOCK-DX
 l:Biying
 l:todo-bash
 l:SBLauncher
+l:Cryptocam_Companion
 l:Crypter
 l:Focalizzare
 l:Wrapbox
@@ -1050,7 +1051,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1081,6 +1081,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Glaxnimate
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1127,7 +1128,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1154,4 +1154,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
+l:Alpine_Client
