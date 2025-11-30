@@ -1100,7 +1100,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1143,6 +1142,7 @@ l:Minetest
 l:SocNetV
 l:twetter
 l:eNoseAnnotator
+l:Cryptocam_Companion
 l:PhotoFlow
 l:YARC-Launcher
 l:Astrofox
@@ -1153,5 +1153,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
