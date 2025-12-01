@@ -1083,6 +1083,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1108,6 +1109,7 @@ l:KeePassXC
 l:Panini
 l:dfDemo
 l:Deployer
+l:Alpine_Client
 l:Buckets
 l:Meshmill
 l:Explorook
@@ -1131,7 +1133,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1147,6 +1148,7 @@ l:SocNetV
 l:twetter
 l:eNoseAnnotator
 l:PhotoFlow
+l:Glaxnimate
 l:YARC-Launcher
 l:Astrofox
 l:VizGraph
@@ -1156,5 +1158,3 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
-l:Cryptocam_Companion
