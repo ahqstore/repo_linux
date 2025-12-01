@@ -1058,6 +1058,7 @@ l:nxshell
 l:ProofKeeper
 l:Konjure
 l:Qv2ray
+l:Cryptocam_Companion
 l:Scribus
 l:sqlitebrowser
 l:WorkFlowy
@@ -1103,7 +1104,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1156,5 +1156,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
+l:Glaxnimate
 l:Alpine_Client
