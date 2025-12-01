@@ -320,6 +320,7 @@ l:Yamagi_Quake_II
 l:element
 l:Qt_DAB
 l:LikeTaskManager
+l:Sigil
 l:GoldenCheetah
 l:vCardStudio
 l:SWC-Minecraft-Launcher
@@ -433,6 +434,7 @@ l:Beatconnect_Client
 l:Nuclino
 l:Converter432Hz
 l:Shuttle
+l:PageEdit
 l:hotspot
 l:Cantata
 l:TweakSophia
@@ -1053,7 +1055,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1084,6 +1085,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1150,7 +1152,6 @@ l:PhotoFlow
 l:YARC-Launcher
 l:Astrofox
 l:VizGraph
-l:Glaxnimate
 l:Kate
 l:Protracker
 l:slang-ed
@@ -1158,3 +1159,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
+l:Glaxnimate
