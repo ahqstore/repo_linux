@@ -1053,6 +1053,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1083,7 +1084,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1150,6 +1150,7 @@ l:PhotoFlow
 l:YARC-Launcher
 l:Astrofox
 l:VizGraph
+l:Glaxnimate
 l:Kate
 l:Protracker
 l:slang-ed
@@ -1157,4 +1158,3 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
-l:Glaxnimate
