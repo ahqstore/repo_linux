@@ -1085,6 +1085,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1131,7 +1132,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1139,7 +1139,6 @@ l:Carnet
 l:qpdf
 l:CoreHunt
 l:climaxima
-l:Glaxnimate
 l:nheko
 l:Mumble
 l:GitHubDesktop
@@ -1159,4 +1158,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Alpine_Client
