@@ -344,6 +344,7 @@ l:UltraGrid
 l:SmartGit
 l:Mockman
 l:Blender_Config_Manager
+l:SerialPort_Assistant
 l:Fraidycat
 l:TVALB
 l:Bezique
@@ -1054,7 +1055,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1085,6 +1085,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1157,5 +1158,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
