@@ -344,7 +344,6 @@ l:UltraGrid
 l:SmartGit
 l:Mockman
 l:Blender_Config_Manager
-l:SerialPort_Assistant
 l:Fraidycat
 l:TVALB
 l:Bezique
@@ -1055,6 +1054,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1153,7 +1153,6 @@ l:Astrofox
 l:VizGraph
 l:Kate
 l:Protracker
-l:Cryptocam_Companion
 l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
