@@ -141,6 +141,7 @@ l:android-messages-desktop
 l:Klogg
 l:XELFViewer
 l:LosslessCut
+l:Janus
 l:mdview
 l:Running-Dinner-Tool
 l:PostyBirb
@@ -990,7 +991,6 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
@@ -1090,6 +1090,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Glaxnimate
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1134,7 +1135,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1159,4 +1159,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Cryptocam_Companion
 l:Alpine_Client
