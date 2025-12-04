@@ -1090,7 +1090,6 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Glaxnimate
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1107,6 +1106,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1159,5 +1159,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
+l:Glaxnimate
 l:Alpine_Client
