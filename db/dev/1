@@ -517,6 +517,7 @@ l:Artifact
 l:Comic-Reader
 l:ommpfritt
 l:vifm
+l:Speaky_MiniPlayer
 l:Phinch
 l:Firefox_ESR
 l:PhotoQt
@@ -935,6 +936,7 @@ l:LibreWolf
 l:ImHex
 l:ldview
 l:flightgear-airports
+l:Alpine_Client
 l:Papercraft
 l:CoreShot
 l:ElDumper
@@ -1056,7 +1058,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1135,6 +1136,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Cryptocam_Companion
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1159,5 +1161,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
