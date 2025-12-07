@@ -1013,7 +1013,6 @@ l:VK_Desktop
 l:ridereceipts
 l:ElectrumFair
 l:Waterfox_Fourth_Generation
-l:Cryptocam_Companion
 l:Axe_Electrum
 l:Shadow
 l:appimagehelper
@@ -1093,6 +1092,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1129,7 +1129,6 @@ l:MediaElch
 l:Waterfox_Third_Generation
 l:SmallBASIC
 l:UniShellect
-l:Alpine_Client
 l:Cascade_Image_Editor
 l:MellowPlayer
 l:Spectral
@@ -1163,3 +1162,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
+l:Alpine_Client
