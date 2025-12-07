@@ -1089,6 +1089,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1109,14 +1110,13 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Alpine_Client
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
 l:dfDemo
 l:Deployer
 l:Buckets
+l:Glaxnimate
 l:Meshmill
 l:Explorook
 l:Navicat
@@ -1128,6 +1128,7 @@ l:Cacher
 l:Addaps
 l:Translatium
 l:MediaElch
+l:Alpine_Client
 l:Waterfox_Third_Generation
 l:SmallBASIC
 l:UniShellect
@@ -1163,4 +1164,3 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
