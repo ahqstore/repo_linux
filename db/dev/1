@@ -1106,7 +1106,6 @@ l:Espanso
 l:StopLight
 l:Carpenters
 l:perl-executing-browser
-l:Alpine_Client
 l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
@@ -1139,6 +1138,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
