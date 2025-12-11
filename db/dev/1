@@ -909,7 +909,6 @@ l:Frappe_Accounting
 l:nimbus-weather
 l:LPub3D
 l:MuWire
-l:Cryptocam_Companion
 l:xiangxuema
 l:ANT_Downloader
 l:Plag_Patrol
@@ -996,6 +995,7 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
+l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
