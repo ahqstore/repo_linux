@@ -1091,7 +1091,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Glaxnimate
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1149,6 +1148,7 @@ l:nheko
 l:Mumble
 l:GitHubDesktop
 l:Onshape
+l:Cryptocam_Companion
 l:Obsidian
 l:Minetest
 l:SocNetV
@@ -1164,5 +1164,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
+l:Glaxnimate
 l:Alpine_Client
