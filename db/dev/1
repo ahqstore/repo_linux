@@ -148,6 +148,7 @@ l:PostyBirb
 l:lightning-peach-wallet
 l:cordlauncher
 l:Chiaki
+l:Cliniface
 l:SMF-DSP
 l:QLog
 l:graphql-playground
@@ -968,7 +969,6 @@ l:Scilab
 l:XPEViewer
 l:BTS-CE-Lite
 l:AsarUI
-l:Cryptocam_Companion
 l:VPaint
 l:quokkagit
 l:runanode
@@ -1091,6 +1091,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Glaxnimate
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1163,5 +1164,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Cryptocam_Companion
 l:Alpine_Client
-l:Glaxnimate
