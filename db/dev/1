@@ -1090,11 +1090,11 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1142,6 +1142,7 @@ l:halium-tool
 l:zeltrez
 l:Carnet
 l:qpdf
+l:Glaxnimate
 l:CoreHunt
 l:climaxima
 l:nheko
@@ -1163,5 +1164,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
-l:Glaxnimate
+l:Alpine_Client
