@@ -960,7 +960,6 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1095,6 +1094,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1163,5 +1163,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Cryptocam_Companion
 l:Glaxnimate
-l:Alpine_Client
