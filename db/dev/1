@@ -961,7 +961,6 @@ l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
-l:Cryptocam_Companion
 l:RetroArch
 l:Spectrum
 l:clippy
@@ -1137,8 +1136,10 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1163,5 +1164,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
