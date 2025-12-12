@@ -687,7 +687,6 @@ l:Pony_Compiler
 l:CorePins
 l:Groot
 l:Downline
-l:ReliefValve
 l:UHK.Agent
 l:Qawl
 l:Popsicle
@@ -1060,6 +1059,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1136,10 +1136,8 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
-l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1165,3 +1163,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
+l:Alpine_Client
