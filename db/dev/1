@@ -1002,7 +1002,6 @@ l:LibreOfficePreRelease
 l:FileShows
 l:linuxdeployqt
 l:Blizzard_4
-l:Glaxnimate
 l:acreom
 l:NixNote
 l:gerbv
@@ -1028,6 +1027,7 @@ l:Tagstoo
 l:FMS_File_Explorer
 l:eOSVC
 l:Todoist
+l:Cryptocam_Companion
 l:lescovex
 l:Moonitor
 l:Bench_CLI
@@ -1058,7 +1058,6 @@ l:Stunt_Car_Remake
 l:ao
 l:Qucs-S
 l:86Box
-l:Cryptocam_Companion
 l:NoraGO
 l:Electorrent
 l:SquishPic
@@ -1115,7 +1114,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Crescat
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1144,7 +1142,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1169,3 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Alpine_Client
+l:Glaxnimate
+l:Crescat
