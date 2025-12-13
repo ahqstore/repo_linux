@@ -970,7 +970,6 @@ l:Scilab
 l:XPEViewer
 l:BTS-CE-Lite
 l:AsarUI
-l:Cryptocam_Companion
 l:VPaint
 l:quokkagit
 l:runanode
@@ -1063,6 +1062,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1094,7 +1094,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Alpine_Client
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1115,6 +1114,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Crescat
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1124,6 +1124,7 @@ l:Buckets
 l:Meshmill
 l:Explorook
 l:Navicat
+l:Alpine_Client
 l:Aptakube
 l:Subsurface
 l:Mark_Mind
@@ -1143,9 +1144,9 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
 l:zeltrez
 l:Carnet
+l:Glaxnimate
 l:qpdf
 l:CoreHunt
 l:climaxima
@@ -1168,4 +1169,3 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Crescat
