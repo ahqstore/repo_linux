@@ -972,7 +972,6 @@ l:BTS-CE-Lite
 l:AsarUI
 l:VPaint
 l:quokkagit
-l:Cryptocam_Companion
 l:runanode
 l:Dragoman
 l:Pathio
@@ -1098,6 +1097,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1142,7 +1142,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Crescat
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1167,5 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Crescat
 l:Alpine_Client
-l:Glaxnimate
