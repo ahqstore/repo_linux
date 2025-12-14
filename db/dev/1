@@ -1018,7 +1018,6 @@ l:ridereceipts
 l:ElectrumFair
 l:Waterfox_Fourth_Generation
 l:Axe_Electrum
-l:Glaxnimate
 l:Shadow
 l:appimagehelper
 l:MicroPad
@@ -1094,6 +1093,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1140,10 +1140,8 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
-l:Crescat
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1168,4 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
+l:Crescat
 l:Alpine_Client
