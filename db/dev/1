@@ -960,7 +960,6 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
-l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -973,6 +972,7 @@ l:BTS-CE-Lite
 l:AsarUI
 l:VPaint
 l:quokkagit
+l:Cryptocam_Companion
 l:runanode
 l:Dragoman
 l:Pathio
@@ -1094,7 +1094,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Alpine_Client
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1143,6 +1142,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Crescat
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1167,5 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Alpine_Client
 l:Glaxnimate
-l:Crescat
