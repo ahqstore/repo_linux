@@ -988,6 +988,7 @@ l:twitch-wrapper
 l:Figma
 l:Pulse
 l:Ripcord
+l:Cryptocam_Companion
 l:Zegarek
 l:Cloud_Browser
 l:Slippi
@@ -1113,7 +1114,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1134,16 +1134,17 @@ l:MediaElch
 l:Waterfox_Third_Generation
 l:SmallBASIC
 l:UniShellect
-l:Glaxnimate
 l:Cascade_Image_Editor
 l:MellowPlayer
 l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
+l:Crescat
 l:Carnet
 l:qpdf
 l:CoreHunt
@@ -1167,5 +1168,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
-l:Crescat
+l:Glaxnimate
