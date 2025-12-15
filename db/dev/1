@@ -962,7 +962,6 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1082,6 +1081,7 @@ l:ConsoleWorkbench
 l:keyrier-json
 l:Keibo-MoneyTracker-x86_64
 l:Tesseract
+l:Cryptocam_Companion
 l:upterm
 l:VLC
 l:sticker-convert
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Crescat
 l:Glaxnimate
 l:Alpine_Client
-l:Crescat
