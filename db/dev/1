@@ -911,6 +911,7 @@ l:nimbus-weather
 l:LPub3D
 l:MuWire
 l:xiangxuema
+l:Cryptocam_Companion
 l:ANT_Downloader
 l:Katvan
 l:Plag_Patrol
@@ -960,7 +961,6 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
-l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -1114,6 +1114,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Alpine_Client
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1167,5 +1168,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Alpine_Client
 l:Crescat
