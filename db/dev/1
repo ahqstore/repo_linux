@@ -1047,7 +1047,6 @@ l:scavengers
 l:RefOrg
 l:PowerliminalsPlayer
 l:Nitrokey
-l:Cryptocam_Companion
 l:stereophotoview
 l:colorstatic-bash
 l:vuerd
@@ -1114,7 +1113,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Alpine_Client
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1143,6 +1141,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Crescat
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1168,4 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Crescat
+l:Cryptocam_Companion
+l:Alpine_Client
