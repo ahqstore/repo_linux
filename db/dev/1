@@ -461,7 +461,6 @@ l:YesPlayMusic
 l:windows2usb
 l:MCP2210_Configurator
 l:SPlayer
-l:githoard
 l:hero-display
 l:CozyDrive
 l:four
@@ -997,7 +996,6 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
@@ -1140,10 +1138,9 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
+l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
-l:Crescat
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1169,3 +1166,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
+l:Crescat
+l:Alpine_Client
