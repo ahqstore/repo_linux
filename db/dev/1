@@ -960,6 +960,7 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
+l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -970,7 +971,6 @@ l:Scilab
 l:XPEViewer
 l:BTS-CE-Lite
 l:AsarUI
-l:Alpine_Client
 l:VPaint
 l:quokkagit
 l:runanode
@@ -1001,7 +1001,6 @@ l:moniteur-admin
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
-l:Cryptocam_Companion
 l:linuxdeployqt
 l:Blizzard_4
 l:acreom
@@ -1059,7 +1058,6 @@ l:Stunt_Car_Remake
 l:ao
 l:Qucs-S
 l:86Box
-l:Glaxnimate
 l:NoraGO
 l:Electorrent
 l:SquishPic
@@ -1116,6 +1114,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Alpine_Client
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1168,4 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Crescat
