@@ -960,6 +960,7 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
+l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -1060,9 +1061,9 @@ l:86Box
 l:NoraGO
 l:Electorrent
 l:SquishPic
-l:Cryptocam_Companion
 l:clipr
 l:whiteboard
+l:Glaxnimate
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1156,7 +1157,6 @@ l:Minetest
 l:SocNetV
 l:twetter
 l:eNoseAnnotator
-l:Glaxnimate
 l:PhotoFlow
 l:YARC-Launcher
 l:Astrofox
@@ -1167,5 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Crescat
 l:Alpine_Client
+l:Crescat
