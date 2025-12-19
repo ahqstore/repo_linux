@@ -1014,6 +1014,7 @@ l:Minecraft_Pi_Reborn_Server
 l:KeyboardClient
 l:p2p-chat
 l:VK_Desktop
+l:Cryptocam_Companion
 l:ridereceipts
 l:ElectrumFair
 l:Waterfox_Fourth_Generation
@@ -1093,7 +1094,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1105,7 +1105,6 @@ l:Sayonara
 l:cric
 l:puush-qt
 l:TagSpaces
-l:Alpine_Client
 l:Advanced_Rest_Client
 l:Espanso
 l:StopLight
@@ -1169,3 +1168,4 @@ l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
 l:Crescat
+l:Alpine_Client
