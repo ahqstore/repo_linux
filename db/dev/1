@@ -1087,13 +1087,13 @@ l:sticker-convert
 l:Apla
 l:alan-connect
 l:NanoVault
-l:Cryptocam_Companion
 l:Scrum-Retroboard
 l:Tusk
 l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1105,6 +1105,7 @@ l:Sayonara
 l:cric
 l:puush-qt
 l:TagSpaces
+l:Alpine_Client
 l:Advanced_Rest_Client
 l:Espanso
 l:StopLight
@@ -1166,6 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Crescat
 l:Glaxnimate
-l:Alpine_Client
+l:Crescat
