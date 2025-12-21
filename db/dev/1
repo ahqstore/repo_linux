@@ -998,7 +998,6 @@ l:Mochi
 l:O3
 l:moniteur-admin
 l:CBETA
-l:Cryptocam_Companion
 l:LibreOfficePreRelease
 l:FileShows
 l:linuxdeployqt
@@ -1092,6 +1091,7 @@ l:Scrum-Retroboard
 l:Tusk
 l:ngPost
 l:Quixel_Bridge
+l:Cryptocam_Companion
 l:Padloc
 l:Eplee
 l:ImageMosaicWall
@@ -1142,7 +1142,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Crescat
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1167,5 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
+l:Crescat
