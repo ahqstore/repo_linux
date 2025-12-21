@@ -997,7 +997,6 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:Glaxnimate
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
@@ -1078,6 +1077,7 @@ l:OpenCloud_Desktop
 l:HexoEditor
 l:tnt
 l:Webitel_Phone
+l:Alpine_Client
 l:ConsoleWorkbench
 l:keyrier-json
 l:Keibo-MoneyTracker-x86_64
@@ -1098,6 +1098,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1140,7 +1141,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
+l:Crescat
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1167,5 +1168,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
-l:Crescat
+l:Glaxnimate
