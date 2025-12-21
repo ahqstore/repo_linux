@@ -960,7 +960,6 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
-l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -998,6 +997,7 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
+l:Glaxnimate
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
@@ -1140,9 +1140,9 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Alpine_Client
 l:moolticute
 l:halium-tool
-l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1159,7 +1159,6 @@ l:twetter
 l:eNoseAnnotator
 l:PhotoFlow
 l:YARC-Launcher
-l:Alpine_Client
 l:Astrofox
 l:VizGraph
 l:Kate
@@ -1168,4 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Cryptocam_Companion
 l:Crescat
