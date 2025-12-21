@@ -1093,7 +1093,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Crescat
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1114,7 +1113,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Alpine_Client
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1141,7 +1139,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1168,4 +1165,7 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Crescat
+l:Cryptocam_Companion
+l:Alpine_Client
 l:Glaxnimate
