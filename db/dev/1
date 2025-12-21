@@ -998,6 +998,7 @@ l:Mochi
 l:O3
 l:moniteur-admin
 l:CBETA
+l:Cryptocam_Companion
 l:LibreOfficePreRelease
 l:FileShows
 l:linuxdeployqt
@@ -1069,7 +1070,6 @@ l:Konjure
 l:Qv2ray
 l:Scribus
 l:sqlitebrowser
-l:Cryptocam_Companion
 l:WorkFlowy
 l:Board_Game_Star
 l:LazPaint
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Alpine_Client
 l:Crescat
 l:Glaxnimate
-l:Alpine_Client
