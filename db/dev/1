@@ -998,7 +998,6 @@ l:Mochi
 l:O3
 l:moniteur-admin
 l:CBETA
-l:Alpine_Client
 l:LibreOfficePreRelease
 l:FileShows
 l:linuxdeployqt
@@ -1094,12 +1093,11 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Crescat
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1142,8 +1140,10 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Alpine_Client
 l:moolticute
 l:halium-tool
+l:Crescat
 l:zeltrez
 l:Carnet
 l:qpdf
