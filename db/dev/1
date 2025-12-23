@@ -940,7 +940,6 @@ l:laravel-kit
 l:LibreWolf
 l:ImHex
 l:ldview
-l:Cryptocam_Companion
 l:flightgear-airports
 l:Papercraft
 l:CoreShot
@@ -961,9 +960,9 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
+l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
-l:Glaxnimate
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1143,7 +1142,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1169,3 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Crescat
+l:Glaxnimate
+l:Alpine_Client
