@@ -960,7 +960,6 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
-l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -1103,6 +1102,7 @@ l:CoreArchiver
 l:StockStalk
 l:Sayonara
 l:cric
+l:Cryptocam_Companion
 l:puush-qt
 l:TagSpaces
 l:Advanced_Rest_Client
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Alpine_Client
 l:Crescat
 l:Glaxnimate
-l:Alpine_Client
