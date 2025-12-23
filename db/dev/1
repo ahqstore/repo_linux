@@ -1102,7 +1102,6 @@ l:CoreArchiver
 l:StockStalk
 l:Sayonara
 l:cric
-l:Cryptocam_Companion
 l:puush-qt
 l:TagSpaces
 l:Advanced_Rest_Client
@@ -1140,6 +1139,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Crescat
 l:Glaxnimate
+l:Alpine_Client
