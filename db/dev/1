@@ -960,7 +960,6 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
-l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -977,6 +976,7 @@ l:runanode
 l:Dragoman
 l:Pathio
 l:neovim
+l:Cryptocam_Companion
 l:DevHub
 l:Sup
 l:Local_Browser
@@ -1140,6 +1140,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1166,6 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Crescat
 l:Glaxnimate
