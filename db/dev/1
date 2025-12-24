@@ -960,6 +960,7 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
+l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -1005,7 +1006,6 @@ l:Blizzard_4
 l:acreom
 l:NixNote
 l:gerbv
-l:Cryptocam_Companion
 l:VirtualBox-KVM
 l:DFileManager
 l:Bypass_Cors
@@ -1140,7 +1140,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1169,3 +1168,4 @@ l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
 l:Crescat
+l:Alpine_Client
