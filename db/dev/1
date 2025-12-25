@@ -1003,7 +1003,6 @@ l:FileShows
 l:linuxdeployqt
 l:Blizzard_4
 l:acreom
-l:Cryptocam_Companion
 l:NixNote
 l:gerbv
 l:VirtualBox-KVM
@@ -1094,6 +1093,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1114,7 +1114,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1167,5 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Crescat
+l:Alpine_Client
+l:Glaxnimate
