@@ -976,7 +976,6 @@ l:runanode
 l:Dragoman
 l:Pathio
 l:neovim
-l:Cryptocam_Companion
 l:DevHub
 l:Sup
 l:Local_Browser
@@ -1094,11 +1093,11 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Glaxnimate
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1167,5 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Alpine_Client
 l:Crescat
