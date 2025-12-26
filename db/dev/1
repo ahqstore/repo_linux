@@ -971,6 +971,7 @@ l:XPEViewer
 l:BTS-CE-Lite
 l:AsarUI
 l:VPaint
+l:Cryptocam_Companion
 l:quokkagit
 l:runanode
 l:Dragoman
@@ -1062,8 +1063,8 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
+l:Crescat
 l:nxshell
 l:ProofKeeper
 l:Konjure
@@ -1142,7 +1143,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Alpine_Client
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1167,5 +1168,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
-l:Crescat
+l:Alpine_Client
