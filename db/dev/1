@@ -997,7 +997,6 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
@@ -1066,6 +1065,7 @@ l:whiteboard
 l:Passky
 l:nxshell
 l:ProofKeeper
+l:Cryptocam_Companion
 l:Konjure
 l:Qv2ray
 l:Scribus
@@ -1108,13 +1108,13 @@ l:TagSpaces
 l:Advanced_Rest_Client
 l:Espanso
 l:StopLight
+l:Alpine_Client
 l:Carpenters
 l:perl-executing-browser
 l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Alpine_Client
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
