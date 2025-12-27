@@ -978,7 +978,6 @@ l:Pathio
 l:neovim
 l:DevHub
 l:Sup
-l:Cryptocam_Companion
 l:Local_Browser
 l:Vieb
 l:pdf-sync
@@ -1094,11 +1093,11 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Glaxnimate
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1143,6 +1142,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
