@@ -978,6 +978,7 @@ l:Pathio
 l:neovim
 l:DevHub
 l:Sup
+l:Cryptocam_Companion
 l:Local_Browser
 l:Vieb
 l:pdf-sync
@@ -1097,7 +1098,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Cryptocam_Companion
+l:Glaxnimate
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1166,6 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
 l:Alpine_Client
 l:Crescat
