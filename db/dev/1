@@ -1062,10 +1062,10 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
-l:Cryptocam_Companion
 l:Konjure
 l:Qv2ray
 l:Scribus
@@ -1108,7 +1108,6 @@ l:TagSpaces
 l:Advanced_Rest_Client
 l:Espanso
 l:StopLight
-l:Alpine_Client
 l:Carpenters
 l:perl-executing-browser
 l:Cscrypto
@@ -1169,3 +1168,4 @@ l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
 l:Crescat
+l:Alpine_Client
