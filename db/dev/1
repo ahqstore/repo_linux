@@ -968,6 +968,7 @@ l:Spectrum
 l:clippy
 l:Scilab
 l:XPEViewer
+l:Cryptocam_Companion
 l:BTS-CE-Lite
 l:AsarUI
 l:VPaint
@@ -1062,7 +1063,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Alpine_Client
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1128,7 +1128,6 @@ l:Subsurface
 l:Mark_Mind
 l:Fraktal
 l:Cacher
-l:Cryptocam_Companion
 l:Addaps
 l:Translatium
 l:MediaElch
@@ -1143,6 +1142,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1167,5 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
+l:Alpine_Client
 l:Crescat
