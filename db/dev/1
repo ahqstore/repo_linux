@@ -997,8 +997,8 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:CBETA
 l:Cryptocam_Companion
+l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
 l:linuxdeployqt
@@ -1140,7 +1140,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Glaxnimate
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1167,5 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Alpine_Client
 l:Crescat
