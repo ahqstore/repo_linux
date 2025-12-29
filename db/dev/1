@@ -968,7 +968,6 @@ l:Spectrum
 l:clippy
 l:Scilab
 l:XPEViewer
-l:Cryptocam_Companion
 l:BTS-CE-Lite
 l:AsarUI
 l:VPaint
@@ -1107,6 +1106,7 @@ l:puush-qt
 l:TagSpaces
 l:Advanced_Rest_Client
 l:Espanso
+l:Alpine_Client
 l:StopLight
 l:Carpenters
 l:perl-executing-browser
@@ -1142,7 +1142,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1167,5 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
+l:Cryptocam_Companion
 l:Crescat
+l:Glaxnimate
