@@ -1055,6 +1055,7 @@ l:iQPuzzle
 l:Qt_JSON_diff
 l:Stunt_Car_Remake
 l:ao
+l:Cryptocam_Companion
 l:Qucs-S
 l:86Box
 l:NoraGO
@@ -1106,7 +1107,6 @@ l:puush-qt
 l:TagSpaces
 l:Advanced_Rest_Client
 l:Espanso
-l:Alpine_Client
 l:StopLight
 l:Carpenters
 l:perl-executing-browser
@@ -1142,6 +1142,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1166,6 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
 l:Crescat
-l:Glaxnimate
+l:Alpine_Client
