@@ -1093,7 +1093,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1130,6 +1129,7 @@ l:Fraktal
 l:Cacher
 l:Addaps
 l:Translatium
+l:Cryptocam_Companion
 l:MediaElch
 l:Waterfox_Third_Generation
 l:SmallBASIC
@@ -1167,5 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Crescat
 l:Alpine_Client
+l:Crescat
