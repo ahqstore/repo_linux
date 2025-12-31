@@ -997,6 +997,7 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
+l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
@@ -1044,7 +1045,6 @@ l:ideaMaker
 l:Krita
 l:Colobot
 l:scavengers
-l:Cryptocam_Companion
 l:RefOrg
 l:PowerliminalsPlayer
 l:Nitrokey
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
 l:Crescat
+l:Alpine_Client
