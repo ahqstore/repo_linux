@@ -998,7 +998,6 @@ l:Mochi
 l:O3
 l:moniteur-admin
 l:CBETA
-l:Cryptocam_Companion
 l:LibreOfficePreRelease
 l:FileShows
 l:linuxdeployqt
@@ -1045,6 +1044,7 @@ l:ideaMaker
 l:Krita
 l:Colobot
 l:scavengers
+l:Cryptocam_Companion
 l:RefOrg
 l:PowerliminalsPlayer
 l:Nitrokey
@@ -1142,7 +1142,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1168,4 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
+l:Glaxnimate
 l:Crescat
