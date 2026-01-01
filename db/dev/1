@@ -1019,7 +1019,6 @@ l:ElectrumFair
 l:Waterfox_Fourth_Generation
 l:Axe_Electrum
 l:Shadow
-l:Cryptocam_Companion
 l:appimagehelper
 l:MicroPad
 l:MediathekView
@@ -1063,6 +1062,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1142,7 +1142,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
+l:Crescat
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1167,5 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Crescat
+l:Glaxnimate
 l:Alpine_Client
