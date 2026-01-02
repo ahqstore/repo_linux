@@ -962,7 +962,6 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1056,6 +1055,7 @@ l:iQPuzzle
 l:Qt_JSON_diff
 l:Stunt_Car_Remake
 l:ao
+l:Cryptocam_Companion
 l:Qucs-S
 l:86Box
 l:NoraGO
@@ -1128,7 +1128,6 @@ l:Subsurface
 l:Mark_Mind
 l:Fraktal
 l:Cacher
-l:Glaxnimate
 l:Addaps
 l:Translatium
 l:MediaElch
@@ -1141,9 +1140,9 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Glaxnimate
 l:moolticute
 l:halium-tool
-l:Crescat
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1169,3 +1168,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
+l:Crescat
