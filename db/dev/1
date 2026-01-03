@@ -1113,7 +1113,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1140,9 +1139,9 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
 l:moolticute
 l:halium-tool
+l:Cryptocam_Companion
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1168,4 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
+l:Alpine_Client
 l:Crescat
