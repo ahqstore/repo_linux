@@ -836,6 +836,7 @@ l:Zulip
 l:GooboxFileShare
 l:ClipGrab
 l:IrScrutinizer
+l:Cryptocam_Companion
 l:FromScratch
 l:MoarPerf
 l:Elphyre-WalletShell
@@ -910,7 +911,9 @@ l:Frappe_Accounting
 l:nimbus-weather
 l:LPub3D
 l:MuWire
+l:Alpine_Client
 l:xiangxuema
+l:Glaxnimate
 l:ANT_Downloader
 l:Katvan
 l:Plag_Patrol
@@ -1062,6 +1065,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Crescat
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1139,14 +1143,12 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Glaxnimate
 l:moolticute
 l:halium-tool
 l:zeltrez
 l:Carnet
 l:qpdf
 l:CoreHunt
-l:Alpine_Client
 l:climaxima
 l:nheko
 l:Mumble
@@ -1167,5 +1169,3 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
-l:Crescat
