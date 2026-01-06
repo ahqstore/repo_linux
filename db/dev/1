@@ -1077,7 +1077,6 @@ l:OpenCloud_Desktop
 l:HexoEditor
 l:tnt
 l:Webitel_Phone
-l:Cryptocam_Companion
 l:ConsoleWorkbench
 l:keyrier-json
 l:Keibo-MoneyTracker-x86_64
@@ -1140,6 +1139,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1167,5 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Crescat
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
