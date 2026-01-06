@@ -1008,7 +1008,6 @@ l:VirtualBox-KVM
 l:DFileManager
 l:Bypass_Cors
 l:Cura
-l:Cryptocam_Companion
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
 l:KeyboardClient
@@ -1062,6 +1061,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1141,6 +1141,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1166,5 +1167,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Alpine_Client
 l:Crescat
