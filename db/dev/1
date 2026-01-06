@@ -1044,7 +1044,6 @@ l:ideaMaker
 l:Krita
 l:Colobot
 l:scavengers
-l:Cryptocam_Companion
 l:RefOrg
 l:PowerliminalsPlayer
 l:Nitrokey
@@ -1094,7 +1093,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Alpine_Client
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1167,5 +1165,7 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Cryptocam_Companion
+l:Alpine_Client
 l:Glaxnimate
 l:Crescat
