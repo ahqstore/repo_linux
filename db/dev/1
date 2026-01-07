@@ -315,6 +315,7 @@ l:CP2130_Commander
 l:CustomRPC
 l:MQTT-Explorer
 l:Mr.Dclutterer
+l:XClicker
 l:jag
 l:OSRS_Tools
 l:Dust3D
@@ -1061,6 +1062,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1147,8 +1149,6 @@ l:CoreHunt
 l:climaxima
 l:nheko
 l:Mumble
-l:Cryptocam_Companion
-l:Alpine_Client
 l:GitHubDesktop
 l:Onshape
 l:Obsidian
@@ -1166,5 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Alpine_Client
 l:Glaxnimate
 l:Crescat
