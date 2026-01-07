@@ -959,6 +959,7 @@ l:osu
 l:Thorium_Reader
 l:MuseScore
 l:SteamCAD
+l:Cryptocam_Companion
 l:westeroscraftlauncher
 l:AtCore
 l:Ark.Desktop.Wallet
@@ -1100,6 +1101,7 @@ l:LMMS
 l:CoreArchiver
 l:StockStalk
 l:Sayonara
+l:Crescat
 l:cric
 l:puush-qt
 l:TagSpaces
@@ -1112,9 +1114,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Alpine_Client
 l:Thunderbird_Beta
-l:Cryptocam_Companion
 l:KeePassXC
 l:Panini
 l:dfDemo
@@ -1166,5 +1166,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Crescat
 l:Glaxnimate
+l:Alpine_Client
