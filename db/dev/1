@@ -1156,6 +1156,7 @@ l:Minetest
 l:SocNetV
 l:twetter
 l:eNoseAnnotator
+l:Alpine_Client
 l:PhotoFlow
 l:YARC-Launcher
 l:Astrofox
@@ -1166,6 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
 l:Crescat
