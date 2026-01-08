@@ -1009,7 +1009,6 @@ l:VirtualBox-KVM
 l:DFileManager
 l:Bypass_Cors
 l:Cura
-l:Cryptocam_Companion
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
 l:KeyboardClient
@@ -1127,6 +1126,7 @@ l:Aptakube
 l:Subsurface
 l:Mark_Mind
 l:Fraktal
+l:Alpine_Client
 l:Cacher
 l:Addaps
 l:Translatium
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Cryptocam_Companion
 l:Crescat
