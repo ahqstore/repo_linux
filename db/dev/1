@@ -1006,10 +1006,10 @@ l:acreom
 l:NixNote
 l:gerbv
 l:VirtualBox-KVM
-l:Cryptocam_Companion
 l:DFileManager
 l:Bypass_Cors
 l:Cura
+l:Cryptocam_Companion
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
 l:KeyboardClient
@@ -1114,7 +1114,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1168,4 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
+l:Glaxnimate
 l:Crescat
