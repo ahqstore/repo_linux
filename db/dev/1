@@ -962,6 +962,7 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
+l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1093,12 +1094,10 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Glaxnimate
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1151,7 +1150,6 @@ l:climaxima
 l:nheko
 l:Mumble
 l:GitHubDesktop
-l:Cryptocam_Companion
 l:Onshape
 l:Obsidian
 l:Minetest
@@ -1168,4 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Crescat
+l:Alpine_Client
