@@ -962,6 +962,7 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
+l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1071,7 +1072,6 @@ l:Scribus
 l:sqlitebrowser
 l:WorkFlowy
 l:Board_Game_Star
-l:Cryptocam_Companion
 l:LazPaint
 l:Giada
 l:OpenCloud_Desktop
@@ -1094,6 +1094,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Alpine_Client
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1113,7 +1114,6 @@ l:perl-executing-browser
 l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
-l:Crescat
 l:swradio
 l:Thunderbird_Beta
 l:KeePassXC
@@ -1167,5 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Crescat
