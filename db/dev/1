@@ -1034,6 +1034,7 @@ l:dexter_dev_env
 l:Glyphr_Studio_Desktop
 l:GospelPdfViewer
 l:BibleMultiTheLife
+l:Cryptocam_Companion
 l:qikQR
 l:Sige_Lite
 l:HyperionIDE
@@ -1097,6 +1098,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1112,7 +1114,6 @@ l:perl-executing-browser
 l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
-l:Alpine_Client
 l:swradio
 l:Thunderbird_Beta
 l:KeePassXC
@@ -1140,7 +1141,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
 l:zeltrez
