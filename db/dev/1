@@ -1097,6 +1097,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1139,10 +1140,8 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Glaxnimate
 l:moolticute
 l:halium-tool
-l:Cryptocam_Companion
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1167,5 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
+l:Glaxnimate
+l:Cryptocam_Companion
 l:Crescat
