@@ -1062,7 +1062,6 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
-l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1130,6 +1129,7 @@ l:Fraktal
 l:Cacher
 l:Addaps
 l:Translatium
+l:Cryptocam_Companion
 l:MediaElch
 l:Waterfox_Third_Generation
 l:SmallBASIC
@@ -1142,7 +1142,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
+l:Crescat
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1167,5 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Glaxnimate
 l:Alpine_Client
-l:Crescat
