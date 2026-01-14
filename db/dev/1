@@ -989,7 +989,6 @@ l:Figma
 l:Pulse
 l:Ripcord
 l:Zegarek
-l:Cryptocam_Companion
 l:Cloud_Browser
 l:Slippi
 l:iPuissance_4D
@@ -1056,6 +1055,7 @@ l:iQPuzzle
 l:Qt_JSON_diff
 l:Stunt_Car_Remake
 l:ao
+l:Cryptocam_Companion
 l:Qucs-S
 l:86Box
 l:NoraGO
@@ -1144,7 +1144,6 @@ l:moolticute
 l:halium-tool
 l:zeltrez
 l:Carnet
-l:Alpine_Client
 l:qpdf
 l:CoreHunt
 l:climaxima
@@ -1168,4 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
+l:Alpine_Client
 l:Crescat
