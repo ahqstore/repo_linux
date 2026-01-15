@@ -1011,7 +1011,6 @@ l:Bypass_Cors
 l:Cura
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
-l:Cryptocam_Companion
 l:KeyboardClient
 l:p2p-chat
 l:VK_Desktop
@@ -1059,6 +1058,7 @@ l:ao
 l:Qucs-S
 l:86Box
 l:NoraGO
+l:Cryptocam_Companion
 l:Electorrent
 l:SquishPic
 l:clipr
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
 l:Crescat
