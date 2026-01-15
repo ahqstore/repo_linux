@@ -997,7 +997,6 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
@@ -1065,6 +1064,7 @@ l:clipr
 l:whiteboard
 l:Passky
 l:nxshell
+l:Cryptocam_Companion
 l:ProofKeeper
 l:Konjure
 l:Qv2ray
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
 l:Crescat
