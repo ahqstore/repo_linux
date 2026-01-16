@@ -997,7 +997,6 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
-l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
@@ -1094,6 +1093,7 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
+l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Crescat
 l:Alpine_Client
+l:Crescat
 l:Glaxnimate
