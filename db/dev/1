@@ -1097,6 +1097,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1153,7 +1154,6 @@ l:Onshape
 l:Obsidian
 l:Minetest
 l:SocNetV
-l:Cryptocam_Companion
 l:twetter
 l:eNoseAnnotator
 l:PhotoFlow
@@ -1165,7 +1165,7 @@ l:Protracker
 l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
-l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:QuickRedis
 l:Crescat
+l:Alpine_Client
