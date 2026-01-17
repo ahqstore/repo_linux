@@ -978,7 +978,6 @@ l:Pathio
 l:neovim
 l:DevHub
 l:Sup
-l:Cryptocam_Companion
 l:Local_Browser
 l:Vieb
 l:pdf-sync
@@ -1115,6 +1114,7 @@ l:SAManager
 l:qr-code-generator-desktop
 l:swradio
 l:Thunderbird_Beta
+l:Cryptocam_Companion
 l:KeePassXC
 l:Panini
 l:dfDemo
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Crescat
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
+l:Crescat
