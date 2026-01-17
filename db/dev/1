@@ -962,7 +962,6 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
-l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1143,7 +1142,6 @@ l:PhotoTeleport
 l:moolticute
 l:halium-tool
 l:zeltrez
-l:Glaxnimate
 l:Carnet
 l:qpdf
 l:CoreHunt
@@ -1155,6 +1153,7 @@ l:Onshape
 l:Obsidian
 l:Minetest
 l:SocNetV
+l:Cryptocam_Companion
 l:twetter
 l:eNoseAnnotator
 l:PhotoFlow
@@ -1168,4 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
+l:Glaxnimate
 l:Crescat
