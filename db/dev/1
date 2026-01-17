@@ -1094,10 +1094,10 @@ l:Quixel_Bridge
 l:Padloc
 l:Eplee
 l:ImageMosaicWall
+l:Cryptocam_Companion
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1114,7 +1114,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1138,6 +1137,7 @@ l:UniShellect
 l:Cascade_Image_Editor
 l:MellowPlayer
 l:Spectral
+l:Glaxnimate
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
@@ -1167,5 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
+l:Alpine_Client
 l:Crescat
