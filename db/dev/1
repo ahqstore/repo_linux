@@ -1062,6 +1062,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Cryptocam_Companion
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1094,7 +1095,6 @@ l:Quixel_Bridge
 l:Padloc
 l:Eplee
 l:ImageMosaicWall
-l:Cryptocam_Companion
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
@@ -1137,7 +1137,6 @@ l:UniShellect
 l:Cascade_Image_Editor
 l:MellowPlayer
 l:Spectral
-l:Glaxnimate
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
@@ -1167,5 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
+l:Glaxnimate
 l:Crescat
+l:Alpine_Client
