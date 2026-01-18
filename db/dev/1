@@ -1114,7 +1114,6 @@ l:SAManager
 l:qr-code-generator-desktop
 l:swradio
 l:Thunderbird_Beta
-l:Cryptocam_Companion
 l:KeePassXC
 l:Panini
 l:dfDemo
@@ -1167,5 +1166,6 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
-l:Glaxnimate
 l:Crescat
+l:Cryptocam_Companion
+l:Glaxnimate
