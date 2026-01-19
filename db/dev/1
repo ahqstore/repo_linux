@@ -975,7 +975,6 @@ l:quokkagit
 l:runanode
 l:Dragoman
 l:Pathio
-l:Cryptocam_Companion
 l:neovim
 l:DevHub
 l:Sup
@@ -1140,8 +1139,10 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
+l:Alpine_Client
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1166,6 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
-l:Glaxnimate
 l:Crescat
+l:Glaxnimate
