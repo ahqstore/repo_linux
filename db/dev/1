@@ -1097,7 +1097,6 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Crescat
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1132,7 +1131,6 @@ l:Addaps
 l:Translatium
 l:MediaElch
 l:Waterfox_Third_Generation
-l:Cryptocam_Companion
 l:SmallBASIC
 l:UniShellect
 l:Cascade_Image_Editor
@@ -1144,6 +1142,7 @@ l:PhotoTeleport
 l:moolticute
 l:halium-tool
 l:zeltrez
+l:Cryptocam_Companion
 l:Carnet
 l:qpdf
 l:CoreHunt
@@ -1167,5 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
+l:Crescat
