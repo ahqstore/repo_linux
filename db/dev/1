@@ -1078,6 +1078,7 @@ l:HexoEditor
 l:tnt
 l:Webitel_Phone
 l:ConsoleWorkbench
+l:Cryptocam_Companion
 l:keyrier-json
 l:Keibo-MoneyTracker-x86_64
 l:Tesseract
@@ -1141,7 +1142,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Cryptocam_Companion
+l:Glaxnimate
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1166,6 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
 l:Alpine_Client
 l:Crescat
