@@ -910,6 +910,7 @@ l:Frappe_Accounting
 l:nimbus-weather
 l:LPub3D
 l:MuWire
+l:Cryptocam_Companion
 l:xiangxuema
 l:ANT_Downloader
 l:Katvan
@@ -1093,7 +1094,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1114,7 +1114,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1168,4 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
+l:Glaxnimate
 l:Crescat
