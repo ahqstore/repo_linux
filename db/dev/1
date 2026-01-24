@@ -910,7 +910,6 @@ l:Frappe_Accounting
 l:nimbus-weather
 l:LPub3D
 l:MuWire
-l:Cryptocam_Companion
 l:xiangxuema
 l:ANT_Downloader
 l:Katvan
@@ -1041,6 +1040,7 @@ l:HyperionIDE
 l:Hyperspace
 l:heb12
 l:Vusic
+l:Cryptocam_Companion
 l:ideaMaker
 l:Krita
 l:Colobot
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
 l:Glaxnimate
 l:Crescat
+l:Alpine_Client
