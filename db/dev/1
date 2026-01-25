@@ -1093,7 +1093,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1107,6 +1106,7 @@ l:puush-qt
 l:TagSpaces
 l:Advanced_Rest_Client
 l:Espanso
+l:Glaxnimate
 l:StopLight
 l:Carpenters
 l:perl-executing-browser
@@ -1142,7 +1142,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Glaxnimate
+l:Cryptocam_Companion
 l:zeltrez
 l:Carnet
 l:qpdf
