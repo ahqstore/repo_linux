@@ -1083,7 +1083,6 @@ l:Keibo-MoneyTracker-x86_64
 l:Tesseract
 l:upterm
 l:VLC
-l:Cryptocam_Companion
 l:sticker-convert
 l:Apla
 l:alan-connect
@@ -1142,7 +1141,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Crescat
+l:Cryptocam_Companion
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1169,3 +1168,4 @@ l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
 l:Alpine_Client
+l:Crescat
