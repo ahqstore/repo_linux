@@ -1076,6 +1076,7 @@ l:Giada
 l:OpenCloud_Desktop
 l:HexoEditor
 l:tnt
+l:Cryptocam_Companion
 l:Webitel_Phone
 l:ConsoleWorkbench
 l:keyrier-json
@@ -1097,7 +1098,6 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
-l:Cryptocam_Companion
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1166,6 +1166,6 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
-l:Alpine_Client
 l:Crescat
+l:Alpine_Client
+l:Glaxnimate
