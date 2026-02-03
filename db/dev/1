@@ -504,7 +504,6 @@ l:PocketCasts_Electron
 l:MDL
 l:FAT_Wallet
 l:Slacktronic
-l:Pingnoo
 l:CoreGarage
 l:Procyon
 l:Standard_Notes
@@ -1093,7 +1092,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1114,6 +1112,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1140,6 +1139,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Cryptocam_Companion
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1167,5 +1167,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Crescat
-l:Glaxnimate
 l:Alpine_Client
