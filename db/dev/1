@@ -1073,6 +1073,7 @@ l:WorkFlowy
 l:Board_Game_Star
 l:LazPaint
 l:Giada
+l:Cryptocam_Companion
 l:OpenCloud_Desktop
 l:HexoEditor
 l:tnt
@@ -1115,7 +1116,6 @@ l:qr-code-generator-desktop
 l:swradio
 l:Thunderbird_Beta
 l:KeePassXC
-l:Cryptocam_Companion
 l:Panini
 l:dfDemo
 l:Deployer
@@ -1167,5 +1167,5 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Crescat
 l:Alpine_Client
+l:Crescat
