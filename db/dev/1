@@ -997,6 +997,7 @@ l:AvantGarde
 l:Mochi
 l:O3
 l:moniteur-admin
+l:Cryptocam_Companion
 l:CBETA
 l:LibreOfficePreRelease
 l:FileShows
@@ -1062,6 +1063,7 @@ l:Electorrent
 l:SquishPic
 l:clipr
 l:whiteboard
+l:Crescat
 l:Passky
 l:nxshell
 l:ProofKeeper
@@ -1097,6 +1099,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1113,7 +1116,6 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
-l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1140,6 +1142,7 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
+l:Glaxnimate
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1166,6 +1169,3 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
-l:Crescat
-l:Glaxnimate
