@@ -1085,7 +1085,6 @@ l:upterm
 l:VLC
 l:sticker-convert
 l:Apla
-l:Cryptocam_Companion
 l:alan-connect
 l:NanoVault
 l:Scrum-Retroboard
@@ -1098,6 +1097,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1142,8 +1142,8 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Alpine_Client
 l:zeltrez
+l:Crescat
 l:Carnet
 l:qpdf
 l:CoreHunt
@@ -1167,5 +1167,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
+l:Cryptocam_Companion
 l:Glaxnimate
-l:Crescat
