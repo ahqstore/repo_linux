@@ -1093,7 +1093,6 @@ l:ngPost
 l:Quixel_Bridge
 l:Padloc
 l:Eplee
-l:Cryptocam_Companion
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1114,6 +1113,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Cryptocam_Companion
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
