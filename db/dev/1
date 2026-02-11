@@ -977,6 +977,7 @@ l:Dragoman
 l:Pathio
 l:neovim
 l:DevHub
+l:Cryptocam_Companion
 l:Sup
 l:Local_Browser
 l:Vieb
@@ -1139,7 +1140,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Alpine_Client
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1168,4 +1168,4 @@ l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
 l:Crescat
-l:Cryptocam_Companion
+l:Alpine_Client
