@@ -1135,6 +1135,7 @@ l:UHK.Agent
 l:sunshine
 l:simple-s3-uploader
 l:SwitchHosts!
+l:Alpine_Client
 l:SteamCAD
 l:Board_Game_Star
 l:QuickRedis
@@ -1166,6 +1167,5 @@ l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
-l:Alpine_Client
-l:Cryptocam_Companion
 l:Crescat
+l:Cryptocam_Companion
