@@ -1094,6 +1094,7 @@ l:ArcadeManager
 l:Fluent_Reader
 l:runanode
 l:jscad-desktop
+l:Alpine_Client
 l:simplechroot
 l:SF_Tube
 l:OVALE
@@ -1166,6 +1167,5 @@ l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
-l:Alpine_Client
-l:Cryptocam_Companion
 l:Crescat
+l:Cryptocam_Companion
