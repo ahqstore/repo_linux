@@ -482,6 +482,7 @@ l:theFrame
 l:windows2usb
 l:Canoe
 l:Bdash
+l:sponge256sum
 l:MazeSolver
 l:Demonizer
 l:appimagetool
@@ -1166,7 +1167,7 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Glaxnimate
 l:Alpine_Client
-l:Crescat
+l:Glaxnimate
 l:Cryptocam_Companion
+l:Crescat
