@@ -1010,7 +1010,6 @@ l:VirtualBox-KVM
 l:DFileManager
 l:Bypass_Cors
 l:Cura
-l:Cryptocam_Companion
 l:Moonlight
 l:Minecraft_Pi_Reborn_Server
 l:KeyboardClient
@@ -1121,6 +1120,7 @@ l:KeePassXC
 l:Panini
 l:dfDemo
 l:Deployer
+l:Cryptocam_Companion
 l:Buckets
 l:Meshmill
 l:Explorook
@@ -1142,7 +1142,6 @@ l:Spectral
 l:Apache_NetBeans
 l:Music_Blocks
 l:PhotoTeleport
-l:Glaxnimate
 l:moolticute
 l:halium-tool
 l:zeltrez
@@ -1171,3 +1170,4 @@ l:Biplanes_Revival
 l:QuickRedis
 l:Alpine_Client
 l:Crescat
+l:Glaxnimate
