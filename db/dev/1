@@ -999,6 +999,7 @@ l:Mochi
 l:O3
 l:moniteur-admin
 l:CBETA
+l:Cryptocam_Companion
 l:LibreOfficePreRelease
 l:FileShows
 l:linuxdeployqt
@@ -1095,6 +1096,7 @@ l:Quixel_Bridge
 l:Padloc
 l:mpc-qt
 l:Eplee
+l:Alpine_Client
 l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
@@ -1115,6 +1117,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Crescat
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1167,7 +1170,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Alpine_Client
-l:Cryptocam_Companion
 l:Glaxnimate
-l:Crescat
