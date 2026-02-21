@@ -1035,7 +1035,6 @@ l:dexter_dev_env
 l:Glyphr_Studio_Desktop
 l:GospelPdfViewer
 l:BibleMultiTheLife
-l:Cryptocam_Companion
 l:qikQR
 l:Sige_Lite
 l:HyperionIDE
@@ -1116,6 +1115,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Crescat
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1144,6 +1144,7 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
+l:Cryptocam_Companion
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1170,4 +1171,3 @@ l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
 l:Alpine_Client
-l:Crescat
