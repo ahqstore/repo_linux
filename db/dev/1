@@ -1115,6 +1115,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Crescat
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1128,6 +1129,7 @@ l:Aptakube
 l:Subsurface
 l:Mark_Mind
 l:Fraktal
+l:Cryptocam_Companion
 l:Cacher
 l:Addaps
 l:Translatium
@@ -1167,7 +1169,5 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Cryptocam_Companion
-l:Crescat
 l:Glaxnimate
 l:Alpine_Client
