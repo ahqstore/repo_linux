@@ -1099,6 +1099,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Alpine_Client
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1113,9 +1114,9 @@ l:Carpenters
 l:perl-executing-browser
 l:Cscrypto
 l:SAManager
+l:Crescat
 l:qr-code-generator-desktop
 l:swradio
-l:Alpine_Client
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1144,7 +1145,6 @@ l:Music_Blocks
 l:PhotoTeleport
 l:moolticute
 l:halium-tool
-l:Cryptocam_Companion
 l:zeltrez
 l:Carnet
 l:qpdf
@@ -1170,4 +1170,4 @@ l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
 l:Glaxnimate
-l:Crescat
+l:Cryptocam_Companion
