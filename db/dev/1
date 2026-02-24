@@ -932,7 +932,6 @@ l:Psi+
 l:QaterialGallery
 l:Black_Chocobo
 l:SUbillManager
-l:lumi
 l:Join_Desktop
 l:WatchFlower
 l:laravel-kit
@@ -961,6 +960,7 @@ l:MuseScore
 l:SteamCAD
 l:westeroscraftlauncher
 l:AtCore
+l:Cryptocam_Companion
 l:Ark.Desktop.Wallet
 l:RetroArch
 l:Spectrum
@@ -1097,6 +1097,7 @@ l:ImageMosaicWall
 l:Kdevelop
 l:Tablo_Tools
 l:Quick_Clone
+l:Crescat
 l:LMMS
 l:CoreArchiver
 l:StockStalk
@@ -1113,6 +1114,7 @@ l:Cscrypto
 l:SAManager
 l:qr-code-generator-desktop
 l:swradio
+l:Glaxnimate
 l:Thunderbird_Beta
 l:KeePassXC
 l:Panini
@@ -1165,7 +1167,4 @@ l:slang-ed
 l:ClownMapEd
 l:Biplanes_Revival
 l:QuickRedis
-l:Glaxnimate
-l:Cryptocam_Companion
-l:Crescat
 l:Alpine_Client
