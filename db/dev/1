@@ -1093,6 +1093,7 @@ l:ArcadeManager
 l:Fluent_Reader
 l:runanode
 l:jscad-desktop
+l:Alpine_Client
 l:simplechroot
 l:SF_Tube
 l:OVALE
@@ -1117,7 +1118,6 @@ l:YUView
 l:p2p-chat
 l:BibleMultiTheLife
 l:Crypter
-l:Alpine_Client
 l:Diffuse
 l:RetroShare
 l:Videomass
@@ -1167,5 +1167,5 @@ l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
 l:Crescat
-l:Glaxnimate
 l:Cryptocam_Companion
+l:Glaxnimate
