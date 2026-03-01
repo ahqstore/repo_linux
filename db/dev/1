@@ -1093,7 +1093,6 @@ l:ArcadeManager
 l:Fluent_Reader
 l:runanode
 l:jscad-desktop
-l:Alpine_Client
 l:simplechroot
 l:SF_Tube
 l:OVALE
@@ -1108,6 +1107,7 @@ l:Biplanes_Revival
 l:BLOCK-DX
 l:onnx2bnn
 l:CRIC
+l:Alpine_Client
 l:Speaky_MiniPlayer
 l:MediathekView
 l:Keys
@@ -1166,6 +1166,6 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
+l:Crescat
 l:Glaxnimate
 l:Cryptocam_Companion
-l:Crescat
