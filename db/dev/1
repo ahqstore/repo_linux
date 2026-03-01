@@ -1087,7 +1087,6 @@ l:86Box
 l:Firefox_Nightly
 l:Moonitor
 l:CoreHunt
-l:Alpine_Client
 l:Cloud_Browser
 l:Shadow
 l:ArcadeManager
@@ -1119,6 +1118,7 @@ l:p2p-chat
 l:BibleMultiTheLife
 l:Crypter
 l:Diffuse
+l:Alpine_Client
 l:RetroShare
 l:Videomass
 l:ClipGrab
@@ -1167,5 +1167,5 @@ l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
-l:Cryptocam_Companion
 l:Crescat
+l:Cryptocam_Companion
