@@ -586,7 +586,6 @@ l:gerbv
 l:lescovex
 l:StarUML
 l:lux
-l:Zoom
 l:beurerscalemanager
 l:SBLauncher
 l:Tagstoo
@@ -795,7 +794,6 @@ l:Gemalaya
 l:smtk2ssrf
 l:LampixJS
 l:AudioMoth
-l:Mindmapp
 l:Discord
 l:SigDigger
 l:Katvan
@@ -852,7 +850,6 @@ l:SourceGit
 l:mki3dgame
 l:EasyMercurial
 l:VidCutter
-l:Cascade_Image_Editor
 l:PostyBirb
 l:Monot
 l:Pony_Compiler
@@ -1165,7 +1162,7 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Crescat
-l:Cryptocam_Companion
 l:Glaxnimate
+l:Cryptocam_Companion
 l:Alpine_Client
+l:Crescat
