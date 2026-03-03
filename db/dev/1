@@ -507,7 +507,6 @@ l:PatternPaint
 l:SUbillManager
 l:Mira
 l:LikeTaskManager
-l:dukto
 l:Lepton
 l:MusE
 l:ser-player
@@ -883,7 +882,6 @@ l:RemNote
 l:unified-communications
 l:PrimeWorldEditor
 l:Blender_Config_Manager
-l:iota1k
 l:pnpm
 l:RasterDraw
 l:Leonflix
@@ -1019,6 +1017,7 @@ l:FlightGear
 l:Vessel
 l:UltraGrid
 l:TreeSheets
+l:Qortal_UI
 l:SkeletonGame
 l:RefOrg
 l:QPrompt
