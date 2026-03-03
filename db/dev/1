@@ -507,6 +507,7 @@ l:PatternPaint
 l:SUbillManager
 l:Mira
 l:LikeTaskManager
+l:dukto
 l:Lepton
 l:MusE
 l:ser-player
@@ -882,6 +883,7 @@ l:RemNote
 l:unified-communications
 l:PrimeWorldEditor
 l:Blender_Config_Manager
+l:iota1k
 l:pnpm
 l:RasterDraw
 l:Leonflix
@@ -1165,5 +1167,5 @@ l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
 l:Alpine_Client
-l:Cryptocam_Companion
 l:Crescat
+l:Cryptocam_Companion
