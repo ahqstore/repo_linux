@@ -1113,7 +1113,6 @@ l:Keys
 l:BlenSor
 l:Sugarizer
 l:CodePilot.ai
-l:Alpine_Client
 l:YUView
 l:p2p-chat
 l:BibleMultiTheLife
@@ -1135,6 +1134,7 @@ l:UHK.Agent
 l:sunshine
 l:simple-s3-uploader
 l:SwitchHosts!
+l:Alpine_Client
 l:SteamCAD
 l:Board_Game_Star
 l:QuickRedis
@@ -1166,6 +1166,6 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Cryptocam_Companion
 l:Glaxnimate
 l:Crescat
+l:Cryptocam_Companion
