@@ -908,6 +908,7 @@ l:TweakSophia
 l:playyourdamnturn.com
 l:LibrePCB-Nightly
 l:Beatconnect_Client
+l:guiscrcpy
 l:Drill
 l:SocNetV
 l:Ember
@@ -1164,7 +1165,7 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Alpine_Client
 l:Cryptocam_Companion
 l:Glaxnimate
 l:Crescat
+l:Alpine_Client
