@@ -660,6 +660,7 @@ l:Nitrokey
 l:qpdf
 l:Hexinator
 l:MediaInfo
+l:linux-intel-undervolt-gui
 l:euromilhoes
 l:GPUpad
 l:Alduin
@@ -1166,5 +1167,5 @@ l:ProofKeeper
 l:EmuDeck
 l:Alpine_Client
 l:Glaxnimate
-l:Crescat
 l:Cryptocam_Companion
+l:Crescat
