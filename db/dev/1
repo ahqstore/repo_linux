@@ -1093,7 +1093,6 @@ l:ArcadeManager
 l:Fluent_Reader
 l:runanode
 l:jscad-desktop
-l:Alpine_Client
 l:simplechroot
 l:SF_Tube
 l:OVALE
@@ -1114,6 +1113,7 @@ l:Keys
 l:BlenSor
 l:Sugarizer
 l:CodePilot.ai
+l:Glaxnimate
 l:YUView
 l:p2p-chat
 l:BibleMultiTheLife
@@ -1149,6 +1149,7 @@ l:ElDumper
 l:FileShows
 l:MyCrypto
 l:Sheikah
+l:Alpine_Client
 l:Carpenters
 l:mpc-qt
 l:Invoice-Generator
@@ -1166,6 +1167,5 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Glaxnimate
-l:Cryptocam_Companion
 l:Crescat
+l:Cryptocam_Companion
