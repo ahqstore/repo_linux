@@ -292,7 +292,6 @@ l:ImagePlay
 l:textosaurus
 l:Minetest
 l:feedseries
-l:Etcher
 l:CoCoMusic
 l:PhreshPlayer
 l:M
@@ -339,7 +338,6 @@ l:Thunderbird_Nightly
 l:GIMP
 l:VisiCut
 l:Lightning
-l:ZapDesktop
 l:CoreStuff
 l:PowerliminalsPlayer
 l:Serial_Studio
@@ -455,7 +453,6 @@ l:BeatbreakerEditorFree
 l:subtitles-composer-app
 l:SMF-DSP
 l:Wsocks
-l:GameHub
 l:Aptakube
 l:pb-for-desktop
 l:Syncplay
@@ -656,7 +653,6 @@ l:Fraidycat
 l:jumpfm
 l:qtrfpowermeter
 l:IGdm
-l:Nitrokey
 l:qpdf
 l:Hexinator
 l:MediaInfo
@@ -773,7 +769,6 @@ l:Audacity
 l:ChemCanvas
 l:RPAN_Studio
 l:TachiWeb
-l:Join_Desktop
 l:Sup
 l:Popsicle
 l:Anchor
@@ -806,10 +801,8 @@ l:CleepDesktop
 l:Cantata
 l:huwinterpreter
 l:ridereceipts
-l:BTS-CE-Lite
 l:Slippi
 l:Substrate_IDE
-l:acreom
 l:WatchFlower
 l:thorium-client
 l:Mr.Dclutterer
@@ -891,7 +884,6 @@ l:TVALB
 l:Biying
 l:Waterfox_Fourth_Generation
 l:Pingendo
-l:ProcDepMonitor
 l:Verto
 l:Google_Tasks_Desktop
 l:strans
@@ -1167,5 +1159,5 @@ l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
 l:Alpine_Client
-l:Cryptocam_Companion
 l:Crescat
+l:Cryptocam_Companion
