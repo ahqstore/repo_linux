@@ -1093,6 +1093,7 @@ l:ArcadeManager
 l:Fluent_Reader
 l:runanode
 l:jscad-desktop
+l:Alpine_Client
 l:simplechroot
 l:SF_Tube
 l:OVALE
@@ -1123,7 +1124,6 @@ l:Videomass
 l:ClipGrab
 l:superProductivity
 l:Joy2DroidX
-l:Alpine_Client
 l:XELFViewer
 l:CoreShot
 l:Sige_Lite
@@ -1167,5 +1167,5 @@ l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
-l:Crescat
 l:Cryptocam_Companion
+l:Crescat
