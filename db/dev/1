@@ -1027,7 +1027,6 @@ l:SerialPort_Assistant
 l:MuseScore
 l:Thorium_Reader
 l:Sayonara
-l:Alpine_Client
 l:AnimaShooter
 l:Thunderbird
 l:qr-code-generator-desktop
@@ -1166,6 +1165,7 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Crescat
-l:Cryptocam_Companion
+l:Alpine_Client
 l:Glaxnimate
+l:Cryptocam_Companion
+l:Crescat
