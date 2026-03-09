@@ -1093,7 +1093,6 @@ l:ArcadeManager
 l:Fluent_Reader
 l:runanode
 l:jscad-desktop
-l:Alpine_Client
 l:simplechroot
 l:SF_Tube
 l:OVALE
@@ -1125,6 +1124,7 @@ l:ClipGrab
 l:superProductivity
 l:Joy2DroidX
 l:XELFViewer
+l:Alpine_Client
 l:CoreShot
 l:Sige_Lite
 l:ProcSpin
