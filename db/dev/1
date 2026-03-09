@@ -1085,6 +1085,7 @@ l:SAManager
 l:Fidias_Database_Migration_App
 l:86Box
 l:Firefox_Nightly
+l:Alpine_Client
 l:Moonitor
 l:CoreHunt
 l:Cloud_Browser
@@ -1165,7 +1166,6 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Alpine_Client
 l:Glaxnimate
 l:Crescat
 l:Cryptocam_Companion
