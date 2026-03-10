@@ -931,7 +931,6 @@ l:Swift
 l:Archipelago
 l:PhotoQt
 l:PacketSender
-l:Alpine_Client
 l:dexter_dev_env
 l:marlin-conf
 l:mjml-app
@@ -1167,5 +1166,6 @@ l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
+l:Alpine_Client
 l:Crescat
 l:Cryptocam_Companion
