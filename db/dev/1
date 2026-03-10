@@ -523,7 +523,6 @@ l:nbrsync
 l:Zulip
 l:Altitude
 l:Pulsar
-l:SVGWall
 l:CubicSDR
 l:Nuclino
 l:PhotoQuick
@@ -1054,7 +1053,6 @@ l:PowerShell
 l:TeleDrive
 l:flightgear-airports
 l:SmartServoGui
-l:protonmail-desktop
 l:Cacher
 l:Apache_NetBeans
 l:Bodhi
@@ -1165,7 +1163,7 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Alpine_Client
 l:Glaxnimate
-l:Cryptocam_Companion
 l:Crescat
+l:Alpine_Client
+l:Cryptocam_Companion
