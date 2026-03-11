@@ -930,7 +930,6 @@ l:SnippetStore
 l:Swift
 l:Archipelago
 l:PhotoQt
-l:Alpine_Client
 l:PacketSender
 l:dexter_dev_env
 l:marlin-conf
@@ -1166,6 +1165,7 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Cryptocam_Companion
+l:Alpine_Client
 l:Glaxnimate
+l:Cryptocam_Companion
 l:Crescat
