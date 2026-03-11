@@ -1040,6 +1040,7 @@ l:Padloc
 l:QmidiCtl
 l:Blizzard_4
 l:Stele
+l:Alpine_Client
 l:Kimitzu-Client
 l:tastee-ui
 l:DeadGame-2048
@@ -1067,7 +1068,6 @@ l:cabal-desktop
 l:ngrev
 l:SmallBASIC
 l:Thunderbird_Beta
-l:Alpine_Client
 l:QuickViewer
 l:glulxe
 l:MediaElch
