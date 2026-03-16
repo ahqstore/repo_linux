@@ -1151,7 +1151,6 @@ l:MyCrypto
 l:Sheikah
 l:Carpenters
 l:mpc-qt
-l:Alpine_Client
 l:Invoice-Generator
 l:unofficial-zalo
 l:Mapeo
@@ -1169,4 +1168,5 @@ l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
 l:Cryptocam_Companion
+l:Alpine_Client
 l:Crescat
