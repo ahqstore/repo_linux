@@ -1146,7 +1146,6 @@ l:cordlauncher
 l:ITUSB2_Manager
 l:lumi
 l:ElDumper
-l:Alpine_Client
 l:FileShows
 l:MyCrypto
 l:Sheikah
@@ -1167,6 +1166,7 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
+l:Alpine_Client
 l:Glaxnimate
 l:Cryptocam_Companion
 l:Crescat
