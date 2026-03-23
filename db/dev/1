@@ -1149,7 +1149,6 @@ l:ElDumper
 l:FileShows
 l:MyCrypto
 l:Sheikah
-l:Alpine_Client
 l:Carpenters
 l:mpc-qt
 l:Invoice-Generator
@@ -1168,5 +1167,6 @@ l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
-l:Crescat
 l:Cryptocam_Companion
+l:Alpine_Client
+l:Crescat
