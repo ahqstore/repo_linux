@@ -911,7 +911,6 @@ l:LibrePCB-Nightly
 l:Beatconnect_Client
 l:guiscrcpy
 l:Drill
-l:Alpine_Client
 l:SocNetV
 l:Ember
 l:dashy-app
@@ -1126,6 +1125,7 @@ l:ClipGrab
 l:superProductivity
 l:Joy2DroidX
 l:XELFViewer
+l:Alpine_Client
 l:CoreShot
 l:Sige_Lite
 l:ProcSpin
@@ -1167,6 +1167,6 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
-l:Crescat
 l:Glaxnimate
 l:Cryptocam_Companion
+l:Crescat
