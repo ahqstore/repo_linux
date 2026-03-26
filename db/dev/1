@@ -1129,6 +1129,7 @@ l:CoreShot
 l:Sige_Lite
 l:ProcSpin
 l:Cryptr
+l:Alpine_Client
 l:Standard_Notes
 l:Buckets
 l:UHK.Agent
@@ -1167,6 +1168,5 @@ l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
 l:Glaxnimate
-l:Alpine_Client
-l:Crescat
 l:Cryptocam_Companion
+l:Crescat
