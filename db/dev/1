@@ -1084,6 +1084,7 @@ l:SBLauncher
 l:electron-wechat
 l:Lagrange
 l:GameHub
+l:Cryptocam_Companion
 l:SlackBackup
 l:Gaia_Sky
 l:My_Jira
@@ -1166,7 +1167,6 @@ l:Cloud_Browser
 l:Safe_Multisig
 l:Makagiga
 l:Dwyco_Phoo
-l:Cryptocam_Companion
-l:Alpine_Client
-l:Glaxnimate
 l:Crescat
+l:Glaxnimate
+l:Alpine_Client
