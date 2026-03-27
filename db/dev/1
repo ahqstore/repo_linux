@@ -1138,7 +1138,6 @@ l:SwitchHosts!
 l:SteamCAD
 l:Board_Game_Star
 l:QuickRedis
-l:Alpine_Client
 l:Konjure
 l:Electrum
 l:Cura
@@ -1167,6 +1166,7 @@ l:Focalizzare
 l:TurboWarp
 l:ProofKeeper
 l:EmuDeck
+l:Alpine_Client
 l:Glaxnimate
-l:Cryptocam_Companion
 l:Crescat
+l:Cryptocam_Companion
