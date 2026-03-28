@@ -34,6 +34,7 @@ l:falcon-sql-client
 l:Electron_App_Store
 l:Kanon
 l:Tesseract
+l:IrScrutinizer
 l:JReleaser
 l:PlayMe
 l:stereophotoview
@@ -1023,6 +1024,7 @@ l:Winboat
 l:SynfigStudio
 l:VidCutter
 l:SF_Tube
+l:Cryptocam_Companion
 l:youtube-music
 l:HastyHeroes
 l:SuperTux
@@ -1037,7 +1039,6 @@ l:TurboWarp
 l:Strata
 l:retail
 l:Manta
-l:Cryptocam_Companion
 l:TreeSheets
 l:Sugarizer
 l:qtchan
@@ -1166,6 +1167,6 @@ l:Cloud_Browser
 l:Safe_Multisig
 l:Makagiga
 l:Dwyco_Phoo
-l:Glaxnimate
 l:Alpine_Client
 l:Crescat
+l:Glaxnimate
