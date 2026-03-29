@@ -1096,7 +1096,6 @@ l:MicroPad
 l:vifm
 l:Kiibohd_Configurator
 l:noteshrink-qt
-l:Cryptocam_Companion
 l:WishDemo
 l:CorePins
 l:ZapDesktop
@@ -1167,6 +1166,7 @@ l:Cloud_Browser
 l:Safe_Multisig
 l:Makagiga
 l:Dwyco_Phoo
-l:Alpine_Client
+l:Cryptocam_Companion
 l:Crescat
 l:Glaxnimate
+l:Alpine_Client
