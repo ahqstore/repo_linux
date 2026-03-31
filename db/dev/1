@@ -1030,6 +1030,7 @@ l:SuperTux
 l:NoraGO
 l:zeltrez
 l:MQTT-Explorer
+l:Cryptocam_Companion
 l:commandoo
 l:Pingnoo
 l:Iceworks
@@ -1114,7 +1115,6 @@ l:Psi+
 l:LikeTaskManager
 l:clipr
 l:Parallelcoin
-l:Cryptocam_Companion
 l:MuseScore
 l:Notable
 l:ioquake3
