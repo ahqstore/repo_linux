@@ -989,6 +989,7 @@ l:KCalc
 l:QuickTwitch
 l:MCP2210_Configurator
 l:Papercraft
+l:Cryptocam_Companion
 l:RefOrg
 l:x-loc
 l:CRG_Data_Tool
@@ -1020,7 +1021,6 @@ l:Pony_Compiler
 l:spark-wallet
 l:linuxdeployqt
 l:Vieb
-l:Cryptocam_Companion
 l:Winboat
 l:SynfigStudio
 l:VidCutter
