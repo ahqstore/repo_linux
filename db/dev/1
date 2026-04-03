@@ -1092,6 +1092,7 @@ l:PostyBirb
 l:POE_Ladder
 l:Vipster
 l:Shadow
+l:Cryptocam_Companion
 l:MicroPad
 l:vifm
 l:Kiibohd_Configurator
@@ -1165,8 +1166,7 @@ l:pyappimage
 l:Cloud_Browser
 l:Safe_Multisig
 l:Makagiga
+l:Crescat
 l:Dwyco_Phoo
-l:Cryptocam_Companion
 l:Alpine_Client
 l:Glaxnimate
-l:Crescat
