@@ -989,7 +989,6 @@ l:KCalc
 l:QuickTwitch
 l:MCP2210_Configurator
 l:Papercraft
-l:Cryptocam_Companion
 l:RefOrg
 l:x-loc
 l:CRG_Data_Tool
@@ -1051,6 +1050,7 @@ l:climaxima
 l:BulkReviewer
 l:deltachat-desktop
 l:Ripcord
+l:Cryptocam_Companion
 l:Sabaki
 l:LiteIDE
 l:Mindmapp
@@ -1167,6 +1167,6 @@ l:Cloud_Browser
 l:Safe_Multisig
 l:Makagiga
 l:Dwyco_Phoo
+l:Glaxnimate
 l:Crescat
 l:Alpine_Client
-l:Glaxnimate
