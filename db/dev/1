@@ -1030,7 +1030,6 @@ l:SuperTux
 l:NoraGO
 l:zeltrez
 l:MQTT-Explorer
-l:Cryptocam_Companion
 l:commandoo
 l:Pingnoo
 l:Iceworks
@@ -1051,6 +1050,7 @@ l:climaxima
 l:BulkReviewer
 l:deltachat-desktop
 l:Ripcord
+l:Cryptocam_Companion
 l:Sabaki
 l:LiteIDE
 l:Mindmapp
@@ -1167,6 +1167,6 @@ l:Cloud_Browser
 l:Safe_Multisig
 l:Makagiga
 l:Dwyco_Phoo
+l:Crescat
 l:Glaxnimate
 l:Alpine_Client
-l:Crescat
