@@ -1060,7 +1060,6 @@ l:Thorium_Reader
 l:Vusic
 l:Fluent_Reader
 l:VLC
-l:Cryptocam_Companion
 l:EasyEdit
 l:cncjs
 l:Fidias_Database_Migration_App
@@ -1166,6 +1165,7 @@ l:pyappimage
 l:Cloud_Browser
 l:Safe_Multisig
 l:Makagiga
+l:Cryptocam_Companion
 l:Dwyco_Phoo
 l:Alpine_Client
 l:Glaxnimate
