@@ -1038,6 +1038,7 @@ l:TurboWarp
 l:Strata
 l:retail
 l:Manta
+l:Cryptocam_Companion
 l:TreeSheets
 l:Sugarizer
 l:qtchan
@@ -1114,7 +1115,6 @@ l:Psi+
 l:LikeTaskManager
 l:clipr
 l:Parallelcoin
-l:Cryptocam_Companion
 l:MuseScore
 l:Notable
 l:ioquake3
@@ -1167,6 +1167,6 @@ l:Cloud_Browser
 l:Safe_Multisig
 l:Makagiga
 l:Dwyco_Phoo
-l:Crescat
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
+l:Crescat
