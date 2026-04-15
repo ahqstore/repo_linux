@@ -1071,7 +1071,6 @@ l:guiscrcpy
 l:Bezique
 l:Rabix_Composer
 l:MLV-App
-l:FromScratch
 l:qtchan
 l:hw-probe
 l:autoEdit2
@@ -1142,7 +1141,6 @@ l:Spectral
 l:qtrfpowermeter
 l:graphql-playground
 l:BrainWaves
-l:Postman
 l:FMS_File_Explorer
 l:rmw
 l:Genesis
@@ -1165,7 +1163,7 @@ l:ExtremeCooling4Linux
 l:LikeTaskManager
 l:ZY_Player
 l:KiCad
-l:Alpine_Client
 l:Crescat
 l:Cryptocam_Companion
+l:Alpine_Client
 l:Glaxnimate
