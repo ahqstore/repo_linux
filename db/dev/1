@@ -903,7 +903,6 @@ l:FreeTexturePacker
 l:BscanFFTwebcam
 l:gsubs
 l:cric
-l:Cryptocam_Companion
 l:Scraper
 l:MegaBasterd
 l:XELFViewer
@@ -969,6 +968,7 @@ l:Katvan
 l:Zenkit
 l:onnx2daq
 l:jscad-desktop
+l:Cryptocam_Companion
 l:EnvKey
 l:LibreOfficeDev
 l:Eqonomize
@@ -1166,5 +1166,5 @@ l:ImageMosaicWall
 l:MazeSolver
 l:smtk2ssrf
 l:Alpine_Client
-l:Glaxnimate
 l:Crescat
+l:Glaxnimate
