@@ -1132,7 +1132,6 @@ l:cordlauncher
 l:Endless_Sky
 l:Minecraft_Pi_Reborn_Server
 l:My_Jira
-l:Cryptocam_Companion
 l:RoloViewer
 l:PostyBirb
 l:DeadGame-2048
@@ -1167,6 +1166,7 @@ l:Sigil
 l:Bodhi
 l:pnpm
 l:ANT_Downloader
-l:Crescat
 l:Alpine_Client
+l:Cryptocam_Companion
+l:Crescat
 l:Glaxnimate
