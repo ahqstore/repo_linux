@@ -1,6 +1,7 @@
 l:OWallet
 l:Zegarek
 l:Motrix
+l:Colon
 l:ImHex
 l:BeatbreakerEditorFree
 l:pingviewer
@@ -206,6 +207,7 @@ l:GospelPdfViewer
 l:fre:ac
 l:Iceworks
 l:Cryptr
+l:Negibox
 l:VirtScreen
 l:Widelands
 l:Qredit
@@ -397,6 +399,7 @@ l:Demonizer
 l:SiliconSneaker
 l:Addaps
 l:Markman
+l:Espanso
 l:iptvnator
 l:nfctools
 l:Friture
@@ -430,6 +433,7 @@ l:OCVvid2fulldome
 l:CoreArchiver
 l:ColorGenerator
 l:SerialPlot
+l:Shannon_Calculator
 l:Scytale
 l:CoreGarage
 l:MQTT-Explorer
@@ -478,9 +482,11 @@ l:Blockbench
 l:SmartServoGui
 l:huwinterpreter
 l:CRIC
+l:vue-calc
 l:CleepDesktop
 l:Blender_Config_Manager
 l:qr-code-generator-desktop
+l:CATcher
 l:laravel-kit
 l:Bazecor
 l:PanWriter
@@ -489,6 +495,7 @@ l:hero-display
 l:HermesMessenger
 l:pkg2appimage
 l:marlin-conf
+l:Statsbook_Tool
 l:unoffical-sonos-controller-for-linux
 l:Subtitle_Composer
 l:cubing-cmos
@@ -514,6 +521,7 @@ l:LMMS
 l:xonsh
 l:nmap
 l:Paw-Search-Bar-Streaming
+l:Naev
 l:BulkReviewer
 l:bioanimation
 l:Shotcut
@@ -612,6 +620,7 @@ l:SonicVisualiser
 l:RyoWallet
 l:Streamlink
 l:Quixel_Bridge
+l:Nexus_Wallet
 l:Onshape
 l:NCSA_Mosaic
 l:android-messages-desktop
@@ -647,6 +656,7 @@ l:QElectroTech
 l:xiangxuema
 l:Mockman
 l:Kimitzu-Client
+l:Tesseract
 l:Webamp
 l:Webitel_Phone
 l:HiDPI-Fixer
@@ -665,8 +675,10 @@ l:Mark_Mind
 l:beurerscalemanager
 l:QPrompt
 l:clownmdemu
+l:CPU-X
 l:T.Viewer
 l:Popsicle
+l:Shadowsocks
 l:Dwyco_Phoo
 l:Rabix_Composer
 l:MCP2210_Configurator
@@ -814,6 +826,7 @@ l:Taskizer
 l:pdf-sync
 l:Tutanota
 l:swradio
+l:theFrame
 l:VisiCut
 l:MediaConchGUI
 l:patchbay
@@ -873,6 +886,7 @@ l:LibrePCB
 l:QaterialHotReload
 l:QuickViewer
 l:twetter
+l:Cool_Retro_Term
 l:strongbox
 l:onnx2daq
 l:Leonflix
@@ -1151,7 +1165,7 @@ l:Sigil
 l:Bodhi
 l:pnpm
 l:ANT_Downloader
-l:Cryptocam_Companion
 l:Alpine_Client
+l:Cryptocam_Companion
 l:Crescat
 l:Glaxnimate
