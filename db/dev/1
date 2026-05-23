@@ -431,6 +431,7 @@ l:BrickStore
 l:MDL
 l:OCVvid2fulldome
 l:CoreArchiver
+l:ColorGenerator
 l:SerialPlot
 l:Shannon_Calculator
 l:Scytale
@@ -1165,7 +1166,7 @@ l:Sigil
 l:Bodhi
 l:pnpm
 l:ANT_Downloader
+l:Cryptocam_Companion
 l:Alpine_Client
 l:Crescat
-l:Cryptocam_Companion
 l:Glaxnimate
