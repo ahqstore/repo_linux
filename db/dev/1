@@ -1142,6 +1142,7 @@ l:SigmaSpectra
 l:OpenBlok
 l:Gulden
 l:ElectroCRUD
+l:Cryptocam_Companion
 l:SmartServoGui
 l:UniShellect
 l:Exportoo
@@ -1166,7 +1167,6 @@ l:MuseScore
 l:SerialPlot
 l:stereophotoview
 l:Brackets
-l:Cryptocam_Companion
 l:Alpine_Client
 l:Glaxnimate
 l:Crescat
