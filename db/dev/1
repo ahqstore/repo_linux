@@ -1088,6 +1088,7 @@ l:Ganache
 l:ytDownloader
 l:getswell
 l:Playbox
+l:Cryptocam_Companion
 l:PicoLog
 l:SimpleInstaBot
 l:Firefox_ESR
@@ -1167,6 +1168,5 @@ l:SerialPlot
 l:stereophotoview
 l:Brackets
 l:Alpine_Client
-l:Cryptocam_Companion
-l:Glaxnimate
 l:Crescat
+l:Glaxnimate
