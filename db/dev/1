@@ -1089,7 +1089,6 @@ l:ytDownloader
 l:getswell
 l:Playbox
 l:PicoLog
-l:Cryptocam_Companion
 l:SimpleInstaBot
 l:Firefox_ESR
 l:CubicSDR
@@ -1118,6 +1117,7 @@ l:ImageMosaicWall
 l:Onenote
 l:Red_Eclipse-Development
 l:Widelands
+l:Cryptocam_Companion
 l:Opentrons
 l:COMPASS
 l:Scatter
@@ -1168,5 +1168,5 @@ l:SerialPlot
 l:stereophotoview
 l:Brackets
 l:Alpine_Client
-l:Crescat
 l:Glaxnimate
+l:Crescat
