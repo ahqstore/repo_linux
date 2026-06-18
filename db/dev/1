@@ -732,7 +732,6 @@ l:unreel
 l:Infection_Monkey
 l:RefOrg
 l:Patchwork
-l:EyeStalker
 l:Scraper
 l:LosslessCut
 l:wezterm
@@ -1171,6 +1170,6 @@ l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
 l:Cryptocam_Companion
-l:Alpine_Client
 l:Crescat
 l:Glaxnimate
+l:Alpine_Client
