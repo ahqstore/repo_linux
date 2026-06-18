@@ -732,6 +732,7 @@ l:unreel
 l:Infection_Monkey
 l:RefOrg
 l:Patchwork
+l:EyeStalker
 l:Scraper
 l:LosslessCut
 l:wezterm
@@ -1052,6 +1053,7 @@ l:kitupiikki
 l:nvtop
 l:Aspect
 l:wxMEdit
+l:Cryptocam_Companion
 l:CARTA
 l:MDL
 l:simple-s3-uploader
@@ -1169,7 +1171,6 @@ l:ScreenCloud
 l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
-l:Cryptocam_Companion
-l:Crescat
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
+l:Crescat
