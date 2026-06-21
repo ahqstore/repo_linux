@@ -1034,7 +1034,6 @@ l:Loginized
 l:DFileManager
 l:Emacs
 l:fre:ac
-l:Cryptocam_Companion
 l:EiskaltDC++
 l:FontForge
 l:ElectroCRUD
@@ -1171,6 +1170,7 @@ l:ScreenCloud
 l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
-l:Glaxnimate
-l:Alpine_Client
 l:Crescat
+l:Glaxnimate
+l:Cryptocam_Companion
+l:Alpine_Client
