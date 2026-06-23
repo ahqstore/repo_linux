@@ -1069,7 +1069,6 @@ l:Planes
 l:Sigil
 l:Makagiga
 l:Wsocks
-l:Cryptocam_Companion
 l:Qt_DAB
 l:SteamCAD
 l:Chobby
@@ -1084,7 +1083,6 @@ l:Minecraft_Pi_Reborn_Client
 l:Thinktool_Desktop
 l:IGdm
 l:Open_Markup_Editor
-l:TweakSophia
 l:Outline-Manager
 l:LibrePCB-Nightly
 l:VivifyScrum
@@ -1173,4 +1171,5 @@ l:SSPlot
 l:FMS_File_Explorer
 l:Glaxnimate
 l:Crescat
+l:Cryptocam_Companion
 l:Alpine_Client
