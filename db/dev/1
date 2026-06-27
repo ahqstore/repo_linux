@@ -1035,6 +1035,7 @@ l:Loginized
 l:DFileManager
 l:Emacs
 l:fre:ac
+l:Cryptocam_Companion
 l:EiskaltDC++
 l:FontForge
 l:ElectroCRUD
@@ -1054,7 +1055,6 @@ l:kitupiikki
 l:nvtop
 l:Aspect
 l:wxMEdit
-l:Cryptocam_Companion
 l:CARTA
 l:MDL
 l:simple-s3-uploader
@@ -1172,6 +1172,6 @@ l:ScreenCloud
 l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
-l:Crescat
 l:Glaxnimate
 l:Alpine_Client
+l:Crescat
