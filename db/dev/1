@@ -1152,7 +1152,6 @@ l:nRF_Connect
 l:zsync2
 l:climaxima
 l:sticker-convert
-l:Cryptocam_Companion
 l:Rokkr
 l:ScienceFair
 l:pnpm
@@ -1172,6 +1171,7 @@ l:ScreenCloud
 l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
+l:Cryptocam_Companion
 l:Glaxnimate
 l:Crescat
 l:Alpine_Client
