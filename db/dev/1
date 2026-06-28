@@ -1035,6 +1035,7 @@ l:Loginized
 l:DFileManager
 l:Emacs
 l:fre:ac
+l:Cryptocam_Companion
 l:EiskaltDC++
 l:FontForge
 l:ElectroCRUD
@@ -1136,7 +1137,6 @@ l:Bootstrap_Studio
 l:Planet_Blupi
 l:altair
 l:qtrfpowermeter
-l:Cryptocam_Companion
 l:Qt5Demo
 l:simplechroot
 l:Antares
@@ -1172,6 +1172,6 @@ l:ScreenCloud
 l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
-l:Glaxnimate
 l:Crescat
+l:Glaxnimate
 l:Alpine_Client
