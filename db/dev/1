@@ -1040,7 +1040,6 @@ l:FontForge
 l:ElectroCRUD
 l:Lunyr
 l:Zap
-l:Cryptocam_Companion
 l:SwitchHosts!
 l:XMedCon
 l:SimDSP
@@ -1137,6 +1136,7 @@ l:Bootstrap_Studio
 l:Planet_Blupi
 l:altair
 l:qtrfpowermeter
+l:Cryptocam_Companion
 l:Qt5Demo
 l:simplechroot
 l:Antares
