@@ -26,6 +26,7 @@ l:Thunderbird
 l:Swift
 l:Rotki
 l:CPU-X
+l:UplinkIRC
 l:Stacer
 l:vCloudcam
 l:City_Hub
@@ -388,7 +389,6 @@ l:Pulsar
 l:OwlPlug
 l:qpdf
 l:Waterfox_Classic
-l:WatchIt
 l:MediaInfo
 l:stereophotoview
 l:Nextcloud
@@ -1173,5 +1173,5 @@ l:SSPlot
 l:FMS_File_Explorer
 l:Cryptocam_Companion
 l:Glaxnimate
-l:Crescat
 l:Alpine_Client
+l:Crescat
