@@ -1048,7 +1048,6 @@ l:CoreShot
 l:DICOMautomaton
 l:HexoClient
 l:TreeSheets
-l:Cryptocam_Companion
 l:perl-executing-browser
 l:eXtrema
 l:midi123
@@ -1173,6 +1172,7 @@ l:ScreenCloud
 l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
-l:Crescat
-l:Alpine_Client
+l:Cryptocam_Companion
 l:Glaxnimate
+l:Alpine_Client
+l:Crescat
