@@ -1112,7 +1112,6 @@ l:Negibox
 l:NixNote
 l:sunshine
 l:xde
-l:Cryptocam_Companion
 l:ytDownloader
 l:flightgear-airports
 l:Procyon
@@ -1138,6 +1137,7 @@ l:Bootstrap_Studio
 l:Planet_Blupi
 l:altair
 l:qtrfpowermeter
+l:Cryptocam_Companion
 l:Qt5Demo
 l:simplechroot
 l:Antares
@@ -1174,5 +1174,5 @@ l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
 l:Glaxnimate
-l:Crescat
 l:Alpine_Client
+l:Crescat
