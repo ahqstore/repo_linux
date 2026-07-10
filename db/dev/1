@@ -1101,6 +1101,7 @@ l:LiteIDE
 l:Paletti
 l:Tablo_Tools
 l:jag
+l:ser-player
 l:Pile
 l:dataset-annotator
 l:Atomicwallet
@@ -1120,6 +1121,7 @@ l:CRG_Data_Tool
 l:Dana
 l:PhotoQt
 l:Around
+l:Cryptocam_Companion
 l:Bazecor
 l:BulkURLOpener
 l:Shuttle
@@ -1171,7 +1173,6 @@ l:ScreenCloud
 l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
-l:Cryptocam_Companion
+l:Glaxnimate
 l:Crescat
 l:Alpine_Client
-l:Glaxnimate
