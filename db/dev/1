@@ -1055,6 +1055,7 @@ l:kitupiikki
 l:nvtop
 l:Aspect
 l:wxMEdit
+l:Cryptocam_Companion
 l:CARTA
 l:MDL
 l:simple-s3-uploader
@@ -1085,7 +1086,6 @@ l:Minecraft_Pi_Reborn_Client
 l:Thinktool_Desktop
 l:IGdm
 l:Open_Markup_Editor
-l:Cryptocam_Companion
 l:TweakSophia
 l:Outline-Manager
 l:LibrePCB-Nightly
@@ -1173,6 +1173,6 @@ l:ScreenCloud
 l:Sayonara
 l:SSPlot
 l:FMS_File_Explorer
-l:Alpine_Client
-l:Glaxnimate
 l:Crescat
+l:Glaxnimate
+l:Alpine_Client
