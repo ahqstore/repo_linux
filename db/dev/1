@@ -944,6 +944,7 @@ l:MCP2210_Configurator
 l:Figma
 l:GDevelop
 l:Mochi
+l:Cryptocam_Companion
 l:WebDesktop
 l:Quark
 l:dashy-app
@@ -1132,7 +1133,6 @@ l:Videomass
 l:Ripcord
 l:Voltra
 l:Waterfox_Fourth_Generation
-l:Cryptocam_Companion
 l:KeyboardClient
 l:NoraGO
 l:DICOMautomaton
@@ -1173,5 +1173,5 @@ l:Safe_Multisig
 l:Delir
 l:StatusIm
 l:Alpine_Client
-l:Crescat
 l:Glaxnimate
+l:Crescat
