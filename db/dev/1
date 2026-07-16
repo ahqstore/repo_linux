@@ -944,7 +944,6 @@ l:MCP2210_Configurator
 l:Figma
 l:GDevelop
 l:Mochi
-l:Cryptocam_Companion
 l:WebDesktop
 l:Quark
 l:dashy-app
@@ -1093,6 +1092,7 @@ l:Workbench
 l:Local_Browser
 l:Eternal-Lands
 l:ArcadeManager
+l:Cryptocam_Companion
 l:gerbv
 l:UHK.Agent
 l:noteshrink-qt
@@ -1173,5 +1173,5 @@ l:Safe_Multisig
 l:Delir
 l:StatusIm
 l:Alpine_Client
-l:Glaxnimate
 l:Crescat
+l:Glaxnimate
