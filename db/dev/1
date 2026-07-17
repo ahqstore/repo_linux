@@ -1068,7 +1068,6 @@ l:RefOrg
 l:MiniZinc_IDE
 l:Scintillator
 l:Bdash
-l:Alpine_Client
 l:QQ
 l:Plover
 l:clownmdemu
@@ -1079,6 +1078,7 @@ l:deltachat-desktop
 l:Astrofox
 l:linuxdeployqt
 l:Juggernaut
+l:Cryptocam_Companion
 l:qikQR
 l:QElectroTech
 l:Spectral
@@ -1172,6 +1172,6 @@ l:Scrite
 l:Safe_Multisig
 l:Delir
 l:StatusIm
-l:Cryptocam_Companion
-l:Glaxnimate
+l:Alpine_Client
 l:Crescat
+l:Glaxnimate
