@@ -871,6 +871,7 @@ l:Simdock
 l:Streamlink
 l:Elements
 l:moniteur-admin
+l:Cryptocam_Companion
 l:MediaElch
 l:EncryptPad
 l:onnx2bnn
@@ -1068,7 +1069,6 @@ l:RefOrg
 l:MiniZinc_IDE
 l:Scintillator
 l:Bdash
-l:Cryptocam_Companion
 l:QQ
 l:Plover
 l:clownmdemu
