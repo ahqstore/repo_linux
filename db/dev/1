@@ -912,6 +912,7 @@ l:LPub3D
 l:GrinPlusPlus
 l:Laber
 l:Crypter
+l:Cryptocam_Companion
 l:86Box
 l:OpenAudible
 l:Hypnos
@@ -942,7 +943,6 @@ l:SMF-DSP
 l:Thunderbird_Nightly
 l:MCP2210_Configurator
 l:Figma
-l:Cryptocam_Companion
 l:GDevelop
 l:Mochi
 l:WebDesktop
@@ -1172,6 +1172,6 @@ l:Scrite
 l:Safe_Multisig
 l:Delir
 l:StatusIm
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
 l:Crescat
