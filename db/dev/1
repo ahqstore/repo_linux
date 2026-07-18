@@ -765,6 +765,7 @@ l:subtitles-composer-app
 l:LampixJS
 l:CRIC
 l:Jacksum
+l:Cryptocam_Companion
 l:VisualLVMRemote.yml
 l:BeatbreakerEditorFree
 l:Waterfox_Current
@@ -865,7 +866,6 @@ l:Audacity
 l:Webamp
 l:tinyclerk
 l:uncov
-l:Cryptocam_Companion
 l:James
 l:PowerShell
 l:Simdock
@@ -1087,7 +1087,6 @@ l:Open_Markup_Editor
 l:todo-bash
 l:guiscrcpy
 l:Wonderwall
-l:Alpine_Client
 l:acreom
 l:SpringBoard
 l:Workbench
@@ -1173,5 +1172,6 @@ l:Scrite
 l:Safe_Multisig
 l:Delir
 l:StatusIm
+l:Alpine_Client
 l:Glaxnimate
 l:Crescat
