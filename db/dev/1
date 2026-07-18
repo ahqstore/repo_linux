@@ -1111,7 +1111,6 @@ l:Peruse
 l:nvtop
 l:SonicLineup
 l:TurboWarp
-l:Cryptocam_Companion
 l:Cacher
 l:GpgFrontend
 l:ClassicImageViewer
@@ -1173,5 +1172,6 @@ l:Safe_Multisig
 l:Delir
 l:StatusIm
 l:Alpine_Client
+l:Cryptocam_Companion
 l:Glaxnimate
 l:Crescat
