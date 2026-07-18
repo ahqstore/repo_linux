@@ -912,7 +912,6 @@ l:LPub3D
 l:GrinPlusPlus
 l:Laber
 l:Crypter
-l:Cryptocam_Companion
 l:86Box
 l:OpenAudible
 l:Hypnos
@@ -1112,6 +1111,7 @@ l:Peruse
 l:nvtop
 l:SonicLineup
 l:TurboWarp
+l:Cryptocam_Companion
 l:Cacher
 l:GpgFrontend
 l:ClassicImageViewer
