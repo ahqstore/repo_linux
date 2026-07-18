@@ -936,6 +936,7 @@ l:KeyManager
 l:e2designer
 l:SpeedyLoader
 l:zeltrez
+l:Cryptocam_Companion
 l:BloomRPC
 l:sponge256sum
 l:SMF-DSP
@@ -1068,7 +1069,6 @@ l:RefOrg
 l:MiniZinc_IDE
 l:Scintillator
 l:Bdash
-l:Cryptocam_Companion
 l:QQ
 l:Plover
 l:clownmdemu
@@ -1173,5 +1173,5 @@ l:Safe_Multisig
 l:Delir
 l:StatusIm
 l:Alpine_Client
-l:Glaxnimate
 l:Crescat
+l:Glaxnimate
