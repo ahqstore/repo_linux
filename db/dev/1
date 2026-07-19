@@ -872,7 +872,6 @@ l:Streamlink
 l:Elements
 l:moniteur-admin
 l:MediaElch
-l:Cryptocam_Companion
 l:EncryptPad
 l:onnx2bnn
 l:Klogg
@@ -1169,6 +1168,7 @@ l:ZapDesktop
 l:spm
 l:AtCore
 l:Scrite
+l:Cryptocam_Companion
 l:Safe_Multisig
 l:Delir
 l:StatusIm
