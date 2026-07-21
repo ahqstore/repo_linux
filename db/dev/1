@@ -1068,6 +1068,7 @@ l:RefOrg
 l:MiniZinc_IDE
 l:Scintillator
 l:Bdash
+l:Cryptocam_Companion
 l:QQ
 l:Plover
 l:clownmdemu
@@ -1136,7 +1137,6 @@ l:KeyboardClient
 l:NoraGO
 l:DICOMautomaton
 l:Dragoman
-l:Alpine_Client
 l:AppImageUpdate
 l:CodePilot.ai
 l:Kcov
@@ -1172,6 +1172,6 @@ l:Scrite
 l:Safe_Multisig
 l:Delir
 l:StatusIm
-l:Cryptocam_Companion
-l:Crescat
+l:Alpine_Client
 l:Glaxnimate
+l:Crescat
