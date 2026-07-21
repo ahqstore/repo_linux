@@ -3,13 +3,11 @@ l:jag
 l:Steem_Messenger
 l:FontBase
 l:Arduino_IDE
-l:ITUSB2_Manager
 l:OpenCloud_Desktop
 l:nextoncloudLogistic
 l:Vusic
 l:autoEdit2
 l:GmodContentInstaller
-l:LED.Custom.Palette
 l:Blink1Control2
 l:DeepTags
 l:Qfsm
@@ -25,7 +23,6 @@ l:Atomicwallet
 l:Reactotron
 l:DeDop-studio
 l:Zoom
-l:ksnip
 l:SwitchHosts!
 l:Padloc
 l:Responsively
@@ -65,7 +62,6 @@ l:Todoist
 l:Tumblr_Scraper
 l:trader
 l:Cantata
-l:Zulip
 l:vifm
 l:Kimitzu-Client
 l:ElectroCRUD
@@ -83,18 +79,15 @@ l:Textilosaurus
 l:Firefox_Beta
 l:GitNote
 l:CozyDrive
-l:Play_2048
 l:Podman
 l:RSS-Guard
 l:Niffler
 l:PicGo
 l:Lagrange
 l:streamcapture2
-l:colorstatic-bash
 l:QNapi
 l:Carnet
 l:prismlauncher
-l:appium-desktop
 l:wezterm
 l:theFrame
 l:FreeCAD2
@@ -109,7 +102,6 @@ l:KeeWeb
 l:Cabal_Desktop_Mini
 l:YubiKey_Manager
 l:Musicalypse
-l:Minions
 l:HDRMerge
 l:JSplacement
 l:QtMips
@@ -151,7 +143,6 @@ l:Linphone
 l:Hexinator
 l:SmallBASIC
 l:PageEdit
-l:Taskizer
 l:Addaps
 l:Birds_Kitchen
 l:android-messages-desktop
@@ -167,16 +158,12 @@ l:GPUpad
 l:SSPlot
 l:NMEASimulator
 l:Blockbench
-l:Quick_Clone
-l:sunshine
 l:FlightGear
 l:lescovex
 l:foxfolio
 l:CorePad
 l:QuickDoc
 l:MapperoGeotagger
-l:pyappimage
-l:dfDemo
 l:Exportoo
 l:Trezor_Suite
 l:GitJournal
@@ -202,14 +189,12 @@ l:neovim
 l:QmidiCtl
 l:RedDiamond
 l:V2Ray-Desktop
-l:evoplex
 l:marlin-conf
 l:CubicSDR
 l:fre:ac
 l:sticker-convert
 l:thorium-client
 l:EternalModManager
-l:twitch-wrapper
 l:Cloud_Browser
 l:MediaInfo
 l:Pile
@@ -221,8 +206,6 @@ l:ZeGrapher
 l:OCVvid2fulldome.txt
 l:Downline
 l:Gitbumr
-l:DevHub
-l:SmartServoGui
 l:Psi+
 l:Ghostty
 l:MegaBasterd
@@ -251,7 +234,6 @@ l:mybelka
 l:Scribus
 l:stretchly
 l:OpenStream_Music
-l:MyPaint
 l:ledger-live-desktop
 l:ClownMapEd
 l:Popsicle
@@ -262,7 +244,6 @@ l:Datcord
 l:xiangxuema
 l:Parity_Fether
 l:PrimeWorldEditor
-l:CutePeaks
 l:OVideo
 l:Fraidycat
 l:ToastWallet
@@ -288,8 +269,6 @@ l:Opentrons
 l:Infection_Monkey
 l:Keibo-MoneyTracker-x86_64
 l:Siderus_Orion
-l:ExeQt
-l:Fraktal
 l:Alduin
 l:ReliefValve
 l:Stellarium
@@ -304,8 +283,6 @@ l:Kdenlive
 l:Elphyre-WalletShell
 l:Deployer
 l:APK_Editor_Studio
-l:NepaliUnicode
-l:ridereceipts
 l:TeXstudio
 l:Colon
 l:PacketSender
@@ -315,7 +292,6 @@ l:VizGraph
 l:RoloViewer
 l:emulsion
 l:BasiliskII
-l:Synthein
 l:Syncthing_Tray
 l:fmradio
 l:stash-electron
@@ -332,7 +308,6 @@ l:Intiface
 l:Waterfox_Classic
 l:Lunyr
 l:ana-conversation-studio
-l:upterm
 l:Emacs
 l:Pony_Compiler
 l:Advanced_Rest_Client
@@ -345,13 +320,11 @@ l:SigDigger
 l:Tobe
 l:Notable
 l:BrainWaves
-l:Vipster
 l:PRAGA
 l:Google_Tasks_Desktop
 l:school-sections
 l:appimagetool
 l:Translatium
-l:Mini_Diary
 l:ngPost
 l:feedseries
 l:gsubs
@@ -379,7 +352,6 @@ l:Stele
 l:ARAnyM
 l:Makagiga
 l:makoureactor
-l:Mob
 l:MLV-App
 l:GospelPdfViewer
 l:erdesigner
@@ -387,20 +359,15 @@ l:YangDownloader
 l:parsec-linux-appimage
 l:CRG_Data_Tool
 l:MicroPad
-l:Kanon
 l:Stacer
 l:iptvnator
 l:AnimaShooter
 l:TeleDrive
 l:Vieb
-l:CustomRPC
-l:Mechvibes
 l:westeroscraftlauncher
 l:Standard_Notes
-l:ColorGenerator
 l:strongbox
 l:CoreAction
-l:Skrifa
 l:Apache_NetBeans
 l:mjml-app
 l:Bezique
@@ -451,7 +418,6 @@ l:notepadqq
 l:Mattermost_Desktop
 l:Marvin
 l:youtube-music
-l:RoboRock_Control_Center
 l:FAT_Wallet
 l:uArmStudio
 l:ExtremeCooling4Linux
@@ -464,7 +430,6 @@ l:SocNetV
 l:Wrapbox
 l:clipr
 l:mpc-qt
-l:falcon-sql-client
 l:KevEdit
 l:electron-wechat
 l:Widelands
@@ -479,7 +444,6 @@ l:Friture
 l:Software-Challenge-GUI
 l:mutool
 l:Parallelcoin
-l:x-loc
 l:Black_Chocobo
 l:DeadGame-2048
 l:Winds
@@ -499,7 +463,6 @@ l:MesenOrion
 l:SPlayer
 l:steam-rom-manager
 l:ExifCleaner
-l:SiliconSneaker
 l:NimiTV
 l:NoteMaster
 l:SimDSP
@@ -508,7 +471,6 @@ l:CorePaint
 l:Pennywise
 l:BaijiMangaViewer
 l:saphyr
-l:LMMS
 l:Canoe
 l:NEST_Desktop
 l:ChainX_Signer
@@ -517,7 +479,6 @@ l:Firefox_ESR
 l:Mirage
 l:Ember
 l:AsarUI
-l:Music_Blocks
 l:Znax
 l:Eqonomize
 l:PlayMe
@@ -545,7 +506,6 @@ l:LazPaint
 l:LikeTaskManager
 l:Quixel_Bridge
 l:deb2appimage
-l:Groot
 l:lux
 l:Scraper
 l:C-evo
@@ -557,7 +517,6 @@ l:Converter432Hz
 l:UplinkIRC
 l:OWallet
 l:Spivak
-l:puush-qt
 l:CARTA
 l:WatchIt
 l:luna
@@ -601,7 +560,6 @@ l:AnzeigenChef
 l:Drill
 l:App_Outlet
 l:SourceGit
-l:OSRS_Tools
 l:Revisionary
 l:Sabaki
 l:OpenSCAD
@@ -618,7 +576,6 @@ l:qtchan
 l:Nitrokey
 l:avogadro
 l:hyper
-l:ImapSyncClient
 l:cric
 l:meta-grabber
 l:Espanso
@@ -675,7 +632,6 @@ l:Whalebird
 l:Drawpile
 l:Negibox
 l:Beekeeper_Studio
-l:RetroArch
 l:SFRT_Attendance
 l:aillio-ts
 l:EyeStalker
@@ -687,7 +643,6 @@ l:mandelbulber2
 l:GVim
 l:QPrompt
 l:ZY_Player
-l:QDriverStation
 l:Shadowsocks
 l:LiveMe_Pro_Tools
 l:youtube-music-desktop
@@ -699,7 +654,6 @@ l:Katvan
 l:KopiaUI
 l:Scilab
 l:Monot
-l:Qv2ray
 l:TheCloudPortal_Signage_Client
 l:CoreUniverse
 l:Knowte
@@ -725,7 +679,6 @@ l:Tusk
 l:SeriousSamClassic-VK
 l:Shuttle
 l:mockoon
-l:Wsocks
 l:Mayo
 l:Gpredict
 l:Zegarek
@@ -741,8 +694,6 @@ l:Cliniface
 l:lightning-peach-wallet
 l:SonicVisualiser
 l:Memento
-l:HexoEditor
-l:pretty-handy-privacy
 l:CATcher
 l:Rubber_Band_Audio
 l:ClipGrab
@@ -754,7 +705,6 @@ l:Moonitor
 l:FontForge
 l:Qt_JSON_diff
 l:Malice
-l:QaterialGallery
 l:Iceworks
 l:euromilhoes
 l:Shotcut
@@ -805,11 +755,8 @@ l:ElectrumRhodium
 l:elcalc
 l:ElDumper
 l:Fluent_Reader
-l:Comic-Reader
 l:nxshell
 l:Visual_Define-XML_Editor
-l:ThermusQt
-l:Augur
 l:FileShows
 l:MusE
 l:Manta
@@ -834,7 +781,6 @@ l:Cerebral-Debugger
 l:Parom.TV
 l:Geometrize
 l:Cavoke
-l:Viper_Browser
 l:NCSA_Mosaic
 l:Endless_Sky
 l:LOVE
@@ -850,7 +796,6 @@ l:Planet_Blupi
 l:jitsi-meet
 l:Qt5Demo
 l:CoCoMusic
-l:Radix_Wallet
 l:Raspirus
 l:Altus
 l:Tablo_Tools
@@ -881,7 +826,6 @@ l:UniShellect
 l:HyperionIDE
 l:Bloks
 l:Lemon
-l:wxMEdit
 l:Lightning
 l:iQPuzzle
 l:MediaConchGUI
@@ -896,7 +840,6 @@ l:Infra
 l:PlotJuggler
 l:HyperDEX
 l:CoreStats
-l:jumpfm
 l:Onshape
 l:Loginized
 l:PhotoQt
@@ -915,10 +858,8 @@ l:Crypter
 l:86Box
 l:OpenAudible
 l:Hypnos
-l:jscad-desktop
 l:StopLight
 l:Protracker
-l:ngrev
 l:SWC-Minecraft-Launcher
 l:Krita
 l:rmw
@@ -983,7 +924,6 @@ l:FranceTV
 l:My_Jira
 l:unreel
 l:hsinstall
-l:ImpPoster
 l:Moonlight
 l:bioanimation
 l:Diffuse
@@ -998,7 +938,6 @@ l:FromScratch
 l:Nexus_Wallet
 l:Cura
 l:BetterSIS
-l:Pingendo
 l:tc
 l:SimpleInstaBot
 l:BottleBats
@@ -1011,7 +950,6 @@ l:Mr.Dclutterer
 l:beurerscalemanager
 l:MooerLooperManager
 l:Imagine
-l:P2PDerivatives
 l:AppImagePool
 l:Shannon_Calculator
 l:FastQt
@@ -1047,8 +985,6 @@ l:ideaMaker
 l:Markman
 l:Tag_Editor
 l:Tonuino_Toolbox
-l:Mark_Mind
-l:nmap
 l:Webitel_Phone
 l:LiteIDE
 l:Cool_Retro_Term
@@ -1057,8 +993,6 @@ l:Flippy_Qualitative_Testbench
 l:Red_Eclipse-Development
 l:Board_Game_Star
 l:CPU-X
-l:Scytale
-l:Beatconnect_Client
 l:Altitude
 l:VLC
 l:hw-probe
@@ -1086,11 +1020,10 @@ l:Sup
 l:Open_Markup_Editor
 l:todo-bash
 l:guiscrcpy
+l:Alpine_Client
 l:Wonderwall
 l:acreom
 l:SpringBoard
-l:Workbench
-l:Local_Browser
 l:Eternal-Lands
 l:ArcadeManager
 l:gerbv
@@ -1155,23 +1088,19 @@ l:CBETA
 l:PhotoFlow
 l:Janice
 l:ANT_Downloader
-l:xde
 l:LANShare
 l:devdocs-desktop
 l:RetroShare
 l:CleepDesktop
 l:Bridge
 l:Electrum-NMC
-l:elzabrowser
 l:Armagetron_Advanced
 l:AKASHA
 l:ZapDesktop
-l:spm
 l:AtCore
 l:Scrite
 l:Safe_Multisig
 l:Delir
 l:StatusIm
-l:Alpine_Client
-l:Crescat
 l:Glaxnimate
+l:Crescat
