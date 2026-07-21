@@ -96,6 +96,7 @@ l:Carnet
 l:prismlauncher
 l:appium-desktop
 l:wezterm
+l:theFrame
 l:FreeCAD2
 l:Focalizzare
 l:TreeSheets
@@ -911,6 +912,7 @@ l:LPub3D
 l:GrinPlusPlus
 l:Laber
 l:Crypter
+l:Cryptocam_Companion
 l:86Box
 l:OpenAudible
 l:Hypnos
@@ -1041,7 +1043,6 @@ l:Minetest
 l:EiskaltDC++
 l:dataset-annotator
 l:Rufus
-l:Cryptocam_Companion
 l:ideaMaker
 l:Markman
 l:Tag_Editor
@@ -1171,6 +1172,6 @@ l:Scrite
 l:Safe_Multisig
 l:Delir
 l:StatusIm
-l:Alpine_Client
 l:Glaxnimate
+l:Alpine_Client
 l:Crescat
