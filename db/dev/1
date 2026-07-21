@@ -96,7 +96,6 @@ l:Carnet
 l:prismlauncher
 l:appium-desktop
 l:wezterm
-l:theFrame
 l:FreeCAD2
 l:Focalizzare
 l:TreeSheets
@@ -1042,6 +1041,7 @@ l:Minetest
 l:EiskaltDC++
 l:dataset-annotator
 l:Rufus
+l:Cryptocam_Companion
 l:ideaMaker
 l:Markman
 l:Tag_Editor
@@ -1068,7 +1068,6 @@ l:RefOrg
 l:MiniZinc_IDE
 l:Scintillator
 l:Bdash
-l:Cryptocam_Companion
 l:QQ
 l:Plover
 l:clownmdemu
