@@ -1042,6 +1042,7 @@ l:Minetest
 l:EiskaltDC++
 l:dataset-annotator
 l:Rufus
+l:Cryptocam_Companion
 l:ideaMaker
 l:Markman
 l:Tag_Editor
@@ -1052,6 +1053,7 @@ l:Webitel_Phone
 l:LiteIDE
 l:Cool_Retro_Term
 l:Peercoin
+l:Flippy_Qualitative_Testbench
 l:Red_Eclipse-Development
 l:Board_Game_Star
 l:CPU-X
@@ -1067,7 +1069,6 @@ l:RefOrg
 l:MiniZinc_IDE
 l:Scintillator
 l:Bdash
-l:Alpine_Client
 l:QQ
 l:Plover
 l:clownmdemu
@@ -1171,6 +1172,6 @@ l:Scrite
 l:Safe_Multisig
 l:Delir
 l:StatusIm
+l:Alpine_Client
 l:Glaxnimate
-l:Cryptocam_Companion
 l:Crescat
