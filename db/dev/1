@@ -1042,6 +1042,7 @@ l:Minetest
 l:EiskaltDC++
 l:dataset-annotator
 l:Rufus
+l:Cryptocam_Companion
 l:ideaMaker
 l:Markman
 l:Tag_Editor
@@ -1163,7 +1164,6 @@ l:Bridge
 l:Electrum-NMC
 l:elzabrowser
 l:Armagetron_Advanced
-l:Alpine_Client
 l:AKASHA
 l:ZapDesktop
 l:spm
@@ -1172,6 +1172,6 @@ l:Scrite
 l:Safe_Multisig
 l:Delir
 l:StatusIm
-l:Cryptocam_Companion
-l:Glaxnimate
+l:Alpine_Client
 l:Crescat
+l:Glaxnimate
