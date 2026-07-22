@@ -912,7 +912,6 @@ l:LPub3D
 l:GrinPlusPlus
 l:Laber
 l:Crypter
-l:Cryptocam_Companion
 l:86Box
 l:OpenAudible
 l:Hypnos
@@ -1037,6 +1036,7 @@ l:qpp::cad
 l:Leonflix
 l:p2p-chat
 l:OVALE
+l:Cryptocam_Companion
 l:Pingnoo
 l:Evolution_RTS
 l:Minetest
@@ -1172,6 +1172,6 @@ l:Scrite
 l:Safe_Multisig
 l:Delir
 l:StatusIm
-l:Glaxnimate
 l:Alpine_Client
+l:Glaxnimate
 l:Crescat
