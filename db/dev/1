@@ -1105,7 +1105,6 @@ l:SBLauncher
 l:Minetest
 l:SPlayer
 l:Vulkan_Hardware_Capability_Viewer
-l:Cryptocam_Companion
 l:Bench_CLI
 l:Nexus_Wallet
 l:yaya
@@ -1173,5 +1172,6 @@ l:mini_analyser
 l:OpenStream_Music
 l:Niffler
 l:Glaxnimate
+l:Cryptocam_Companion
 l:Alpine_Client
 l:Crescat
