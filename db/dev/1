@@ -105,11 +105,13 @@ l:Hypnos
 l:quokkagit
 l:ImExample
 l:saphyr
+l:Kater
 l:Gai
 l:Exportoo
 l:SMPlayer
 l:Mattermost_Desktop
 l:Black_Chocobo
+l:crocson
 l:SonicVisualiser
 l:Scintillator
 l:triagem-touch
@@ -163,6 +165,7 @@ l:OpenCloud_Desktop
 l:Rufus
 l:HEAT1D
 l:mockoon
+l:Calsolo
 l:Scribus
 l:DICOMautomaton
 l:O3
@@ -174,6 +177,7 @@ l:Diffuse
 l:KiCad
 l:Cate-Desktop
 l:VirtScreen
+l:Autopsy
 l:ToastWallet
 l:alan-connect
 l:RefOrg
@@ -256,6 +260,7 @@ l:MiniZinc_IDE
 l:qpp::cad
 l:nxshell
 l:RemNote
+l:WriteReallyFree
 l:APhotoToolLibre
 l:textosaurus
 l:Apla
@@ -280,6 +285,7 @@ l:SUMOCO
 l:Sigil
 l:Scrite
 l:xiangxuema
+l:SimpleDoomLauncher
 l:pnpm
 l:glulxe
 l:Mob
@@ -353,6 +359,7 @@ l:StatusIm
 l:euromilhoes
 l:Pennywise
 l:Lagrange
+l:Fluxer-World
 l:Siderus_Orion
 l:Museeks
 l:ExeQt
@@ -369,6 +376,7 @@ l:unoffical-sonos-controller-for-linux
 l:dexter_dev_env
 l:stretchly
 l:Around
+l:4KWALL
 l:CIAA_Suite
 l:EncryptPad
 l:CoreGarage
@@ -389,6 +397,7 @@ l:CP2130_Commander
 l:LiberTEM
 l:Iceworks
 l:RBDL-Toolkit
+l:KnitCalc
 l:Dana
 l:CoreRenamer
 l:Blowfish
@@ -535,6 +544,7 @@ l:SWC-Minecraft-Launcher
 l:Singlebox
 l:QOwnNotes
 l:WalletTech
+l:My-Honda-for-desktop
 l:FontBase
 l:SmallBASIC
 l:x-loc
@@ -694,6 +704,7 @@ l:Mapeo
 l:Mayo
 l:perl-executing-browser
 l:SSPlot
+l:focoo
 l:Converter432Hz
 l:Colorpicker
 l:Sabaki
@@ -712,6 +723,7 @@ l:Music_Blocks
 l:VivifyScrum
 l:QmidiNet
 l:QaterialGallery
+l:Materialize
 l:PanWriter
 l:RSS-Guard
 l:dashy-app
@@ -949,6 +961,7 @@ l:emulsion
 l:Lunyr
 l:Responsively
 l:Pony_Compiler
+l:monfree
 l:AnimaShooter
 l:FAT_Wallet
 l:Widelands
@@ -958,6 +971,7 @@ l:buttercup
 l:ProQuaere
 l:CoreAction
 l:Vusic
+l:YallaVideo
 l:MieSimulatorGUI
 l:tagspaces
 l:ldview
@@ -966,6 +980,7 @@ l:Colon
 l:Mark_Mind
 l:Strata
 l:ColorGenerator
+l:InnerBreeze
 l:iota1k
 l:XPEViewer
 l:HyperionIDE
@@ -1012,6 +1027,7 @@ l:NimiTV
 l:VisiCut
 l:penguins-eggs
 l:Serial_Studio
+l:ironwail
 l:Gpredict
 l:smtk2ssrf
 l:Rubber_Band_Audio
@@ -1103,6 +1119,7 @@ l:TeXstudio
 l:stereophotoview
 l:SBLauncher
 l:Minetest
+l:Kubeterm
 l:SPlayer
 l:Vulkan_Hardware_Capability_Viewer
 l:Bench_CLI
@@ -1151,6 +1168,7 @@ l:My_Jira
 l:ProofKeeper
 l:PhotoFlare
 l:MuPDF
+l:pretty-printable-calendar
 l:QHot
 l:moolticute
 l:LibreOfficePreRelease
@@ -1173,5 +1191,5 @@ l:OpenStream_Music
 l:Niffler
 l:Cryptocam_Companion
 l:Glaxnimate
-l:Crescat
 l:Alpine_Client
+l:Crescat
