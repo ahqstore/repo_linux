@@ -71,7 +71,6 @@ l:school-sections
 l:Chobby
 l:Joy2DroidX
 l:Gitbumr
-l:FastQt
 l:ubpm
 l:AKASHA
 l:draw.io
@@ -416,6 +415,7 @@ l:SonicLineup
 l:ioquake3
 l:uncov
 l:KDiskMark
+l:mpz
 l:Bodhi
 l:VeChain
 l:Emacs
@@ -1192,7 +1192,7 @@ l:Linphone
 l:mini_analyser
 l:OpenStream_Music
 l:Niffler
-l:Glaxnimate
 l:Cryptocam_Companion
-l:Alpine_Client
+l:Glaxnimate
 l:Crescat
+l:Alpine_Client
