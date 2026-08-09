@@ -1,4 +1,5 @@
 l:osu
+l:Datinium
 l:Plex
 l:BetterSIS
 l:GospelPdfViewer
@@ -780,6 +781,7 @@ l:TagSpaces
 l:electron-wechat
 l:Shotcut
 l:Nine
+l:jsFileManager
 l:ProcDepMonitor
 l:Parom.TV
 l:VidCutter
@@ -1200,5 +1202,5 @@ l:OpenStream_Music
 l:Niffler
 l:Cryptocam_Companion
 l:Glaxnimate
-l:Crescat
 l:Alpine_Client
+l:Crescat
