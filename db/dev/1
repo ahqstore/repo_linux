@@ -91,6 +91,7 @@ l:eDEX-UI
 l:Kitupiikki
 l:ngPost
 l:synthv1
+l:Scytale
 l:LiteIDE
 l:strongbox
 l:wezterm
@@ -321,6 +322,7 @@ l:Rainbow_Board
 l:ExeQt
 l:xlights
 l:android-messages-desktop
+l:Bloks
 l:Qv2ray
 l:aillio-ts
 l:gsubs
@@ -481,14 +483,19 @@ l:WebDesktop
 l:ExifCleaner
 l:Scrum-Retroboard
 l:Malice
+l:lescovex
 l:DFileManager
 l:Minecraft_Pi_Reborn_Server
 l:MesenOrion
 l:Rotki
+l:Outline-Manager
 l:Vusic
 l:ttth
+l:Translatium
+l:VisualLVMRemote.yml
 l:HiDPI-Fixer
 l:Naev
+l:Software-Challenge-GUI
 l:McPodcast
 l:PIA
 l:Intiface
@@ -596,6 +603,7 @@ l:ReliefValve
 l:ldview
 l:SavvyCAN
 l:trader
+l:Antares
 l:devdocs-desktop
 l:ITUSB2_Manager
 l:pretty-handy-privacy
@@ -637,6 +645,8 @@ l:moniteur-admin
 l:Stunt_Car_Remake
 l:PrazyCron
 l:GitNote
+l:Lagrange
+l:MazeSolver
 l:uArmStudio
 l:youtube-music-desktop
 l:ironwail
@@ -668,6 +678,7 @@ l:QuickTwitch
 l:FAT_Wallet
 l:Pulsar
 l:Qt_DAB
+l:Explorook
 l:Cabal_Desktop_Mini
 l:Tesseract
 l:MellowPlayer
@@ -923,6 +934,7 @@ l:Deployer
 l:midi123
 l:Eqonomize
 l:Drawpile-Server
+l:GXC_Smart_Contract_IDE
 l:Anchor
 l:Firefox_ESR
 l:Nuclino
@@ -1191,5 +1203,5 @@ l:SF_Tube
 l:embedded-ide
 l:Cryptocam_Companion
 l:Glaxnimate
-l:Alpine_Client
 l:Crescat
+l:Alpine_Client
