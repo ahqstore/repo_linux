@@ -22,6 +22,7 @@ l:Gemalaya
 l:Fluent_Reader
 l:SlackBackup
 l:bioanimation
+l:ImgConvert
 l:Kcov
 l:ProcDepMonitor
 l:Mr.Dclutterer
@@ -516,6 +517,7 @@ l:T.Viewer
 l:SVGWall
 l:Jacksum
 l:DockStation
+l:jsBudbrainsMarbles
 l:Master_PDF_Editor_5.9.90-x86_64.AppImage
 l:VK_Desktop
 l:Hyperspace
@@ -567,6 +569,7 @@ l:Kubeterm
 l:Calculist
 l:SUMOCO
 l:LPub3D
+l:Media_Downloader
 l:LibreSprite
 l:Ripcord
 l:Evolution_RTS
@@ -893,6 +896,7 @@ l:Biplanes_Revival
 l:Audacity
 l:slang-ed
 l:StockStalk
+l:LibreDB_Studio
 l:HyperDEX
 l:Cura
 l:Todoist
