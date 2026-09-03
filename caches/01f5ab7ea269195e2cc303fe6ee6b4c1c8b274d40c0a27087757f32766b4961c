@@ -1,1 +1,1 @@
-{"time":1788426200,"data":{"x86_64":null,"aarch64":null,"tag_name":"Audacity-3.7.9"}}
+{"time":1788442557,"data":{"x86_64":"https://github.com/audacity/audacity/releases/download/Audacity-4.0.0/audacity-linux-4.0.0-x86_64.AppImage","aarch64":"https://github.com/audacity/audacity/releases/download/Audacity-4.0.0/audacity-linux-4.0.0-aarch64.AppImage","tag_name":"Audacity-4.0.0"}}

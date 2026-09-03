@@ -363,7 +363,6 @@ l:Sengi
 l:Trezor_Suite
 l:foxfolio
 l:Spectrum
-l:Mirage
 l:CubicSDR
 l:SerialPlot
 l:Plover
@@ -609,7 +608,6 @@ l:trader
 l:Antares
 l:devdocs-desktop
 l:ITUSB2_Manager
-l:pretty-handy-privacy
 l:Figma
 l:Slacktronic
 l:CBETA
@@ -1129,7 +1127,6 @@ l:JReleaser
 l:YangDownloader
 l:Digitales_Klassenzimmer
 l:scavengers
-l:Cryptocam_Companion
 l:KADE
 l:Drawpile
 l:MapperoGeotagger
@@ -1206,6 +1203,7 @@ l:PRAGA
 l:Shotcut
 l:SF_Tube
 l:embedded-ide
-l:Glaxnimate
 l:Alpine_Client
 l:Crescat
+l:Glaxnimate
+l:Cryptocam_Companion
