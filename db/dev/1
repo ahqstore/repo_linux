@@ -142,6 +142,7 @@ l:My_Jira
 l:VizGraph
 l:VeChain
 l:Synthein
+l:colorstatic-bash
 l:PicoLog
 l:LibAssist
 l:QMPlay2
@@ -1204,7 +1205,7 @@ l:Beatconnect_Client
 l:ExeQt
 l:ironwail
 l:Waterfox_Third_Generation
-l:Alpine_Client
 l:Cryptocam_Companion
-l:Glaxnimate
 l:Crescat
+l:Alpine_Client
+l:Glaxnimate
