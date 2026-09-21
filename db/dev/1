@@ -741,7 +741,6 @@ l:vue-calc
 l:ser-player
 l:Endless_Sky
 l:AnzeigenChef
-l:whu-library-seat
 l:Onyx_Launcher
 l:weweChat
 l:VPaint
@@ -1124,6 +1123,7 @@ l:four
 l:BetterSIS
 l:ImapSyncClient
 l:Groot
+l:ColorGenerator
 l:Aspect
 l:bottlenose
 l:Electrum
@@ -1204,6 +1204,6 @@ l:ExeQt
 l:ironwail
 l:Waterfox_Third_Generation
 l:Cryptocam_Companion
-l:Crescat
 l:Alpine_Client
 l:Glaxnimate
+l:Crescat
