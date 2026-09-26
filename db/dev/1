@@ -96,6 +96,7 @@ l:jscad-desktop
 l:Electrum
 l:MagicFountain
 l:BaijiMangaViewer
+l:MEASUR
 l:AtCore
 l:QmidiNet
 l:SerialPort_Assistant
@@ -1257,8 +1258,8 @@ l:Verto
 l:mikutter
 l:Qt_DAB
 l:gsubs
-l:Alpine_Client
 l:Cryptocam_Companion
-l:Crescat
 l:Glaxnimate
 l:Beam_Research_Toolkit
+l:Crescat
+l:Alpine_Client
