@@ -63,6 +63,7 @@ l:HexoEditor
 l:CorePaint
 l:MQTT-Explorer
 l:EmuDeck
+l:claude-devtools
 l:Record_Compare
 l:Wrapbox
 l:CPod
@@ -70,6 +71,7 @@ l:Pile
 l:uncov
 l:onekey
 l:ldview
+l:contributor-toolkit
 l:jsDuoDom
 l:XClicker
 l:sticker-convert
@@ -96,6 +98,7 @@ l:Colobot
 l:jscad-desktop
 l:Electrum
 l:MagicFountain
+l:YT-Forge
 l:BaijiMangaViewer
 l:MEASUR
 l:AtCore
@@ -118,6 +121,7 @@ l:Vulkan_Hardware_Capability_Viewer
 l:Drill
 l:MDL
 l:Yamagi_Quake_II
+l:diskfmt
 l:Valeronoi
 l:jag
 l:flappy-bird
@@ -213,6 +217,7 @@ l:CoreUniverse
 l:QuickTwitch
 l:Bforartists
 l:LiveMe_Pro_Tools
+l:Flyx-main
 l:RoloViewer
 l:Endless_Sky
 l:Mumble
@@ -297,6 +302,7 @@ l:jsMediaEditor
 l:Kate
 l:SimSpark
 l:Anchor
+l:xmmusic
 l:OLL
 l:draw.io
 l:Savvy-MTG-Life-Counter
@@ -326,6 +332,7 @@ l:qrl-wallet
 l:CoreInfo
 l:iPuissance_4D
 l:Lagrange
+l:LBK_Launcher
 l:Poddr
 l:GrinPlusPlus
 l:Chess_Opening_Tool
@@ -336,6 +343,7 @@ l:MineTime
 l:Krita
 l:OVALE
 l:Canoe
+l:OpenSCP
 l:Winds
 l:Bitwarden
 l:Artifact
@@ -413,6 +421,7 @@ l:tweet-tray
 l:XPEViewer
 l:Subtitle_Composer
 l:lightning-peach-wallet
+l:Turtle-Tracer
 l:Cascade_Image_Editor
 l:Outline-Manager
 l:OSRS_Tools
@@ -614,12 +623,14 @@ l:NepaliUnicode
 l:Colorpicker
 l:MuPDF
 l:Linphone
+l:dotline
 l:Widelands
 l:Wonderwall
 l:QQ_Music
 l:Armagetron_Advanced
 l:Meshmill
 l:MuWire
+l:Gharmonize
 l:GXC_Smart_Contract_IDE
 l:simple-s3-uploader
 l:nmap
@@ -666,6 +677,7 @@ l:unofficial-zalo
 l:rmw
 l:NetworkClient
 l:cric
+l:gleditor
 l:Vusic
 l:SigDigger
 l:MuseScore
@@ -680,6 +692,7 @@ l:LOVE
 l:ommpfritt
 l:vue-calc
 l:UplinkIRC
+l:Rexpo_Debugger
 l:BottleBats
 l:Jorvik
 l:SlackBackup
@@ -773,8 +786,10 @@ l:Arduino_IDE
 l:Tesseract
 l:sqlitebrowser
 l:Cacher
+l:HyperDEX
 l:FireMinipro
 l:Scatter
+l:Parallel-Code
 l:hyper
 l:StopLight
 l:iota1k
@@ -802,6 +817,7 @@ l:OCVvid2fulldome
 l:ANT_Downloader
 l:Cromberg
 l:BasiliskII
+l:Clawd-on-Desk
 l:Insight
 l:Puppetry
 l:quick-share
@@ -904,6 +920,7 @@ l:GameHub
 l:Focalizzare
 l:mki3dgame
 l:whiteboard
+l:free-rembg-desktop
 l:twetter
 l:BrainWaves
 l:weweChat
@@ -947,6 +964,7 @@ l:swradio
 l:SchildiChat
 l:Frappe_Accounting
 l:VizGraph
+l:Water
 l:AudioMoth
 l:AvantGarde
 l:CoreShot
@@ -1032,6 +1050,7 @@ l:Tag_Editor
 l:Electron_App_Store
 l:FlightGear
 l:Cate-Desktop
+l:Kement
 l:ITUSB2_Manager
 l:xde
 l:nis-one-click-backup
@@ -1046,6 +1065,7 @@ l:PikoPixel
 l:Downline
 l:stash-electron
 l:school-sections
+l:Claude-Usage-Widget
 l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
@@ -1231,6 +1251,7 @@ l:LiteIDE
 l:wezterm
 l:ElectrumRhodium
 l:SMF-DSP
+l:Skales
 l:Shadowsocks
 l:laravel-kit
 l:YubiKey_Manager
@@ -1285,6 +1306,7 @@ l:e2designer
 l:QOwnNotes
 l:Keys
 l:VirtScreen
+l:qcut
 l:Patchwork
 l:Painel-Web
 l:POE_Ladder
@@ -1312,6 +1334,7 @@ l:QHot
 l:LibreSprite
 l:CRITERIA1D_PRO
 l:Sengi
+l:AnkiGammon
 l:Sabaki
 l:VenusPro
 l:TagSpaces
@@ -1330,9 +1353,10 @@ l:Vieb
 l:Verto
 l:mikutter
 l:Qt_DAB
+l:Meeting_Transcriber
 l:gsubs
 l:Cryptocam_Companion
-l:Beam_Research_Toolkit
 l:Alpine_Client
 l:Glaxnimate
 l:Crescat
+l:Beam_Research_Toolkit
