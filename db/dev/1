@@ -343,7 +343,6 @@ l:Revisionary
 l:CorePad
 l:jira-timer
 l:NEST_Desktop
-l:Wire
 l:ExeQt
 l:Master_PDF_Editor_5.9.90-x86_64.AppImage
 l:Kotatogram_Desktop
@@ -438,7 +437,6 @@ l:Subsurface
 l:QCTools
 l:TurboWarp
 l:vCloudcam
-l:Rotki
 l:AKASHA
 l:FS-PDF-Compressor
 l:jexiftoolgui
@@ -694,6 +692,7 @@ l:My_Jira
 l:Rubber_Band_Audio
 l:Buckets
 l:FreeTexturePacker
+l:AiyoPerps
 l:Waterfox_Fourth_Generation
 l:SiliconSneaker
 l:DockStation
@@ -793,6 +792,7 @@ l:CP2130_Commander
 l:Rebaslight
 l:OpenStream_Music
 l:ColorGenerator
+l:SubnetDesk
 l:pnpm
 l:pretty-handy-privacy
 l:OCVvid2fulldome
@@ -875,7 +875,6 @@ l:flameshot
 l:QXGEdit
 l:Niffler
 l:SysD_Manager
-l:luna
 l:BilibiliVideoDownload
 l:strans
 l:pkg2appimage
@@ -886,6 +885,7 @@ l:mpc-qt
 l:BetterCrewlink
 l:PhotoQuick
 l:KADE
+l:Gong
 l:Siril
 l:Taskizer
 l:NMEASimulator
@@ -894,6 +894,7 @@ l:QCalc
 l:BrickStore
 l:UniShellect
 l:Tagstoo
+l:Gqrx
 l:Signal
 l:CorePins
 l:GameHub
@@ -953,6 +954,7 @@ l:gerbv
 l:sourcegit
 l:SigmaSpectra
 l:tipitaka_pali_reader
+l:MyVPN
 l:CoreStuff
 l:ProQuaere
 l:Tiled
@@ -1173,7 +1175,6 @@ l:jsCPUMonitor
 l:antimicroX
 l:Chiaki
 l:evoplex
-l:ElectroCRUD
 l:Bitcoin_Safe
 l:Vitomu
 l:tallybook.yml
@@ -1322,8 +1323,8 @@ l:Verto
 l:mikutter
 l:Qt_DAB
 l:gsubs
-l:Alpine_Client
 l:Cryptocam_Companion
-l:Glaxnimate
-l:Beam_Research_Toolkit
+l:Alpine_Client
 l:Crescat
+l:Beam_Research_Toolkit
+l:Glaxnimate
