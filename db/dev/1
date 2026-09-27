@@ -286,6 +286,7 @@ l:RoboRock_Control_Center
 l:Zap
 l:OVideo
 l:Breader
+l:ZenNotes
 l:Cryptomator
 l:vCardStudio
 l:quokkagit
@@ -321,6 +322,7 @@ l:qtrfpowermeter
 l:Shotcut
 l:XnViewMP
 l:ipe
+l:qrl-wallet
 l:CoreInfo
 l:iPuissance_4D
 l:Lagrange
@@ -399,7 +401,6 @@ l:My-Honda-Plus-for-desktop
 l:Iceworks
 l:Software-Challenge-GUI
 l:clippy
-l:Nostlan
 l:Sigil
 l:vifm
 l:CleepDesktop
@@ -478,6 +479,7 @@ l:Genesis
 l:VK_Desktop
 l:Altitude
 l:RSS-Guard
+l:NEO
 l:PicGo
 l:Lemon
 l:Mindmapp
@@ -572,6 +574,7 @@ l:ipfs-desktop
 l:VRRTest
 l:YesPlayMusic
 l:euromilhoes
+l:OpenRA
 l:Obsidian
 l:ksnip
 l:powder_toy
@@ -701,6 +704,7 @@ l:ExifCleaner
 l:Workbench
 l:Dust3D
 l:Bridge
+l:Kun
 l:falcon-sql-client
 l:ImapSyncClient
 l:commandoo
@@ -769,7 +773,6 @@ l:Arduino_IDE
 l:Tesseract
 l:sqlitebrowser
 l:Cacher
-l:HyperDEX
 l:FireMinipro
 l:Scatter
 l:hyper
@@ -1083,6 +1086,7 @@ l:Onyx_Launcher
 l:KCalc
 l:CrossCode_Map_Editor
 l:RyoWallet
+l:open-codesign
 l:CoreStats
 l:Materialize
 l:thorium-client
@@ -1161,6 +1165,7 @@ l:Loginized
 l:ideaMaker
 l:Monghoul
 l:Heimer
+l:OpenHV
 l:Flippy_Qualitative_Testbench
 l:SFRT_Attendance
 l:EncryptPad
@@ -1255,6 +1260,7 @@ l:BitBox
 l:osu
 l:Stele
 l:Hyperspace
+l:NuvioDesktop
 l:theFrame
 l:keyrier-json
 l:AnimaShooter
@@ -1316,7 +1322,9 @@ l:PatternPaint
 l:ClementineRemote
 l:CARTA
 l:pyappimage
+l:OpenMausBot
 l:lumi
+l:StemKit
 l:Converter432Hz
 l:Vieb
 l:Verto
@@ -1324,7 +1332,7 @@ l:mikutter
 l:Qt_DAB
 l:gsubs
 l:Cryptocam_Companion
-l:Alpine_Client
-l:Crescat
 l:Beam_Research_Toolkit
+l:Alpine_Client
 l:Glaxnimate
+l:Crescat
