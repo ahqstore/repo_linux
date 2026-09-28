@@ -5,6 +5,7 @@ l:ZapDesktop
 l:GIMP
 l:windows2usb
 l:Mindwtr
+l:AI_Gist
 l:whu-library-seat
 l:Parity_Fether
 l:Naev
@@ -176,7 +177,9 @@ l:AsarUI
 l:Gaphor
 l:guiscrcpy
 l:LosslessCut
+l:xpeccy-plus
 l:Synthein
+l:local-operator-ui
 l:Groot
 l:Gifcurry
 l:textosaurus
@@ -257,6 +260,7 @@ l:photoname
 l:Blizzard_4
 l:jsLinuxCleanup
 l:Rainbow_Board
+l:Kai
 l:Sugarizer
 l:appimagehelper
 l:Exportoo
@@ -288,10 +292,12 @@ l:OpenSCAD
 l:ana-conversation-studio
 l:Videomass
 l:RoboRock_Control_Center
+l:Carvera_Controller
 l:Zap
 l:OVideo
 l:Breader
 l:ZenNotes
+l:TaratorMusic
 l:Cryptomator
 l:vCardStudio
 l:quokkagit
@@ -435,9 +441,11 @@ l:movie-monad
 l:eDEX-UI
 l:Gemalaya
 l:Minetest
+l:Luanti
 l:MCP2210_Commander
 l:ser-player
 l:githoard
+l:PasteMax
 l:Session
 l:ClassicImageViewer
 l:Silo
@@ -568,7 +576,9 @@ l:zeltrez
 l:ChainX_Signer
 l:huwinterpreter
 l:Markman
+l:XPipe_PTB
 l:QCADesigner-E
+l:Copilot-API
 l:mandelbulber2
 l:Slippi
 l:ScrapeStorm
@@ -703,8 +713,10 @@ l:TVALB
 l:NoSQLBooster
 l:Minecraft_Pi_Reborn_Client
 l:nvtop
+l:excalidraw-desktop
 l:CoreBox
 l:My_Jira
+l:LibreMerge
 l:Rubber_Band_Audio
 l:Buckets
 l:FreeTexturePacker
@@ -726,6 +738,7 @@ l:Red_Eclipse-Development
 l:PrazyCron
 l:EasyMercurial
 l:ioquake3
+l:KMCG
 l:Bench_CLI
 l:OpenTodoList
 l:steam-rom-manager
@@ -771,6 +784,7 @@ l:Elements
 l:SeriousSamClassic-VK
 l:HiDPI-Fixer
 l:Singlebox
+l:PlainRepo
 l:SVGWall
 l:qpdf
 l:Explorook
@@ -907,6 +921,7 @@ l:KADE
 l:Gong
 l:Siril
 l:Taskizer
+l:InferencePort_AI
 l:NMEASimulator
 l:Neuron
 l:QCalc
@@ -963,6 +978,7 @@ l:INSTEAD
 l:swradio
 l:SchildiChat
 l:Frappe_Accounting
+l:Ollie
 l:VizGraph
 l:Water
 l:AudioMoth
@@ -1023,6 +1039,7 @@ l:Stunt_Car_Remake
 l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
+l:MirrorShard
 l:tmon
 l:Cliniface
 l:Rufus
@@ -1142,6 +1159,7 @@ l:Plover
 l:WriteReallyFree
 l:android-messages-desktop
 l:Gpredict
+l:wikiLYNX
 l:Thinktool_Desktop
 l:Inboxer
 l:ThermusQt
@@ -1224,6 +1242,7 @@ l:jsChess
 l:retail
 l:MiniZinc_IDE
 l:CodePilot.ai
+l:QDiskInfo
 l:Scraper
 l:Skyscraper
 l:blink
@@ -1356,7 +1375,7 @@ l:Qt_DAB
 l:Meeting_Transcriber
 l:gsubs
 l:Cryptocam_Companion
-l:Alpine_Client
-l:Glaxnimate
-l:Crescat
 l:Beam_Research_Toolkit
+l:Glaxnimate
+l:Alpine_Client
+l:Crescat
