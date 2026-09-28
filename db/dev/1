@@ -41,6 +41,7 @@ l:Tropy
 l:CoreAction
 l:Scrite
 l:LibreOfficeFresh
+l:sdl_img
 l:Music_Blocks
 l:ReliefValve
 l:Knowte
@@ -873,6 +874,7 @@ l:Gitteraqt
 l:Comic-Reader
 l:dashy-app
 l:LeoCAD
+l:Pilot_Harness
 l:KeeWeb
 l:tinyclerk
 l:RasterDraw
@@ -1182,6 +1184,7 @@ l:Sharik
 l:VivifyScrum
 l:CrossMobile
 l:GitJournal
+l:GazBoard
 l:SUMOCO
 l:PraxisLIVE
 l:Birds_Kitchen
@@ -1224,6 +1227,7 @@ l:EncryptPad
 l:cncjs
 l:Shannon_Calculator
 l:Cabal_Desktop_Mini
+l:PDF_Bunny
 l:Scrum-Retroboard
 l:Moonlight
 l:MQTTCute
@@ -1275,6 +1279,7 @@ l:CIAA_Suite
 l:ttth
 l:Lightning
 l:LazPaint
+l:melo
 l:SuperTux
 l:Guitar
 l:I_Have_No_Tomatoes
@@ -1309,6 +1314,7 @@ l:SimDSP
 l:NixNote
 l:DFileManager
 l:MellowPlayer
+l:RMG
 l:ai-bot-workspace
 l:Playbox
 l:BitBox
@@ -1393,5 +1399,5 @@ l:gsubs
 l:Alpine_Client
 l:Cryptocam_Companion
 l:Crescat
-l:Beam_Research_Toolkit
 l:Glaxnimate
+l:Beam_Research_Toolkit
