@@ -188,6 +188,7 @@ l:XELFViewer
 l:SPlayer
 l:Ark.Desktop.Wallet
 l:JSplacement
+l:BrewMate
 l:JReleaser
 l:Zenkit
 l:ElDumper
@@ -487,6 +488,7 @@ l:xonsh
 l:Mapeo
 l:PolkaKey
 l:Demonizer
+l:jammer
 l:jsPicPuzzler
 l:colorstatic-bash
 l:feedseries
@@ -529,6 +531,7 @@ l:onnx2daq
 l:Timenaut
 l:CorsixTH
 l:LANShare
+l:unsloth
 l:SSPlot
 l:LibreDB_Studio
 l:Stello
@@ -561,6 +564,7 @@ l:Firefox
 l:Invoice-Generator
 l:ClownMapEd
 l:Vipster
+l:GlyphVisualizer
 l:AbracaDABra
 l:Zulip
 l:prismlauncher
@@ -586,6 +590,7 @@ l:Pathephone
 l:BlenSor
 l:perl-executing-browser
 l:PowerliminalsPlayer
+l:MonTally
 l:PanWriter
 l:GPUpad
 l:dexter_dev_env
@@ -604,6 +609,7 @@ l:Pulse
 l:Pennywise
 l:Aspect
 l:PhotoFlow
+l:Stream.Overlay
 l:EiskaltDC++
 l:YallaVideo
 l:Infinitex
@@ -629,6 +635,7 @@ l:notepadqq
 l:Biying
 l:QymCAD
 l:snake.js
+l:FactWallet
 l:NepaliUnicode
 l:Colorpicker
 l:MuPDF
@@ -741,6 +748,7 @@ l:ioquake3
 l:KMCG
 l:Bench_CLI
 l:OpenTodoList
+l:StayFree
 l:steam-rom-manager
 l:glulxe
 l:UHK.Agent
@@ -827,6 +835,7 @@ l:ColorGenerator
 l:SubnetDesk
 l:pnpm
 l:pretty-handy-privacy
+l:EmuCenter
 l:OCVvid2fulldome
 l:ANT_Downloader
 l:Cromberg
@@ -891,6 +900,7 @@ l:Zegarek
 l:SerialPlot
 l:Creality_Print
 l:LibreMines
+l:PS2-ISO-Batch-Renamer-
 l:ao
 l:PlotJuggler
 l:RustDesk
@@ -942,6 +952,7 @@ l:weweChat
 l:avogadro
 l:SwitchHosts!
 l:Quick_Clone
+l:Beatmap_Backup
 l:storyboarder
 l:Emacs
 l:zsync2
@@ -1103,6 +1114,7 @@ l:Museeks
 l:Firefox_ESR
 l:Spivak
 l:nRF_Connect
+l:Exilence_CE
 l:Pixsrt
 l:dvdisaster
 l:PrimeWorldEditor
@@ -1115,6 +1127,7 @@ l:Electorrent
 l:Listen1
 l:Paletti
 l:jsMahjong
+l:ecode
 l:Pext
 l:Rambox
 l:CoreImage
@@ -1160,6 +1173,7 @@ l:WriteReallyFree
 l:android-messages-desktop
 l:Gpredict
 l:wikiLYNX
+l:Collie
 l:Thinktool_Desktop
 l:Inboxer
 l:ThermusQt
@@ -1242,6 +1256,7 @@ l:jsChess
 l:retail
 l:MiniZinc_IDE
 l:CodePilot.ai
+l:Ved
 l:QDiskInfo
 l:Scraper
 l:Skyscraper
@@ -1343,6 +1358,7 @@ l:Bottles
 l:ITUSB1_Manager
 l:Inkscape
 l:Padloc
+l:VRCFaceTracking.Avalonia
 l:pigs-n-cows
 l:Friture
 l:Moonitor
@@ -1374,8 +1390,8 @@ l:mikutter
 l:Qt_DAB
 l:Meeting_Transcriber
 l:gsubs
+l:Alpine_Client
 l:Cryptocam_Companion
+l:Crescat
 l:Beam_Research_Toolkit
 l:Glaxnimate
-l:Alpine_Client
-l:Crescat
