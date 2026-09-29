@@ -611,8 +611,10 @@ l:Demonizer
 l:waydroid-helper
 l:jammer
 l:jsPicPuzzler
+l:colorstatic-bash
 l:feedseries
 l:ElectrumFair
+l:subtitles-composer-app
 l:Genesis
 l:ClipShare
 l:VK_Desktop
@@ -1278,6 +1280,7 @@ l:ConsoleWorkbench
 l:sigrok-cli
 l:SSH-MITM
 l:Eqonomize
+l:PS2-Servers
 l:Passy
 l:deb2appimage
 l:Juggernaut
@@ -1657,6 +1660,7 @@ l:emuze
 l:QaterialGallery
 l:Vegord
 l:PDF_Scholar
+l:Cryptocam_Companion
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
@@ -1708,7 +1712,6 @@ l:Qt_DAB
 l:Meeting_Transcriber
 l:MultiworldGG
 l:gsubs
-l:Cryptocam_Companion
 l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
