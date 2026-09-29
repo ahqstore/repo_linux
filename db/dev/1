@@ -1,4 +1,5 @@
 l:GlobalPlatform
+l:Ada
 l:Cryptr
 l:mockoon
 l:KeyManager
@@ -55,11 +56,14 @@ l:Bypass_Cors
 l:todofy
 l:Mark_Mind
 l:langly
+l:olcvpn-client
 l:PSF.Guard
+l:FeedForge
 l:Pelusica
 l:GoldenCheetah
 l:Scribus
 l:levior
+l:IngeCAD
 l:westeroscraftlauncher
 l:Tumblr_Downloader_GUI
 l:data-peek
@@ -82,6 +86,7 @@ l:Wrapbox
 l:CPod
 l:Pile
 l:uncov
+l:WeRead_Desktop
 l:onekey
 l:ldview
 l:contributor-toolkit
@@ -161,6 +166,7 @@ l:KOReader
 l:HastyHeroes
 l:Siderus_Orion
 l:MrWriter
+l:AFSplug
 l:jsFileManager
 l:Blender_Config_Manager
 l:Peercoin
@@ -200,6 +206,7 @@ l:cordlauncher
 l:Chobby
 l:Ganache
 l:qtchan
+l:TorrentDeck
 l:todo-bash
 l:AsarUI
 l:Gaphor
@@ -208,6 +215,7 @@ l:guiscrcpy
 l:LosslessCut
 l:xpeccy-plus
 l:Synthein
+l:NextDJ
 l:local-operator-ui
 l:Groot
 l:Gifcurry
@@ -224,6 +232,7 @@ l:Zenkit
 l:InterSpec
 l:ElDumper
 l:Infra
+l:AYA
 l:SonicVisualiser
 l:noteshrink-qt
 l:element
@@ -261,6 +270,8 @@ l:RoloViewer
 l:Endless_Sky
 l:Mumble
 l:Apla
+l:Konjugate
+l:GenieEngine
 l:ocsstore
 l:Hydrogen
 l:go-notes
@@ -274,12 +285,14 @@ l:DeadGame-2048
 l:r2modmanPlus
 l:Carpenters
 l:ScienceFair
+l:SAMBAUtil
 l:Rokkr
 l:Believers_Sword
 l:Meshtastic-Android
 l:xuan
 l:Bootstrap_Studio
 l:MazeSolver
+l:HolyScreen
 l:dlsite-manager
 l:TeleDrive
 l:Elphyre-WalletShell
@@ -287,6 +300,7 @@ l:Geometrize
 l:Discord
 l:MacPipeGUI
 l:Airspaces
+l:Audiola
 l:IGdm
 l:YangDownloader-3.0
 l:GWeatherRouting
@@ -355,6 +369,7 @@ l:ZenNotes
 l:TaratorMusic
 l:Cryptomator
 l:vCardStudio
+l:IXD
 l:quokkagit
 l:dbet-wallet
 l:NoteMaster
@@ -431,6 +446,7 @@ l:jira-timer
 l:NEST_Desktop
 l:OCTAVE
 l:ExeQt
+l:POM2
 l:Master_PDF_Editor_5.9.90-x86_64.AppImage
 l:Kotatogram_Desktop
 l:tldraw-offline
@@ -438,6 +454,7 @@ l:Pulsar
 l:ImExample
 l:Thunderbird_Beta
 l:3dco-plus
+l:smile
 l:todometer
 l:Pony_Compiler
 l:desktop-application
@@ -446,6 +463,7 @@ l:ClipGrab
 l:FromScratch
 l:RemNote
 l:QuickRedis
+l:CrewCode
 l:Rats_on_The_Boat
 l:pdf-sync
 l:SavvyCAN
@@ -456,6 +474,7 @@ l:CustomRPC
 l:Firefox_Nightly
 l:Musicalypse
 l:KiCad
+l:CarcaraCode
 l:qr-code-generator-desktop
 l:EUMETCastView
 l:EyeStalker
@@ -476,6 +495,7 @@ l:Protracker
 l:CoreRenamer
 l:DbGate
 l:Wirewright
+l:CodePet
 l:unoffical-sonos-controller-for-linux
 l:eNoseAnnotator
 l:word-sys-pdf-editor
@@ -514,12 +534,15 @@ l:tweet-tray
 l:XPEViewer
 l:Subtitle_Composer
 l:lightning-peach-wallet
+l:Vibe3D
+l:wolffish-app
 l:Turtle-Tracer
 l:Cascade_Image_Editor
 l:Outline-Manager
 l:OSRS_Tools
 l:cgtimer
 l:Visual_Define-XML_Editor
+l:k8sight
 l:SnippetStore
 l:Sia-UI
 l:admin-tools
@@ -555,6 +578,7 @@ l:Thunderbird
 l:ImHex
 l:qBittorrent_Enhanced_Edition
 l:TRuDI
+l:PaperLab
 l:Chatbox
 l:CuteCut-Pro
 l:pretty-printable-calendar
@@ -568,6 +592,7 @@ l:dfDemo
 l:MicroPad
 l:LibrePCB-Nightly
 l:igotu2gpx
+l:RiaCore
 l:Angor
 l:FreeCAD-asm3
 l:hsinstall
@@ -586,16 +611,15 @@ l:Demonizer
 l:waydroid-helper
 l:jammer
 l:jsPicPuzzler
-l:colorstatic-bash
 l:feedseries
 l:ElectrumFair
-l:subtitles-composer-app
 l:Genesis
 l:ClipShare
 l:VK_Desktop
 l:Altitude
 l:RSS-Guard
 l:NEO
+l:Celestia
 l:PicGo
 l:Lemon
 l:Mindmapp
@@ -632,6 +656,7 @@ l:onnx2daq
 l:Timenaut
 l:CorsixTH
 l:LANShare
+l:PromptDe
 l:unsloth
 l:SSPlot
 l:wnr
@@ -729,6 +754,7 @@ l:Pulse
 l:Pennywise
 l:Aspect
 l:PhotoFlow
+l:StoryDeck
 l:Stream.Overlay
 l:EiskaltDC++
 l:YallaVideo
@@ -756,6 +782,7 @@ l:RPAN_Studio
 l:CPU-X
 l:notepadqq
 l:Biying
+l:UartX
 l:vda5050-visualizer
 l:QymCAD
 l:snake.js
@@ -764,11 +791,13 @@ l:NepaliUnicode
 l:Colorpicker
 l:MuPDF
 l:Linphone
+l:sicth
 l:Wireless_Microphone_Analyzer
 l:Apps2Samsung
 l:dotline
 l:Widelands
 l:Wonderwall
+l:Subway_Surfers
 l:QQ_Music
 l:Armagetron_Advanced
 l:Meshmill
@@ -820,6 +849,7 @@ l:CATcher
 l:Waterfox_Classic
 l:OWallet
 l:Densify
+l:soa-launcher-qt
 l:MLV-App
 l:unofficial-zalo
 l:rmw
@@ -830,11 +860,13 @@ l:Vusic
 l:SigDigger
 l:MuseScore
 l:cabal-desktop
+l:DoubleCommander
 l:tagspaces
 l:halium-tool
 l:Mr.Dclutterer
 l:SWC-Minecraft-Launcher
 l:neovim
+l:Bramble
 l:MesenOrion
 l:LOVE
 l:ommpfritt
@@ -865,6 +897,7 @@ l:SiliconSneaker
 l:DockStation
 l:Qtraktor
 l:FastQt
+l:Marea
 l:ExifCleaner
 l:Workbench
 l:Dust3D
@@ -898,6 +931,7 @@ l:Drawish
 l:lescovex
 l:Klogg
 l:Qfsm
+l:YFitops
 l:ossia_score
 l:Metabuli.App
 l:Leon
@@ -928,6 +962,7 @@ l:QmidiCtl
 l:Pingnoo
 l:Annimate
 l:RomMClient
+l:VidBoards
 l:playyourdamnturn.com
 l:Lx-music-desktop
 l:QLog
@@ -948,6 +983,7 @@ l:FjordLauncher
 l:Navicat
 l:MoarPerf
 l:ratarmount
+l:WriteFlow
 l:mtgatool-desktop
 l:PIA
 l:patchbay
@@ -1015,6 +1051,7 @@ l:Notable
 l:standard-notes
 l:LikeTaskManager
 l:pocketnet.gui
+l:SS14_Editor
 l:clipr
 l:Bdash
 l:Dataset-Editor
@@ -1060,6 +1097,7 @@ l:Sourcetrail
 l:kiwix-js-pwa
 l:Quixel_Bridge
 l:Bloks
+l:AgentFlow
 l:ShareCLIP
 l:RestifEye
 l:MAngbandClient
@@ -1083,6 +1121,7 @@ l:Deployer
 l:PicoLog
 l:Kanon
 l:QPrompt
+l:Happy
 l:StatusIm
 l:LampixJS
 l:Carbonyl
@@ -1096,9 +1135,12 @@ l:SysD_Manager
 l:BilibiliVideoDownload
 l:strans
 l:pkg2appimage
+l:GemType
 l:Aphelion_Wallet
 l:Marvin
+l:AudioABComparator
 l:Lumina_Note
+l:HDRView
 l:Calculist
 l:mpc-qt
 l:BetterCrewlink
@@ -1125,6 +1167,7 @@ l:GameHub
 l:Focalizzare
 l:mki3dgame
 l:CodePointer
+l:KIT_Scenarist
 l:whiteboard
 l:free-rembg-desktop
 l:twetter
@@ -1149,6 +1192,7 @@ l:CoreTime
 l:Kiibohd_Configurator
 l:LiveFaceSwap
 l:SteamCAD
+l:SafeLight
 l:ArcadeManager
 l:qpp::cad
 l:open-note
@@ -1164,6 +1208,7 @@ l:dukto
 l:Godot
 l:Minions
 l:BscanFFTwebcam
+l:EncodeX
 l:Figma
 l:CoreGarage
 l:Mockman
@@ -1196,6 +1241,7 @@ l:MyVPN
 l:CoreStuff
 l:ProQuaere
 l:Tiled
+l:Moji
 l:nordvpn-linux
 l:Popsicle
 l:JoalDesktop
@@ -1225,6 +1271,7 @@ l:moolticute
 l:MapperoGeotagger
 l:VerityPDF
 l:QtMips
+l:CoreSound
 l:Lentigram
 l:eXtrema
 l:ConsoleWorkbench
@@ -1239,6 +1286,7 @@ l:DICOMautomaton
 l:Summoners.War.Exporter
 l:TheCloudPortal_Signage_Client
 l:Stunt_Car_Remake
+l:axiom-os
 l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
@@ -1257,6 +1305,7 @@ l:Mayo
 l:BunqDesktop
 l:AppImageUpdate
 l:BibleMultiTheLife
+l:OpenPaste
 l:Paper
 l:sunshine
 l:KopiaUI
@@ -1267,6 +1316,7 @@ l:Local_Browser
 l:LeanStudio
 l:linux-intel-undervolt-gui
 l:ColorMC
+l:SmartCut
 l:m8c
 l:COMPASS
 l:Play_2048
@@ -1307,6 +1357,7 @@ l:Standard_of_Iron
 l:sage_appimage
 l:Wireboi
 l:Alduin
+l:Data_Plotter
 l:youtube-music-desktop
 l:Rabix_Composer
 l:Museeks
@@ -1339,6 +1390,7 @@ l:KCalc
 l:CrossCode_Map_Editor
 l:RyoWallet
 l:open-codesign
+l:PiST
 l:CoreStats
 l:Materialize
 l:thorium-client
@@ -1346,6 +1398,7 @@ l:jsBudbrainPlayer
 l:Auryo
 l:makoureactor
 l:IrScrutinizer
+l:Marina
 l:Media_Downloader
 l:RetroShare
 l:ProofKeeper
@@ -1376,6 +1429,7 @@ l:Linedancer
 l:Thorium_Reader
 l:Plover
 l:WriteReallyFree
+l:Athena
 l:PureVox
 l:android-messages-desktop
 l:Gpredict
@@ -1406,6 +1460,8 @@ l:mdview
 l:M
 l:SBLauncher
 l:PRAGA
+l:Password_Manager
+l:Doc77
 l:kickstartfx
 l:FileShows
 l:iptvnator
@@ -1425,6 +1481,7 @@ l:mybelka
 l:Monero_Multisig_GUI
 l:Kimitzu-Client
 l:Fan-Browser-Agent
+l:JsonForge
 l:StatusPilatus
 l:lindbergh-loader
 l:VisiCut
@@ -1445,6 +1502,7 @@ l:EncryptPad
 l:cncjs
 l:Shannon_Calculator
 l:Cabal_Desktop_Mini
+l:basic256
 l:PDF_Bunny
 l:Scrum-Retroboard
 l:Moonlight
@@ -1456,6 +1514,7 @@ l:antimicroX
 l:Chiaki
 l:evoplex
 l:Bitcoin_Safe
+l:Kibo
 l:Vitomu
 l:Open_Battery_Information:
 l:tallybook.yml
@@ -1500,6 +1559,7 @@ l:Parson
 l:GridPlayer
 l:HyperionIDE
 l:Media_Hoarder
+l:X-Plane_737NG_Maintenance_Toolkit
 l:LED.Custom.Palette
 l:erdesigner
 l:CIAA_Suite
@@ -1536,9 +1596,11 @@ l:FontBase
 l:ZeGrapher
 l:Isolate
 l:Panini
+l:Korda
 l:PhreshPlayer
 l:Planet_Blupi
 l:KeePassXC
+l:plugdata
 l:SimDSP
 l:NixNote
 l:DFileManager
@@ -1552,9 +1614,11 @@ l:osu
 l:Stele
 l:lutris-gamepad-ui
 l:Hyperspace
+l:formal-ai
 l:NuvioDesktop
 l:map-matching-2
 l:theFrame
+l:Citropy
 l:keyrier-json
 l:AnimaShooter
 l:Termalime
@@ -1591,6 +1655,8 @@ l:POE_Ladder
 l:DawnlightSearch
 l:emuze
 l:QaterialGallery
+l:Vegord
+l:PDF_Scholar
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
@@ -1601,6 +1667,7 @@ l:trader
 l:ebloid_desktop
 l:Bottles
 l:ITUSB1_Manager
+l:Diary
 l:Inkscape
 l:Padloc
 l:VRCFaceTracking.Avalonia
@@ -1643,5 +1710,5 @@ l:MultiworldGG
 l:gsubs
 l:Cryptocam_Companion
 l:Alpine_Client
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
