@@ -567,6 +567,7 @@ l:OpenComic
 l:Joplin
 l:Gulden
 l:DiskHound
+l:Sightings
 l:C64KERNALGenesis
 l:Mah
 l:Morphly
@@ -2241,7 +2242,6 @@ l:OpenEmux
 l:wezterm
 l:ElectrumRhodium
 l:dpcc-harness
-l:Cryptocam_Companion
 l:Veld
 l:SMF-DSP
 l:revpdf-release
@@ -2412,6 +2412,7 @@ l:Qt_DAB
 l:Meeting_Transcriber
 l:MultiworldGG
 l:gsubs
+l:Cryptocam_Companion
 l:Alpine_Client
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
