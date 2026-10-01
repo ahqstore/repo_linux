@@ -18,6 +18,7 @@ l:omp-ui
 l:Parity_Fether
 l:Naev
 l:Bitfighter
+l:Seafari
 l:Sige_Lite
 l:Opentrons
 l:Diffuse
@@ -109,6 +110,7 @@ l:EmuDeck
 l:dsd-neo
 l:claude-devtools
 l:Record_Compare
+l:OSC-DreamChatbox
 l:Wrapbox
 l:Requesto
 l:buildpipe
@@ -143,6 +145,7 @@ l:Mixi
 l:Cavoke
 l:Join_Desktop
 l:Qt_JSON_diff
+l:MangoDisk
 l:FlashForgeUI-Electron
 l:MediaConchGUI
 l:PocketCasts_Electron
@@ -187,6 +190,7 @@ l:Karyon
 l:Overte
 l:OpenConverter
 l:SmallBASIC
+l:MarkView
 l:Nootka
 l:Simdock
 l:etichetta
@@ -305,6 +309,7 @@ l:LosslessCut
 l:Optimum
 l:xpeccy-plus
 l:Synthein
+l:Deemix_Remastered
 l:NextDJ
 l:IA-Interact
 l:Kubermeister
@@ -320,6 +325,8 @@ l:Beware_Of_Dog
 l:SPlayer
 l:PaperOtter
 l:Ark.Desktop.Wallet
+l:Gitbox
+l:Statusify
 l:JSplacement
 l:APIWeave
 l:BrewMate
@@ -557,6 +564,7 @@ l:Connectio
 l:DeepTags
 l:Addaps
 l:Tumblr_Scraper
+l:DeezerDiscordRPC
 l:AnzeigenChef
 l:Negibox
 l:Tobe
@@ -765,6 +773,7 @@ l:tweet-tray
 l:XPEViewer
 l:Subtitle_Composer
 l:EasyShell
+l:MarkBricks
 l:lightning-peach-wallet
 l:Vibe3D
 l:wolffish-app
@@ -774,6 +783,7 @@ l:Cascade_Image_Editor
 l:HyperShell
 l:Outline-Manager
 l:LuxClient
+l:FLACidal
 l:Playhead
 l:OSRS_Tools
 l:simulator-desktop-releases
@@ -805,6 +815,7 @@ l:githoard
 l:ASGARDEX
 l:coomer
 l:PasteMax
+l:Session
 l:ClassicImageViewer
 l:3s-PokeMMO-Tool
 l:Silo
@@ -830,6 +841,7 @@ l:Rockchip_Flash_Tool
 l:ImHex
 l:qBittorrent_Enhanced_Edition
 l:TRuDI
+l:Busca_Vagas
 l:PaperLab
 l:Chatbox
 l:CuteCut-Pro
@@ -871,6 +883,7 @@ l:OpenBlok
 l:xonsh
 l:Mapeo
 l:PolkaKey
+l:Vayu
 l:phoenix-desktop
 l:Demonizer
 l:DBPTK_Desktop
@@ -1058,6 +1071,7 @@ l:DataDock
 l:PanWriter
 l:GPUpad
 l:RKDevelopTool-GUI
+l:Astra
 l:dexter_dev_env
 l:OneFinance
 l:biowatch
@@ -1083,7 +1097,6 @@ l:Pulse
 l:Pennywise
 l:Aspect
 l:PhotoFlow
-l:StoryDeck
 l:Stream.Overlay
 l:EiskaltDC++
 l:BibaVPN
@@ -1425,6 +1438,7 @@ l:WriteFlow
 l:mtgatool-desktop
 l:PIA
 l:Chronicle_Keeper
+l:ebalistyka
 l:GyShell
 l:patchbay
 l:ONLYOFFICE
@@ -1440,6 +1454,7 @@ l:Tesseract
 l:sqlitebrowser
 l:Git_Context
 l:ClawChat
+l:Brave_Browser
 l:Cacher
 l:doom-ascii
 l:CanvasTTY
@@ -1552,6 +1567,7 @@ l:Musicott
 l:Soil
 l:Geniuz
 l:KronEditor
+l:RigRoom
 l:Billme
 l:Mini_Diary
 l:Vibe_Pet
@@ -1835,6 +1851,7 @@ l:nxshell
 l:media-dupes
 l:ChemThisTry
 l:Wexond
+l:OpenTM
 l:Spectrum
 l:WalletTech
 l:TransKit_Desktop
@@ -1935,7 +1952,6 @@ l:hal9000
 l:Running-Dinner-Tool
 l:GpgFrontend
 l:twitch-wrapper
-l:Delir
 l:mapton
 l:PikoPixel
 l:Downline
@@ -2010,6 +2026,7 @@ l:Network_Simulator
 l:Composa
 l:CoreImage
 l:BloomRPC
+l:Mini_MQTT_Client
 l:Onyx_Launcher
 l:JetBrains_Toolbox
 l:KCalc
@@ -2061,6 +2078,7 @@ l:ZY_Player
 l:Memory_Fort
 l:MyCrypto
 l:Traycer
+l:leolink
 l:Sheikah
 l:PostyBirb
 l:Lucerne
@@ -2114,6 +2132,7 @@ l:WorkFlowy
 l:FinceptTerminal
 l:HA-Desktop-Widget
 l:wsp
+l:conky
 l:STEMwerk-reaper
 l:Tuim
 l:TorReaderPDF
@@ -2312,6 +2331,7 @@ l:LibreWolf
 l:FontBase
 l:ZeGrapher
 l:Isolate
+l:Netcatty
 l:Panini
 l:Korda
 l:PhreshPlayer
@@ -2441,6 +2461,7 @@ l:VenusPro
 l:EasyExtractUnitypackage
 l:FrameExtractor
 l:Ness
+l:AI_Toolbox
 l:TagSpaces
 l:SimpleInstaBot
 l:YUView
