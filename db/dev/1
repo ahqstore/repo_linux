@@ -2267,6 +2267,7 @@ l:OpenEmux
 l:wezterm
 l:ElectrumRhodium
 l:dpcc-harness
+l:Veld
 l:SMF-DSP
 l:revpdf-release
 l:Skales
@@ -2306,6 +2307,7 @@ l:Playbox
 l:Douchat
 l:Moonlight_Tizen_Installer
 l:FPVThePlanet
+l:Cryptocam_Companion
 l:BitBox
 l:VoxelXClient
 l:osu
@@ -2376,7 +2378,6 @@ l:graphql-playground
 l:Syncthing_Tray
 l:S_A_M
 l:mjml-app
-l:Alpine_Client
 l:GVim
 l:Bazecor
 l:trader
@@ -2439,6 +2440,6 @@ l:Qt_DAB
 l:Meeting_Transcriber
 l:MultiworldGG
 l:gsubs
-l:Cryptocam_Companion
-l:Crescat
+l:Alpine_Client
 l:Beam_Research_Toolkit
+l:Crescat
