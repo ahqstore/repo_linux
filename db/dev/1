@@ -870,7 +870,6 @@ l:Subsurface
 l:QCTools
 l:TurboWarp
 l:vCloudcam
-l:AKASHA
 l:FS-PDF-Compressor
 l:ClaudeLens
 l:ChainlessChain
@@ -1535,6 +1534,7 @@ l:Brave_Browser
 l:Cacher
 l:doom-ascii
 l:CanvasTTY
+l:Amberize
 l:HyperDEX
 l:FireMinipro
 l:Scatter
@@ -1772,7 +1772,6 @@ l:Swamp_Swap
 l:Siril
 l:Taskizer
 l:Deadbolt
-l:Omatrack
 l:InferencePort_AI
 l:NMEASimulator
 l:Neuron
@@ -1843,6 +1842,7 @@ l:Universal_Session_Viewer
 l:SteamCAD
 l:NetCopilot
 l:SafeLight
+l:Reach
 l:FriendlyTerminal
 l:ArcadeManager
 l:Kyaraben
@@ -2274,7 +2274,6 @@ l:Gaia_Sky
 l:T.Viewer
 l:Chat2API-WXS
 l:monfree
-l:wow-classic-launcher
 l:SimpleX
 l:Katvan
 l:Meguri
@@ -2388,6 +2387,7 @@ l:Ved
 l:QDiskInfo
 l:Scraper
 l:Voxa
+l:NodebookMD
 l:Skyscraper
 l:Get_It
 l:blink
@@ -2440,7 +2440,6 @@ l:OpenEmux
 l:wezterm
 l:ElectrumRhodium
 l:dpcc-harness
-l:Cryptocam_Companion
 l:Veld
 l:SMF-DSP
 l:revpdf-release
@@ -2621,6 +2620,7 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Cryptocam_Companion
 l:Alpine_Client
 l:Beam_Research_Toolkit
 l:Crescat
