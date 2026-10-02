@@ -272,7 +272,6 @@ l:IngeTrazo
 l:melia-app
 l:ImgConvert
 l:superProductivity
-l:Cantata
 l:deltachat-desktop
 l:PopDroidCam
 l:MediaInfo
@@ -1262,6 +1261,7 @@ l:GPT_Image_2_Skill
 l:SpringBoard
 l:Fraidycat
 l:MyPaint
+l:ExileCompass
 l:King_Louie
 l:AnyMeal
 l:Editor
@@ -1344,6 +1344,7 @@ l:MesenOrion
 l:fanhuaji-tauri
 l:OpenProxy
 l:LOVE
+l:sidplaywx
 l:ommpfritt
 l:vue-calc
 l:UplinkIRC
@@ -1451,6 +1452,7 @@ l:Qfsm
 l:YFitops
 l:ossia_score
 l:OSW
+l:Desktop_Browserbase
 l:Metabuli.App
 l:Leon
 l:Astroffers
@@ -1966,7 +1968,6 @@ l:simplechroot
 l:nxshell
 l:media-dupes
 l:ChemThisTry
-l:Wexond
 l:OpenTM
 l:Spectrum
 l:WalletTech
@@ -2076,6 +2077,7 @@ l:twitch-wrapper
 l:mapton
 l:PikoPixel
 l:Downline
+l:Lithic_UK
 l:LocalStack_Explorer
 l:FlyBudget
 l:noBS_CAD
@@ -2163,6 +2165,7 @@ l:ZCodium
 l:JetBrains_Toolbox
 l:KCalc
 l:CrossCode_Map_Editor
+l:Cryptocam_Companion
 l:RyoWallet
 l:open-codesign
 l:POM1
@@ -2473,6 +2476,7 @@ l:penguins-eggs-legacy
 l:Better_Key_Overlay
 l:Shadowsocks
 l:laravel-kit
+l:Alpine_Client
 l:YubiKey_Manager
 l:1DevTool_Releases
 l:MegaBasterd
@@ -2621,7 +2625,6 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
-l:Cryptocam_Companion
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2648,5 +2651,4 @@ l:MultiworldGG
 l:Open_Nectar
 l:gsubs
 l:Beam_Research_Toolkit
-l:Alpine_Client
 l:Crescat
