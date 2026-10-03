@@ -826,7 +826,6 @@ l:EasyShell
 l:MarkBricks
 l:lightning-peach-wallet
 l:Vibe3D
-l:wolffish-app
 l:Helix_AI
 l:Turtle-Tracer
 l:Cascade_Image_Editor
@@ -1968,6 +1967,7 @@ l:simplechroot
 l:nxshell
 l:media-dupes
 l:ChemThisTry
+l:Wexond
 l:OpenTM
 l:Spectrum
 l:WalletTech
@@ -2165,7 +2165,6 @@ l:ZCodium
 l:JetBrains_Toolbox
 l:KCalc
 l:CrossCode_Map_Editor
-l:Cryptocam_Companion
 l:RyoWallet
 l:open-codesign
 l:POM1
@@ -2476,7 +2475,6 @@ l:penguins-eggs-legacy
 l:Better_Key_Overlay
 l:Shadowsocks
 l:laravel-kit
-l:Alpine_Client
 l:YubiKey_Manager
 l:1DevTool_Releases
 l:MegaBasterd
@@ -2625,6 +2623,7 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
+l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2650,5 +2649,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Beam_Research_Toolkit
+l:Cryptocam_Companion
 l:Crescat
+l:Beam_Research_Toolkit
