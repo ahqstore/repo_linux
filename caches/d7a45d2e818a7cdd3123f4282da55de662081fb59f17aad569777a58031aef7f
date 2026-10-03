@@ -1,1 +1,1 @@
-{"time":1791038863,"data":{"x86_64":null,"aarch64":null,"tag_name":"nightly-classic"}}
+{"time":1791051085,"data":{"x86_64":"https://github.com/Trinity-LA/Trinity-Launcher/releases/download/nightly/Trinity_Launcher-x86_64.AppImage","aarch64":"https://github.com/Trinity-LA/Trinity-Launcher/releases/download/nightly/Trinity_Launcher-aarch64.AppImage","tag_name":"nightly"}}

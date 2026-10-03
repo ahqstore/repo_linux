@@ -797,6 +797,7 @@ l:YARC-Launcher
 l:Agora
 l:Relic_of_the_Past
 l:Plazmic_Legends
+l:Anime_Cursor
 l:Fiamy
 l:ceasta
 l:StackFerry
@@ -1052,6 +1053,7 @@ l:OpenQuest_Hub
 l:WFInfo
 l:Glass_Music
 l:stretchly
+l:LibreFastbootFirmwareFlasher
 l:VLC
 l:Tesserin-pro
 l:Abject
@@ -1116,6 +1118,7 @@ l:EdgeLine
 l:EasyQueue
 l:XPipe_PTB
 l:Openterface_QT
+l:Blanc
 l:mawejs
 l:Wireshark
 l:QCADesigner-E
@@ -1143,6 +1146,7 @@ l:PanWriter
 l:GPUpad
 l:RKDevelopTool-GUI
 l:MarioKartSuperCircuitRecomp
+l:V-Swift
 l:Astra
 l:dexter_dev_env
 l:OneFinance
@@ -2410,6 +2414,7 @@ l:attu
 l:Jacksum
 l:Butter_Launcher
 l:jsChess
+l:dopeIPTV
 l:retail
 l:MiniZinc_IDE
 l:Cogpit
@@ -2589,6 +2594,7 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
+l:Cryptocam_Companion
 l:ebloid_desktop
 l:Bottles
 l:odoo-manager
@@ -2652,7 +2658,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Cryptocam_Companion
 l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
