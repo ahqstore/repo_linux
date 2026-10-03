@@ -2185,6 +2185,7 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
+l:Cryptocam_Companion
 l:Iridium_Wallet
 l:OrionLauncher
 l:4KWALL
@@ -2623,7 +2624,6 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
-l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2649,6 +2649,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Cryptocam_Companion
-l:Crescat
+l:Alpine_Client
 l:Beam_Research_Toolkit
+l:Crescat
