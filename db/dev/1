@@ -592,6 +592,7 @@ l:Termic
 l:EVE_Buddy
 l:ClaudeBot
 l:OLL
+l:YAWF
 l:Infinite
 l:draw.io
 l:wfweb
@@ -1750,7 +1751,6 @@ l:AgentFlow
 l:ShareCLIP
 l:OdyTTY
 l:retrovibed
-l:Cryptocam_Companion
 l:RestifEye
 l:Open-Merchant
 l:AgentRQ
@@ -2450,6 +2450,7 @@ l:Voxa
 l:NodebookMD
 l:Skyscraper
 l:Get_It
+l:AnkiMiner
 l:blink
 l:Agro
 l:vREST_NG
@@ -2476,6 +2477,7 @@ l:erdesigner
 l:CIAA_Suite
 l:TopStatsAIO
 l:ttth
+l:Alpine_Client
 l:SimTradeDesk
 l:Lightning
 l:pdfoxjs
@@ -2669,7 +2671,6 @@ l:pyappimage
 l:loki
 l:LeAgent
 l:OpenMausBot
-l:Alpine_Client
 l:lumi
 l:StemKit
 l:Converter432Hz
@@ -2682,5 +2683,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Cryptocam_Companion
 l:Crescat
 l:Beam_Research_Toolkit
