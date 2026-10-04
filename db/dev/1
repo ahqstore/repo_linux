@@ -38,6 +38,7 @@ l:Vidra
 l:CozyDrive
 l:BTS-CE-Lite
 l:Plural_Star_Desktop
+l:Google_Tasks_Desktop
 l:jitsi-meet
 l:DiscCompressor_Pro
 l:ngPost
@@ -129,6 +130,7 @@ l:Kanban
 l:Lucy
 l:uncov
 l:WeRead_Desktop
+l:Pybient
 l:GT-DAYN
 l:onekey
 l:r2-youloader
@@ -221,6 +223,7 @@ l:QDriverStation
 l:SUbillManager
 l:Vulkan_Hardware_Capability_Viewer
 l:OpenMap_Studio
+l:claudget
 l:Drill
 l:MDL
 l:Yamagi_Quake_II
@@ -331,6 +334,7 @@ l:NextDJ
 l:IA-Interact
 l:Kubermeister
 l:PillsNative
+l:ColorYourModel
 l:local-operator-ui
 l:Groot
 l:Gifcurry
@@ -377,6 +381,7 @@ l:rattin-public
 l:C-evo
 l:XMedCon
 l:linuxdeployqt
+l:ohmyhf
 l:Shadow
 l:unified-communications
 l:GitStudio
@@ -634,6 +639,7 @@ l:C64KERNALGenesis
 l:Mah
 l:Morphly
 l:hoerbert-software
+l:Yachiyo
 l:TOST
 l:Julius
 l:Local-Notebook-LM-App
@@ -2136,11 +2142,13 @@ l:Soothsayer
 l:altair
 l:Kitab
 l:DNS_Hop
+l:M3U8_Quicker
 l:Stud
 l:MangaBox
 l:moniteur-admin
 l:Standard_of_Iron
 l:sage_appimage
+l:Whodis
 l:Wireboi
 l:AutoSlides_Extractor
 l:Alduin
@@ -2199,6 +2207,7 @@ l:ZCodium
 l:JetBrains_Toolbox
 l:KCalc
 l:CrossCode_Map_Editor
+l:Mojo_Voice
 l:RyoWallet
 l:open-codesign
 l:POM1
@@ -2243,6 +2252,7 @@ l:LPub3D
 l:pa-website-validator-gui
 l:Gingko
 l:LiveClaw
+l:Alpine_Client
 l:puush-qt
 l:ZY_Player
 l:Memory_Fort
@@ -2341,6 +2351,7 @@ l:Katvan
 l:Meguri
 l:Consilium
 l:le
+l:SpectralFilmLUT
 l:FreeCrawl_SEO_Tool
 l:mybelka
 l:Monero_Multisig_GUI
@@ -2593,6 +2604,7 @@ l:FreightFate
 l:autoremesher
 l:LiberTEM
 l:Ripcord
+l:Cryptocam_Companion
 l:Omni_Control
 l:RedDiamond
 l:kftray
@@ -2625,7 +2637,6 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
-l:Cryptocam_Companion
 l:ebloid_desktop
 l:Bottles
 l:odoo-manager
@@ -2689,6 +2700,5 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
