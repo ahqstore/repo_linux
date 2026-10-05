@@ -911,10 +911,10 @@ l:Rockchip_Flash_Tool
 l:ImHex
 l:qBittorrent_Enhanced_Edition
 l:TRuDI
-l:Cryptocam_Companion
 l:Busca_Vagas
 l:PaperLab
 l:Chatbox
+l:CuteCut-Pro
 l:pretty-printable-calendar
 l:Loom
 l:Textilosaurus
@@ -1454,7 +1454,6 @@ l:Kiyeovo
 l:OpenTodoList
 l:StayFree
 l:steam-rom-manager
-l:Alpine_Client
 l:VZT_Flow
 l:SQL_Joiner
 l:Plex_Folder_Playlist_Creator
@@ -2159,7 +2158,6 @@ l:youtube-music-desktop
 l:Ari
 l:Katacomb_VPN
 l:Rabix_Composer
-l:Crescat
 l:Museeks
 l:VeneraNext
 l:Firefox_ESR
@@ -2700,4 +2698,7 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Cryptocam_Companion
+l:Alpine_Client
+l:Crescat
 l:Beam_Research_Toolkit
