@@ -455,6 +455,8 @@ l:Meshtastic-Android
 l:FamilyCo
 l:xuan
 l:Bootstrap_Studio
+l:BunnyChen-DailyCost
+l:Raw2Film
 l:MazeSolver
 l:HolyScreen
 l:dlsite-manager
@@ -465,6 +467,7 @@ l:Discord
 l:MacPipeGUI
 l:Airspaces
 l:openEHR_Explorer
+l:Extreme.InfiniTV
 l:Audiola
 l:Marginalia
 l:IGdm
@@ -484,6 +487,7 @@ l:Darktable
 l:Evermist
 l:WeChat_Claude_Code
 l:Skrifa
+l:Steam_Manifest_Downloader
 l:Paw-Search-Bar-Streaming
 l:DFIR_Companion
 l:stenoAI
@@ -602,6 +606,7 @@ l:Infinite
 l:draw.io
 l:wfweb
 l:Savvy-MTG-Life-Counter
+l:Rust_DICOM_Station
 l:Connectio
 l:DeepTags
 l:Addaps
@@ -1407,6 +1412,7 @@ l:LibreMerge
 l:Rubber_Band_Audio
 l:Invoice_Builder
 l:Buckets
+l:ZPLab
 l:Puzzle-Moppet
 l:FreeTexturePacker
 l:TopoSaic
@@ -1519,6 +1525,7 @@ l:SDRLoggerPlus
 l:SmartServoGui
 l:ImageMosaicWall
 l:LunoDB
+l:UDCAP_Control
 l:marlin-conf
 l:SAManager
 l:getswell
@@ -1615,6 +1622,7 @@ l:LaTeX_Editor
 l:Self-hosted_Git_Client
 l:Whatly
 l:OpenNotes
+l:GitWand
 l:SocNetV
 l:Tusk
 l:Husi
@@ -1805,6 +1813,7 @@ l:sonora
 l:BilibiliVideoDownload
 l:strans
 l:Monbooru
+l:Vivi_Music_DE
 l:pkg2appimage
 l:GemType
 l:Aphelion_Wallet
@@ -1889,6 +1898,7 @@ l:OpenAdminOS
 l:mini_analyser
 l:SubSink
 l:Duckstation-GPL
+l:NoteConnection
 l:Minecraft_Pi_Reborn_Server
 l:Webamp
 l:Colon
@@ -2462,6 +2472,7 @@ l:Ved
 l:QDiskInfo
 l:Scraper
 l:Voxa
+l:Cryptocam_Companion
 l:NodebookMD
 l:Skyscraper
 l:Get_It
@@ -2474,6 +2485,7 @@ l:daggerfall-js-source
 l:Janus
 l:Nine
 l:linux_czkawka_gui
+l:Flota
 l:ehdev-shell
 l:Mira
 l:paradox-translation-toolkit
@@ -2607,6 +2619,7 @@ l:Omni_Control
 l:RedDiamond
 l:kftray
 l:jsBlobPop
+l:Alpine_Client
 l:vk_music_fs
 l:OnionHop
 l:e2designer
@@ -2665,6 +2678,7 @@ l:LibreSprite
 l:CRITERIA1D_PRO
 l:Sengi
 l:AnkiGammon
+l:zipax
 l:NotebookLM_Chunker
 l:Sabaki
 l:VenusPro
@@ -2698,7 +2712,5 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Cryptocam_Companion
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
