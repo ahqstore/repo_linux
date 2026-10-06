@@ -723,6 +723,7 @@ l:Pony_Compiler
 l:dealers_choice
 l:desktop-application
 l:isd
+l:VOSK_Dictation
 l:ClipGrab
 l:Installer
 l:FromScratch
@@ -2140,7 +2141,6 @@ l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
 l:RetireePlan
-l:Cryptocam_Companion
 l:boardown
 l:Rekordbox.Library.Fixer
 l:marktext
@@ -2712,6 +2712,7 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Cryptocam_Companion
 l:Alpine_Client
 l:Beam_Research_Toolkit
 l:Crescat
