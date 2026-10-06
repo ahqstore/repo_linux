@@ -1814,7 +1814,6 @@ l:sonora
 l:BilibiliVideoDownload
 l:strans
 l:Monbooru
-l:Vivi_Music_DE
 l:pkg2appimage
 l:GemType
 l:Aphelion_Wallet
@@ -2648,6 +2647,7 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
+l:Cryptocam_Companion
 l:ebloid_desktop
 l:Bottles
 l:odoo-manager
@@ -2712,7 +2712,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Cryptocam_Companion
 l:Alpine_Client
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
