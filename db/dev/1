@@ -24,6 +24,7 @@ l:Opentrons
 l:Diffuse
 l:HDRMerge
 l:youtube-music
+l:Alpaka_Desktop
 l:PhotoTeleport
 l:Strata
 l:Fraktal
@@ -303,6 +304,7 @@ l:CodeMux
 l:Nextcloud
 l:GlotShot
 l:DLEAPP
+l:Idea_Note
 l:cordlauncher
 l:Chobby
 l:Ganache
@@ -404,6 +406,7 @@ l:VirtualBox-KVM
 l:Cloud_Browser
 l:LCEdit
 l:gjoa
+l:Token_Dashboard
 l:protonmail-desktop
 l:ChartCaddy
 l:Voltra
@@ -439,6 +442,7 @@ l:Gitbumr
 l:TRIM
 l:Scilab
 l:Kage
+l:Metrik
 l:Miqaat
 l:DeadGame-2048
 l:r2modmanPlus
@@ -486,6 +490,7 @@ l:Skillshare_App
 l:Darktable
 l:Evermist
 l:WeChat_Claude_Code
+l:Omnicross
 l:Skrifa
 l:Steam_Manifest_Downloader
 l:Paw-Search-Bar-Streaming
@@ -729,6 +734,7 @@ l:Installer
 l:FromScratch
 l:TomoTexture-SteamOS
 l:mochi-recorder
+l:NiLLM
 l:RemNote
 l:ultraView
 l:Astro_Dwarf
@@ -1107,6 +1113,7 @@ l:Scrcpy.GUI
 l:Ascora_ADE
 l:Optees
 l:OrbitPS2Manager
+l:colmap-openmvs-app
 l:YappyNotes
 l:Sample_Solution
 l:TorChat
@@ -1145,6 +1152,7 @@ l:Markman
 l:EdgeLine
 l:EasyQueue
 l:XPipe_PTB
+l:Hash-GUI
 l:Openterface_QT
 l:Blanc
 l:mawejs
@@ -1282,6 +1290,7 @@ l:Mesh_Sync
 l:TombLauncher
 l:Frame_Control
 l:Tideflow
+l:Another
 l:simple-s3-uploader
 l:nmap
 l:Waterfox_Current
@@ -1630,6 +1639,7 @@ l:Husi
 l:lux
 l:bottlenose
 l:Voca
+l:FlipperUI
 l:DDClock
 l:Dwyco_Phoo
 l:OpenLive3d.electron
@@ -1730,6 +1740,7 @@ l:Gitteraqt
 l:NESd
 l:Comic-Reader
 l:dashy-app
+l:FOFA_Leak_Search
 l:LeoCAD
 l:Pilot_Harness
 l:KeeWeb
@@ -1777,6 +1788,7 @@ l:HyperSwitch
 l:SBOM_Workbench
 l:fmradio
 l:Desktop
+l:Spindle
 l:xiangxuema
 l:MetroidPrimeHuntersRecomp
 l:Haven_Desktop
@@ -1812,6 +1824,7 @@ l:kmux
 l:SysD_Manager
 l:sonora
 l:BilibiliVideoDownload
+l:Karasu
 l:strans
 l:Monbooru
 l:pkg2appimage
@@ -1982,6 +1995,7 @@ l:MyVPN
 l:CoreStuff
 l:Taurvia
 l:ProQuaere
+l:CC_Logins
 l:ClickHouse_Format_Explorer
 l:Wormhole
 l:Tiled
@@ -2043,6 +2057,7 @@ l:sigrok-cli
 l:SSH-MITM
 l:Eqonomize
 l:PS2-Servers
+l:paint.c
 l:Passy
 l:deb2appimage
 l:Juggernaut
@@ -2163,6 +2178,7 @@ l:Wireboi
 l:AutoSlides_Extractor
 l:Alduin
 l:Data_Plotter
+l:Omnio
 l:Nimbus
 l:youtube-music-desktop
 l:Ari
@@ -2188,6 +2204,7 @@ l:Laber
 l:wxMaxima
 l:Pathio
 l:Vespera
+l:Octa
 l:SquishPic
 l:rezonator
 l:Radmin_VPN
@@ -2517,6 +2534,7 @@ l:penguins-gui
 l:Guitar
 l:I_Have_No_Tomatoes
 l:SyncMyL2P
+l:Zlack
 l:Nodus
 l:bioanimation
 l:Vibeyard
@@ -2647,7 +2665,6 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
-l:Cryptocam_Companion
 l:ebloid_desktop
 l:Bottles
 l:odoo-manager
@@ -2712,6 +2729,7 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Cryptocam_Companion
 l:Alpine_Client
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
