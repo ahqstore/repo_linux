@@ -2140,6 +2140,7 @@ l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
 l:RetireePlan
+l:Cryptocam_Companion
 l:boardown
 l:Rekordbox.Library.Fixer
 l:marktext
@@ -2205,6 +2206,7 @@ l:TheMAGI
 l:Pext
 l:Mapset-Verifier
 l:Studio_One_Project_Hub
+l:Rambox
 l:claude-desktop-debian
 l:ABCarus
 l:Network_Simulator
@@ -2710,7 +2712,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Cryptocam_Companion
 l:Alpine_Client
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
