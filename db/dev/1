@@ -2437,6 +2437,7 @@ l:Meridian
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
+l:Cryptocam_Companion
 l:OctoShrink
 l:vm-curator
 l:evoplex
@@ -2657,7 +2658,6 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
-l:Cryptocam_Companion
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
@@ -2730,6 +2730,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Beam_Research_Toolkit
 l:Alpine_Client
+l:Beam_Research_Toolkit
 l:Crescat
