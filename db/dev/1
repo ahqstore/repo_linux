@@ -2437,7 +2437,6 @@ l:Meridian
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
-l:Cryptocam_Companion
 l:OctoShrink
 l:vm-curator
 l:evoplex
@@ -2448,6 +2447,7 @@ l:Bitcoin_Safe
 l:Kibo
 l:Vitomu
 l:SkillsGate
+l:Cryptocam_Companion
 l:Make_My_Figure
 l:Pikura
 l:Producer_Player
@@ -2731,5 +2731,5 @@ l:MultiworldGG
 l:Open_Nectar
 l:gsubs
 l:Alpine_Client
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
