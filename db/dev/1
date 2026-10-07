@@ -809,6 +809,7 @@ l:Pomodoro
 l:RIFT_Intel_Fusion_Tool
 l:GridCast
 l:Black_Chocobo
+l:ASAPS_New
 l:Vitaeum_AC
 l:SwitchHosts
 l:Corv-GCS
@@ -967,6 +968,7 @@ l:CP_Editor
 l:Mailspring
 l:OpenBlok
 l:xonsh
+l:Wi-Fi_Heatmapper
 l:Mapeo
 l:PolkaKey
 l:Xenia_Dashboard
@@ -1000,7 +1002,9 @@ l:PicGo
 l:lnxngfmsdm
 l:Shockwave
 l:ultra-tracker
+l:VoiceStudio
 l:Lemon
+l:FlClash
 l:FireForm
 l:Mindmapp
 l:DevHub
@@ -1044,6 +1048,7 @@ l:Video_Helper
 l:Blink1Control2
 l:AlterSend
 l:DAWN-Science
+l:Basesmall
 l:FolderSkin
 l:strongbox
 l:Wispr_Flow
@@ -1239,6 +1244,7 @@ l:Y_A_W_N
 l:dpanahub-rdm
 l:Scytale
 l:Infection_Monkey
+l:Sai
 l:Open_Recruiter
 l:appimagetool
 l:FoamPilot
@@ -1396,6 +1402,7 @@ l:voiceAI
 l:UplinkIRC
 l:-_ICQ
 l:Lachesis
+l:Clipaste
 l:ai-code-fusion
 l:Rexpo_Debugger
 l:BottleBats
@@ -1555,6 +1562,7 @@ l:Lx-music-desktop
 l:QLog
 l:TeXworks
 l:Elements
+l:Manul
 l:CodePulse
 l:SeriousSamClassic-VK
 l:HiDPI-Fixer
@@ -1825,7 +1833,6 @@ l:SysD_Manager
 l:sonora
 l:BilibiliVideoDownload
 l:Karasu
-l:strans
 l:Monbooru
 l:pkg2appimage
 l:GemType
@@ -2373,12 +2380,14 @@ l:Gaia_Sky
 l:T.Viewer
 l:Chat2API-WXS
 l:monfree
+l:PhotoSuite
 l:SimpleX
 l:Katvan
 l:Meguri
 l:Consilium
 l:le
 l:SpectralFilmLUT
+l:FastSSH
 l:FreeCrawl_SEO_Tool
 l:mybelka
 l:Monero_Multisig_GUI
@@ -2447,7 +2456,6 @@ l:Bitcoin_Safe
 l:Kibo
 l:Vitomu
 l:SkillsGate
-l:Cryptocam_Companion
 l:Make_My_Figure
 l:Pikura
 l:Producer_Player
@@ -2584,6 +2592,7 @@ l:VisiGit
 l:Nexira
 l:DFileManager
 l:MellowPlayer
+l:jsBudbrainCaveRescue
 l:Alwide
 l:RMG
 l:ai-bot-workspace
@@ -2730,6 +2739,7 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Cryptocam_Companion
 l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
