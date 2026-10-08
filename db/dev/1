@@ -286,6 +286,7 @@ l:MediaInfo
 l:Maestro
 l:Konsole
 l:Melodie
+l:Zeno
 l:PubMan
 l:Procyon
 l:CircuitBlocks
@@ -340,6 +341,7 @@ l:ColorYourModel
 l:local-operator-ui
 l:Groot
 l:Gifcurry
+l:OpenResearch
 l:textosaurus
 l:OpenADE
 l:Streamon
@@ -532,6 +534,7 @@ l:crocson
 l:Kitupiikki
 l:Harnss
 l:dingtalk
+l:Doggy_Player
 l:Magnolia
 l:tnt
 l:Makagiga
@@ -1357,6 +1360,7 @@ l:Jackify
 l:Freelens
 l:Swift
 l:Lore
+l:Waves
 l:HermesMessenger
 l:CATcher
 l:FerrumPix
@@ -1437,6 +1441,7 @@ l:AiyoPerps
 l:fingerprint-chromium
 l:MaterialX_Playground
 l:Kizuna_Voice_Studio
+l:Kute
 l:OpenCode_Visualizer_CN
 l:SiliconSneaker
 l:NoHAL
@@ -1833,6 +1838,7 @@ l:SysD_Manager
 l:sonora
 l:BilibiliVideoDownload
 l:Karasu
+l:strans
 l:Monbooru
 l:pkg2appimage
 l:GemType
@@ -2200,6 +2206,7 @@ l:nRF_Connect
 l:Exilence_CE
 l:OpenPalm
 l:KCode
+l:SMS_Launcher
 l:Pixsrt
 l:Pawse
 l:mcpx
@@ -2741,5 +2748,5 @@ l:Open_Nectar
 l:gsubs
 l:Cryptocam_Companion
 l:Alpine_Client
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
