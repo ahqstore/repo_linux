@@ -104,6 +104,7 @@ l:Ropcode
 l:SimpleDoomLauncher
 l:OMP_Desktop
 l:QMPlay2
+l:BrowserOS
 l:Scanthesis
 l:bedrock-panel
 l:embedded-ide
@@ -177,6 +178,7 @@ l:DB_Toolkit
 l:Opal
 l:hw-probe
 l:ECOS_Studio
+l:OpsDeck
 l:Plex
 l:SMPlayer
 l:Augur
@@ -474,6 +476,7 @@ l:xuan
 l:Bootstrap_Studio
 l:BunnyChen-DailyCost
 l:Raw2Film
+l:Hyperion_Browser
 l:MazeSolver
 l:HolyScreen
 l:dlsite-manager
@@ -622,6 +625,7 @@ l:EVE_Buddy
 l:ClaudeBot
 l:Chip_Hippo
 l:OLL
+l:Wowthing_Sync
 l:YAWF
 l:Infinite
 l:draw.io
@@ -638,6 +642,7 @@ l:DeezerDiscordRPC
 l:AnzeigenChef
 l:Negibox
 l:Tobe
+l:WhatsApp-Desktop
 l:DotnetDeployer_Fleet
 l:Kristall
 l:ontime
@@ -670,6 +675,7 @@ l:Yachiyo
 l:TOST
 l:Julius
 l:Local-Notebook-LM-App
+l:Clipy
 l:Artisan
 l:qtrfpowermeter
 l:rivet
@@ -743,6 +749,7 @@ l:cycloidgen
 l:ZabbLeaf
 l:todometer
 l:Pony_Compiler
+l:Ferriteweazle
 l:dealers_choice
 l:desktop-application
 l:isd
@@ -944,6 +951,7 @@ l:SlipStream_GUI
 l:Rockchip_Flash_Tool
 l:ImHex
 l:qBittorrent_Enhanced_Edition
+l:EdenText
 l:TRuDI
 l:SyncCrate
 l:Busca_Vagas
@@ -955,6 +963,7 @@ l:Loom
 l:Textilosaurus
 l:Beekeeper_Studio
 l:Apache_NetBeans
+l:DSPi_Console
 l:Kanvaz
 l:vidcord
 l:Microemacs
@@ -969,6 +978,7 @@ l:RiaCore
 l:Angor
 l:CVEase
 l:Malgel
+l:TractEdit
 l:ircuitry
 l:Dala
 l:FreeCAD-asm3
@@ -1023,6 +1033,7 @@ l:RSS-Guard
 l:NEO
 l:Celestia
 l:OpenSnap
+l:fRAG
 l:PicGo
 l:lnxngfmsdm
 l:Shockwave
@@ -1308,6 +1319,7 @@ l:sicth
 l:Streambert
 l:Wireless_Microphone_Analyzer
 l:Apps2Samsung
+l:Limo_CAD
 l:IllusionAgent
 l:dotline
 l:Widelands
@@ -1371,6 +1383,7 @@ l:Electron_Cash
 l:Agent_Pulse
 l:AetherSDR
 l:FAT_Wallet
+l:Birdman64
 l:Android_File_Transfer
 l:pomotroid
 l:barcode-emulator-electron
@@ -1419,6 +1432,7 @@ l:tagspaces
 l:halium-tool
 l:Mr.Dclutterer
 l:SWC-Minecraft-Launcher
+l:XI_on_Anything
 l:TFStudio
 l:neovim
 l:Bramble
@@ -1432,6 +1446,7 @@ l:OpenProxy
 l:LOVE
 l:sidplaywx
 l:ommpfritt
+l:Sayso
 l:vue-calc
 l:voiceAI
 l:UplinkIRC
@@ -1453,6 +1468,7 @@ l:NoSQLBooster
 l:madhav-releases
 l:Minecraft_Pi_Reborn_Client
 l:nvtop
+l:Kudu
 l:excalidraw-desktop
 l:RAG-Assistant-for-Zotero
 l:Retro_Launcher
@@ -1483,6 +1499,7 @@ l:Flac_Cast
 l:ArcDLP
 l:FastQt
 l:Marea
+l:MeshTalk
 l:ExifCleaner
 l:Workbench
 l:Proton_Drive_GUI
@@ -1499,6 +1516,7 @@ l:Google-Map-Scraper
 l:ImapSyncClient
 l:Pulse-Analytics
 l:commandoo
+l:LWE
 l:Qredit
 l:Red_Eclipse-Development
 l:TranscribeAIUI
@@ -1548,6 +1566,7 @@ l:Metabuli.App
 l:Leon
 l:Astroffers
 l:Pandia
+l:PICO_Store_Lab
 l:JeikCode
 l:sales-claw-ts
 l:CoreArchiver
@@ -1648,6 +1667,7 @@ l:Git_Context
 l:ClawChat
 l:Brave_Browser
 l:Cacher
+l:Lyra_Music
 l:doom-ascii
 l:CanvasTTY
 l:Amberize
@@ -1776,6 +1796,7 @@ l:Musicott
 l:Soil
 l:Geniuz
 l:KronEditor
+l:Inlark
 l:RigRoom
 l:Billme
 l:Mini_Diary
@@ -1815,6 +1836,7 @@ l:Nuclino
 l:Gear-Lever
 l:NormCap
 l:UltraGrid
+l:LumiSync
 l:devo
 l:Syncplay
 l:QuickViewer
@@ -1863,6 +1885,7 @@ l:QPrompt
 l:Happy
 l:StatusIm
 l:LampixJS
+l:k10s
 l:Carbonyl
 l:feebas
 l:FastPack
@@ -1917,6 +1940,7 @@ l:UniShellect
 l:sample-client-for-amazon-bedrock
 l:Tagstoo
 l:Gqrx
+l:Night_Drop
 l:Signal
 l:Simple_Notes_Desktop
 l:Suno-Song-Remaster
@@ -2055,6 +2079,7 @@ l:ClickHouse_Format_Explorer
 l:Wormhole
 l:Tiled
 l:Moji
+l:Rasgo_Modular
 l:CLI_Launcher
 l:Control_Center
 l:Olduvai
@@ -2166,9 +2191,9 @@ l:Prompt_Evaluator
 l:TaskManagerOG
 l:Puffin
 l:Kcov
+l:omp_GUI
 l:DeployerX
 l:Local_Browser
-l:Cryptocam_Companion
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -2434,6 +2459,7 @@ l:Giada
 l:pb-for-desktop
 l:Dead_Rising_2_Case_West_Xenon_Recomp
 l:LibreOfficeDev
+l:Cryptocam_Companion
 l:Gaia_Sky
 l:T.Viewer
 l:Chat2API-WXS
@@ -2450,6 +2476,7 @@ l:FreeCrawl_SEO_Tool
 l:mybelka
 l:Monero_Multisig_GUI
 l:Loop
+l:Wild9Recomp
 l:Kimitzu-Client
 l:Fan-Browser-Agent
 l:agentglass
@@ -2583,6 +2610,7 @@ l:HyperionIDE
 l:6502-EMULATOR
 l:Media_Hoarder
 l:gamepad-io
+l:rebase-git
 l:X-Plane_737NG_Maintenance_Toolkit
 l:LED.Custom.Palette
 l:erdesigner
@@ -2783,6 +2811,7 @@ l:Marky
 l:Mirage
 l:PatternPaint
 l:Bango
+l:Twitch_Drops_Miner
 l:ClementineRemote
 l:Locator-Labs-App-Releases
 l:CARTA
@@ -2803,5 +2832,5 @@ l:MultiworldGG
 l:Open_Nectar
 l:gsubs
 l:Alpine_Client
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
