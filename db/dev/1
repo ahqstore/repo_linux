@@ -596,7 +596,6 @@ l:Zap
 l:YouTubeGO
 l:OVideo
 l:Breader
-l:MCP_Dock
 l:ZenNotes
 l:Besprited
 l:TaratorMusic
@@ -1803,7 +1802,6 @@ l:Mini_Diary
 l:Vibe_Pet
 l:Beatrax
 l:QTaskWarrior
-l:AssayPlot
 l:Kerminal
 l:Firestudio
 l:BLDesk
@@ -2104,7 +2102,6 @@ l:youtube-cast-receiver
 l:Webitel_Phone
 l:Desktop_Pet_Launcher
 l:doka-site
-l:TokenClock
 l:Desktop_Django_Starter
 l:jsShowHardwareInfos
 l:simplechroot
@@ -2813,6 +2810,7 @@ l:Bango
 l:Twitch_Drops_Miner
 l:ClementineRemote
 l:Locator-Labs-App-Releases
+l:Cryptocam_Companion
 l:CARTA
 l:pyappimage
 l:loki
@@ -2830,7 +2828,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Cryptocam_Companion
 l:Alpine_Client
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
