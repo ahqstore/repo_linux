@@ -2168,6 +2168,7 @@ l:Puffin
 l:Kcov
 l:DeployerX
 l:Local_Browser
+l:Cryptocam_Companion
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -2346,6 +2347,7 @@ l:puush-qt
 l:ZY_Player
 l:Memory_Fort
 l:MyCrypto
+l:BioManager
 l:Traycer
 l:leolink
 l:Sheikah
@@ -2372,6 +2374,7 @@ l:wikiLYNX
 l:Collie
 l:Emerald
 l:Stashi_Wallet
+l:PearGuard
 l:Agent_Teams_AI
 l:Thinktool_Desktop
 l:Inboxer
@@ -2659,7 +2662,7 @@ l:Moonlight_Tizen_Installer
 l:FPVThePlanet
 l:Clawdmeter
 l:Sliver_GUI
-l:Cryptocam_Companion
+l:BK_Study_Desk
 l:BitBox
 l:VoxelXClient
 l:osu
