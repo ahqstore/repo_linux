@@ -1539,6 +1539,7 @@ l:Red_Eclipse-Development
 l:TranscribeAIUI
 l:PrazyCron
 l:EasyMercurial
+l:jsBudbrainCompressor
 l:ioquake3
 l:AmplifyP
 l:KMCG
@@ -2155,6 +2156,7 @@ l:eXtrema
 l:ConsoleWorkbench
 l:sigrok-cli
 l:SSH-MITM
+l:Cryptocam_Companion
 l:Eqonomize
 l:PS2-Servers
 l:paint.c
@@ -2236,6 +2238,7 @@ l:QPlayer
 l:ITUSB2_Manager
 l:xde
 l:jsBudbrainsFxStudio
+l:Rclone_Explorer
 l:nis-one-click-backup
 l:FlatSiteBuilder
 l:PKG_Sender
@@ -2278,7 +2281,6 @@ l:M3U8_Quicker
 l:Stud
 l:MangaBox
 l:moniteur-admin
-l:Cryptocam_Companion
 l:Standard_of_Iron
 l:sage_appimage
 l:Whodis
@@ -2366,6 +2368,7 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
+l:Alpine_Client
 l:Iridium_Wallet
 l:OrionLauncher
 l:4KWALL
@@ -2616,6 +2619,7 @@ l:blink
 l:Agro
 l:vREST_NG
 l:Free_Google_Index_Checker
+l:HexoManager
 l:daggerfall-js-source
 l:Janus
 l:Nine
@@ -2791,6 +2795,7 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
+l:Crescat
 l:Codync
 l:ebloid_desktop
 l:Bottles
@@ -2832,7 +2837,6 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
-l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2859,5 +2863,4 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Crescat
 l:Beam_Research_Toolkit
