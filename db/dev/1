@@ -218,7 +218,6 @@ l:Scintillator
 l:Superset
 l:Dabri
 l:Focra
-l:CacaCliente
 l:Open-Typer
 l:KeyStore_Explorer
 l:CLASP
@@ -2191,6 +2190,7 @@ l:Kcov
 l:omp_GUI
 l:DeployerX
 l:Local_Browser
+l:Cryptocam_Companion
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -2770,7 +2770,6 @@ l:HexoKit
 l:ITUSB1_Manager
 l:Diary
 l:Inkscape
-l:Cryptocam_Companion
 l:Clarity
 l:Padloc
 l:VRCFaceTracking.Avalonia
@@ -2829,5 +2828,5 @@ l:MultiworldGG
 l:Open_Nectar
 l:gsubs
 l:Alpine_Client
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
