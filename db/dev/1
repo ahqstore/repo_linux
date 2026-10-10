@@ -24,6 +24,7 @@ l:Opentrons
 l:Diffuse
 l:HDRMerge
 l:youtube-music
+l:JiV-881-synth
 l:Alpaka_Desktop
 l:PhotoTeleport
 l:Strata
@@ -36,6 +37,7 @@ l:GitQlient
 l:ChordVox
 l:APK_Editor_Studio
 l:Vidra
+l:CCG_Gateway
 l:CozyDrive
 l:BTS-CE-Lite
 l:Plural_Star_Desktop
@@ -67,6 +69,7 @@ l:sdl_img
 l:Music_Blocks
 l:Vease
 l:ReliefValve
+l:SecureVault
 l:ftm
 l:exhale
 l:Knowte
@@ -130,6 +133,7 @@ l:noxed
 l:CPod
 l:Mnemosyne-Neural-OS
 l:Pneuma_Skills
+l:Booloo
 l:Pile
 l:Kanban
 l:Lucy
@@ -265,6 +269,7 @@ l:Slip.Sound
 l:Blender_Config_Manager
 l:Peercoin
 l:dashAI
+l:tio-gui
 l:PC_Recap
 l:Voiden
 l:Cool_Retro_Term
@@ -380,6 +385,7 @@ l:Infra
 l:yakuda-connect
 l:Isobar
 l:AYA
+l:Robota
 l:SonicVisualiser
 l:noteshrink-qt
 l:sososo
@@ -398,6 +404,7 @@ l:ohmyhf
 l:Shadow
 l:unified-communications
 l:GitStudio
+l:DeskPort
 l:Agent_Campus
 l:alan-connect
 l:ZedSecure
@@ -698,6 +705,7 @@ l:Onshape
 l:ledger-live-desktop
 l:dosbox-automation
 l:Mob
+l:8B
 l:Recompose
 l:MineTime
 l:beamscope
@@ -916,6 +924,7 @@ l:ima2-gen
 l:MCP2210_Commander
 l:ser-player
 l:HoudiniMD
+l:Qunica
 l:fastmemo-app
 l:githoard
 l:ASGARDEX
@@ -950,6 +959,7 @@ l:Rockchip_Flash_Tool
 l:ImHex
 l:qBittorrent_Enhanced_Edition
 l:EdenText
+l:Muxics
 l:TRuDI
 l:SyncCrate
 l:Busca_Vagas
@@ -1098,6 +1108,7 @@ l:unsloth
 l:SSPlot
 l:SnapBoard
 l:wnr
+l:FerrumKix
 l:chaton
 l:LibreDB_Studio
 l:Stello
@@ -1639,6 +1650,7 @@ l:P2PDerivatives
 l:FjordLauncher
 l:Navicat
 l:Flashback
+l:OptiBurn
 l:MoarPerf
 l:ascii-smash
 l:MultiClaude
@@ -2172,6 +2184,7 @@ l:eva-agent
 l:SynthMultiViewer
 l:Mayo
 l:Freestyle
+l:go2tv
 l:BunqDesktop
 l:AppImageUpdate
 l:BibleMultiTheLife
@@ -2190,7 +2203,6 @@ l:Kcov
 l:omp_GUI
 l:DeployerX
 l:Local_Browser
-l:Cryptocam_Companion
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -2345,6 +2357,7 @@ l:Iridium_Wallet
 l:OrionLauncher
 l:4KWALL
 l:Antares
+l:JeTTY
 l:Etcher
 l:ungoogled-chromium-portable
 l:Crew44
@@ -2403,6 +2416,7 @@ l:Inboxer
 l:ThermusQt
 l:breaktimer-app
 l:Pingendo
+l:Invoiso
 l:Sharik
 l:Log4YM
 l:VivifyScrum
@@ -2666,6 +2680,7 @@ l:Isolate
 l:Netcatty
 l:Panini
 l:Korda
+l:wj-markdown-editor
 l:PhreshPlayer
 l:Planet_Blupi
 l:KeePassXC
@@ -2673,6 +2688,7 @@ l:plugdata
 l:SimDSP
 l:NixNote
 l:VisiGit
+l:wLib
 l:Nexira
 l:DFileManager
 l:MellowPlayer
@@ -2789,6 +2805,7 @@ l:Aynite
 l:macaco
 l:sqt
 l:LibreSprite
+l:Eaon_Desktop
 l:CRITERIA1D_PRO
 l:Sengi
 l:AnkiGammon
@@ -2828,5 +2845,6 @@ l:MultiworldGG
 l:Open_Nectar
 l:gsubs
 l:Alpine_Client
-l:Beam_Research_Toolkit
+l:Cryptocam_Companion
 l:Crescat
+l:Beam_Research_Toolkit
