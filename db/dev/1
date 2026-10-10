@@ -226,6 +226,7 @@ l:Open-Typer
 l:KeyStore_Explorer
 l:CLASP
 l:Autopsy
+l:OFX_Raw_Host
 l:WebDesktop
 l:conduit-desktop
 l:privacy.sexy
@@ -259,6 +260,7 @@ l:Agents
 l:HastyHeroes
 l:React2Shell_Toolbox
 l:DBFlux
+l:Nova_Browser
 l:Siderus_Orion
 l:ChooChooTracker
 l:G9BrowserAgent
@@ -609,6 +611,7 @@ l:Cryptomator
 l:Medusa_Clip
 l:Syronius_FRAME
 l:WFHelper
+l:DeepVibe
 l:vCardStudio
 l:live-plus-plus
 l:IXD
@@ -964,6 +967,7 @@ l:TRuDI
 l:SyncCrate
 l:Busca_Vagas
 l:PaperLab
+l:Markdown_Cornell_Notes
 l:Chatbox
 l:CuteCut-Pro
 l:pretty-printable-calendar
@@ -1000,6 +1004,7 @@ l:light-git-client
 l:KimaiTray
 l:BenTo
 l:CRG_Data_Tool
+l:Inky
 l:pi-fategui
 l:AdventShow
 l:Vellium
@@ -1070,6 +1075,7 @@ l:zyfun
 l:HEAT1D
 l:SysEx_Drop
 l:PageEdit
+l:ctass
 l:Nexis
 l:LTools
 l:BulkURLOpener
@@ -1314,6 +1320,7 @@ l:APS-Generator
 l:notepadqq
 l:Biying
 l:ProjectMind
+l:Keyboard_Lock
 l:UartX
 l:vda5050-visualizer
 l:QymCAD
@@ -1475,6 +1482,7 @@ l:nam-editor
 l:TVALB
 l:NoSQLBooster
 l:madhav-releases
+l:SyntaxTutor
 l:Minecraft_Pi_Reborn_Client
 l:nvtop
 l:Kudu
@@ -1702,6 +1710,7 @@ l:claude-command-center
 l:DungeonTable
 l:fSpy
 l:Viper_Browser
+l:Pace
 l:postured
 l:VPaint
 l:tastee-ui
@@ -2121,6 +2130,7 @@ l:nxshell
 l:media-dupes
 l:ChemThisTry
 l:Wexond
+l:HappyVibe
 l:OpenTM
 l:Spectrum
 l:WalletTech
@@ -2225,6 +2235,7 @@ l:Kement
 l:QPlayer
 l:ITUSB2_Manager
 l:xde
+l:jsBudbrainsFxStudio
 l:nis-one-click-backup
 l:FlatSiteBuilder
 l:PKG_Sender
@@ -2240,6 +2251,7 @@ l:Downline
 l:Lithic_UK
 l:LocalStack_Explorer
 l:FlyBudget
+l:Concrete
 l:noBS_CAD
 l:myCat
 l:stash-electron
@@ -2266,6 +2278,7 @@ l:M3U8_Quicker
 l:Stud
 l:MangaBox
 l:moniteur-admin
+l:Cryptocam_Companion
 l:Standard_of_Iron
 l:sage_appimage
 l:Whodis
@@ -2763,6 +2776,7 @@ l:Painel-Web
 l:POE_Ladder
 l:DawnlightSearch
 l:emuze
+l:LumaBrowser
 l:Project_Indexer
 l:QaterialGallery
 l:niceNESs
@@ -2818,6 +2832,7 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
+l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2844,7 +2859,5 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
-l:Cryptocam_Companion
 l:Crescat
 l:Beam_Research_Toolkit
