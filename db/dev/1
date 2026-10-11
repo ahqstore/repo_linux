@@ -1028,6 +1028,7 @@ l:Mapeo
 l:PolkaKey
 l:Xenia_Dashboard
 l:Caprock
+l:LOVR
 l:Vayu
 l:phoenix-desktop
 l:Demonizer
@@ -1606,6 +1607,7 @@ l:CoreArchiver
 l:SquirrelDisk
 l:Helecho
 l:preFlight
+l:Player432Hz-3.0
 l:GDownloader
 l:Mochi
 l:SpamBuster
@@ -2236,6 +2238,7 @@ l:Kcov
 l:omp_GUI
 l:DeployerX
 l:Local_Browser
+l:Drawx
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -2374,7 +2377,6 @@ l:RyoWallet
 l:open-codesign
 l:POM1
 l:PiST
-l:Cryptocam_Companion
 l:CoreStats
 l:Materialize
 l:thorium-client
@@ -2696,7 +2698,6 @@ l:OpenEmux
 l:wezterm
 l:ElectrumRhodium
 l:dpcc-harness
-l:Drawx
 l:Veld
 l:SMF-DSP
 l:revpdf-release
@@ -2763,6 +2764,7 @@ l:theFrame
 l:Citropy
 l:keyrier-json
 l:AnimaShooter
+l:PowerliminalsPlayer-3.0
 l:tldraw_offline_nightly
 l:GDLauncher
 l:siyuan-patch
@@ -2869,6 +2871,7 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
+l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2895,6 +2898,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
+l:Cryptocam_Companion
 l:Crescat
 l:Beam_Research_Toolkit
