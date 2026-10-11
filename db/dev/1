@@ -630,6 +630,7 @@ l:Anchor
 l:xmmusic
 l:Termic
 l:EVE_Buddy
+l:TennoScope
 l:ClaudeBot
 l:Chip_Hippo
 l:OLL
@@ -1005,6 +1006,7 @@ l:KimaiTray
 l:BenTo
 l:CRG_Data_Tool
 l:Inky
+l:Plexo
 l:pi-fategui
 l:AdventShow
 l:Vellium
@@ -1141,6 +1143,7 @@ l:TDrive
 l:AlienResurrectionRecompilation
 l:Storytel-Player
 l:LMMS
+l:tmuxy
 l:Pink_Parquet
 l:OpenQuest_Hub
 l:WFInfo
@@ -1264,6 +1267,7 @@ l:yaya
 l:snapshot-slider
 l:DDALAB
 l:pingviewer
+l:jsBudbrainLimiter
 l:reqable-app
 l:Pulse
 l:Pennywise
@@ -1985,6 +1989,7 @@ l:Quiver_Launcher
 l:BananaTape
 l:Moonlight-Qt-Mic
 l:gogstash
+l:QuickOutline
 l:OpenRAModSDK
 l:Signature-One
 l:BrainWaves
@@ -2175,6 +2180,7 @@ l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
 l:pi-agent-dashboard
+l:DABstar
 l:OpenComic_Nightly
 l:MirrorShard
 l:tmon
@@ -2588,6 +2594,7 @@ l:Metronomek
 l:Keibo-MoneyTracker-x86_64
 l:ChemCanvas
 l:Quark
+l:MQTTProbe
 l:Cairn
 l:Ripes
 l:electron-vvt
@@ -2616,7 +2623,6 @@ l:AnkiMiner
 l:blink
 l:Agro
 l:vREST_NG
-l:Cryptocam_Companion
 l:Free_Google_Index_Checker
 l:HexoManager
 l:daggerfall-js-source
@@ -2751,6 +2757,7 @@ l:de_rclone
 l:GLIMPSE
 l:OpenFIRE_App
 l:Loukai
+l:Cryptocam_Companion
 l:Kdevelop
 l:blubVolley
 l:PREVU
@@ -2835,7 +2842,6 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
-l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
