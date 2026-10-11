@@ -2156,7 +2156,6 @@ l:eXtrema
 l:ConsoleWorkbench
 l:sigrok-cli
 l:SSH-MITM
-l:Cryptocam_Companion
 l:Eqonomize
 l:PS2-Servers
 l:paint.c
@@ -2368,7 +2367,6 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
-l:Alpine_Client
 l:Iridium_Wallet
 l:OrionLauncher
 l:4KWALL
@@ -2403,6 +2401,7 @@ l:Traycer
 l:leolink
 l:Sheikah
 l:PostyBirb
+l:Cryptocam_Companion
 l:Lucerne
 l:Strawberry
 l:Kubeterm
@@ -2721,6 +2720,7 @@ l:Clawdmeter
 l:Sliver_GUI
 l:BK_Study_Desk
 l:BitBox
+l:Alpine_Client
 l:VoxelXClient
 l:osu
 l:Stele
@@ -2795,7 +2795,6 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
-l:Crescat
 l:Codync
 l:ebloid_desktop
 l:Bottles
@@ -2864,3 +2863,4 @@ l:MultiworldGG
 l:Open_Nectar
 l:gsubs
 l:Beam_Research_Toolkit
+l:Crescat
