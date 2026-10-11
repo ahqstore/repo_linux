@@ -111,6 +111,7 @@ l:BrowserOS
 l:Scanthesis
 l:bedrock-panel
 l:embedded-ide
+l:qView
 l:OwlPlug
 l:Dota2_CFG_Changer
 l:HexoEditor
@@ -244,6 +245,7 @@ l:jag
 l:flappy-bird
 l:Mirroid
 l:Brackets
+l:pgNimbus
 l:TotoroNext-Avalonia
 l:MQ3T
 l:PhotoQt
@@ -277,6 +279,7 @@ l:Voiden
 l:Cool_Retro_Term
 l:Statsbook_Tool
 l:FnordLauncher
+l:EmeraldWallet
 l:APhotoToolLibre
 l:modbux
 l:AWS_SSM_Manager
@@ -327,6 +330,7 @@ l:osuradio
 l:Stem
 l:VE_Foundry_Client
 l:lotei-qflipper
+l:Picocrypt
 l:claude-dev-suite
 l:termimus-ssh
 l:JanLauncher
@@ -517,6 +521,7 @@ l:WeChat_Claude_Code
 l:Omnicross
 l:Skrifa
 l:Steam_Manifest_Downloader
+l:Aurora_Music
 l:Paw-Search-Bar-Streaming
 l:Pokemon_Showdown_Pro
 l:DFIR_Companion
@@ -791,6 +796,7 @@ l:CustomRPC
 l:Firefox_Nightly
 l:Musicalypse
 l:YellowFruit
+l:systemd_Pilot
 l:KiCad
 l:CarcaraCode
 l:qr-code-generator-desktop
@@ -860,6 +866,7 @@ l:SoftDo
 l:MongoBench
 l:Shuttle
 l:YARC-Launcher
+l:AGNT
 l:Agora
 l:Relic_of_the_Past
 l:Plazmic_Legends
@@ -1135,6 +1142,7 @@ l:FreeCoreData
 l:PowerShell
 l:bb-imager-gui
 l:kitupiikki
+l:ente
 l:O3
 l:RSProx
 l:SF_Tube
@@ -1261,6 +1269,7 @@ l:MediaLyze
 l:ksnip
 l:powder_toy
 l:index0-releases
+l:Viber
 l:HushMic
 l:Latte
 l:yaya
@@ -1334,7 +1343,6 @@ l:NepaliUnicode
 l:MaplatEditor
 l:Colorpicker
 l:MuPDF
-l:Linphone
 l:sicth
 l:Streambert
 l:Wireless_Microphone_Analyzer
@@ -1353,6 +1361,7 @@ l:Clipit
 l:Meshmill
 l:MuWire
 l:Gharmonize
+l:Filen
 l:comic-strip-browser
 l:TMPlayer
 l:GXC_Smart_Contract_IDE
@@ -1464,6 +1473,7 @@ l:Manga_Reader
 l:fanhuaji-tauri
 l:OpenProxy
 l:LOVE
+l:CherryTree
 l:sidplaywx
 l:ommpfritt
 l:Sayso
@@ -1508,6 +1518,7 @@ l:TopoSaic
 l:AiyoPerps
 l:fingerprint-chromium
 l:MaterialX_Playground
+l:Pocket_Browser
 l:Kizuna_Voice_Studio
 l:Kute
 l:OpenCode_Visualizer_CN
@@ -1605,6 +1616,7 @@ l:acreom
 l:ADT_Studio
 l:One-Click_Coding_Agent
 l:Neon
+l:Biscuit
 l:SteleKit
 l:FontLet
 l:Liang.Desktop.Pet
@@ -1887,6 +1899,7 @@ l:fmradio
 l:Desktop
 l:Spindle
 l:xiangxuema
+l:Dodaios
 l:MetroidPrimeHuntersRecomp
 l:Haven_Desktop
 l:Zegarek
@@ -1905,6 +1918,7 @@ l:Deployer
 l:PicoLog
 l:Kanon
 l:QPrompt
+l:Speek
 l:Happy
 l:StatusIm
 l:LampixJS
@@ -1990,7 +2004,6 @@ l:BananaTape
 l:Moonlight-Qt-Mic
 l:gogstash
 l:QuickOutline
-l:OpenRAModSDK
 l:Signature-One
 l:BrainWaves
 l:OurPrompt
@@ -2094,8 +2107,10 @@ l:sourcegit
 l:IEM_Tool
 l:SigmaSpectra
 l:tipitaka_pali_reader
+l:PocketBook
 l:MyVPN
 l:CoreStuff
+l:Nagome
 l:Taurvia
 l:ProQuaere
 l:CC_Logins
@@ -2213,6 +2228,7 @@ l:KopiaUI
 l:Instaladores---JearCastApp
 l:EasyEdit
 l:Gemini-Desktop
+l:Puzzle_Moppet
 l:Prompt_Evaluator
 l:TaskManagerOG
 l:Puffin
@@ -2271,6 +2287,7 @@ l:Book_Manager
 l:Qucs-S
 l:RetireePlan
 l:boardown
+l:Wohnungsbot
 l:Rekordbox.Library.Fixer
 l:marktext
 l:midi123
@@ -2357,6 +2374,7 @@ l:RyoWallet
 l:open-codesign
 l:POM1
 l:PiST
+l:Cryptocam_Companion
 l:CoreStats
 l:Materialize
 l:thorium-client
@@ -2369,6 +2387,7 @@ l:makoureactor
 l:IrScrutinizer
 l:Marina
 l:Media_Downloader
+l:hd_fpv_video_tool
 l:RetroShare
 l:ProofKeeper
 l:LibreCAD
@@ -2461,6 +2480,7 @@ l:Elysian_Code
 l:Spectra_PDF
 l:WorkFlowy
 l:FinceptTerminal
+l:MQTTX
 l:HA-Desktop-Widget
 l:wsp
 l:conky
@@ -2554,6 +2574,7 @@ l:Guide_Studio
 l:beurerscalemanager
 l:HarnessForge-Public
 l:jsCPUMonitor
+l:sleek
 l:Quantum_Leap
 l:Homelander
 l:StudioBridge
@@ -2661,6 +2682,7 @@ l:YNOdesktop
 l:penguins-gui
 l:Guitar
 l:I_Have_No_Tomatoes
+l:Multistream
 l:SyncMyL2P
 l:Zlack
 l:Nodus
@@ -2674,6 +2696,7 @@ l:OpenEmux
 l:wezterm
 l:ElectrumRhodium
 l:dpcc-harness
+l:Drawx
 l:Veld
 l:SMF-DSP
 l:revpdf-release
@@ -2705,6 +2728,7 @@ l:Korda
 l:wj-markdown-editor
 l:PhreshPlayer
 l:Planet_Blupi
+l:Ferdium
 l:KeePassXC
 l:plugdata
 l:SimDSP
@@ -2740,6 +2764,7 @@ l:Citropy
 l:keyrier-json
 l:AnimaShooter
 l:tldraw_offline_nightly
+l:GDLauncher
 l:siyuan-patch
 l:Termalime
 l:Fidias_Database_Migration_App
@@ -2754,10 +2779,10 @@ l:Halvora
 l:revya-desktop
 l:ytDownloader
 l:de_rclone
+l:MepMail
 l:GLIMPSE
 l:OpenFIRE_App
 l:Loukai
-l:Cryptocam_Companion
 l:Kdevelop
 l:blubVolley
 l:PREVU
@@ -2778,6 +2803,7 @@ l:e2designer
 l:QOwnNotes
 l:K
 l:Keys
+l:Simplenote
 l:VirtScreen
 l:qcut
 l:Skilldeck
@@ -2813,6 +2839,7 @@ l:Inkscape
 l:Clarity
 l:Padloc
 l:VRCFaceTracking.Avalonia
+l:WeekToDo
 l:pigs-n-cows
 l:Friture
 l:Moonitor
@@ -2868,5 +2895,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
