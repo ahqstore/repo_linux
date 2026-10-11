@@ -2401,7 +2401,6 @@ l:Traycer
 l:leolink
 l:Sheikah
 l:PostyBirb
-l:Cryptocam_Companion
 l:Lucerne
 l:Strawberry
 l:Kubeterm
@@ -2617,6 +2616,7 @@ l:AnkiMiner
 l:blink
 l:Agro
 l:vREST_NG
+l:Cryptocam_Companion
 l:Free_Google_Index_Checker
 l:HexoManager
 l:daggerfall-js-source
@@ -2720,7 +2720,6 @@ l:Clawdmeter
 l:Sliver_GUI
 l:BK_Study_Desk
 l:BitBox
-l:Alpine_Client
 l:VoxelXClient
 l:osu
 l:Stele
@@ -2836,6 +2835,7 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
+l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2862,5 +2862,5 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
