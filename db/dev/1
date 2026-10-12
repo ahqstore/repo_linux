@@ -2238,7 +2238,6 @@ l:Kcov
 l:omp_GUI
 l:DeployerX
 l:Local_Browser
-l:Drawx
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -2270,6 +2269,7 @@ l:hal9000
 l:WhatsLNX
 l:jsonquery_gui
 l:Running-Dinner-Tool
+l:Drawx
 l:GpgFrontend
 l:twitch-wrapper
 l:mapton
@@ -2582,6 +2582,7 @@ l:Homelander
 l:StudioBridge
 l:antimicroX
 l:Meridian
+l:Cryptocam_Companion
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
@@ -2871,7 +2872,6 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
-l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2898,6 +2898,6 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Cryptocam_Companion
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
