@@ -554,6 +554,7 @@ l:USBSID-Configtool
 l:FastDownloader
 l:flightgear-airports
 l:MooerLooperManager
+l:ag-repatch
 l:foxfolio
 l:Speaky_MiniPlayer
 l:StarUML
@@ -1520,6 +1521,7 @@ l:AiyoPerps
 l:fingerprint-chromium
 l:MaterialX_Playground
 l:Pocket_Browser
+l:Vibe_Wallet
 l:Kizuna_Voice_Studio
 l:Kute
 l:OpenCode_Visualizer_CN
@@ -1635,6 +1637,7 @@ l:SDRLoggerPlus
 l:SmartServoGui
 l:ImageMosaicWall
 l:LunoDB
+l:WebWallGL
 l:UDCAP_Control
 l:marlin-conf
 l:SAManager
@@ -2069,7 +2072,6 @@ l:ArduDeck
 l:Termlnk
 l:CoreGarage
 l:Skiller
-l:Mockman
 l:Slacktronic
 l:Skycoin
 l:Nexus_Wallet
@@ -2231,6 +2233,7 @@ l:Instaladores---JearCastApp
 l:EasyEdit
 l:Gemini-Desktop
 l:Puzzle_Moppet
+l:Drawx
 l:Prompt_Evaluator
 l:TaskManagerOG
 l:Puffin
@@ -2243,6 +2246,7 @@ l:LeanStudio
 l:linux-intel-undervolt-gui
 l:ColorMC
 l:SmartCut
+l:Cryptocam_Companion
 l:m8c
 l:COMPASS
 l:Play_2048
@@ -2269,7 +2273,6 @@ l:hal9000
 l:WhatsLNX
 l:jsonquery_gui
 l:Running-Dinner-Tool
-l:Drawx
 l:GpgFrontend
 l:twitch-wrapper
 l:mapton
@@ -2582,7 +2585,6 @@ l:Homelander
 l:StudioBridge
 l:antimicroX
 l:Meridian
-l:Cryptocam_Companion
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
@@ -2659,6 +2661,7 @@ l:Mira
 l:paradox-translation-toolkit
 l:VidCutter
 l:NeuroDB
+l:Alpine_Client
 l:Parson
 l:OpenTable
 l:GridPlayer
@@ -2898,6 +2901,5 @@ l:Meeting_Transcriber
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
