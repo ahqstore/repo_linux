@@ -381,6 +381,7 @@ l:Mineradio_for
 l:JReleaser
 l:PKHeX-Avalonia
 l:Ultima_VLESS
+l:CasterSoundboard
 l:Zenkit
 l:CurlIt
 l:ZeroNet
@@ -501,7 +502,6 @@ l:Airspaces
 l:openEHR_Explorer
 l:Extreme.InfiniTV
 l:Audiola
-l:Marginalia
 l:IGdm
 l:SocketSweep
 l:YangDownloader-3.0
@@ -839,6 +839,7 @@ l:Chat2API
 l:word-sys-pdf-editor
 l:IIViewer
 l:DeepSeek.Whale.Pet
+l:Kye
 l:SOIL_EDITOR
 l:ACP_Inspector
 l:LibrAgent
@@ -1124,7 +1125,6 @@ l:LANShare
 l:PromptDe
 l:unsloth
 l:SSPlot
-l:SnapBoard
 l:wnr
 l:FerrumKix
 l:chaton
@@ -2310,7 +2310,6 @@ l:Kitab
 l:DNS_Hop
 l:M3U8_Quicker
 l:Stud
-l:Cryptocam_Companion
 l:MangaBox
 l:moniteur-admin
 l:Standard_of_Iron
@@ -2521,6 +2520,7 @@ l:pb-for-desktop
 l:Dead_Rising_2_Case_West_Xenon_Recomp
 l:LibreOfficeDev
 l:Gaia_Sky
+l:Cryptocam_Companion
 l:T.Viewer
 l:Chat2API-WXS
 l:monfree
@@ -2593,7 +2593,6 @@ l:Meridian
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
-l:OctoShrink
 l:vm-curator
 l:evoplex
 l:Claim-Free-Games
@@ -2909,5 +2908,5 @@ l:MultiworldGG
 l:Open_Nectar
 l:gsubs
 l:Alpine_Client
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
