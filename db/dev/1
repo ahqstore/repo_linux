@@ -1217,7 +1217,6 @@ l:Vipster
 l:GlyphVisualizer
 l:turul-app
 l:AbracaDABra
-l:Zulip
 l:prismlauncher
 l:ECT_EVE_Assets
 l:Unified.Auctions.UI
@@ -2062,6 +2061,7 @@ l:Beatmap_Backup
 l:Cinekive
 l:Open_Battery_Information
 l:storyboarder
+l:ZENDER
 l:Emacs
 l:zsync2
 l:AxiBridge
@@ -2475,7 +2475,6 @@ l:Sheikah
 l:PostyBirb
 l:Lucerne
 l:Strawberry
-l:Cryptocam_Companion
 l:Kubeterm
 l:WitNote
 l:Proton_Drive_Sync
@@ -2518,7 +2517,6 @@ l:devtools
 l:SnipForge
 l:FreeBox
 l:SUMOCO
-l:Alpine_Client
 l:PraxisLIVE
 l:Lee_Label
 l:whatsie
@@ -2886,6 +2884,7 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
+l:Cryptocam_Companion
 l:Codync
 l:ebloid_desktop
 l:Locademy
@@ -2958,5 +2957,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
