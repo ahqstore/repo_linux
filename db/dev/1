@@ -2805,6 +2805,7 @@ l:PG_Orbit
 l:hotspot
 l:Dibby_Wemo_Manager
 l:FreightFate
+l:Cryptocam_Companion
 l:autoremesher
 l:LiberTEM
 l:Ripcord
@@ -2834,7 +2835,6 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
-l:Cryptocam_Companion
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
