@@ -181,6 +181,7 @@ l:SimplEOS
 l:Tablo_Tools
 l:RITMO_Music_Tracker
 l:Monot
+l:PyQuark
 l:DB_Toolkit
 l:Opal
 l:hw-probe
@@ -371,6 +372,7 @@ l:OpenResearch
 l:textosaurus
 l:OpenADE
 l:Streamon
+l:YuE2_Studio
 l:XELFViewer
 l:Beware_Of_Dog
 l:SPlayer
@@ -749,6 +751,7 @@ l:TranscriptionSuite
 l:Artifact
 l:WhatsApp_MCP_Server
 l:streamcapture2
+l:ACE-Step_Studio
 l:KnitCalc
 l:flashback-raw-editor
 l:Revisionary
@@ -881,6 +884,7 @@ l:Shuttle
 l:YARC-Launcher
 l:AGNT
 l:Agora
+l:jsBudbrainLaufwerksTest
 l:Relic_of_the_Past
 l:Plazmic_Legends
 l:Anime_Cursor
@@ -890,6 +894,7 @@ l:StackFerry
 l:Jam
 l:My-Honda-Plus-for-desktop
 l:Iceworks
+l:AeroFTP
 l:Software-Challenge-GUI
 l:clippy
 l:RapidCMI5
@@ -1217,6 +1222,7 @@ l:Vipster
 l:GlyphVisualizer
 l:turul-app
 l:AbracaDABra
+l:Zulip
 l:prismlauncher
 l:ECT_EVE_Assets
 l:Unified.Auctions.UI
@@ -1336,6 +1342,7 @@ l:Y_A_W_N
 l:dpanahub-rdm
 l:Scytale
 l:Infection_Monkey
+l:VibeHub
 l:Sai
 l:Open_Recruiter
 l:appimagetool
@@ -1398,6 +1405,7 @@ l:Another
 l:simple-s3-uploader
 l:nmap
 l:Waterfox_Current
+l:TwinDesk
 l:runanode
 l:Yoke_Calendar
 l:Spectral
@@ -1439,6 +1447,7 @@ l:AetherSDR
 l:FAT_Wallet
 l:Birdman64
 l:Android_File_Transfer
+l:Arroxy
 l:pomotroid
 l:barcode-emulator-electron
 l:OpenRGB
@@ -1628,6 +1637,7 @@ l:Desktop_Browserbase
 l:Metabuli.App
 l:Leon
 l:Astroffers
+l:TeslaCam_Viewer
 l:Pandia
 l:PICO_Store_Lab
 l:JeikCode
@@ -2408,6 +2418,7 @@ l:Rambox
 l:claude-desktop-debian
 l:ABCarus
 l:Network_Simulator
+l:OpenSGolf
 l:Composa
 l:CoreImage
 l:BloomRPC
@@ -2599,6 +2610,7 @@ l:Snap_Prompt
 l:ideaMaker
 l:Monghoul
 l:Heimer
+l:Muse_Desktop
 l:OpenHV
 l:Flippy_Qualitative_Testbench
 l:bootstrap-love2d-project
@@ -2702,6 +2714,7 @@ l:vREST_NG
 l:Free_Google_Index_Checker
 l:HexoManager
 l:daggerfall-js-source
+l:Sketchover
 l:Janus
 l:Nine
 l:linux_czkawka_gui
@@ -2736,6 +2749,7 @@ l:SuperTux
 l:Simple-Code-GUI
 l:YNOdesktop
 l:penguins-gui
+l:FreeVideo
 l:Guitar
 l:I_Have_No_Tomatoes
 l:Multistream
@@ -2884,7 +2898,6 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
-l:Cryptocam_Companion
 l:Codync
 l:ebloid_desktop
 l:Locademy
@@ -2957,6 +2970,7 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Cryptocam_Companion
 l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
