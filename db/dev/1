@@ -2886,7 +2886,6 @@ l:VirtScreen
 l:qcut
 l:Skilldeck
 l:Patchwork
-l:Cryptocam_Companion
 l:Painel-Web
 l:POE_Ladder
 l:DawnlightSearch
@@ -2950,6 +2949,7 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
+l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2977,6 +2977,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
-l:Beam_Research_Toolkit
+l:Cryptocam_Companion
 l:Crescat
+l:Beam_Research_Toolkit
