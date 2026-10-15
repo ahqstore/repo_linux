@@ -546,6 +546,7 @@ l:photoname
 l:sbe
 l:Sloth_Clash
 l:Vegha
+l:Libre_Panel
 l:Blizzard_4
 l:jsLinuxCleanup
 l:Rainbow_Board
@@ -1102,6 +1103,7 @@ l:Evolution_RTS
 l:Astrofox
 l:pi-app
 l:Translatium
+l:Super_MD
 l:zyfun
 l:HEAT1D
 l:SysEx_Drop
@@ -1382,6 +1384,7 @@ l:Limo_CAD
 l:IllusionAgent
 l:dotline
 l:Widelands
+l:Wonderwall
 l:NeoMusic
 l:Subway_Surfers
 l:QQ_Music
@@ -1641,6 +1644,7 @@ l:Pandia
 l:PICO_Store_Lab
 l:JeikCode
 l:sales-claw-ts
+l:OpenWar3
 l:CoreArchiver
 l:SquirrelDisk
 l:UDCalc
@@ -1793,6 +1797,7 @@ l:DDClock
 l:Dwyco_Phoo
 l:OpenLive3d.electron
 l:CP2130_Commander
+l:Termos
 l:Rebaslight
 l:OpenStream_Music
 l:ColorGenerator
@@ -2044,6 +2049,7 @@ l:Archtoys
 l:KIT_Scenarist
 l:whiteboard
 l:Editora
+l:ZeldaWWHDRecomp
 l:Codex-Mobile-Bridge
 l:RetroStudio
 l:TenchuSARecomp
@@ -2060,6 +2066,7 @@ l:BrainWaves
 l:OurPrompt
 l:Navide
 l:weweChat
+l:Clutch
 l:FreeTunnel
 l:base
 l:avogadro
@@ -2879,6 +2886,7 @@ l:VirtScreen
 l:qcut
 l:Skilldeck
 l:Patchwork
+l:Cryptocam_Companion
 l:Painel-Web
 l:POE_Ladder
 l:DawnlightSearch
@@ -2890,7 +2898,6 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
-l:Cryptocam_Companion
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
@@ -2971,5 +2978,5 @@ l:MultiworldGG
 l:Open_Nectar
 l:gsubs
 l:Alpine_Client
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
