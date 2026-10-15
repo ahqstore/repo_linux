@@ -218,6 +218,7 @@ l:SmallBASIC
 l:MarkView
 l:Nootka
 l:Simdock
+l:jsDevCleaner
 l:etichetta
 l:Gen1Recomp
 l:Clearcote_Profile_Manager
@@ -1261,6 +1262,7 @@ l:SimpMusic
 l:Copilot-API
 l:sdrconnect-ft8-module
 l:mandelbulber2
+l:jsSodoku
 l:Slippi
 l:Qemux
 l:Magic_Term
@@ -2544,6 +2546,7 @@ l:Jan
 l:Elysian_Code
 l:Spectra_PDF
 l:WorkFlowy
+l:Astonischika
 l:FinceptTerminal
 l:MQTTX
 l:HA-Desktop-Widget
@@ -2580,7 +2583,6 @@ l:Gaia_Sky
 l:T.Viewer
 l:Chat2API-WXS
 l:monfree
-l:PhotoSuite
 l:SimpleX
 l:Katvan
 l:Meguri
@@ -2670,6 +2672,7 @@ l:Make_My_Figure
 l:Pikura
 l:Producer_Player
 l:tallybook.yml
+l:FarmIsFun
 l:OpenAudible
 l:HeroesProfileUploader
 l:Franz
@@ -2695,6 +2698,7 @@ l:electron-vvt
 l:Lunyr
 l:Dragoman
 l:Carnet
+l:Cryptocam_Companion
 l:Tuck
 l:CLILoom
 l:attu
@@ -2949,7 +2953,6 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
-l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
@@ -2977,6 +2980,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Cryptocam_Companion
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
