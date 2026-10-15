@@ -33,6 +33,7 @@ l:HashVerifier
 l:MyShows_Scrobbler
 l:DeDop-studio
 l:Mnemo
+l:MorphTo
 l:GitQlient
 l:ChordVox
 l:APK_Editor_Studio
@@ -107,6 +108,7 @@ l:Ropcode
 l:SimpleDoomLauncher
 l:OMP_Desktop
 l:QMPlay2
+l:Opengeni
 l:BrowserOS
 l:Scanthesis
 l:bedrock-panel
@@ -236,6 +238,7 @@ l:WebDesktop
 l:conduit-desktop
 l:privacy.sexy
 l:QDriverStation
+l:Kodeida
 l:SUbillManager
 l:Vulkan_Hardware_Capability_Viewer
 l:OpenMap_Studio
@@ -318,6 +321,7 @@ l:CRIC
 l:Peruse
 l:Port587
 l:Pool
+l:Animo
 l:Toph
 l:BDSup2Sub
 l:LibrePCB
@@ -348,6 +352,7 @@ l:Kosmos
 l:NeRoBoT
 l:TorrentDeck
 l:todo-bash
+l:SceneForge
 l:text-diff-view
 l:AsarUI
 l:mrmd-electron
@@ -446,6 +451,7 @@ l:Source2Viewer_-_d2pfx
 l:protonmail-desktop
 l:ChartCaddy
 l:Voltra
+l:Framewright
 l:mutool
 l:LogSquirl
 l:SilentDragonLite
@@ -487,6 +493,7 @@ l:AiDoGUI_Designer
 l:r2modmanPlus
 l:Carpenters
 l:ScienceFair
+l:HATS
 l:SAMBAUtil
 l:Orkestrai
 l:Rokkr
@@ -665,6 +672,7 @@ l:Connectio
 l:DeepTags
 l:Addaps
 l:Weavit_UI
+l:GuidedReel
 l:dota2-mod-manager
 l:Tumblr_Scraper
 l:DeezerDiscordRPC
@@ -1045,12 +1053,14 @@ l:GM-Companion
 l:CP_Editor
 l:Mailspring
 l:OpenBlok
+l:OCPQ
 l:xonsh
 l:Wi-Fi_Heatmapper
 l:Mapeo
 l:PolkaKey
 l:Xenia_Dashboard
 l:Caprock
+l:Raml_KQL
 l:LOVR
 l:Vayu
 l:phoenix-desktop
@@ -1125,6 +1135,8 @@ l:Hypnos
 l:app-finance
 l:StackAndConquer
 l:autoEdit2
+l:DigUp
+l:GodTerm
 l:deckwerk
 l:OpenUaExplorer
 l:FMS_File_Explorer
@@ -1155,6 +1167,7 @@ l:Stello
 l:saphyr
 l:theWeb
 l:ynotbit
+l:Snag
 l:Lepton
 l:Blockbench
 l:RetroArch
@@ -1264,6 +1277,7 @@ l:sdrconnect-ft8-module
 l:mandelbulber2
 l:jsSodoku
 l:Slippi
+l:Heroic
 l:Qemux
 l:Magic_Term
 l:ScrapeStorm
@@ -1273,6 +1287,7 @@ l:Rufux
 l:Pathephone
 l:Smaragd
 l:BlenSor
+l:Rollport
 l:perl-executing-browser
 l:swyh-rs
 l:denokv-gui-client
@@ -1335,6 +1350,7 @@ l:wljs-notebook
 l:electron-xiami
 l:vidmask
 l:Ghostlane
+l:TriCoreDownloader
 l:QNapi
 l:KryTrader
 l:Retro-Burner
@@ -1416,6 +1432,7 @@ l:Spectral
 l:Kater
 l:p2p-chat
 l:STMng
+l:Luminous
 l:ImpPoster
 l:Vessel
 l:GPT_Image_2_Skill
@@ -1467,6 +1484,7 @@ l:slang-ed
 l:Cafe_Launcher_Avalonia_Release
 l:StormDesk
 l:Jackify
+l:Frink
 l:Freelens
 l:Swift
 l:Lore
@@ -1538,6 +1556,7 @@ l:TVALB
 l:NoSQLBooster
 l:madhav-releases
 l:SyntaxTutor
+l:Escouade
 l:Minecraft_Pi_Reborn_Client
 l:nvtop
 l:Kudu
@@ -1615,6 +1634,7 @@ l:UHK.Agent
 l:Digitales_Klassenzimmer
 l:ShareMyHost
 l:ChatMCP
+l:YAQMC
 l:Herta
 l:CuteVariant
 l:SwissKnife_for_MS_Graph
@@ -1623,6 +1643,7 @@ l:SourceGit
 l:Cerebral-Debugger
 l:Serial_Studio
 l:Parallelcoin
+l:Loaderly
 l:RongYou
 l:Drawish
 l:document-ai-assistant
@@ -1745,12 +1766,14 @@ l:labokit-electron
 l:OpenCode_Beta
 l:Radioss
 l:Dead_Rising_2_Case_Zero_Xenon_Recomp
+l:BeanDesk
 l:Arduino_IDE
 l:Tesseract
 l:sqlitebrowser
 l:Git_Context
 l:Syspeek
 l:ClawChat
+l:PsyMP3
 l:Brave_Browser
 l:Cacher
 l:Lyra_Music
@@ -2723,6 +2746,7 @@ l:Agro
 l:vREST_NG
 l:Free_Google_Index_Checker
 l:HexoManager
+l:Styx
 l:daggerfall-js-source
 l:Sketchover
 l:Janus
@@ -2775,6 +2799,7 @@ l:whistle-client
 l:OpenEmux
 l:wezterm
 l:ElectrumRhodium
+l:CubicleCrew
 l:dpcc-harness
 l:Veld
 l:SMF-DSP
@@ -2829,6 +2854,7 @@ l:FPVThePlanet
 l:Clawdmeter
 l:Sliver_GUI
 l:BK_Study_Desk
+l:vibeconf
 l:BitBox
 l:VoxelXClient
 l:osu
@@ -2981,5 +3007,5 @@ l:MultiworldGG
 l:Open_Nectar
 l:gsubs
 l:Alpine_Client
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
