@@ -2371,7 +2371,6 @@ l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
 l:RetireePlan
-l:Cryptocam_Companion
 l:boardown
 l:Wohnungsbot
 l:Rekordbox.Library.Fixer
@@ -2721,6 +2720,7 @@ l:electron-vvt
 l:Lunyr
 l:Dragoman
 l:Carnet
+l:Cryptocam_Companion
 l:Tuck
 l:CLILoom
 l:attu
