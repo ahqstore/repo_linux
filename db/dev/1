@@ -1770,6 +1770,7 @@ l:PIA
 l:Chronicle_Keeper
 l:ebalistyka
 l:GyShell
+l:Filey
 l:patchbay
 l:ONLYOFFICE
 l:YoloLabel
@@ -2541,6 +2542,7 @@ l:Lucerne
 l:Strawberry
 l:Kubeterm
 l:WitNote
+l:Cryptocam_Companion
 l:Proton_Drive_Sync
 l:myNetwork
 l:Linedancer
@@ -2664,7 +2666,6 @@ l:SimUtil
 l:Hiveory
 l:ideaMaker
 l:Monghoul
-l:Cryptocam_Companion
 l:Heimer
 l:Muse_Desktop
 l:OpenHV
@@ -2747,7 +2748,6 @@ l:Lunyr
 l:Dragoman
 l:OpsTrellis
 l:Carnet
-l:Alpine_Client
 l:Tuck
 l:CLILoom
 l:attu
@@ -2828,6 +2828,7 @@ l:wezterm
 l:ElectrumRhodium
 l:CubicleCrew
 l:dpcc-harness
+l:Alpine_Client
 l:Veld
 l:SMF-DSP
 l:revpdf-release
@@ -2950,6 +2951,7 @@ l:DawnlightSearch
 l:emuze
 l:LumaBrowser
 l:Project_Indexer
+l:GBA_Emulator
 l:QaterialGallery
 l:niceNESs
 l:BenchLocal
