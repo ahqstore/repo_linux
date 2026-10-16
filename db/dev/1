@@ -33,6 +33,7 @@ l:HashVerifier
 l:MyShows_Scrobbler
 l:DeDop-studio
 l:Mnemo
+l:OmniCam
 l:MorphTo
 l:GitQlient
 l:ChordVox
@@ -82,6 +83,7 @@ l:todofy
 l:Mark_Mind
 l:DJ_USB_Tkit
 l:langly
+l:VibeSuperTonic
 l:olcvpn-client
 l:PSF.Guard
 l:CloudVoyager
@@ -102,6 +104,7 @@ l:Boar
 l:data-peek
 l:Mudlet
 l:Hive
+l:pomodorolm
 l:absotui
 l:Motrix
 l:Ropcode
@@ -320,6 +323,7 @@ l:scavengers
 l:CRIC
 l:Peruse
 l:Port587
+l:Mise_Browser
 l:Pool
 l:Animo
 l:Toph
@@ -422,11 +426,13 @@ l:rattin-public
 l:C-evo
 l:XMedCon
 l:linuxdeployqt
+l:Whisper
 l:ohmyhf
 l:Shadow
 l:unified-communications
 l:GitStudio
 l:DeskPort
+l:Athas
 l:Agent_Campus
 l:alan-connect
 l:ZedSecure
@@ -551,6 +557,7 @@ l:HyperLinq
 l:Passky
 l:Vyact
 l:photoname
+l:CogineBot
 l:sbe
 l:Sloth_Clash
 l:Vegha
@@ -642,6 +649,7 @@ l:live-plus-plus
 l:IXD
 l:quokkagit
 l:dbet-wallet
+l:DayApp
 l:Aglaia
 l:Sip
 l:NoteMaster
@@ -746,6 +754,7 @@ l:FastVibe
 l:Krita
 l:Mailove
 l:OVALE
+l:DragonsCrownProPC
 l:Aperant
 l:Canoe
 l:Excalideck
@@ -1008,6 +1017,7 @@ l:Busca_Vagas
 l:PaperLab
 l:Markdown_Cornell_Notes
 l:Chatbox
+l:CuteCut-Pro
 l:pretty-printable-calendar
 l:Loom
 l:Textilosaurus
@@ -1089,11 +1099,13 @@ l:NEO
 l:Celestia
 l:OpenSnap
 l:fRAG
+l:Eleven
 l:PicGo
 l:lnxngfmsdm
 l:Shockwave
 l:ultra-tracker
 l:VoiceStudio
+l:Rombo
 l:Lemon
 l:FlClash
 l:FireForm
@@ -1498,6 +1510,7 @@ l:Densify
 l:EVE_Console
 l:soa-launcher-qt
 l:MLV-App
+l:PeekaUsage
 l:unofficial-zalo
 l:rmw
 l:NetworkClient
@@ -1545,6 +1558,7 @@ l:Otto
 l:Rexpo_Debugger
 l:BottleBats
 l:Jorvik
+l:Lion_SSH
 l:ServerMark
 l:SlackBackup
 l:Tutanota
@@ -1787,6 +1801,7 @@ l:Lab_Ledger
 l:Doping-Hafiza
 l:hyper
 l:clio-agent
+l:Fjord
 l:StopLight
 l:ComplianceGuard
 l:iota1k
@@ -1854,6 +1869,7 @@ l:ClawWork
 l:nudelta
 l:Braincup
 l:Vessel_Browser
+l:Hard_Corps_Uprising_Recompiled
 l:RefOrg
 l:Crypter
 l:elcalc
@@ -1861,6 +1877,7 @@ l:zmd-charge-plus
 l:CubeShelf-Launcher
 l:LibAssist
 l:Light_Matter
+l:Portkeeper
 l:Notable
 l:Magnolie-Organizer
 l:standard-notes
@@ -1878,6 +1895,7 @@ l:Dataset-Editor
 l:Calsolo
 l:InnerBreeze
 l:FlowScale_AIOS
+l:Geometry_Wars_Retro_Evolved_2_Recompiled
 l:er-save-manager
 l:mgzon-cli
 l:Parom.TV
@@ -1902,6 +1920,7 @@ l:spritesheet-helper
 l:Geph
 l:DzLinux
 l:Safe_Multisig
+l:Perastage
 l:XMSGi_Studio
 l:Selfbot
 l:myCeloJs
@@ -2019,6 +2038,7 @@ l:Karasu
 l:strans
 l:Monbooru
 l:pkg2appimage
+l:oshot
 l:GemType
 l:Aphelion_Wallet
 l:Marvin
@@ -2040,6 +2060,7 @@ l:Gong
 l:arokiyam-app
 l:Swamp_Swap
 l:Siril
+l:DomoLens
 l:Taskizer
 l:Deadbolt
 l:InferencePort_AI
@@ -2291,6 +2312,7 @@ l:Coxswain
 l:MetaCubeXD
 l:Sayonara
 l:Qortal_UI
+l:ultima5
 l:RBDL-Toolkit
 l:Loenn
 l:PDFQuirk
@@ -2362,6 +2384,7 @@ l:LocalStack_Explorer
 l:FlyBudget
 l:Concrete
 l:noBS_CAD
+l:MDEZ
 l:myCat
 l:stash-electron
 l:school-sections
@@ -2637,8 +2660,11 @@ l:LANtern-Control
 l:OpenSubtitles_Uploader_PRO
 l:gmaps-scraper-studio
 l:Snap_Prompt
+l:SimUtil
+l:Hiveory
 l:ideaMaker
 l:Monghoul
+l:Cryptocam_Companion
 l:Heimer
 l:Muse_Desktop
 l:OpenHV
@@ -2719,6 +2745,7 @@ l:Ripes
 l:electron-vvt
 l:Lunyr
 l:Dragoman
+l:OpsTrellis
 l:Carnet
 l:Alpine_Client
 l:Tuck
@@ -2788,6 +2815,7 @@ l:I_Have_No_Tomatoes
 l:Multistream
 l:SyncMyL2P
 l:Zlack
+l:vlcmediaplayerv2
 l:Nodus
 l:bioanimation
 l:Vibeyard
@@ -2812,6 +2840,7 @@ l:Panda_Reader
 l:Cycletron
 l:YubiKey_Manager
 l:1DevTool_Releases
+l:Propel
 l:MegaBasterd
 l:Datcord
 l:BetterSource2Viewer
@@ -2929,11 +2958,11 @@ l:PDF_Scholar
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
+l:celer
 l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
-l:Cryptocam_Companion
 l:Codync
 l:ebloid_desktop
 l:Locademy
