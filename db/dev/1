@@ -2707,7 +2707,6 @@ l:StockStalk
 l:Cells
 l:grok-build-vscode
 l:PortPilot
-l:Cryptocam_Companion
 l:NanoVault
 l:AI-Browser
 l:Metronomek
@@ -2721,6 +2720,7 @@ l:electron-vvt
 l:Lunyr
 l:Dragoman
 l:Carnet
+l:Alpine_Client
 l:Tuck
 l:CLILoom
 l:attu
@@ -2926,7 +2926,6 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
-l:Alpine_Client
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
@@ -2934,6 +2933,7 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
+l:Cryptocam_Companion
 l:Codync
 l:ebloid_desktop
 l:Locademy
@@ -3006,5 +3006,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
