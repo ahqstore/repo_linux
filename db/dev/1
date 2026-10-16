@@ -2279,7 +2279,6 @@ l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
 l:pi-agent-dashboard
-l:Cryptocam_Companion
 l:DABstar
 l:OpenComic_Nightly
 l:MirrorShard
@@ -2708,6 +2707,7 @@ l:StockStalk
 l:Cells
 l:grok-build-vscode
 l:PortPilot
+l:Cryptocam_Companion
 l:NanoVault
 l:AI-Browser
 l:Metronomek
@@ -2926,6 +2926,7 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
+l:Alpine_Client
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
@@ -3005,6 +3006,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Crescat
 l:Beam_Research_Toolkit
-l:Alpine_Client
+l:Crescat
