@@ -2279,6 +2279,7 @@ l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
 l:pi-agent-dashboard
+l:Cryptocam_Companion
 l:DABstar
 l:OpenComic_Nightly
 l:MirrorShard
@@ -2720,7 +2721,6 @@ l:electron-vvt
 l:Lunyr
 l:Dragoman
 l:Carnet
-l:Cryptocam_Companion
 l:Tuck
 l:CLILoom
 l:attu
@@ -3005,6 +3005,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
+l:Alpine_Client
