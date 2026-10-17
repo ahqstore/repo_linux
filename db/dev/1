@@ -764,6 +764,7 @@ l:Canoe
 l:Excalideck
 l:Beacon
 l:OpenSCP
+l:SDF_Flash_GUI
 l:Winds
 l:Bitwarden
 l:PopTracker
@@ -2517,7 +2518,6 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
-l:Cryptocam_Companion
 l:mosaic
 l:Iridium_Wallet
 l:OrionLauncher
@@ -2719,7 +2719,9 @@ l:StudioBridge
 l:antimicroX
 l:DBI_Backend
 l:Meridian
+l:Cryptocam_Companion
 l:QuotaBar
+l:Alpine_Client
 l:Chiaki
 l:AI_Canvas
 l:OctoShrink
@@ -2825,7 +2827,6 @@ l:BlakeBitcoin
 l:SuperTux
 l:Simple-Code-GUI
 l:YNOdesktop
-l:Alpine_Client
 l:penguins-gui
 l:FreeVideo
 l:Guitar
