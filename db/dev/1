@@ -2342,7 +2342,6 @@ l:Kcov
 l:omp_GUI
 l:DeployerX
 l:Local_Browser
-l:Cryptocam_Companion
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -2717,6 +2716,7 @@ l:Kibo
 l:Vitomu
 l:SkillsGate
 l:Make_My_Figure
+l:Alpine_Client
 l:Pikura
 l:Producer_Player
 l:tallybook.yml
@@ -2747,6 +2747,7 @@ l:Lunyr
 l:Dragoman
 l:OpsTrellis
 l:Carnet
+l:Cryptocam_Companion
 l:Tuck
 l:CLILoom
 l:attu
@@ -3009,7 +3010,6 @@ l:Ness
 l:AI_Toolbox
 l:TagSpaces
 l:SimpleInstaBot
-l:Alpine_Client
 l:YUView
 l:Marky
 l:Mirage
