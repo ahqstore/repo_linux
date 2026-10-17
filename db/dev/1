@@ -1009,6 +1009,7 @@ l:VisualLVMRemote.yml
 l:BAR_Lobby
 l:Thunderbird
 l:SlipStream_GUI
+l:Frog_Pond
 l:Rockchip_Flash_Tool
 l:ImHex
 l:qBittorrent_Enhanced_Edition
@@ -2433,6 +2434,7 @@ l:Voidstrap
 l:Rabix_Composer
 l:PulseRN
 l:Museeks
+l:Cryptocam_Companion
 l:VeneraNext
 l:Firefox_ESR
 l:Spivak
@@ -2653,7 +2655,6 @@ l:agentglass
 l:Postgly
 l:Envelopes
 l:JsonForge
-l:Cryptocam_Companion
 l:StatusPilatus
 l:lindbergh-loader
 l:VisiCut
@@ -2754,7 +2755,6 @@ l:Lunyr
 l:Dragoman
 l:OpsTrellis
 l:Carnet
-l:Alpine_Client
 l:Tuck
 l:CLILoom
 l:attu
@@ -2786,6 +2786,7 @@ l:Janus
 l:Nine
 l:linux_czkawka_gui
 l:Flota
+l:Tauridium
 l:ehdev-shell
 l:Mira
 l:paradox-translation-toolkit
@@ -2933,6 +2934,7 @@ l:PG_Orbit
 l:hotspot
 l:Dibby_Wemo_Manager
 l:FreightFate
+l:Alpine_Client
 l:autoremesher
 l:LiberTEM
 l:Ripcord
