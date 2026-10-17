@@ -69,6 +69,7 @@ l:YouTube-Music-Player
 l:Light_Phone_Manager
 l:sdl_img
 l:Music_Blocks
+l:Astera
 l:Vease
 l:ReliefValve
 l:SecureVault
@@ -302,6 +303,7 @@ l:Arterm
 l:Open_Markup_Editor
 l:mpz
 l:GeekDown
+l:PerMark
 l:heb12
 l:HexoClient
 l:SkeletonGame
@@ -881,6 +883,7 @@ l:hiddify
 l:Waypaper-Engine
 l:Konjure
 l:enUi
+l:Micser
 l:Whalebird
 l:Pomodoro
 l:RIFT_Intel_Fusion_Tool
@@ -1017,6 +1020,7 @@ l:Busca_Vagas
 l:PaperLab
 l:Markdown_Cornell_Notes
 l:Chatbox
+l:CuteCut-Pro
 l:pretty-printable-calendar
 l:Loom
 l:Textilosaurus
@@ -1411,6 +1415,7 @@ l:Apps2Samsung
 l:Limo_CAD
 l:IllusionAgent
 l:dotline
+l:chimera-agent
 l:Widelands
 l:Wonderwall
 l:NeoMusic
@@ -1512,6 +1517,7 @@ l:MLV-App
 l:PeekaUsage
 l:unofficial-zalo
 l:rmw
+l:Godmode_Bot
 l:NetworkClient
 l:Open-SSTV
 l:Masame
@@ -2367,6 +2373,7 @@ l:xde
 l:jsBudbrainsFxStudio
 l:Rclone_Explorer
 l:nis-one-click-backup
+l:Dpro-Agent
 l:FlatSiteBuilder
 l:PKG_Sender
 l:hal9000
@@ -2416,6 +2423,7 @@ l:sage_appimage
 l:Whodis
 l:Wireboi
 l:AutoSlides_Extractor
+l:Cryptocam_Companion
 l:Alduin
 l:Data_Plotter
 l:Omnio
@@ -2503,6 +2511,7 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
+l:mosaic
 l:Iridium_Wallet
 l:OrionLauncher
 l:4KWALL
@@ -2606,6 +2615,7 @@ l:pairux.com
 l:M
 l:Podscape
 l:SBLauncher
+l:Alpine_Client
 l:zmNinjaNg
 l:PRAGA
 l:Password_Manager
@@ -2716,7 +2726,6 @@ l:Kibo
 l:Vitomu
 l:SkillsGate
 l:Make_My_Figure
-l:Alpine_Client
 l:Pikura
 l:Producer_Player
 l:tallybook.yml
@@ -2747,7 +2756,6 @@ l:Lunyr
 l:Dragoman
 l:OpsTrellis
 l:Carnet
-l:Cryptocam_Companion
 l:Tuck
 l:CLILoom
 l:attu
@@ -3030,6 +3038,7 @@ l:Vieb
 l:PmuSim
 l:Verto
 l:mikutter
+l:Aegis
 l:Qt_DAB
 l:Meeting_Transcriber
 l:jsBudbrainSoundEditor
