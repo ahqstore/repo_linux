@@ -2544,6 +2544,7 @@ l:LPub3D
 l:pa-website-validator-gui
 l:Gingko
 l:LiveClaw
+l:Cryptocam_Companion
 l:puush-qt
 l:ZY_Player
 l:Memory_Fort
@@ -2719,9 +2720,7 @@ l:StudioBridge
 l:antimicroX
 l:DBI_Backend
 l:Meridian
-l:Cryptocam_Companion
 l:QuotaBar
-l:Alpine_Client
 l:Chiaki
 l:AI_Canvas
 l:OctoShrink
@@ -3056,5 +3055,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
