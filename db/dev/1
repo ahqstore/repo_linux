@@ -98,6 +98,7 @@ l:levior
 l:IngeCAD
 l:Voice_Key
 l:Pi_Pilot
+l:Updainium
 l:westeroscraftlauncher
 l:Tumblr_Downloader_GUI
 l:Xyra
@@ -171,6 +172,7 @@ l:RapidHLS
 l:Mixi
 l:Cavoke
 l:Join_Desktop
+l:Dub_Studio
 l:Qt_JSON_diff
 l:MangoDisk
 l:FlashForgeUI-Electron
@@ -371,6 +373,7 @@ l:guiscrcpy
 l:LosslessCut
 l:Optimum
 l:xpeccy-plus
+l:SpaceScan
 l:Synthein
 l:Deemix_Remastered
 l:NextDJ
@@ -453,6 +456,7 @@ l:City_Hub
 l:Datinium
 l:nfctools
 l:VirtualBox-KVM
+l:Zeroed
 l:Cloud_Browser
 l:LCEdit
 l:gjoa
@@ -621,10 +625,12 @@ l:OpenFNB58
 l:Deckboy
 l:BlinkDisk
 l:DiskPilot
+l:VLTN_Tone_Studio
 l:Ravenswatch_Mod_Manager
 l:Kitestring
 l:Slopera
 l:Mattermost_Desktop
+l:MovieCat
 l:Twitch-Retold-Desktop-Android
 l:GitSwitch
 l:Glyphr_Studio_Desktop
@@ -727,6 +733,7 @@ l:TOST
 l:Julius
 l:Local-Notebook-LM-App
 l:Clipy
+l:AI_Usage_Tracker
 l:Artisan
 l:qtrfpowermeter
 l:rivet
@@ -862,6 +869,7 @@ l:IMAP_Cleanup_Tool
 l:UnofficialCrusaderPatch
 l:emulsion
 l:converse_desktop
+l:Bernie
 l:xtralab
 l:YangDownloader
 l:MiMo_Studio
@@ -972,6 +980,7 @@ l:PageSpace
 l:admin-tools
 l:ImagePlay
 l:kanivet-oss
+l:Factoruide
 l:86Box
 l:movie-monad
 l:WSHawk
@@ -1168,6 +1177,7 @@ l:Video_Helper
 l:Blink1Control2
 l:AlterSend
 l:DAWN-Science
+l:Lazer
 l:Basesmall
 l:FolderSkin
 l:strongbox
@@ -1463,6 +1473,7 @@ l:SpringBoard
 l:Fraidycat
 l:MyPaint
 l:ExileCompass
+l:Xodus_Nexus
 l:King_Louie
 l:AnyMeal
 l:Editor
@@ -1573,6 +1584,7 @@ l:BottleBats
 l:Jorvik
 l:Lion_SSH
 l:ServerMark
+l:OpenTrader
 l:SlackBackup
 l:Tutanota
 l:GoldenDict
@@ -1788,6 +1800,7 @@ l:GyShell
 l:Filey
 l:patchbay
 l:ONLYOFFICE
+l:muster_code
 l:YoloLabel
 l:Board_Game_Star
 l:Easy_NATS
@@ -1958,6 +1971,7 @@ l:BLDesk
 l:MMapper
 l:student-activities-app
 l:Gitteraqt
+l:NESd
 l:Comic-Reader
 l:dashy-app
 l:FOFA_Leak_Search
@@ -2014,6 +2028,7 @@ l:Spindle
 l:xiangxuema
 l:Dodaios
 l:MetroidPrimeHuntersRecomp
+l:tada
 l:Haven_Desktop
 l:Zegarek
 l:SerialPlot
@@ -2117,6 +2132,7 @@ l:free-rembg-desktop
 l:Enjoy-player
 l:twetter
 l:Quiver_Launcher
+l:Cryptocam_Companion
 l:BananaTape
 l:Moonlight-Qt-Mic
 l:gogstash
@@ -2162,6 +2178,7 @@ l:Reach
 l:FriendlyTerminal
 l:ArcadeManager
 l:Kyaraben
+l:CodexManager
 l:qpp::cad
 l:FileTerm
 l:dayGLANCE
@@ -2268,7 +2285,6 @@ l:Desktop_Django_Starter
 l:jsShowHardwareInfos
 l:simplechroot
 l:Claude_Code_Studio
-l:Cryptocam_Companion
 l:nxshell
 l:media-dupes
 l:OpenKara
@@ -2729,6 +2745,7 @@ l:StudioBridge
 l:antimicroX
 l:DBI_Backend
 l:Meridian
+l:Alpine_Client
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
@@ -2754,6 +2771,7 @@ l:torrenttools
 l:TeXstudio
 l:JSONinja
 l:aillio-ts
+l:NODAYSIDLE_Cascade
 l:Ghostty
 l:StockStalk
 l:Cells
@@ -2885,6 +2903,7 @@ l:Pane
 l:Isolate
 l:Netcatty
 l:Panini
+l:DBine
 l:Korda
 l:wj-markdown-editor
 l:PhreshPlayer
@@ -2984,7 +3003,6 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
-l:Alpine_Client
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
@@ -3000,6 +3018,7 @@ l:Bottles
 l:OmniPacker
 l:odoo-manager
 l:Cortask
+l:SkyPort
 l:HexoKit
 l:ITUSB1_Manager
 l:Diary
@@ -3050,6 +3069,7 @@ l:Locator-Labs-App-Releases
 l:CARTA
 l:pyappimage
 l:loki
+l:Milagre
 l:LeAgent
 l:OpenMausBot
 l:lumi
