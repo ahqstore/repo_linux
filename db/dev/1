@@ -8,6 +8,7 @@ l:LockRoot
 l:ZapDesktop
 l:GIMP
 l:RigMatch
+l:Hatoba
 l:windows2usb
 l:Retro_Multi_Tools
 l:Mindwtr
@@ -260,6 +261,7 @@ l:pgNimbus
 l:TotoroNext-Avalonia
 l:MQ3T
 l:PhotoQt
+l:Shiny_Egg
 l:YetAnotherOpenFileConverter
 l:Bodhi
 l:Onenote
@@ -761,6 +763,7 @@ l:OVALE
 l:DragonsCrownProPC
 l:Aperant
 l:Canoe
+l:Meiro
 l:Excalideck
 l:Beacon
 l:OpenSCP
@@ -1689,6 +1692,7 @@ l:TeslaCam_Viewer
 l:Pandia
 l:PICO_Store_Lab
 l:JeikCode
+l:panbeh-matrix-client
 l:sales-claw-ts
 l:OpenWar3
 l:CoreArchiver
@@ -1753,6 +1757,7 @@ l:PrixumLauncher
 l:SeriousSamClassic-VK
 l:HiDPI-Fixer
 l:Singlebox
+l:Gutterberg
 l:MusePi
 l:PlainRepo
 l:Atropos
@@ -2313,7 +2318,6 @@ l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
 l:pi-agent-dashboard
-l:Cryptocam_Companion
 l:DABstar
 l:OpenComic_Nightly
 l:MirrorShard
@@ -2390,6 +2394,7 @@ l:WhatsLNX
 l:jsonquery_gui
 l:Running-Dinner-Tool
 l:GpgFrontend
+l:BluetoothDeviceControl
 l:twitch-wrapper
 l:mapton
 l:PikoPixel
@@ -2403,6 +2408,7 @@ l:noBS_CAD
 l:MDEZ
 l:myCat
 l:stash-electron
+l:celPix
 l:school-sections
 l:stream-server
 l:Claude-Usage-Widget
@@ -2427,6 +2433,7 @@ l:M3U8_Quicker
 l:Stud
 l:MangaBox
 l:moniteur-admin
+l:Cryptocam_Companion
 l:Standard_of_Iron
 l:sage_appimage
 l:Whodis
@@ -2520,7 +2527,6 @@ l:ProofKeeper
 l:LibreCAD
 l:Materialious
 l:mosaic
-l:Alpine_Client
 l:Iridium_Wallet
 l:OrionLauncher
 l:4KWALL
@@ -2551,6 +2557,7 @@ l:ZY_Player
 l:Memory_Fort
 l:MyCrypto
 l:BioManager
+l:Alpine_Client
 l:Traycer
 l:leolink
 l:Sheikah
@@ -2621,6 +2628,7 @@ l:TorReaderPDF
 l:mdview
 l:nw_wrld
 l:pairux.com
+l:OpenCalque
 l:M
 l:Podscape
 l:SBLauncher
@@ -2668,6 +2676,7 @@ l:JsonForge
 l:StatusPilatus
 l:lindbergh-loader
 l:VisiCut
+l:Frogg
 l:Zoom
 l:upterm
 l:Nitrokey
@@ -2825,6 +2834,7 @@ l:LazPaint
 l:melo
 l:BlakeBitcoin
 l:SuperTux
+l:Whisperio
 l:Simple-Code-GUI
 l:YNOdesktop
 l:penguins-gui
