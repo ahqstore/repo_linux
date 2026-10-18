@@ -2313,6 +2313,7 @@ l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
 l:pi-agent-dashboard
+l:Cryptocam_Companion
 l:DABstar
 l:OpenComic_Nightly
 l:MirrorShard
@@ -2519,6 +2520,7 @@ l:ProofKeeper
 l:LibreCAD
 l:Materialious
 l:mosaic
+l:Alpine_Client
 l:Iridium_Wallet
 l:OrionLauncher
 l:4KWALL
@@ -2544,7 +2546,6 @@ l:LPub3D
 l:pa-website-validator-gui
 l:Gingko
 l:LiveClaw
-l:Cryptocam_Companion
 l:puush-qt
 l:ZY_Player
 l:Memory_Fort
@@ -3055,6 +3056,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
