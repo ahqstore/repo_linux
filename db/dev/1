@@ -2132,7 +2132,6 @@ l:free-rembg-desktop
 l:Enjoy-player
 l:twetter
 l:Quiver_Launcher
-l:Cryptocam_Companion
 l:BananaTape
 l:Moonlight-Qt-Mic
 l:gogstash
@@ -2315,6 +2314,7 @@ l:eXtrema
 l:ConsoleWorkbench
 l:sigrok-cli
 l:SSH-MITM
+l:Cryptocam_Companion
 l:Eqonomize
 l:PS2-Servers
 l:paint.c
@@ -2745,7 +2745,6 @@ l:StudioBridge
 l:antimicroX
 l:DBI_Backend
 l:Meridian
-l:Alpine_Client
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
@@ -2792,6 +2791,7 @@ l:Dragoman
 l:OpsTrellis
 l:Carnet
 l:Dendro
+l:Alpine_Client
 l:Tuck
 l:CLILoom
 l:attu
