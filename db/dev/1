@@ -1958,7 +1958,6 @@ l:BLDesk
 l:MMapper
 l:student-activities-app
 l:Gitteraqt
-l:NESd
 l:Comic-Reader
 l:dashy-app
 l:FOFA_Leak_Search
@@ -2269,6 +2268,7 @@ l:Desktop_Django_Starter
 l:jsShowHardwareInfos
 l:simplechroot
 l:Claude_Code_Studio
+l:Cryptocam_Companion
 l:nxshell
 l:media-dupes
 l:OpenKara
@@ -2314,6 +2314,7 @@ l:Agent_Companion
 l:Stunt_Car_Remake
 l:EveIntelChecker
 l:axiom-os
+l:CryptoBot_Pro
 l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
@@ -2433,7 +2434,6 @@ l:M3U8_Quicker
 l:Stud
 l:MangaBox
 l:moniteur-admin
-l:Cryptocam_Companion
 l:Standard_of_Iron
 l:sage_appimage
 l:Whodis
@@ -2557,7 +2557,6 @@ l:ZY_Player
 l:Memory_Fort
 l:MyCrypto
 l:BioManager
-l:Alpine_Client
 l:Traycer
 l:leolink
 l:Sheikah
@@ -2985,6 +2984,7 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
+l:Alpine_Client
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
