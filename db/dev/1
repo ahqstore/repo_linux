@@ -461,7 +461,6 @@ l:Cloud_Browser
 l:LCEdit
 l:gjoa
 l:Token_Dashboard
-l:Source2Viewer_-_d2pfx
 l:protonmail-desktop
 l:ChartCaddy
 l:Voltra
@@ -2372,7 +2371,6 @@ l:Instaladores---JearCastApp
 l:EasyEdit
 l:Gemini-Desktop
 l:Puzzle_Moppet
-l:Cryptocam_Companion
 l:Prompt_Evaluator
 l:TaskManagerOG
 l:Puffin
@@ -2380,6 +2378,7 @@ l:Kcov
 l:omp_GUI
 l:DeployerX
 l:Local_Browser
+l:Cryptocam_Companion
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -2710,6 +2709,7 @@ l:SimUtil
 l:Hiveory
 l:ideaMaker
 l:Monghoul
+l:Alpine_Client
 l:Heimer
 l:Muse_Desktop
 l:OpenHV
@@ -2891,7 +2891,6 @@ l:1DevTool_Releases
 l:Propel
 l:MegaBasterd
 l:Datcord
-l:BetterSource2Viewer
 l:fre:ac
 l:Leonflix
 l:plexamp
@@ -3088,6 +3087,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
