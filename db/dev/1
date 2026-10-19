@@ -2379,7 +2379,6 @@ l:Kcov
 l:omp_GUI
 l:DeployerX
 l:Local_Browser
-l:Alpine_Client
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -3088,5 +3087,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
