@@ -1123,6 +1123,7 @@ l:PicGo
 l:lnxngfmsdm
 l:Shockwave
 l:ultra-tracker
+l:NetSonar
 l:VoiceStudio
 l:Rombo
 l:Lemon
@@ -2163,6 +2164,7 @@ l:mini_analyser
 l:SubSink
 l:Duckstation-GPL
 l:NoteConnection
+l:Ultimatter
 l:Minecraft_Pi_Reborn_Server
 l:Webamp
 l:Colon
@@ -2314,7 +2316,6 @@ l:eXtrema
 l:ConsoleWorkbench
 l:sigrok-cli
 l:SSH-MITM
-l:Cryptocam_Companion
 l:Eqonomize
 l:PS2-Servers
 l:paint.c
@@ -2335,6 +2336,7 @@ l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
 l:pi-agent-dashboard
+l:Cryptocam_Companion
 l:DABstar
 l:OpenComic_Nightly
 l:MirrorShard
@@ -2377,6 +2379,7 @@ l:Kcov
 l:omp_GUI
 l:DeployerX
 l:Local_Browser
+l:Alpine_Client
 l:CloudTerm
 l:LeanStudio
 l:linux-intel-undervolt-gui
@@ -2791,7 +2794,6 @@ l:Dragoman
 l:OpsTrellis
 l:Carnet
 l:Dendro
-l:Alpine_Client
 l:Tuck
 l:CLILoom
 l:attu
