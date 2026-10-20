@@ -759,7 +759,6 @@ l:GrinPlusPlus
 l:Chess_Opening_Tool
 l:Onshape
 l:ledger-live-desktop
-l:dosbox-automation
 l:Mob
 l:8B
 l:Recompose
@@ -1041,7 +1040,6 @@ l:Busca_Vagas
 l:PaperLab
 l:Markdown_Cornell_Notes
 l:Chatbox
-l:CuteCut-Pro
 l:pretty-printable-calendar
 l:Loom
 l:Textilosaurus
@@ -1431,6 +1429,7 @@ l:FactWallet
 l:NepaliUnicode
 l:Libre_Calculator
 l:MaplatEditor
+l:kubeNimbus
 l:Colorpicker
 l:MuPDF
 l:sicth
@@ -2530,6 +2529,7 @@ l:ZCodium
 l:JetBrains_Toolbox
 l:KCalc
 l:CrossCode_Map_Editor
+l:Cryptocam_Companion
 l:Mojo_Voice
 l:RyoWallet
 l:open-codesign
@@ -2544,7 +2544,6 @@ l:Stargate_Command
 l:dsh-app
 l:Auryo
 l:makoureactor
-l:Cryptocam_Companion
 l:IrScrutinizer
 l:Marina
 l:Media_Downloader
@@ -2663,6 +2662,7 @@ l:PRAGA
 l:Password_Manager
 l:LogDeck
 l:electron-object-builder
+l:PollyMC-Continued
 l:Doc77
 l:kickstartfx
 l:WebObsidian
@@ -2756,6 +2756,7 @@ l:StudioBridge
 l:antimicroX
 l:DBI_Backend
 l:Meridian
+l:Alpine_Client
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
@@ -3022,7 +3023,6 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
-l:Alpine_Client
 l:Codync
 l:ebloid_desktop
 l:Locademy
