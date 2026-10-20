@@ -339,6 +339,7 @@ l:BDSup2Sub
 l:LibrePCB
 l:synthv1
 l:SmartCopy
+l:Adawat
 l:Reactotron
 l:CodeMux
 l:Nextcloud
@@ -435,6 +436,7 @@ l:rattin-public
 l:C-evo
 l:XMedCon
 l:linuxdeployqt
+l:WorkTime
 l:Whisper
 l:ohmyhf
 l:Shadow
@@ -759,6 +761,7 @@ l:GrinPlusPlus
 l:Chess_Opening_Tool
 l:Onshape
 l:ledger-live-desktop
+l:dosbox-automation
 l:Mob
 l:8B
 l:Recompose
@@ -1040,6 +1043,7 @@ l:Busca_Vagas
 l:PaperLab
 l:Markdown_Cornell_Notes
 l:Chatbox
+l:CuteCut-Pro
 l:pretty-printable-calendar
 l:Loom
 l:Textilosaurus
@@ -1143,6 +1147,7 @@ l:MCP2210_Configurator
 l:Rollfilm
 l:kanbots
 l:PPUX
+l:CloudMus
 l:James
 l:Evolution_RTS
 l:Astrofox
@@ -1402,6 +1407,7 @@ l:Infection_Monkey
 l:VibeHub
 l:Sai
 l:Open_Recruiter
+l:Fidget
 l:appimagetool
 l:FoamPilot
 l:Dream
@@ -1434,6 +1440,7 @@ l:Colorpicker
 l:MuPDF
 l:sicth
 l:Streambert
+l:Syncative
 l:Wireless_Microphone_Analyzer
 l:Apps2Samsung
 l:Limo_CAD
@@ -1841,6 +1848,7 @@ l:Fjord
 l:StopLight
 l:ComplianceGuard
 l:iota1k
+l:FFTARecomp
 l:Freedom.Loader
 l:Yai
 l:webshard_editor
@@ -1999,6 +2007,7 @@ l:Poor_man
 l:Chrome_Isolation
 l:Upscayl
 l:elzabrowser
+l:Morrow
 l:vrchat-scanner
 l:NeoST
 l:Nuclino
@@ -2333,6 +2342,7 @@ l:Juggernaut
 l:Audacity
 l:DICOMautomaton
 l:Summoners.War.Exporter
+l:Ragnarok_Offline
 l:ReShade
 l:TheCloudPortal_Signage_Client
 l:Agent_Companion
@@ -2347,6 +2357,7 @@ l:pi-agent-dashboard
 l:DABstar
 l:OpenComic_Nightly
 l:MirrorShard
+l:TraceScope
 l:tmon
 l:ALEAPP
 l:Cliniface
@@ -2529,7 +2540,6 @@ l:ZCodium
 l:JetBrains_Toolbox
 l:KCalc
 l:CrossCode_Map_Editor
-l:Cryptocam_Companion
 l:Mojo_Voice
 l:RyoWallet
 l:open-codesign
@@ -2542,6 +2552,7 @@ l:bodegaone-releases
 l:jsBudbrainPlayer
 l:Stargate_Command
 l:dsh-app
+l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
 l:IrScrutinizer
@@ -2617,6 +2628,7 @@ l:Inboxer
 l:ThermusQt
 l:breaktimer-app
 l:Pingendo
+l:Cryptocam_Companion
 l:Invoiso
 l:Sharik
 l:Log4YM
@@ -2744,6 +2756,7 @@ l:Moonlight
 l:MQTTCute
 l:TuxTalk
 l:Guide_Studio
+l:Latch
 l:beurerscalemanager
 l:HarnessForge-Public
 l:jsCPUMonitor
@@ -2756,7 +2769,6 @@ l:StudioBridge
 l:antimicroX
 l:DBI_Backend
 l:Meridian
-l:Alpine_Client
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
@@ -2901,6 +2913,7 @@ l:1DevTool_Releases
 l:Propel
 l:MegaBasterd
 l:Datcord
+l:actioneer-gtk
 l:BetterSource2Viewer
 l:fre:ac
 l:Leonflix
@@ -3015,6 +3028,7 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
+l:Alpine_Client
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
