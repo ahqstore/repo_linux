@@ -2086,6 +2086,7 @@ l:BilibiliVideoDownload
 l:Karasu
 l:strans
 l:Monbooru
+l:Cryptocam_Companion
 l:pkg2appimage
 l:oshot
 l:GemType
@@ -2558,7 +2559,6 @@ l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
 l:IrScrutinizer
-l:Alpine_Client
 l:Marina
 l:Media_Downloader
 l:hd_fpv_video_tool
@@ -2566,6 +2566,7 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
+l:Alpine_Client
 l:mosaic
 l:Iridium_Wallet
 l:OrionLauncher
@@ -2849,7 +2850,6 @@ l:Nine
 l:linux_czkawka_gui
 l:Flota
 l:Tauridium
-l:Cryptocam_Companion
 l:ehdev-shell
 l:Mira
 l:paradox-translation-toolkit
