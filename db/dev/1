@@ -439,6 +439,7 @@ l:XMedCon
 l:linuxdeployqt
 l:WorkTime
 l:Whisper
+l:Audionaut
 l:ohmyhf
 l:Shadow
 l:unified-communications
@@ -2357,7 +2358,6 @@ l:Firefox_Beta
 l:pi-agent-dashboard
 l:DABstar
 l:OpenComic_Nightly
-l:Cryptocam_Companion
 l:MirrorShard
 l:TraceScope
 l:tmon
@@ -2558,6 +2558,7 @@ l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
 l:IrScrutinizer
+l:Alpine_Client
 l:Marina
 l:Media_Downloader
 l:hd_fpv_video_tool
@@ -2848,6 +2849,7 @@ l:Nine
 l:linux_czkawka_gui
 l:Flota
 l:Tauridium
+l:Cryptocam_Companion
 l:ehdev-shell
 l:Mira
 l:paradox-translation-toolkit
@@ -3083,7 +3085,6 @@ l:FrameExtractor
 l:Ness
 l:AI_Toolbox
 l:TagSpaces
-l:Alpine_Client
 l:SimpleInstaBot
 l:YUView
 l:Marky
