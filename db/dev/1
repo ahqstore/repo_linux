@@ -2086,7 +2086,6 @@ l:BilibiliVideoDownload
 l:Karasu
 l:strans
 l:Monbooru
-l:Cryptocam_Companion
 l:pkg2appimage
 l:oshot
 l:GemType
@@ -2566,7 +2565,6 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
-l:Alpine_Client
 l:mosaic
 l:Iridium_Wallet
 l:OrionLauncher
@@ -2733,6 +2731,7 @@ l:SimUtil
 l:Hiveory
 l:ideaMaker
 l:Monghoul
+l:Cryptocam_Companion
 l:Heimer
 l:Muse_Desktop
 l:OpenHV
@@ -3039,6 +3038,7 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
+l:Alpine_Client
 l:Codync
 l:ebloid_desktop
 l:Locademy
