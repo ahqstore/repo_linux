@@ -2382,6 +2382,7 @@ l:Catalyst_Browser
 l:App_Outlet
 l:Firefox_Beta
 l:pi-agent-dashboard
+l:Cryptocam_Companion
 l:DABstar
 l:OpenComic_Nightly
 l:MirrorShard
@@ -2580,7 +2581,6 @@ l:bodegaone-releases
 l:jsBudbrainPlayer
 l:Stargate_Command
 l:dsh-app
-l:Cryptocam_Companion
 l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
@@ -2592,7 +2592,6 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
-l:Alpine_Client
 l:mosaic
 l:Iridium_Wallet
 l:OrionLauncher
@@ -2808,7 +2807,6 @@ l:vm-curator
 l:evoplex
 l:Claim-Free-Games
 l:Uxnan
-l:OMPChamber
 l:Bitcoin_Safe
 l:Kibo
 l:Vitomu
@@ -2930,6 +2928,7 @@ l:wezterm
 l:ElectrumRhodium
 l:CubicleCrew
 l:dpcc-harness
+l:Alpine_Client
 l:Veld
 l:kde-sticky-notes
 l:SMF-DSP
