@@ -2418,7 +2418,6 @@ l:Instaladores---JearCastApp
 l:EasyEdit
 l:Gemini-Desktop
 l:Puzzle_Moppet
-l:Cryptocam_Companion
 l:Prompt_Evaluator
 l:TaskManagerOG
 l:Puffin
@@ -2581,6 +2580,7 @@ l:bodegaone-releases
 l:jsBudbrainPlayer
 l:Stargate_Command
 l:dsh-app
+l:Cryptocam_Companion
 l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
@@ -2592,6 +2592,7 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
+l:Alpine_Client
 l:mosaic
 l:Iridium_Wallet
 l:OrionLauncher
@@ -2871,6 +2872,7 @@ l:vREST_NG
 l:Free_Google_Index_Checker
 l:HexoManager
 l:Styx
+l:daggerfall-js-source
 l:Sketchover
 l:Janus
 l:Nine
@@ -3069,7 +3071,6 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
-l:Alpine_Client
 l:Codync
 l:ebloid_desktop
 l:Locademy
@@ -3147,5 +3148,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
