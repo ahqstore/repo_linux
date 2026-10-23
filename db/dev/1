@@ -2419,7 +2419,6 @@ l:EasyEdit
 l:Gemini-Desktop
 l:Puzzle_Moppet
 l:Prompt_Evaluator
-l:Cryptocam_Companion
 l:TaskManagerOG
 l:Puffin
 l:Kcov
@@ -2499,6 +2498,7 @@ l:M3U8_Quicker
 l:Stud
 l:MangaBox
 l:moniteur-admin
+l:Cryptocam_Companion
 l:Standard_of_Iron
 l:sage_appimage
 l:Whodis
@@ -2736,7 +2736,6 @@ l:Wild9Recomp
 l:Kimitzu-Client
 l:Fan-Browser-Agent
 l:agentglass
-l:Alpine_Client
 l:Postgly
 l:Envelopes
 l:JsonForge
@@ -3147,5 +3146,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
