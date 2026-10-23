@@ -658,7 +658,6 @@ l:Videomass
 l:RoboRock_Control_Center
 l:Carvera_Controller
 l:Zap
-l:YouTubeGO
 l:OVideo
 l:Breader
 l:ZenNotes
@@ -1055,7 +1054,6 @@ l:Busca_Vagas
 l:PaperLab
 l:Markdown_Cornell_Notes
 l:Chatbox
-l:CuteCut-Pro
 l:pretty-printable-calendar
 l:Loom
 l:Textilosaurus
@@ -1932,6 +1930,7 @@ l:SysDManager
 l:Hashcat.Reactor
 l:spark-wallet
 l:ClawWork
+l:ShuttleSCP
 l:nudelta
 l:Braincup
 l:Vessel_Browser
@@ -2419,6 +2418,7 @@ l:Instaladores---JearCastApp
 l:EasyEdit
 l:Gemini-Desktop
 l:Puzzle_Moppet
+l:Cryptocam_Companion
 l:Prompt_Evaluator
 l:TaskManagerOG
 l:Puffin
@@ -2482,7 +2482,6 @@ l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
 l:RetireePlan
-l:Cryptocam_Companion
 l:boardown
 l:Wohnungsbot
 l:Rekordbox.Library.Fixer
@@ -2607,7 +2606,6 @@ l:Kryoto_Desktop
 l:sharkfin
 l:Detect_It_Easy
 l:ToastWallet
-l:Alpine_Client
 l:Trinity_Desktop
 l:Nimbalyst
 l:Community_IPTV_Player
@@ -2815,6 +2813,7 @@ l:Kibo
 l:Vitomu
 l:SkillsGate
 l:Make_My_Figure
+l:Snitch
 l:Pikura
 l:Producer_Player
 l:tallybook.yml
@@ -2872,12 +2871,12 @@ l:vREST_NG
 l:Free_Google_Index_Checker
 l:HexoManager
 l:Styx
-l:daggerfall-js-source
 l:Sketchover
 l:Janus
 l:Nine
 l:linux_czkawka_gui
 l:Flota
+l:Remember_Me
 l:Tauridium
 l:ehdev-shell
 l:Mira
@@ -2930,6 +2929,7 @@ l:ElectrumRhodium
 l:CubicleCrew
 l:dpcc-harness
 l:Veld
+l:kde-sticky-notes
 l:SMF-DSP
 l:revpdf-release
 l:Skales
@@ -3069,6 +3069,7 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
+l:Alpine_Client
 l:Codync
 l:ebloid_desktop
 l:Locademy
@@ -3146,5 +3147,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
