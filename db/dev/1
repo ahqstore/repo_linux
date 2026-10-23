@@ -2481,6 +2481,7 @@ l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
 l:RetireePlan
+l:Cryptocam_Companion
 l:boardown
 l:Wohnungsbot
 l:Rekordbox.Library.Fixer
@@ -2498,7 +2499,6 @@ l:M3U8_Quicker
 l:Stud
 l:MangaBox
 l:moniteur-admin
-l:Cryptocam_Companion
 l:Standard_of_Iron
 l:sage_appimage
 l:Whodis
@@ -2996,6 +2996,7 @@ l:Cate
 l:Hyperspace
 l:formal-ai
 l:NuvioDesktop
+l:Alpine_Client
 l:map-matching-2
 l:theFrame
 l:Citropy
@@ -3146,6 +3147,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
