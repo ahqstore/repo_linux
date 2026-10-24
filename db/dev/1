@@ -2606,7 +2606,6 @@ l:dsh-app
 l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
-l:Alpine_Client
 l:IrScrutinizer
 l:Marina
 l:Media_Downloader
@@ -2615,7 +2614,6 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
-l:Cryptocam_Companion
 l:mosaic
 l:Iridium_Wallet
 l:OrionLauncher
@@ -2685,6 +2683,7 @@ l:Invoiso
 l:Sharik
 l:Log4YM
 l:VivifyScrum
+l:Cryptocam_Companion
 l:CrossMobile
 l:Flucto
 l:GitJournal
@@ -2838,6 +2837,7 @@ l:Kibo
 l:Vitomu
 l:SkillsGate
 l:Make_My_Figure
+l:Alpine_Client
 l:Snitch
 l:Pikura
 l:Producer_Player
