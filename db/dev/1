@@ -113,8 +113,10 @@ l:Hive
 l:pomodorolm
 l:absotui
 l:Motrix
+l:FlyingCarpet
 l:Ropcode
 l:SimpleDoomLauncher
+l:Sarala
 l:OMP_Desktop
 l:QMPlay2
 l:Opengeni
@@ -162,6 +164,7 @@ l:contributor-toolkit
 l:Vorn
 l:grid-apps
 l:bfx-report-electron
+l:immich_desktop
 l:jsDuoDom
 l:sync-gui-public
 l:XClicker
@@ -206,6 +209,7 @@ l:Colobot
 l:CivilCraft
 l:WikiShield-App
 l:PicList
+l:Linger
 l:jscad-desktop
 l:CapacityTester
 l:Electrum
@@ -238,6 +242,7 @@ l:Clearcote_Profile_Manager
 l:Open_Burning_Suite
 l:Scintillator
 l:Superset
+l:pearcal-native
 l:Dabri
 l:Focra
 l:Open-Typer
@@ -248,6 +253,7 @@ l:OFX_Raw_Host
 l:WebDesktop
 l:conduit-desktop
 l:privacy.sexy
+l:Pensieve
 l:QDriverStation
 l:Kodeida
 l:SUbillManager
@@ -442,6 +448,7 @@ l:C-evo
 l:XMedCon
 l:linuxdeployqt
 l:muxr
+l:DotMorph
 l:WorkTime
 l:Whisper
 l:Audionaut
@@ -590,6 +597,7 @@ l:Servez
 l:Kai
 l:Sugarizer
 l:xune-releases
+l:AI_Dock
 l:appimagehelper
 l:Exportoo
 l:Drawpile-Server
@@ -850,7 +858,9 @@ l:YT-GO
 l:D-code
 l:Rats_on_The_Boat
 l:SupraFit
+l:Obeya
 l:pdf-sync
+l:Splitlane
 l:SavvyCAN
 l:GL_warp2mp4
 l:mimi
@@ -877,6 +887,7 @@ l:wxMEdit
 l:Prompt_Self-Tuning
 l:Blowfish
 l:RaiPal
+l:Pergament
 l:OCVvid2fulldome.txt
 l:CBETA
 l:Open-Historia
@@ -1075,6 +1086,7 @@ l:RiaCore
 l:Angor
 l:CVEase
 l:Malgel
+l:Numa
 l:TractEdit
 l:ircuitry
 l:Dala
@@ -1102,6 +1114,7 @@ l:OpenBlok
 l:OCPQ
 l:xonsh
 l:Wi-Fi_Heatmapper
+l:LocalLeaf
 l:Mapeo
 l:PolkaKey
 l:Xenia_Dashboard
@@ -1153,6 +1166,7 @@ l:MieSimulatorGUI
 l:RLEAPP
 l:BetterSIS
 l:Arma_3_Unix_Launcher
+l:Open_Planner_Studio
 l:The_Office
 l:MCP2210_Configurator
 l:Rollfilm
@@ -1185,6 +1199,7 @@ l:TweakPHP
 l:Hypnos
 l:app-finance
 l:StackAndConquer
+l:Karpa
 l:autoEdit2
 l:DigUp
 l:GodTerm
@@ -1340,6 +1355,7 @@ l:Qemux
 l:Magic_Term
 l:ScrapeStorm
 l:Deviload
+l:Donut_Browser
 l:RigControl_Web
 l:Rufux
 l:Pathephone
@@ -1431,6 +1447,7 @@ l:parsec-linux-appimage
 l:Winboat
 l:stereophotoview
 l:BetterCast
+l:nocx
 l:DDCal
 l:Android-debloater
 l:Postman
@@ -1521,6 +1538,7 @@ l:BarkOS
 l:Podman
 l:clorio-desktop
 l:OpenCloud_Desktop
+l:Quillwright
 l:KevEdit
 l:ProcDepMonitor
 l:Linux_Device_Manager
@@ -1753,6 +1771,7 @@ l:GridcoinResearch
 l:Invisic_Client
 l:acreom
 l:ADT_Studio
+l:RandMatQuGeA
 l:One-Click_Coding_Agent
 l:Neon
 l:Biscuit
@@ -2164,6 +2183,7 @@ l:Study.Buddy
 l:CodePointer
 l:Archtoys
 l:KIT_Scenarist
+l:PoE2_Upgrade_Checker
 l:whiteboard
 l:Editora
 l:ZeldaWWHDRecomp
@@ -2217,6 +2237,7 @@ l:SteamCAD
 l:NetCopilot
 l:SafeLight
 l:Reach
+l:Miteiru
 l:FriendlyTerminal
 l:ArcadeManager
 l:Kyaraben
@@ -2287,6 +2308,7 @@ l:PolyMC
 l:gerbv
 l:sourcegit
 l:IEM_Tool
+l:SonaWave-Release
 l:SigmaSpectra
 l:tipitaka_pali_reader
 l:PocketBook
@@ -2537,6 +2559,7 @@ l:Vespera
 l:Octa
 l:Carthage
 l:SquishPic
+l:Styr
 l:rezonator
 l:Radmin_VPN
 l:Kant
@@ -2583,6 +2606,7 @@ l:dsh-app
 l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
+l:Alpine_Client
 l:IrScrutinizer
 l:Marina
 l:Media_Downloader
@@ -2591,6 +2615,7 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
+l:Cryptocam_Companion
 l:mosaic
 l:Iridium_Wallet
 l:OrionLauncher
@@ -2785,6 +2810,7 @@ l:MQTTCute
 l:TuxTalk
 l:Guide_Studio
 l:Latch
+l:DeepSeek_Bot
 l:beurerscalemanager
 l:HarnessForge-Public
 l:jsCPUMonitor
@@ -2806,6 +2832,7 @@ l:vm-curator
 l:evoplex
 l:Claim-Free-Games
 l:Uxnan
+l:hopchat
 l:Bitcoin_Safe
 l:Kibo
 l:Vitomu
@@ -2821,6 +2848,7 @@ l:HeroesProfileUploader
 l:Franz
 l:torrenttools
 l:TeXstudio
+l:core
 l:JSONinja
 l:aillio-ts
 l:NODAYSIDLE_Cascade
@@ -2844,7 +2872,6 @@ l:Dragoman
 l:OpsTrellis
 l:Carnet
 l:Dendro
-l:Cryptocam_Companion
 l:Tuck
 l:CLILoom
 l:attu
@@ -2928,7 +2955,6 @@ l:wezterm
 l:ElectrumRhodium
 l:CubicleCrew
 l:dpcc-harness
-l:Alpine_Client
 l:Veld
 l:kde-sticky-notes
 l:SMF-DSP
@@ -3042,6 +3068,7 @@ l:jsBlobPop
 l:vk_music_fs
 l:OnionHop
 l:e2designer
+l:Gostman
 l:QOwnNotes
 l:K
 l:Keys
@@ -3108,6 +3135,7 @@ l:Eaon_Desktop
 l:CRITERIA1D_PRO
 l:Sengi
 l:AnkiGammon
+l:Android_Rapid_Transfer
 l:zipax
 l:NotebookLM_Chunker
 l:Sabaki
