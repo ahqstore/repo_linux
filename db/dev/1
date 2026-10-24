@@ -2542,7 +2542,6 @@ l:Spivak
 l:nRF_Connect
 l:Exilence_CE
 l:OpenPalm
-l:Cryptocam_Companion
 l:KCode
 l:SMS_Launcher
 l:Pixsrt
@@ -2607,6 +2606,7 @@ l:dsh-app
 l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
+l:Cryptocam_Companion
 l:IrScrutinizer
 l:Marina
 l:Media_Downloader
@@ -2871,7 +2871,6 @@ l:Dragoman
 l:OpsTrellis
 l:Carnet
 l:Dendro
-l:Alpine_Client
 l:Tuck
 l:CLILoom
 l:attu
@@ -2955,6 +2954,7 @@ l:wezterm
 l:ElectrumRhodium
 l:CubicleCrew
 l:dpcc-harness
+l:Alpine_Client
 l:Veld
 l:kde-sticky-notes
 l:SMF-DSP
