@@ -2481,7 +2481,6 @@ l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
 l:RetireePlan
-l:Cryptocam_Companion
 l:boardown
 l:Wohnungsbot
 l:Rekordbox.Library.Fixer
@@ -2521,6 +2520,7 @@ l:Spivak
 l:nRF_Connect
 l:Exilence_CE
 l:OpenPalm
+l:Cryptocam_Companion
 l:KCode
 l:SMS_Launcher
 l:Pixsrt
@@ -2758,6 +2758,7 @@ l:SimUtil
 l:Hiveory
 l:ideaMaker
 l:Monghoul
+l:Alpine_Client
 l:Heimer
 l:Muse_Desktop
 l:OpenHV
@@ -2996,7 +2997,6 @@ l:Cate
 l:Hyperspace
 l:formal-ai
 l:NuvioDesktop
-l:Alpine_Client
 l:map-matching-2
 l:theFrame
 l:Citropy
