@@ -2542,6 +2542,7 @@ l:Spivak
 l:nRF_Connect
 l:Exilence_CE
 l:OpenPalm
+l:Cryptocam_Companion
 l:KCode
 l:SMS_Launcher
 l:Pixsrt
@@ -2683,7 +2684,6 @@ l:Invoiso
 l:Sharik
 l:Log4YM
 l:VivifyScrum
-l:Cryptocam_Companion
 l:CrossMobile
 l:Flucto
 l:GitJournal
@@ -2837,7 +2837,6 @@ l:Kibo
 l:Vitomu
 l:SkillsGate
 l:Make_My_Figure
-l:Alpine_Client
 l:Snitch
 l:Pikura
 l:Producer_Player
@@ -2872,6 +2871,7 @@ l:Dragoman
 l:OpsTrellis
 l:Carnet
 l:Dendro
+l:Alpine_Client
 l:Tuck
 l:CLILoom
 l:attu
@@ -3175,5 +3175,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
