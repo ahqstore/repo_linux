@@ -157,6 +157,7 @@ l:uncov
 l:WeRead_Desktop
 l:Pybient
 l:GT-DAYN
+l:Open_Media_Converter
 l:onekey
 l:r2-youloader
 l:ldview
@@ -2489,7 +2490,6 @@ l:jsonquery_gui
 l:Running-Dinner-Tool
 l:GpgFrontend
 l:BluetoothDeviceControl
-l:Cryptocam_Companion
 l:twitch-wrapper
 l:mapton
 l:PikoPixel
@@ -2528,6 +2528,7 @@ l:M3U8_Quicker
 l:Stud
 l:MangaBox
 l:moniteur-admin
+l:Cryptocam_Companion
 l:Standard_of_Iron
 l:sage_appimage
 l:Whodis
@@ -2770,7 +2771,6 @@ l:agentglass
 l:Postgly
 l:Envelopes
 l:JsonForge
-l:Alpine_Client
 l:StatusPilatus
 l:lindbergh-loader
 l:VisiCut
@@ -3191,5 +3191,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
