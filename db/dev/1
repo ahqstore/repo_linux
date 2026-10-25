@@ -2235,7 +2235,6 @@ l:NoteConnection
 l:Ultimatter
 l:Minecraft_Pi_Reborn_Server
 l:Webamp
-l:Colon
 l:CoreTime
 l:Kiibohd_Configurator
 l:LiveFaceSwap
@@ -2398,6 +2397,7 @@ l:Passy
 l:deb2appimage
 l:Juggernaut
 l:Audacity
+l:Cryptocam_Companion
 l:DICOMautomaton
 l:Summoners.War.Exporter
 l:Ragnarok_Offline
@@ -2528,7 +2528,6 @@ l:M3U8_Quicker
 l:Stud
 l:MangaBox
 l:moniteur-admin
-l:Cryptocam_Companion
 l:Standard_of_Iron
 l:sage_appimage
 l:Whodis
@@ -3112,6 +3111,7 @@ l:mjml-app
 l:GVim
 l:Bazecor
 l:trader
+l:Alpine_Client
 l:Codync
 l:ebloid_desktop
 l:Locademy
@@ -3191,6 +3191,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
