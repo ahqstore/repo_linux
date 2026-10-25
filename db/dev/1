@@ -1904,6 +1904,7 @@ l:VPaint
 l:tastee-ui
 l:bruno-nightly-builds
 l:LaTeX_Editor
+l:OBS_Studio_Rust
 l:Self-hosted_Git_Client
 l:Whatly
 l:OpenNotes
@@ -2117,6 +2118,7 @@ l:FastPack
 l:flameshot
 l:QXGEdit
 l:Horizon
+l:Cryptocam_Companion
 l:installer
 l:TermLoop
 l:Niffler
@@ -2606,7 +2608,6 @@ l:dsh-app
 l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
-l:Cryptocam_Companion
 l:IrScrutinizer
 l:Marina
 l:Media_Downloader
@@ -2954,7 +2955,6 @@ l:wezterm
 l:ElectrumRhodium
 l:CubicleCrew
 l:dpcc-harness
-l:Alpine_Client
 l:Veld
 l:kde-sticky-notes
 l:SMF-DSP
@@ -3089,6 +3089,7 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
+l:Alpine_Client
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
@@ -3175,5 +3176,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
