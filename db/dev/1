@@ -231,6 +231,7 @@ l:Karyon
 l:Overte
 l:NereusSDR
 l:OpenConverter
+l:Harbor
 l:SmallBASIC
 l:MarkView
 l:Nootka
@@ -834,6 +835,7 @@ l:MarkMello
 l:smile
 l:CroccoSpectrum
 l:cycloidgen
+l:md-editor
 l:ZabbLeaf
 l:todometer
 l:Pony_Compiler
@@ -1430,6 +1432,7 @@ l:KryTrader
 l:Retro-Burner
 l:GitHubDesktop
 l:Znax
+l:Mnema
 l:Tonuino_Toolbox
 l:Qawl
 l:Y_A_W_N
@@ -1483,6 +1486,7 @@ l:dotline
 l:chimera-agent
 l:Widelands
 l:Wonderwall
+l:Datamine_Explorer
 l:NeoMusic
 l:Subway_Surfers
 l:QQ_Music
@@ -2118,7 +2122,6 @@ l:FastPack
 l:flameshot
 l:QXGEdit
 l:Horizon
-l:Cryptocam_Companion
 l:installer
 l:TermLoop
 l:Niffler
@@ -2167,6 +2170,7 @@ l:Teahouse
 l:GT-MuslimApp
 l:osu-tracker
 l:UniShellect
+l:FPV_DVR_Cleaner
 l:sample-client-for-amazon-bedrock
 l:Tagstoo
 l:Gqrx
@@ -2286,6 +2290,7 @@ l:Sunce_Wallet
 l:AITracker
 l:My_AUR_Files
 l:BattleShip
+l:Rusty_Inbox
 l:SuperOne
 l:NativePi
 l:Frappe_Accounting
@@ -2354,6 +2359,7 @@ l:Desktop_Django_Starter
 l:jsShowHardwareInfos
 l:simplechroot
 l:Claude_Code_Studio
+l:Cryptocam_Companion
 l:nxshell
 l:media-dupes
 l:OpenKara
@@ -2596,6 +2602,7 @@ l:CrossCode_Map_Editor
 l:Mojo_Voice
 l:RyoWallet
 l:open-codesign
+l:Arkdraw
 l:POM1
 l:PiST
 l:CoreStats
@@ -2793,6 +2800,7 @@ l:Stunts_HD
 l:EncryptPad
 l:Scope_Launcher
 l:UniSSH
+l:meridian-browser
 l:cncjs
 l:keqdroid
 l:Shannon_Calculator
@@ -2920,6 +2928,7 @@ l:gamepad-io
 l:rebase-git
 l:X-Plane_737NG_Maintenance_Toolkit
 l:LED.Custom.Palette
+l:Wirely
 l:erdesigner
 l:CIAA_Suite
 l:TopStatsAIO
@@ -2927,6 +2936,7 @@ l:ttth
 l:ParCAD
 l:SimTradeDesk
 l:Lightning
+l:Microbot_Launcher
 l:pdfoxjs
 l:LazPaint
 l:melo
@@ -2996,6 +3006,7 @@ l:Ferdium
 l:KeePassXC
 l:plugdata
 l:SimDSP
+l:SSHFire
 l:NixNote
 l:VisiGit
 l:wLib
@@ -3020,10 +3031,12 @@ l:osu
 l:Stele
 l:lutris-gamepad-ui
 l:Cate
+l:zwyka
 l:Hyperspace
 l:formal-ai
 l:NuvioDesktop
 l:map-matching-2
+l:MC-707_Toolbox
 l:theFrame
 l:Citropy
 l:keyrier-json
@@ -3058,6 +3071,7 @@ l:hotspot
 l:Dibby_Wemo_Manager
 l:OpenUML
 l:FreightFate
+l:Alpine_Client
 l:autoremesher
 l:LiberTEM
 l:Ripcord
@@ -3089,7 +3103,6 @@ l:niceNESs
 l:BenchLocal
 l:Vegord
 l:PDF_Scholar
-l:Alpine_Client
 l:QAddApp
 l:graphql-playground
 l:Syncthing_Tray
@@ -3167,6 +3180,7 @@ l:Converter432Hz
 l:Vieb
 l:PmuSim
 l:Bifrost
+l:ConstructCAD
 l:Verto
 l:mikutter
 l:Aegis
