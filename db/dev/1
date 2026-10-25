@@ -2622,6 +2622,7 @@ l:RetroShare
 l:ProofKeeper
 l:LibreCAD
 l:Materialious
+l:Alpine_Client
 l:mosaic
 l:Iridium_Wallet
 l:OrionLauncher
@@ -2709,7 +2710,6 @@ l:MolvAI
 l:Birds_Kitchen
 l:Jan
 l:Elysian_Code
-l:Cryptocam_Companion
 l:Spectra_PDF
 l:WorkFlowy
 l:Astonischika
@@ -2756,7 +2756,6 @@ l:SimpleX
 l:Katvan
 l:Meguri
 l:Consilium
-l:Alpine_Client
 l:le
 l:SpectralFilmLUT
 l:FastSSH
@@ -2917,6 +2916,7 @@ l:Tauridium
 l:ehdev-shell
 l:Mira
 l:paradox-translation-toolkit
+l:Cryptocam_Companion
 l:VidCutter
 l:NeuroDB
 l:Parson
