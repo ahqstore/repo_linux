@@ -1396,7 +1396,6 @@ l:index0-releases
 l:Viber
 l:simpleVoiceover
 l:HushMic
-l:Latte
 l:yaya
 l:snapshot-slider
 l:DDALAB
@@ -2000,6 +1999,7 @@ l:dsh-desktop
 l:Piora
 l:Altus
 l:Paleto_Modkit
+l:pz-mod-manager
 l:Switchboard
 l:iQPuzzle
 l:Relink_Logs
@@ -2447,6 +2447,7 @@ l:Instaladores---JearCastApp
 l:EasyEdit
 l:Gemini-Desktop
 l:Puzzle_Moppet
+l:Cryptocam_Companion
 l:Prompt_Evaluator
 l:TaskManagerOG
 l:Puffin
@@ -2614,7 +2615,6 @@ l:dsh-app
 l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
-l:Cryptocam_Companion
 l:IrScrutinizer
 l:Marina
 l:Media_Downloader
@@ -2965,6 +2965,7 @@ l:wezterm
 l:ElectrumRhodium
 l:CubicleCrew
 l:dpcc-harness
+l:Alpine_Client
 l:Veld
 l:kde-sticky-notes
 l:SMF-DSP
@@ -3138,7 +3139,6 @@ l:paperflow
 l:GDevelop
 l:BetterYandexMusic
 l:Time_Series_Explorer
-l:Alpine_Client
 l:QHot
 l:JPEGView
 l:Aynite
