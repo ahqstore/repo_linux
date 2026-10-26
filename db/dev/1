@@ -2261,7 +2261,6 @@ l:Todoist
 l:TakeoffCraft
 l:Woke
 l:CoreHunt
-l:dukto
 l:Godot
 l:cumora-releases
 l:Minions
@@ -2447,7 +2446,6 @@ l:Instaladores---JearCastApp
 l:EasyEdit
 l:Gemini-Desktop
 l:Puzzle_Moppet
-l:Cryptocam_Companion
 l:Prompt_Evaluator
 l:TaskManagerOG
 l:Puffin
@@ -2511,6 +2509,7 @@ l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
 l:RetireePlan
+l:Cryptocam_Companion
 l:boardown
 l:Wohnungsbot
 l:Rekordbox.Library.Fixer
@@ -2529,6 +2528,7 @@ l:Stud
 l:MangaBox
 l:moniteur-admin
 l:Standard_of_Iron
+l:Alpine_Client
 l:sage_appimage
 l:Whodis
 l:Wireboi
@@ -2965,7 +2965,6 @@ l:wezterm
 l:ElectrumRhodium
 l:CubicleCrew
 l:dpcc-harness
-l:Alpine_Client
 l:Veld
 l:kde-sticky-notes
 l:SMF-DSP
