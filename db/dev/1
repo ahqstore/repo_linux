@@ -2400,6 +2400,7 @@ l:Juggernaut
 l:Audacity
 l:DICOMautomaton
 l:Summoners.War.Exporter
+l:Cryptocam_Companion
 l:Ragnarok_Offline
 l:ReShade
 l:TheCloudPortal_Signage_Client
@@ -2529,7 +2530,6 @@ l:Stud
 l:MangaBox
 l:moniteur-admin
 l:Standard_of_Iron
-l:Cryptocam_Companion
 l:sage_appimage
 l:Whodis
 l:Wireboi
@@ -2598,7 +2598,6 @@ l:Mini_MQTT_Client
 l:Onyx_Launcher
 l:ZCodium
 l:JetBrains_Toolbox
-l:Alpine_Client
 l:KCalc
 l:CrossCode_Map_Editor
 l:Mojo_Voice
@@ -3192,5 +3191,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
