@@ -2000,7 +2000,6 @@ l:dsh-desktop
 l:Piora
 l:Altus
 l:Paleto_Modkit
-l:pz-mod-manager
 l:Switchboard
 l:iQPuzzle
 l:Relink_Logs
@@ -2400,7 +2399,6 @@ l:Juggernaut
 l:Audacity
 l:DICOMautomaton
 l:Summoners.War.Exporter
-l:Cryptocam_Companion
 l:Ragnarok_Offline
 l:ReShade
 l:TheCloudPortal_Signage_Client
@@ -2616,6 +2614,7 @@ l:dsh-app
 l:Brain_in_a_Box
 l:Auryo
 l:makoureactor
+l:Cryptocam_Companion
 l:IrScrutinizer
 l:Marina
 l:Media_Downloader
@@ -3139,6 +3138,7 @@ l:paperflow
 l:GDevelop
 l:BetterYandexMusic
 l:Time_Series_Explorer
+l:Alpine_Client
 l:QHot
 l:JPEGView
 l:Aynite
@@ -3191,6 +3191,5 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
