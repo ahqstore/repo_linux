@@ -2078,7 +2078,6 @@ l:kiwix-js-pwa
 l:Quixel_Bridge
 l:Bloks
 l:AgentFlow
-l:ShareCLIP
 l:OdyTTY
 l:retrovibed
 l:RestifEye
@@ -2102,7 +2101,6 @@ l:Creality_Print
 l:LibreMines
 l:Vigil
 l:PS2-ISO-Batch-Renamer-
-l:ao
 l:PlotJuggler
 l:RustDesk
 l:GrammarLLM
@@ -2549,7 +2547,6 @@ l:Spivak
 l:nRF_Connect
 l:Exilence_CE
 l:OpenPalm
-l:Alpine_Client
 l:KCode
 l:SMS_Launcher
 l:Pixsrt
@@ -2742,7 +2739,6 @@ l:FileShows
 l:iptvnator
 l:BuzzCast
 l:TachiWeb
-l:Cryptocam_Companion
 l:Statewave_Admin
 l:Giada
 l:pb-for-desktop
@@ -2833,6 +2829,7 @@ l:antimicroX
 l:DBI_Backend
 l:Meridian
 l:Culprit_SQL_Studio
+l:Cryptocam_Companion
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
@@ -3191,5 +3188,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
+l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
