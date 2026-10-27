@@ -2261,6 +2261,7 @@ l:Todoist
 l:TakeoffCraft
 l:Woke
 l:CoreHunt
+l:dukto
 l:Godot
 l:cumora-releases
 l:Minions
@@ -2509,7 +2510,6 @@ l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
 l:RetireePlan
-l:Cryptocam_Companion
 l:boardown
 l:Wohnungsbot
 l:Rekordbox.Library.Fixer
@@ -2528,7 +2528,6 @@ l:Stud
 l:MangaBox
 l:moniteur-admin
 l:Standard_of_Iron
-l:Alpine_Client
 l:sage_appimage
 l:Whodis
 l:Wireboi
@@ -2550,6 +2549,7 @@ l:Spivak
 l:nRF_Connect
 l:Exilence_CE
 l:OpenPalm
+l:Alpine_Client
 l:KCode
 l:SMS_Launcher
 l:Pixsrt
@@ -2742,6 +2742,7 @@ l:FileShows
 l:iptvnator
 l:BuzzCast
 l:TachiWeb
+l:Cryptocam_Companion
 l:Statewave_Admin
 l:Giada
 l:pb-for-desktop
