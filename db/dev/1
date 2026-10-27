@@ -2101,6 +2101,7 @@ l:Creality_Print
 l:LibreMines
 l:Vigil
 l:PS2-ISO-Batch-Renamer-
+l:ao
 l:PlotJuggler
 l:RustDesk
 l:GrammarLLM
@@ -2508,6 +2509,7 @@ l:Beatconnect_Client
 l:Book_Manager
 l:Qucs-S
 l:RetireePlan
+l:Alpine_Client
 l:boardown
 l:Wohnungsbot
 l:Rekordbox.Library.Fixer
@@ -2829,7 +2831,6 @@ l:antimicroX
 l:DBI_Backend
 l:Meridian
 l:Culprit_SQL_Studio
-l:Cryptocam_Companion
 l:QuotaBar
 l:Chiaki
 l:AI_Canvas
@@ -3188,6 +3189,6 @@ l:jsBudbrainSoundEditor
 l:MultiworldGG
 l:Open_Nectar
 l:gsubs
-l:Alpine_Client
 l:Crescat
 l:Beam_Research_Toolkit
+l:Cryptocam_Companion
