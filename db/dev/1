@@ -1733,7 +1733,6 @@ l:aillio-ts
 l:CRITERIA1D_PRO
 l:znote-app
 l:JellyTunes
-l:Cryptocam_Companion
 l:OpenRGB
 l:Deadbolt
 l:Loams
@@ -1774,6 +1773,7 @@ l:k10s
 l:PortBridge
 l:ArtMoon
 l:Gerbil
+l:Cryptocam_Companion
 l:turul-app
 l:Metronomek
 l:Iceworks
@@ -2228,7 +2228,6 @@ l:RHB
 l:cubing-cmos
 l:Google_Tasks_Desktop
 l:Eternal-Lands
-l:Alpine_Client
 l:OSC-DreamChatbox
 l:Streamlink
 l:Darktable
@@ -2364,7 +2363,6 @@ l:Basesmall
 l:Dub_Studio
 l:Dota2_CFG_Changer
 l:StackAndConquer
-l:Beam_Research_Toolkit
 l:Vease
 l:StudioBridge
 l:Mayo
@@ -2880,6 +2878,7 @@ l:CrossMobile
 l:KeyManager
 l:XELFViewer
 l:photoname
+l:Alpine_Client
 l:TodoBench
 l:Simple-Code-GUI
 l:DDCal
@@ -3191,4 +3190,5 @@ l:Trinity_Launcher
 l:OpenWar3
 l:pomotroid
 l:Styx
+l:Beam_Research_Toolkit
 l:Crescat
