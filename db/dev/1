@@ -1773,7 +1773,6 @@ l:k10s
 l:PortBridge
 l:ArtMoon
 l:Gerbil
-l:Cryptocam_Companion
 l:turul-app
 l:Metronomek
 l:Iceworks
@@ -1985,6 +1984,7 @@ l:CarcaraCode
 l:CubicSDR
 l:ClassicImageViewer
 l:ArcDLP
+l:Cryptocam_Companion
 l:NetCopilot
 l:Wormhole
 l:GooboxFileShare
@@ -2359,6 +2359,7 @@ l:RMG
 l:GBA_Emulator
 l:Beyond_All_Reason
 l:Light_Matter
+l:Alpine_Client
 l:Basesmall
 l:Dub_Studio
 l:Dota2_CFG_Changer
@@ -2878,7 +2879,6 @@ l:CrossMobile
 l:KeyManager
 l:XELFViewer
 l:photoname
-l:Alpine_Client
 l:TodoBench
 l:Simple-Code-GUI
 l:DDCal
@@ -3190,5 +3190,5 @@ l:Trinity_Launcher
 l:OpenWar3
 l:pomotroid
 l:Styx
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
