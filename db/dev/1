@@ -1861,7 +1861,6 @@ l:RedmineTimeTracker
 l:EmuCenter
 l:SigmaSpectra
 l:LBK_Launcher
-l:Cryptocam_Companion
 l:lectureStudio
 l:claude-devtools
 l:siyuan-patch
@@ -2102,6 +2101,7 @@ l:Kyaraben
 l:Lachesis
 l:LibrAgent
 l:whiteboard
+l:Cryptocam_Companion
 l:Pikura
 l:GoldenDict
 l:pingviewer
@@ -2219,7 +2219,6 @@ l:kftray
 l:OpenProxy
 l:Stashi_Wallet
 l:panbeh-matrix-client
-l:Alpine_Client
 l:SysD_Manager
 l:Quark
 l:Thinktool_Desktop
@@ -2586,8 +2585,8 @@ l:fmradio
 l:QymCAD
 l:HashVerifier
 l:moniteur-admin
-l:Beam_Research_Toolkit
 l:Liang.Desktop.Pet
+l:Beam_Research_Toolkit
 l:ChemCanvas
 l:Rauhwpx
 l:OpenApplyr
@@ -3047,6 +3046,7 @@ l:Red_Eclipse-Development
 l:M3U8_Quicker
 l:BlakeBitcoin
 l:CurlIt
+l:Alpine_Client
 l:TDrive
 l:Cerebral-Debugger
 l:Homelander
