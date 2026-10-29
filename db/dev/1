@@ -1792,6 +1792,7 @@ l:Rufux
 l:Paw-Search-Bar-Streaming
 l:FrameExtractor
 l:QCTools
+l:Alpine_Client
 l:HyperLinq
 l:Painel-Web
 l:Flippy_Qualitative_Testbench
@@ -1980,11 +1981,11 @@ l:Tagstoo
 l:ungoogled-chromium-portable
 l:WorkPulse
 l:sample-client-for-amazon-bedrock
+l:Cryptocam_Companion
 l:CarcaraCode
 l:CubicSDR
 l:ClassicImageViewer
 l:ArcDLP
-l:Cryptocam_Companion
 l:NetCopilot
 l:Wormhole
 l:GooboxFileShare
@@ -2359,7 +2360,6 @@ l:RMG
 l:GBA_Emulator
 l:Beyond_All_Reason
 l:Light_Matter
-l:Alpine_Client
 l:Basesmall
 l:Dub_Studio
 l:Dota2_CFG_Changer
@@ -2456,7 +2456,6 @@ l:RiaCore
 l:Chess_Opening_Tool
 l:Beware_Of_Dog
 l:CVEase
-l:pz-mod-manager
 l:PartCraft
 l:Software-Challenge-GUI
 l:OpenNotes
