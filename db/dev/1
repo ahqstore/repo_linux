@@ -264,6 +264,7 @@ l:Relic_of_the_Past
 l:Frogg
 l:Microbot_Launcher
 l:Monbooru
+l:jsNetMonitor
 l:Rombo
 l:OrbitPS2Manager
 l:appimagetool
@@ -1692,6 +1693,7 @@ l:Haven_Desktop
 l:rivet
 l:desktop
 l:VerityPDF
+l:orca-oss
 l:Updainium
 l:dsh-app
 l:retrovibed
@@ -1813,6 +1815,7 @@ l:Iceworks
 l:Sayonara
 l:BunqDesktop
 l:PasteMax
+l:Cryptocam_Companion
 l:GWeatherRouting
 l:SiliconSneaker
 l:Agent_Pulse
@@ -2064,7 +2067,6 @@ l:Banquier
 l:KDiskMark
 l:Cate
 l:MhlFileVerify
-l:Alpine_Client
 l:Lunyr
 l:SuperTux
 l:Biscuit
@@ -2121,7 +2123,6 @@ l:stream-server
 l:RITMO_Music_Tracker
 l:Floorp
 l:Tusk
-l:Cryptocam_Companion
 l:CherryTree
 l:ClawChat
 l:postman-gpui
@@ -2397,6 +2398,7 @@ l:JiV-881-synth
 l:Velo
 l:Lab_Ledger
 l:youtube-music-desktop
+l:Alpine_Client
 l:Bypass_Cors
 l:TransKit_Desktop
 l:Myanmar.Glyph.Studio
@@ -2800,7 +2802,6 @@ l:LumiSync
 l:Jacksum
 l:LibAssist
 l:Malice
-l:Arkdraw
 l:FjordLauncher
 l:GpgFrontend
 l:Soothsayer
@@ -3217,6 +3218,7 @@ l:Steem_Messenger
 l:app
 l:Kibo
 l:Player432Hz-3.0
+l:Beam_Research_Toolkit
 l:Docsie_Screen_Recorder
 l:NoteFlow
 l:Statsbook_Tool
@@ -3249,4 +3251,3 @@ l:OpenWar3
 l:pomotroid
 l:Styx
 l:Crescat
-l:Beam_Research_Toolkit
