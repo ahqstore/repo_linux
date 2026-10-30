@@ -1826,7 +1826,6 @@ l:Rufux
 l:Paw-Search-Bar-Streaming
 l:FrameExtractor
 l:QCTools
-l:Alpine_Client
 l:HyperLinq
 l:Painel-Web
 l:Flippy_Qualitative_Testbench
@@ -2008,7 +2007,6 @@ l:Sidetone
 l:Kanon
 l:Chat2API
 l:Ness
-l:Cryptocam_Companion
 l:VibeSuperTonic
 l:Hoard
 l:AppImageUpdate
@@ -2124,6 +2122,7 @@ l:Floorp
 l:Tusk
 l:CherryTree
 l:ClawChat
+l:Cryptocam_Companion
 l:postman-gpui
 l:shell
 l:Syronius_FRAME
@@ -2155,6 +2154,7 @@ l:WebDesktop
 l:jsLinuxCleanup
 l:GSequencer
 l:ReShade
+l:Alpine_Client
 l:FlightGear
 l:DotnetDeployer_Fleet
 l:Pokemon_Showdown_Pro
@@ -3126,7 +3126,6 @@ l:TenchuSARecomp
 l:Archtoys
 l:Apla
 l:KeyboardClient
-l:Crescat
 l:mpz
 l:Forja
 l:Wrapbox
@@ -3247,4 +3246,5 @@ l:Trinity_Launcher
 l:OpenWar3
 l:pomotroid
 l:Styx
+l:Crescat
 l:Beam_Research_Toolkit
