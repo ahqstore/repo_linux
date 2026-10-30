@@ -1878,7 +1878,6 @@ l:NetSonar
 l:TranscribeAIUI
 l:Twitch-Retold-Desktop-Android
 l:VapourBox
-l:Cryptocam_Companion
 l:Bramble
 l:MapperoGeotagger
 l:ADOSMissionControl
@@ -2065,6 +2064,7 @@ l:Banquier
 l:KDiskMark
 l:Cate
 l:MhlFileVerify
+l:Alpine_Client
 l:Lunyr
 l:SuperTux
 l:Biscuit
@@ -2121,6 +2121,7 @@ l:stream-server
 l:RITMO_Music_Tracker
 l:Floorp
 l:Tusk
+l:Cryptocam_Companion
 l:CherryTree
 l:ClawChat
 l:postman-gpui
@@ -2143,7 +2144,6 @@ l:Kyaraben
 l:Lachesis
 l:LibrAgent
 l:whiteboard
-l:Alpine_Client
 l:Pikura
 l:GoldenDict
 l:pingviewer
@@ -2253,6 +2253,7 @@ l:jsBudbrainCaveRescue
 l:MetroidPrimeHuntersRecomp
 l:wirely-.github.io
 l:HyperShell
+l:Eksplode.re
 l:Mini_Diary
 l:OpenToonz
 l:WaveScope
@@ -2502,6 +2503,7 @@ l:RiaCore
 l:Chess_Opening_Tool
 l:Beware_Of_Dog
 l:CVEase
+l:pz-mod-manager
 l:PartCraft
 l:Software-Challenge-GUI
 l:OpenNotes
@@ -2963,6 +2965,7 @@ l:Polymerium
 l:ommpfritt
 l:Cliniface
 l:Nagome
+l:WishDemo
 l:Black_Chocobo
 l:WorkTime
 l:Pingnoo
@@ -3245,5 +3248,5 @@ l:Trinity_Launcher
 l:OpenWar3
 l:pomotroid
 l:Styx
-l:Beam_Research_Toolkit
 l:Crescat
+l:Beam_Research_Toolkit
