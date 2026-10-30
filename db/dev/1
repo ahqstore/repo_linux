@@ -1878,6 +1878,7 @@ l:NetSonar
 l:TranscribeAIUI
 l:Twitch-Retold-Desktop-Android
 l:VapourBox
+l:Cryptocam_Companion
 l:Bramble
 l:MapperoGeotagger
 l:ADOSMissionControl
@@ -2122,7 +2123,6 @@ l:Floorp
 l:Tusk
 l:CherryTree
 l:ClawChat
-l:Cryptocam_Companion
 l:postman-gpui
 l:shell
 l:Syronius_FRAME
@@ -2143,6 +2143,7 @@ l:Kyaraben
 l:Lachesis
 l:LibrAgent
 l:whiteboard
+l:Alpine_Client
 l:Pikura
 l:GoldenDict
 l:pingviewer
@@ -2154,7 +2155,6 @@ l:WebDesktop
 l:jsLinuxCleanup
 l:GSequencer
 l:ReShade
-l:Alpine_Client
 l:FlightGear
 l:DotnetDeployer_Fleet
 l:Pokemon_Showdown_Pro
@@ -2963,7 +2963,6 @@ l:Polymerium
 l:ommpfritt
 l:Cliniface
 l:Nagome
-l:WishDemo
 l:Black_Chocobo
 l:WorkTime
 l:Pingnoo
@@ -3246,5 +3245,5 @@ l:Trinity_Launcher
 l:OpenWar3
 l:pomotroid
 l:Styx
-l:Crescat
 l:Beam_Research_Toolkit
+l:Crescat
