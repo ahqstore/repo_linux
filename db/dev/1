@@ -1784,6 +1784,7 @@ l:aillio-ts
 l:CRITERIA1D_PRO
 l:znote-app
 l:JellyTunes
+l:Cryptocam_Companion
 l:OpenRGB
 l:Deadbolt
 l:Loams
@@ -1824,7 +1825,6 @@ l:k10s
 l:PortBridge
 l:ArtMoon
 l:Gerbil
-l:Cryptocam_Companion
 l:turul-app
 l:Metronomek
 l:Iceworks
@@ -1845,6 +1845,7 @@ l:Rufux
 l:Paw-Search-Bar-Streaming
 l:FrameExtractor
 l:QCTools
+l:Alpine_Client
 l:HyperLinq
 l:Painel-Web
 l:Flippy_Qualitative_Testbench
@@ -2121,6 +2122,7 @@ l:LibreOfficeFresh
 l:WatchFlower
 l:MQTTX
 l:PRAGA
+l:Lumitype
 l:GoldenCheetah
 l:My-Honda-Plus-for-desktop
 l:Eleven
@@ -2393,7 +2395,6 @@ l:Tideflow
 l:bb-imager-gui
 l:nmap
 l:simplechroot
-l:Alpine_Client
 l:ImgConvert
 l:NereusSDR
 l:Shannon_Calculator
@@ -2669,7 +2670,6 @@ l:OpenApplyr
 l:MEASUR
 l:Cairn
 l:unsloth
-l:Beam_Research_Toolkit
 l:MonTally
 l:VRCD
 l:Juggernaut
@@ -3014,7 +3014,6 @@ l:DragonsCrownProPC
 l:Infinite
 l:-_ICQ
 l:SimpMusic
-l:Crescat
 l:Gulden
 l:puush-qt
 l:Installer
@@ -3142,6 +3141,7 @@ l:BlakeBitcoin
 l:CurlIt
 l:TDrive
 l:Cerebral-Debugger
+l:Crescat
 l:Homelander
 l:ChainX_Signer
 l:EverInst
@@ -3239,6 +3239,7 @@ l:PromptDe
 l:Jan
 l:Scrum-Retroboard
 l:Dpro-Agent
+l:Beam_Research_Toolkit
 l:Cogpit
 l:NeuroDB
 l:Cells
