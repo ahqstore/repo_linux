@@ -1572,7 +1572,6 @@ l:Playbox
 l:OCVWarp
 l:SkerrySSH
 l:BasiliskII
-l:Cryptocam_Companion
 l:SerialPlot
 l:Wiz
 l:Encounty
@@ -1793,6 +1792,7 @@ l:Kanvaz
 l:CopyPaste
 l:GitStudio
 l:BibaVPN
+l:Alpine_Client
 l:simple-s3-uploader
 l:light-git-client
 l:railreader2
@@ -1832,6 +1832,7 @@ l:Rufux
 l:Paw-Search-Bar-Streaming
 l:FrameExtractor
 l:QCTools
+l:Cryptocam_Companion
 l:HyperLinq
 l:Painel-Web
 l:Flippy_Qualitative_Testbench
@@ -2234,7 +2235,6 @@ l:The_Office
 l:PollyMC-Continued
 l:Meiro
 l:Aegis
-l:Alpine_Client
 l:ChordVox
 l:FPVThePlanet
 l:jsBudbrainCompressor
@@ -2639,7 +2639,6 @@ l:fmradio
 l:QymCAD
 l:HashVerifier
 l:moniteur-admin
-l:Crescat
 l:Liang.Desktop.Pet
 l:ChemCanvas
 l:Rauhwpx
@@ -2709,6 +2708,7 @@ l:Dendro
 l:Stele
 l:Audacity
 l:Sillage
+l:Crescat
 l:Responsively
 l:dfDemo
 l:phoenix-desktop
