@@ -1784,7 +1784,6 @@ l:aillio-ts
 l:CRITERIA1D_PRO
 l:znote-app
 l:JellyTunes
-l:Cryptocam_Companion
 l:OpenRGB
 l:Deadbolt
 l:Loams
@@ -1845,7 +1844,6 @@ l:Rufux
 l:Paw-Search-Bar-Streaming
 l:FrameExtractor
 l:QCTools
-l:Alpine_Client
 l:HyperLinq
 l:Painel-Web
 l:Flippy_Qualitative_Testbench
@@ -1917,6 +1915,7 @@ l:RedmineTimeTracker
 l:EmuCenter
 l:SigmaSpectra
 l:LBK_Launcher
+l:Cryptocam_Companion
 l:lectureStudio
 l:claude-devtools
 l:siyuan-patch
@@ -2168,6 +2167,7 @@ l:Kyaraben
 l:Lachesis
 l:LibrAgent
 l:whiteboard
+l:Alpine_Client
 l:Pikura
 l:GoldenDict
 l:pingviewer
@@ -2696,6 +2696,7 @@ l:VeChain
 l:RomMClient
 l:Zettlr
 l:Inky
+l:Beam_Research_Toolkit
 l:Files.fm_Sync
 l:Mirroid
 l:Radix_Wallet
@@ -3141,7 +3142,6 @@ l:BlakeBitcoin
 l:CurlIt
 l:TDrive
 l:Cerebral-Debugger
-l:Crescat
 l:Homelander
 l:ChainX_Signer
 l:EverInst
@@ -3239,7 +3239,6 @@ l:PromptDe
 l:Jan
 l:Scrum-Retroboard
 l:Dpro-Agent
-l:Beam_Research_Toolkit
 l:Cogpit
 l:NeuroDB
 l:Cells
@@ -3286,3 +3285,4 @@ l:Trinity_Launcher
 l:OpenWar3
 l:pomotroid
 l:Styx
+l:Crescat
