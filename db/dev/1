@@ -1157,7 +1157,6 @@ l:Whisper_Desktop
 l:86Box
 l:FLACidal
 l:LocalWrap_Electron
-l:lexiglance
 l:CozyDrive
 l:ALEAPP
 l:Gifcurry
@@ -1332,6 +1331,7 @@ l:jsBudbrainsFxStudio
 l:GridcoinResearch
 l:Lx-music-desktop
 l:go-notes
+l:kensaku
 l:EncryptPad
 l:Pawse
 l:HermesMessenger
@@ -1440,6 +1440,7 @@ l:McPodcast
 l:penguins-eggs-legacy
 l:TaskManagerOG
 l:Drawx
+l:circuitRF
 l:dsh-desktop
 l:snapshot-slider
 l:Carpenters
@@ -1472,6 +1473,7 @@ l:Splitlane
 l:OrionLauncher
 l:GuidedReel
 l:Lumiverse
+l:Lexiglance
 l:Citropy
 l:Evermist
 l:OpenOrbit
@@ -1898,6 +1900,7 @@ l:Quillwright
 l:NetSonar
 l:TranscribeAIUI
 l:Twitch-Retold-Desktop-Android
+l:Alpine_Client
 l:VapourBox
 l:Bramble
 l:MapperoGeotagger
@@ -2053,7 +2056,6 @@ l:GooboxFileShare
 l:Dream-VoiceTraining
 l:LiveMe_Pro_Tools
 l:Pulsar
-l:Cryptocam_Companion
 l:LTools
 l:Agent_Companion
 l:red_labeling
@@ -2256,7 +2258,6 @@ l:MyCrypto
 l:Harness_Studio
 l:The_Office
 l:PollyMC-Continued
-l:Alpine_Client
 l:Meiro
 l:Aegis
 l:ChordVox
@@ -2548,6 +2549,7 @@ l:Agent_Speed
 l:ai-code-fusion
 l:Webamp
 l:Dead_Rising_2_Case_West_Xenon_Recomp
+l:Cryptocam_Companion
 l:Arwing
 l:AgentOp
 l:GPT_Image_2_Skill
@@ -3088,6 +3090,7 @@ l:Autopsy
 l:PrixumLauncher
 l:Mob
 l:draw.io
+l:Crescat
 l:Stacer
 l:MooerLooperManager
 l:sane-break
@@ -3238,7 +3241,6 @@ l:MaximumTrainer_Redux
 l:dataset-annotator
 l:VZT_Flow
 l:PG_Orbit
-l:DDALAB
 l:PromptDe
 l:Jan
 l:Scrum-Retroboard
@@ -3289,6 +3291,5 @@ l:Trinity_Launcher
 l:OpenWar3
 l:pomotroid
 l:Styx
-l:Crescat
-l:Beam_Research_Toolkit
 l:DuoDesk
+l:Beam_Research_Toolkit
