@@ -2020,7 +2020,6 @@ l:paradox-translation-toolkit
 l:NCSA_Mosaic
 l:vCloudcam
 l:SerialPort_Assistant
-l:Cryptocam_Companion
 l:XKNX_Editor
 l:quick-share
 l:MarioKartSuperCircuitRecomp
@@ -2054,6 +2053,7 @@ l:GooboxFileShare
 l:Dream-VoiceTraining
 l:LiveMe_Pro_Tools
 l:Pulsar
+l:Cryptocam_Companion
 l:LTools
 l:Agent_Companion
 l:red_labeling
@@ -2256,6 +2256,7 @@ l:MyCrypto
 l:Harness_Studio
 l:The_Office
 l:PollyMC-Continued
+l:Alpine_Client
 l:Meiro
 l:Aegis
 l:ChordVox
@@ -2437,7 +2438,6 @@ l:RMG
 l:GBA_Emulator
 l:Beyond_All_Reason
 l:Light_Matter
-l:Alpine_Client
 l:Executioner
 l:Basesmall
 l:Dub_Studio
@@ -2472,7 +2472,6 @@ l:Limboo
 l:TooTawersRecomp
 l:HushMic
 l:Kristall
-l:Beam_Research_Toolkit
 l:Xenia_Dashboard
 l:bawkterm
 l:SBOM_Workbench
@@ -2736,7 +2735,6 @@ l:Groot
 l:MC-707_Toolbox
 l:Backtickle
 l:Dendro
-l:Crescat
 l:Stele
 l:Audacity
 l:Sillage
@@ -3291,4 +3289,6 @@ l:Trinity_Launcher
 l:OpenWar3
 l:pomotroid
 l:Styx
+l:Crescat
+l:Beam_Research_Toolkit
 l:DuoDesk
