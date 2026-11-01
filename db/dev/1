@@ -1847,7 +1847,6 @@ l:Rufux
 l:Paw-Search-Bar-Streaming
 l:FrameExtractor
 l:QCTools
-l:Cryptocam_Companion
 l:HyperLinq
 l:Painel-Web
 l:Flippy_Qualitative_Testbench
@@ -2021,6 +2020,7 @@ l:paradox-translation-toolkit
 l:NCSA_Mosaic
 l:vCloudcam
 l:SerialPort_Assistant
+l:Cryptocam_Companion
 l:XKNX_Editor
 l:quick-share
 l:MarioKartSuperCircuitRecomp
@@ -2063,6 +2063,7 @@ l:synthv1
 l:nis-one-click-backup
 l:sessionpipe_gui
 l:CoreStuff
+l:Vivify_Live
 l:Make_My_Figure
 l:waydroid-helper
 l:Mochi
@@ -2426,7 +2427,6 @@ l:JiV-881-synth
 l:Velo
 l:Lab_Ledger
 l:youtube-music-desktop
-l:Beam_Research_Toolkit
 l:Bypass_Cors
 l:TransKit_Desktop
 l:Myanmar.Glyph.Studio
@@ -2437,6 +2437,7 @@ l:RMG
 l:GBA_Emulator
 l:Beyond_All_Reason
 l:Light_Matter
+l:Alpine_Client
 l:Executioner
 l:Basesmall
 l:Dub_Studio
@@ -2471,6 +2472,7 @@ l:Limboo
 l:TooTawersRecomp
 l:HushMic
 l:Kristall
+l:Beam_Research_Toolkit
 l:Xenia_Dashboard
 l:bawkterm
 l:SBOM_Workbench
@@ -2617,7 +2619,6 @@ l:OCPQ
 l:pnpm
 l:Serial_Studio
 l:student-activities-app
-l:Alpine_Client
 l:YellowFruit
 l:Stellarium
 l:Clipaste
@@ -2697,7 +2698,6 @@ l:MC_Chunk_Get
 l:Styr
 l:uArmStudio
 l:PopDroidCam
-l:Crescat
 l:VeChain
 l:RomMClient
 l:Zettlr
@@ -2736,6 +2736,7 @@ l:Groot
 l:MC-707_Toolbox
 l:Backtickle
 l:Dendro
+l:Crescat
 l:Stele
 l:Audacity
 l:Sillage
