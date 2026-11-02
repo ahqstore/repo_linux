@@ -7,6 +7,7 @@ l:Superpaper
 l:Malgel
 l:todo-bash
 l:MagicFountain
+l:tlum
 l:Passky
 l:Clippy_Vision
 l:QaterialHotReload
@@ -45,6 +46,7 @@ l:MeshTalk
 l:Onenote
 l:IEM_Tool
 l:Devsy
+l:anymodel_bot
 l:Demonizer
 l:Lion_SSH
 l:Focra
@@ -318,10 +320,12 @@ l:Thunderbird_Beta
 l:RemoteDesktop
 l:OSRS_Tools
 l:ImapSyncClient
+l:DeepSeek_Harness
 l:PowerliminalsPlayer
 l:SlipStream_GUI
 l:nam-editor
 l:DwarfTherapist
+l:OpenReader
 l:SPlayer
 l:GitSwitch
 l:ApiFlow
@@ -476,6 +480,7 @@ l:OpenPalm
 l:mutool
 l:Negibox
 l:Linux_Device_Manager
+l:Cloaker
 l:Kosmos
 l:CodePilot.ai
 l:Deckboy
@@ -609,6 +614,7 @@ l:vid_translate
 l:Omnicross
 l:KnitCalc
 l:Gaphor
+l:Dig_Dug_native
 l:lescovex
 l:Besprited
 l:focoo
@@ -671,6 +677,7 @@ l:Propel
 l:XnViewMP
 l:Wirely
 l:Digitales_Klassenzimmer
+l:totk-pc-recomp
 l:GeneralsAlpha
 l:MusePi
 l:Sourcetrail
@@ -828,6 +835,7 @@ l:Tday
 l:AssayPlot
 l:Nexira
 l:AnkiMiner
+l:GeeTree
 l:Parom.TV
 l:BaijiMangaViewer
 l:Sayso
@@ -1159,6 +1167,7 @@ l:86Box
 l:FLACidal
 l:LocalWrap_Electron
 l:CozyDrive
+l:Papilot
 l:ALEAPP
 l:Gifcurry
 l:enUi
@@ -1299,6 +1308,7 @@ l:King_Louie
 l:CBETA
 l:Manga_Reader
 l:Factoruide
+l:GitChef
 l:Kater
 l:OpenAdminOS
 l:Termos
@@ -1590,6 +1600,7 @@ l:SkerrySSH
 l:BasiliskII
 l:SerialPlot
 l:Wiz
+l:Vizier
 l:Encounty
 l:Qawl
 l:Soil
@@ -1970,7 +1981,6 @@ l:Aperant
 l:QTeletextMaker
 l:weweChat
 l:TomoTexture-SteamOS
-l:Cryptocam_Companion
 l:movie-monad
 l:Woke
 l:pretty-handy-privacy
@@ -2361,6 +2371,7 @@ l:Antares
 l:Widelands
 l:Skyscraper
 l:SyncCrate
+l:Piko
 l:Sengi
 l:Evolution_RTS
 l:NodebookMD
@@ -2373,6 +2384,7 @@ l:OrigRead-Desktop
 l:OpsTrellis
 l:torrenttools
 l:SpamBuster
+l:Cryptocam_Companion
 l:GitHubDesktop
 l:Synthein
 l:chatvas
@@ -2391,6 +2403,7 @@ l:Pergament
 l:Peercoin
 l:clio-agent
 l:LibreFastbootFirmwareFlasher
+l:RomP
 l:OMP_Desktop
 l:InfloWave
 l:nw_wrld
@@ -2400,6 +2413,7 @@ l:Annimate
 l:Kanso
 l:Tideflow
 l:bb-imager-gui
+l:AnyModelBot
 l:nmap
 l:simplechroot
 l:ImgConvert
@@ -2447,6 +2461,7 @@ l:Dota2_CFG_Changer
 l:StackAndConquer
 l:Vease
 l:StudioBridge
+l:Impulse
 l:Mayo
 l:OpenMap_Studio
 l:mtgatool-desktop
@@ -2739,7 +2754,6 @@ l:Backtickle
 l:Dendro
 l:Stele
 l:Audacity
-l:Beam_Research_Toolkit
 l:Sillage
 l:Responsively
 l:dfDemo
@@ -2813,6 +2827,7 @@ l:Bezique
 l:YUView
 l:Whalebird
 l:MeshLab
+l:MailX
 l:Wexond
 l:Agents
 l:ironwail
@@ -2897,6 +2912,7 @@ l:PicList
 l:lindbergh-loader
 l:Translatium
 l:Bernie
+l:Alpine_Client
 l:Moonitor
 l:Agent_Campus
 l:Collie
@@ -2975,7 +2991,6 @@ l:XELFViewer
 l:photoname
 l:TodoBench
 l:Simple-Code-GUI
-l:Alpine_Client
 l:DDCal
 l:Perastage
 l:Airspaces
@@ -3001,6 +3016,7 @@ l:Fan-Browser-Agent
 l:StatusPilatus
 l:electron-wechat
 l:PS2-Servers
+l:Network_Monitor
 l:Desktop
 l:Polymerium
 l:ommpfritt
@@ -3010,6 +3026,7 @@ l:WishDemo
 l:Black_Chocobo
 l:WorkTime
 l:Pingnoo
+l:readm3
 l:Geph
 l:absotui
 l:Article.Saver
@@ -3292,5 +3309,6 @@ l:Trinity_Launcher
 l:OpenWar3
 l:pomotroid
 l:Styx
-l:DuoDesk
 l:Crescat
+l:Beam_Research_Toolkit
+l:DuoDesk
