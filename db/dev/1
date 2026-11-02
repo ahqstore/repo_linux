@@ -2104,6 +2104,7 @@ l:Banquier
 l:KDiskMark
 l:Cate
 l:MhlFileVerify
+l:Cryptocam_Companion
 l:Lunyr
 l:SuperTux
 l:Biscuit
@@ -2384,7 +2385,6 @@ l:OrigRead-Desktop
 l:OpsTrellis
 l:torrenttools
 l:SpamBuster
-l:Cryptocam_Companion
 l:GitHubDesktop
 l:Synthein
 l:chatvas
@@ -2406,6 +2406,7 @@ l:LibreFastbootFirmwareFlasher
 l:RomP
 l:OMP_Desktop
 l:InfloWave
+l:Alpine_Client
 l:nw_wrld
 l:OmniPacker
 l:YangDownloader
@@ -2531,7 +2532,6 @@ l:Voca
 l:Firefox_ESR
 l:Aynite
 l:ScienceFair
-l:Claude_Multi
 l:CorsixTH
 l:Raml_KQL
 l:Angor
@@ -2912,7 +2912,6 @@ l:PicList
 l:lindbergh-loader
 l:Translatium
 l:Bernie
-l:Alpine_Client
 l:Moonitor
 l:Agent_Campus
 l:Collie
@@ -3193,6 +3192,7 @@ l:mpz
 l:Forja
 l:Wrapbox
 l:SceneForge
+l:Beam_Research_Toolkit
 l:stereophotoview
 l:InterSpec
 l:Paint
@@ -3310,5 +3310,4 @@ l:OpenWar3
 l:pomotroid
 l:Styx
 l:Crescat
-l:Beam_Research_Toolkit
 l:DuoDesk
