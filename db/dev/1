@@ -134,6 +134,7 @@ l:ZCodium
 l:TermLoop
 l:Doping-Hafiza
 l:nextoncloudLogistic
+l:BurnSure
 l:todofy
 l:pi-fategui
 l:Trinity_Desktop
@@ -1900,7 +1901,6 @@ l:Quillwright
 l:NetSonar
 l:TranscribeAIUI
 l:Twitch-Retold-Desktop-Android
-l:Alpine_Client
 l:VapourBox
 l:Bramble
 l:MapperoGeotagger
@@ -1970,6 +1970,7 @@ l:Aperant
 l:QTeletextMaker
 l:weweChat
 l:TomoTexture-SteamOS
+l:Cryptocam_Companion
 l:movie-monad
 l:Woke
 l:pretty-handy-privacy
@@ -2549,7 +2550,6 @@ l:Agent_Speed
 l:ai-code-fusion
 l:Webamp
 l:Dead_Rising_2_Case_West_Xenon_Recomp
-l:Cryptocam_Companion
 l:Arwing
 l:AgentOp
 l:GPT_Image_2_Skill
@@ -2739,6 +2739,7 @@ l:Backtickle
 l:Dendro
 l:Stele
 l:Audacity
+l:Beam_Research_Toolkit
 l:Sillage
 l:Responsively
 l:dfDemo
@@ -2974,6 +2975,7 @@ l:XELFViewer
 l:photoname
 l:TodoBench
 l:Simple-Code-GUI
+l:Alpine_Client
 l:DDCal
 l:Perastage
 l:Airspaces
@@ -3090,7 +3092,6 @@ l:Autopsy
 l:PrixumLauncher
 l:Mob
 l:draw.io
-l:Crescat
 l:Stacer
 l:MooerLooperManager
 l:sane-break
@@ -3292,4 +3293,4 @@ l:OpenWar3
 l:pomotroid
 l:Styx
 l:DuoDesk
-l:Beam_Research_Toolkit
+l:Crescat
