@@ -1161,7 +1161,6 @@ l:AudioMoth
 l:Paletti
 l:Puffin
 l:Ntilde
-l:SilentDragonLite
 l:Whisper_Desktop
 l:86Box
 l:FLACidal
@@ -1861,6 +1860,7 @@ l:Rufux
 l:Paw-Search-Bar-Streaming
 l:FrameExtractor
 l:QCTools
+l:Cryptocam_Companion
 l:HyperLinq
 l:Painel-Web
 l:Flippy_Qualitative_Testbench
@@ -2053,7 +2053,6 @@ l:paint.c
 l:deb2appimage
 l:Open-SSTV
 l:agt
-l:Cryptocam_Companion
 l:Tagstoo
 l:ungoogled-chromium-portable
 l:WorkPulse
@@ -2185,6 +2184,7 @@ l:Kyaraben
 l:Lachesis
 l:LibrAgent
 l:whiteboard
+l:Alpine_Client
 l:Pikura
 l:GoldenDict
 l:pingviewer
@@ -2213,6 +2213,7 @@ l:Shutter_Cove
 l:ClaudeCodeX
 l:RaiPal
 l:Loaderly
+l:Orivon_Browser
 l:LibreOfficeStill
 l:SmallBASIC
 l:Scrite
@@ -2454,7 +2455,6 @@ l:RMG
 l:GBA_Emulator
 l:Beyond_All_Reason
 l:Light_Matter
-l:Alpine_Client
 l:Executioner
 l:Basesmall
 l:Dub_Studio
@@ -2712,6 +2712,7 @@ l:TeleDrive
 l:Swift
 l:MC_Chunk_Get
 l:Styr
+l:Beam_Research_Toolkit
 l:uArmStudio
 l:PopDroidCam
 l:VeChain
@@ -2720,7 +2721,6 @@ l:Zettlr
 l:Inky
 l:Files.fm_Sync
 l:Mirroid
-l:Crescat
 l:Radix_Wallet
 l:RKDevelopTool-GUI
 l:NotebookLM_Chunker
@@ -2886,6 +2886,7 @@ l:Astroffers
 l:ideaMaker
 l:WatchIt
 l:Dana
+l:Crescat
 l:deckwerk
 l:text-diff-view
 l:Cool_Retro_Term
@@ -3044,7 +3045,6 @@ l:Gulden
 l:puush-qt
 l:Installer
 l:ECOS_Studio
-l:Beam_Research_Toolkit
 l:SQL_Joiner
 l:FinceptTerminal
 l:EmuDeck
