@@ -2300,7 +2300,6 @@ l:ANT_Downloader
 l:MolvAI
 l:CrossMobile
 l:NODAYSIDLE_Cascade
-l:DuoDesk
 l:caesar2-port
 l:AiyoPerps
 l:LogSquirl
@@ -2459,6 +2458,7 @@ l:RoloViewer
 l:FinceptTerminal
 l:ProofKeeper
 l:Slippi
+l:Beam_Research_Toolkit
 l:LibreOfficePreRelease
 l:Opentrons
 l:KOBridge
@@ -2762,7 +2762,6 @@ l:Signature-One
 l:GXC_Smart_Contract_IDE
 l:The_Office
 l:FastVibe
-l:Beam_Research_Toolkit
 l:tubCloud
 l:Mini_MQTT_Client
 l:jsBudbrainLaufwerksTest
@@ -2958,7 +2957,7 @@ l:YuE2_Studio
 l:ECOS_Studio
 l:Applyer
 l:Iridium_Wallet
-l:Alpine_Client
+l:Crescat
 l:Friction
 l:Lyra
 l:LED.Custom.Palette
@@ -3052,6 +3051,7 @@ l:cabal-desktop
 l:Agent_Pulse
 l:VisiCut
 l:ai-code-fusion
+l:DuoDesk
 l:Luanti
 l:noteshrink-qt
 l:RatsSearch
@@ -3128,7 +3128,6 @@ l:Radmin_VPN
 l:SVGWall
 l:MapperoGeotagger
 l:Centrality
-l:Crescat
 l:mki3dgame
 l:Mah
 l:YAQMC
@@ -3310,4 +3309,5 @@ l:Streaming
 l:Forja
 l:GnuCash
 l:KronEditor
+l:Alpine_Client
 l:Cryptocam_Companion
