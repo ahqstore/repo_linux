@@ -115,6 +115,7 @@ l:Leon
 l:QMPlay2
 l:GridcoinResearch
 l:claudget
+l:TokenClock
 l:GazBoard
 l:claude-usage-monitor
 l:PicList
@@ -2161,6 +2162,7 @@ l:FastSSH
 l:AlienResurrectionRecompilation
 l:Sillage
 l:Musicalypse
+l:DuoDesk
 l:Swift
 l:mgzon-cli
 l:FireForm
@@ -2957,7 +2959,6 @@ l:YuE2_Studio
 l:ECOS_Studio
 l:Applyer
 l:Iridium_Wallet
-l:Crescat
 l:Friction
 l:Lyra
 l:LED.Custom.Palette
@@ -3001,6 +3002,7 @@ l:todometer
 l:Rusty_Inbox
 l:BurnSure
 l:BananaTape
+l:Alpine_Client
 l:Sentry_Drive
 l:tlum
 l:PS5PCEM
@@ -3051,7 +3053,6 @@ l:cabal-desktop
 l:Agent_Pulse
 l:VisiCut
 l:ai-code-fusion
-l:DuoDesk
 l:Luanti
 l:noteshrink-qt
 l:RatsSearch
@@ -3309,5 +3310,5 @@ l:Streaming
 l:Forja
 l:GnuCash
 l:KronEditor
-l:Alpine_Client
+l:Crescat
 l:Cryptocam_Companion
