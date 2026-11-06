@@ -2034,6 +2034,7 @@ l:Kiyeovo
 l:CustomRPC
 l:GPUpad
 l:Cinekive
+l:ngPost
 l:phoenix-desktop
 l:DuckStation
 l:OpenTable
@@ -2056,7 +2057,6 @@ l:Tikkocampus
 l:Woke
 l:k10s
 l:postured
-l:ServerMark
 l:electron-object-builder
 l:devdocs-desktop
 l:Easy_NATS
@@ -2206,7 +2206,6 @@ l:BAR_Lobby
 l:agentglass
 l:autoEdit2
 l:DeepSeek_Harness
-l:barcode-emulator-electron
 l:LogSquirl
 l:OpenNotes
 l:bb-imager-gui
@@ -3308,6 +3307,6 @@ l:OpenToonz
 l:MQTT-Explorer
 l:Alpine_Client
 l:Beam_Research_Toolkit
-l:DuoDesk
 l:Cryptocam_Companion
+l:DuoDesk
 l:Crescat
