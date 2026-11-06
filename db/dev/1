@@ -2034,7 +2034,6 @@ l:Kiyeovo
 l:CustomRPC
 l:GPUpad
 l:Cinekive
-l:ngPost
 l:phoenix-desktop
 l:DuckStation
 l:OpenTable
@@ -3000,7 +2999,6 @@ l:chimaera
 l:Project_Indexer
 l:Inlark
 l:remWOL-Moonlight
-l:Alpine_Client
 l:mosaic
 l:Mnemosyne-Neural-OS
 l:SAMBAUtil
@@ -3188,7 +3186,6 @@ l:MaplatEditor
 l:NameDaemon
 l:Desktop_Browserbase
 l:RapidHLS
-l:Beam_Research_Toolkit
 l:VIVA
 l:LiteIDE
 l:Aglaia
@@ -3309,6 +3306,8 @@ l:pmca-re-reloaded
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
+l:Alpine_Client
+l:Beam_Research_Toolkit
 l:DuoDesk
 l:Cryptocam_Companion
 l:Crescat
