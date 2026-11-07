@@ -1942,6 +1942,7 @@ l:macaco
 l:Skales
 l:NotebookLM_for_Windows
 l:english-flashcard-generator
+l:LCEdit
 l:sigrok-cli
 l:xuan
 l:BDSup2Sub
@@ -3260,7 +3261,6 @@ l:Mixi
 l:TermiPod
 l:Reframe
 l:ElixirOffice
-l:Alpine_Client
 l:WFInfo
 l:doom-ascii
 l:Gitty
@@ -3305,6 +3305,7 @@ l:pmca-re-reloaded
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
+l:Alpine_Client
 l:Beam_Research_Toolkit
 l:DuoDesk
 l:Cryptocam_Companion
