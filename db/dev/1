@@ -597,7 +597,6 @@ l:Genesis
 l:YuE2_Studio
 l:OpenKara
 l:OnionHop
-l:Godmode_Bot
 l:Termlnk
 l:Impulse
 l:Malgel
@@ -752,6 +751,7 @@ l:Tesla_Coil_Calculator
 l:PhotoTeleport
 l:Producer_Player
 l:uArmStudio
+l:Notes
 l:Painel-Web
 l:AetherSDR
 l:TMOP
@@ -1683,6 +1683,7 @@ l:Espanso.GUI
 l:jsShowHardwareInfos
 l:NiLLM
 l:GameHub
+l:Wage_Slave_Motivator
 l:omp-studio
 l:FactWallet
 l:DomoLens
@@ -3180,7 +3181,6 @@ l:Gerbil
 l:SnippetStore
 l:Domestique
 l:MetroidPrime2Port
-l:Beam_Research_Toolkit
 l:lectureStudio
 l:QymCAD
 l:soa-launcher-qt
@@ -3352,5 +3352,6 @@ l:OpenToonz
 l:MQTT-Explorer
 l:Alpine_Client
 l:DuoDesk
+l:Beam_Research_Toolkit
 l:Cryptocam_Companion
 l:Crescat
