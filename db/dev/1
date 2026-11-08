@@ -2975,7 +2975,6 @@ l:PopTracker
 l:LibreDB_Studio
 l:Chiaki
 l:ModelCraft
-l:Alpine_Client
 l:Scytale
 l:Dub_Studio
 l:Godot_Hub
@@ -3174,7 +3173,6 @@ l:triagem-touch
 l:breaktimer-app
 l:Procyon
 l:KOReader
-l:DuoDesk
 l:raven-nest
 l:Subsurface
 l:Zenkit
@@ -3234,6 +3232,7 @@ l:VIVA
 l:LiteIDE
 l:Aglaia
 l:NullChat
+l:Alpine_Client
 l:Geph
 l:Klogg
 l:nextoncloudLogistic
@@ -3353,6 +3352,7 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
+l:DuoDesk
 l:Beam_Research_Toolkit
 l:Cryptocam_Companion
 l:Crescat
