@@ -35,6 +35,7 @@ l:Nexira
 l:Aperant
 l:Lore
 l:QuickDoc
+l:SerialArm-Core
 l:Meguri
 l:CRY
 l:VNote
@@ -191,6 +192,7 @@ l:Negibox
 l:Hibiki
 l:Colosseum_Launcher
 l:Sentry_Drive
+l:Catpasswd_Hash_Extract
 l:GLIMPSE
 l:Invisic_Client
 l:Tesserin-pro
@@ -397,6 +399,7 @@ l:SourceGit
 l:CloudMus
 l:unified-communications
 l:OSRS_Tools
+l:CNC_Craft
 l:BYDLO
 l:KMCG
 l:Spectral
@@ -565,6 +568,7 @@ l:Aphelion_Wallet
 l:Cogpit
 l:OMP_Desktop
 l:PoE2_Upgrade_Checker
+l:overtchat
 l:RigControl_Web
 l:MooerLooperManager
 l:tmon
@@ -865,6 +869,7 @@ l:trader
 l:le
 l:claude-devtools
 l:hyper
+l:OpenROM
 l:Minecraft_Pi_Reborn_Client
 l:boardown
 l:Ferriteweazle
@@ -1035,6 +1040,7 @@ l:jsCPUInspector
 l:Rats_on_The_Boat
 l:PopDroidCam
 l:SlipStream_GUI
+l:Botloft
 l:FarmIsFun
 l:Pathephone
 l:stereophotoview
@@ -1091,6 +1097,7 @@ l:WhereDidMyStorageGo
 l:Veld
 l:text-diff-view
 l:ADOSMissionControl
+l:TermPilot
 l:LibreMerge
 l:TranscribeAIUI
 l:Pingendo
@@ -1153,6 +1160,7 @@ l:GenieEngine
 l:AssayPlot
 l:Android-debloater
 l:hopchat
+l:Hookshot
 l:Intiface
 l:Gharmonize
 l:Beware_Of_Dog
@@ -1411,6 +1419,7 @@ l:Get_It
 l:qr-code-generator-desktop
 l:RetroArch
 l:GoldenCheetah
+l:agenda-heritage-generator
 l:QLog
 l:Waterfox_Current
 l:Turtle-Tracer
@@ -1434,10 +1443,12 @@ l:cumora-releases
 l:Infinitex
 l:Clipit
 l:Leon
+l:NiceDB
 l:Vigil
 l:Panda_Reader
 l:Gostman
 l:keyrier-json
+l:Lorenz
 l:vuerd
 l:TLKRecomp
 l:Digitales_Klassenzimmer
@@ -1467,6 +1478,7 @@ l:FPVThePlanet
 l:SkerrySSH
 l:Passky
 l:ClaudeCodeX
+l:Tucano
 l:TheMAGI
 l:pocketnet.gui
 l:Whodis
@@ -1484,6 +1496,7 @@ l:Heimer
 l:Wi-Fi_Heatmapper
 l:HDRMerge
 l:SchildiChat
+l:2048_Plus
 l:SSH-MITM
 l:Cascade_Image_Editor
 l:PhotoFlare
@@ -1545,6 +1558,7 @@ l:systemd_Pilot
 l:KeyboardClient
 l:OctoShrink
 l:Nodus
+l:camber
 l:Mesh_Sync
 l:Mailove
 l:Seeksy
@@ -1659,8 +1673,10 @@ l:kanivet-oss
 l:nudelta
 l:Dream-VoiceTraining
 l:Colorpicker
+l:Smart_Beat
 l:tagspaces
 l:Portkeeper
+l:Condr
 l:Winds
 l:Onshape
 l:TokenSmith
@@ -1771,6 +1787,7 @@ l:BunnyChen-DailyCost
 l:Zegarek
 l:Arduino_IDE
 l:Moonitor
+l:Mousely_Hub
 l:Migurdex
 l:Milagre
 l:RapidRAW
@@ -1879,6 +1896,7 @@ l:Extreme.InfiniTV
 l:Fit_File_Viewer
 l:SIGNA
 l:Butter_Launcher
+l:KizamuBeam
 l:Shuttle
 l:mki3dgame
 l:WeRead_Desktop
@@ -2144,6 +2162,7 @@ l:OpenProxy
 l:Buckets
 l:Rebaslight
 l:lutris-gamepad-ui
+l:TermTube
 l:SBLauncher
 l:Gingko
 l:Caprock
@@ -2166,6 +2185,7 @@ l:PREVU
 l:TokenClock
 l:Overte
 l:igotu2gpx
+l:Pond
 l:CopyPaste
 l:BottleBats
 l:Tumblr_Scraper
@@ -2243,7 +2263,6 @@ l:DeepSeek_Harness
 l:LogSquirl
 l:OpenNotes
 l:bb-imager-gui
-l:AutoCheckin_Engineering
 l:Cloaker
 l:Voidstrap
 l:halium-tool
@@ -2261,6 +2280,7 @@ l:VisiCut
 l:Media_Sort
 l:WispTerm
 l:Vipster
+l:Beluga
 l:PDF-Equilibrist
 l:Pawse
 l:GWeatherRouting
@@ -2368,6 +2388,7 @@ l:dayGLANCE
 l:MiMo_Studio
 l:red_labeling
 l:LocalStack_Explorer
+l:Snap_Studio
 l:ChemCanvas
 l:P2PDerivatives
 l:whistle-client
@@ -2495,6 +2516,7 @@ l:qpp::cad
 l:Pennywise
 l:Altitude
 l:Pensieve
+l:Dinatos
 l:vrchat-scanner
 l:Waves
 l:Sup
@@ -2594,6 +2616,7 @@ l:deltachat-desktop
 l:TenchuSARecomp
 l:ProtasovVPN
 l:jsBudbrainCaveRescue
+l:Haarness
 l:dsd-neo
 l:BimCraft
 l:tweet-tray
@@ -2622,6 +2645,7 @@ l:Archive_Manager_7z
 l:Rokkr
 l:ser-player
 l:ClawControl
+l:Flux
 l:sleek
 l:devtools
 l:LocalLeaf
@@ -2639,6 +2663,7 @@ l:Termic
 l:PhotoMapAI
 l:MEASUR
 l:Vayu
+l:HinaCode
 l:GDLauncher
 l:Luanti
 l:Memento
@@ -2758,6 +2783,7 @@ l:ECA_Desktop
 l:PikoPixel
 l:UniFi_Access_Orchestrator
 l:OpenFNB58
+l:Clipboard
 l:SMS_Launcher
 l:dealers_choice
 l:DAWN-Science
@@ -2926,6 +2952,7 @@ l:TodoBench
 l:dsh-app
 l:Lightning
 l:Scilab
+l:HDLBoard
 l:wetype-ime
 l:HDRView
 l:sqt
@@ -2970,6 +2997,7 @@ l:Dataset-Editor
 l:kitupiikki
 l:Netcatty
 l:OCVvid2fulldome
+l:Codex_Minibar
 l:slang-ed
 l:PopTracker
 l:LibreDB_Studio
@@ -3018,13 +3046,14 @@ l:Sengi
 l:Zap_Browser
 l:Autopsy
 l:Calculist
+l:Alpine_Client
 l:Beatconnect_Client
 l:Evolution_RTS
 l:Applio-App
 l:Datinium
-l:Alpine_Client
 l:SoftDo
 l:Night_Drop
+l:Kurumi
 l:dbet-wallet
 l:HexoManager
 l:StackAndConquer
@@ -3094,6 +3123,7 @@ l:KevEdit
 l:MyCrypto
 l:WeekToDo
 l:Session_Manager
+l:Alternate_Commander
 l:Red_Eclipse-Development
 l:Caelo
 l:Colon
@@ -3231,6 +3261,7 @@ l:Desktop_Browserbase
 l:RapidHLS
 l:VIVA
 l:LiteIDE
+l:EpixNet
 l:Aglaia
 l:NullChat
 l:Geph
@@ -3251,6 +3282,7 @@ l:notepadqq
 l:POE_Ladder
 l:Unicorn_Overlord_PC
 l:AlterSend
+l:Zalux
 l:Vusic
 l:IrScrutinizer
 l:FreeVideo
@@ -3309,6 +3341,7 @@ l:ElixirOffice
 l:WFInfo
 l:doom-ascii
 l:Gitty
+l:Duplex
 l:alr2appimage
 l:ClaudeBot
 l:Bloks
@@ -3353,6 +3386,6 @@ l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
 l:DuoDesk
-l:Cryptocam_Companion
 l:Beam_Research_Toolkit
+l:Cryptocam_Companion
 l:Crescat
