@@ -717,7 +717,6 @@ l:Spivak
 l:M3U8_Quicker
 l:KryTrader
 l:SSPlot
-l:RetroStudio
 l:CPU-X
 l:DB_Toolkit
 l:vidcord
@@ -1148,6 +1147,7 @@ l:STMng
 l:qeth
 l:Shotcut
 l:bedrock-panel
+l:asyar
 l:Switchboard
 l:James
 l:xemu
@@ -3003,6 +3003,7 @@ l:PopTracker
 l:LibreDB_Studio
 l:Chiaki
 l:ModelCraft
+l:Alpine_Client
 l:Scytale
 l:Dub_Studio
 l:Godot_Hub
@@ -3046,7 +3047,6 @@ l:Sengi
 l:Zap_Browser
 l:Autopsy
 l:Calculist
-l:Alpine_Client
 l:Beatconnect_Client
 l:Evolution_RTS
 l:Applio-App
