@@ -1707,7 +1707,6 @@ l:PicGo
 l:everything-imu
 l:NM
 l:CBETA
-l:XMSGi_Studio
 l:RatioMaster_NET_2.0
 l:pnpm
 l:Streambert
@@ -3070,6 +3069,7 @@ l:chimaera
 l:Project_Indexer
 l:Inlark
 l:remWOL-Moonlight
+l:Alpine_Client
 l:mosaic
 l:Mnemosyne-Neural-OS
 l:SAMBAUtil
@@ -3385,8 +3385,7 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Alpine_Client
 l:Beam_Research_Toolkit
-l:Cryptocam_Companion
 l:DuoDesk
+l:Cryptocam_Companion
 l:Crescat
