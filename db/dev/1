@@ -2154,6 +2154,7 @@ l:dopeIPTV
 l:Encounty
 l:Vibe3D
 l:City_Hub
+l:pal
 l:OpsDeck
 l:Mio_Music
 l:mtgatool-desktop
@@ -3003,6 +3004,7 @@ l:PopTracker
 l:LibreDB_Studio
 l:Chiaki
 l:ModelCraft
+l:Alpine_Client
 l:Scytale
 l:Dub_Studio
 l:Godot_Hub
@@ -3384,8 +3386,7 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Alpine_Client
-l:Beam_Research_Toolkit
 l:DuoDesk
 l:Cryptocam_Companion
+l:Beam_Research_Toolkit
 l:Crescat
