@@ -335,7 +335,6 @@ l:Streamon
 l:Shoggoth
 l:chatvas
 l:Sketchover
-l:Qfsm
 l:Speaky_MiniPlayer
 l:BitBox
 l:Better_Agent_Terminal
@@ -3003,6 +3002,7 @@ l:PopTracker
 l:LibreDB_Studio
 l:Chiaki
 l:ModelCraft
+l:Beam_Research_Toolkit
 l:Scytale
 l:Dub_Studio
 l:Godot_Hub
@@ -3069,7 +3069,6 @@ l:chimaera
 l:Project_Indexer
 l:Inlark
 l:remWOL-Moonlight
-l:Alpine_Client
 l:mosaic
 l:Mnemosyne-Neural-OS
 l:SAMBAUtil
@@ -3273,6 +3272,7 @@ l:FFUI
 l:T.Viewer
 l:Rezeptor
 l:SOIL_EDITOR
+l:Alpine_Client
 l:Audacity
 l:sososo
 l:Leonflix
@@ -3385,7 +3385,6 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Beam_Research_Toolkit
 l:DuoDesk
 l:Cryptocam_Companion
 l:Crescat
