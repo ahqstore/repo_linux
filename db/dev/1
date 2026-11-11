@@ -1209,6 +1209,7 @@ l:HashVerifier
 l:Kryoto_Desktop
 l:Vitaeum_AC
 l:Olduvai
+l:APK_Info_Plus
 l:elzabrowser
 l:Easy_SCSModManager
 l:FreeCAD2
@@ -1391,6 +1392,7 @@ l:wj-markdown-editor
 l:wisp
 l:MediaLyze
 l:jsDuoDom
+l:Orfeo
 l:fheroes2_Save_Editor
 l:Standard_of_Iron
 l:LibAssist
@@ -1928,6 +1930,7 @@ l:DABstar
 l:whatsie
 l:bootstrap-love2d-project
 l:ColorGenerator
+l:Repot
 l:SigmaSpectra
 l:Liney
 l:Tagstoo
@@ -2065,6 +2068,7 @@ l:Bodhi
 l:yakuda-connect
 l:OpenLive3d.electron
 l:Aula
+l:bdinfo-rs
 l:Armagetron_Advanced
 l:XClicker
 l:Numa
@@ -2932,6 +2936,7 @@ l:GlotShot
 l:bruno-nightly-builds
 l:Kcov
 l:containerlab-app
+l:AstraPlay
 l:FAT_Wallet
 l:Hash-GUI
 l:Responsively
@@ -2954,6 +2959,7 @@ l:CuteVariant
 l:Applyer
 l:Kitab
 l:SteamCAD
+l:UmlCraft
 l:Mapset-Verifier
 l:omp_GUI
 l:SQL_Joiner
@@ -3389,6 +3395,7 @@ l:Editor
 l:keqdroid
 l:FlyingCarpet
 l:RigRoom
+l:Alpine_Client
 l:voiceAI
 l:PowerShell
 l:Keyboard_Lock
@@ -3485,9 +3492,8 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Cryptocam_Companion
-l:Alpine_Client
-l:DuoDesk
 l:Beam_Research_Toolkit
-l:DeepAI
+l:DuoDesk
+l:Cryptocam_Companion
 l:Crescat
+l:DeepAI
