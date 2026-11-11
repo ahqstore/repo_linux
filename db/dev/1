@@ -248,6 +248,7 @@ l:Cafe_Launcher_Avalonia_Release
 l:Ghostlane
 l:Styr
 l:Xenia_Dashboard
+l:T-Money
 l:KCalc
 l:textosaurus
 l:McPodcast
@@ -378,6 +379,7 @@ l:PrixumLauncher
 l:ReShade
 l:Julius
 l:OpenApplyr
+l:Skyward
 l:RiaCore
 l:Reach
 l:Inboxer
@@ -441,6 +443,7 @@ l:KanzonasPDF
 l:Kanban
 l:Lucy
 l:SubSink
+l:CDPlayer
 l:Drawx
 l:Gorilla_Wallet
 l:FnordLauncher
@@ -552,6 +555,7 @@ l:SmartCopy
 l:Picocrypt
 l:Pomodoro
 l:Sharik
+l:MeshMC
 l:FlightGear
 l:Guitar
 l:Douchat
@@ -870,6 +874,7 @@ l:le
 l:claude-devtools
 l:hyper
 l:OpenROM
+l:Astro_Editor
 l:Minecraft_Pi_Reborn_Client
 l:boardown
 l:Ferriteweazle
@@ -881,6 +886,7 @@ l:theWeb
 l:Offline_Search_Engine
 l:weweChat
 l:AutoSlides_Extractor
+l:SuperXTerminal
 l:xmmusic
 l:SocketSweep
 l:tc
@@ -1044,6 +1050,7 @@ l:Botloft
 l:FarmIsFun
 l:Pathephone
 l:stereophotoview
+l:SaiLoR
 l:Join_Desktop
 l:OpenPalm
 l:RHB
@@ -1454,6 +1461,7 @@ l:Lorenz
 l:vuerd
 l:TLKRecomp
 l:Digitales_Klassenzimmer
+l:Ant_Renamer_Qt
 l:Summoners.War.Exporter
 l:Textilosaurus
 l:PicList
@@ -1630,6 +1638,7 @@ l:Loom
 l:railreader2
 l:Ferry
 l:Koda
+l:ImageFlow
 l:dbeaver_ce
 l:Messenger-Desktop-Client-Unofficial
 l:Janice
@@ -1639,6 +1648,7 @@ l:Poor_man
 l:Unsub
 l:Chess_Opening_Tool
 l:iPuissance_4D
+l:PanePilot
 l:G9BrowserAgent
 l:VLTN_Tone_Studio
 l:PDFQuirk
@@ -2214,6 +2224,7 @@ l:RustDesk
 l:PlotJuggler
 l:Scrite
 l:Yamagi_Quake_II
+l:Quo
 l:windows2usb
 l:Listen1
 l:ChemThisTry
@@ -2491,7 +2502,6 @@ l:ChainlessChain
 l:DDClock
 l:Tuim
 l:Monghoul
-l:Zelda-TOTK-Port
 l:Deckboy
 l:SnipForge
 l:VibeBasic
@@ -2738,6 +2748,7 @@ l:IA-Interact
 l:Servez
 l:TreeSheets
 l:Browservice
+l:HelloContest
 l:PsyMP3
 l:zwyka
 l:Pelusica
@@ -3007,7 +3018,6 @@ l:PopTracker
 l:LibreDB_Studio
 l:Chiaki
 l:ModelCraft
-l:Alpine_Client
 l:Scytale
 l:Dub_Studio
 l:Godot_Hub
@@ -3059,6 +3069,7 @@ l:SoftDo
 l:Night_Drop
 l:Kurumi
 l:dbet-wallet
+l:Ferricone
 l:HexoManager
 l:StackAndConquer
 l:Mudlet
@@ -3168,6 +3179,7 @@ l:Ferdium
 l:penguins-gui
 l:MangoDisk
 l:Skiller
+l:Beam_Research_Toolkit
 l:sample-client-for-amazon-bedrock
 l:open-note
 l:ScrapeStorm
@@ -3389,7 +3401,8 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
+l:Alpine_Client
 l:DuoDesk
-l:Beam_Research_Toolkit
 l:Cryptocam_Companion
+l:DeepAI
 l:Crescat
