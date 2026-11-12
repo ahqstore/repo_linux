@@ -2570,6 +2570,7 @@ l:ChainlessChain
 l:DDClock
 l:Tuim
 l:Monghoul
+l:Zelda-TOTK-Port
 l:Deckboy
 l:SnipForge
 l:VibeBasic
@@ -3318,6 +3319,7 @@ l:SnippetStore
 l:Domestique
 l:MetroidPrime2Port
 l:lectureStudio
+l:Alpine_Client
 l:QymCAD
 l:soa-launcher-qt
 l:Zeno
@@ -3418,7 +3420,6 @@ l:Qtraktor
 l:WaveScope
 l:Pixsrt
 l:penguins-eggs-legacy
-l:Alpine_Client
 l:SafeLight
 l:OrigRead-Desktop
 l:MIX-agent
@@ -3494,6 +3495,6 @@ l:OpenToonz
 l:MQTT-Explorer
 l:Beam_Research_Toolkit
 l:DuoDesk
-l:Cryptocam_Companion
 l:DeepAI
+l:Cryptocam_Companion
 l:Crescat
