@@ -40,6 +40,7 @@ l:SerialArm-Core
 l:Meguri
 l:CRY
 l:VNote
+l:EyeCanSee
 l:Brackets
 l:Exportoo
 l:revpdf-release
@@ -105,6 +106,7 @@ l:Mirlo
 l:Transgentic
 l:VoxelXClient
 l:Twitch-Retold-Desktop-Android
+l:PutiaCNC
 l:Opentrons
 l:MuWire
 l:GVim
@@ -348,6 +350,7 @@ l:shrewnut
 l:Soothsayer
 l:NoteFlow
 l:Carriole
+l:BarSQL
 l:DevHub
 l:Libreri
 l:dotagents-mono
@@ -404,6 +407,7 @@ l:BasiliskII
 l:TaskManagerOG
 l:ORAG
 l:WorkPulse
+l:Polyzon_Maker
 l:SourceGit
 l:CloudMus
 l:unified-communications
@@ -707,6 +711,7 @@ l:CrossMobile
 l:Little_Planet
 l:NereusSDR
 l:Mirroid
+l:Atomic_Bomberman
 l:Auryo
 l:xpeccy-plus
 l:NeurolingsCE-Qt
@@ -730,11 +735,13 @@ l:STEMwerk-reaper
 l:Frog_Pond
 l:GeeTree
 l:Glyphr_Studio_Desktop
+l:SanchoExo
 l:Nuclino
 l:Advanced_Rest_Client
 l:Open_Cowork
 l:StemKit
 l:Spivak
+l:AgentLens
 l:M3U8_Quicker
 l:KryTrader
 l:SSPlot
@@ -911,6 +918,7 @@ l:SuperXTerminal
 l:xmmusic
 l:SocketSweep
 l:tc
+l:Arkdraw
 l:wfweb
 l:Parson
 l:absotui
@@ -969,6 +977,7 @@ l:Ultima_VLESS
 l:CubicSDR
 l:Otis
 l:Kitupiikki
+l:ready2rip
 l:Pullp
 l:SilentDragonLite
 l:Bforartists
@@ -1131,6 +1140,7 @@ l:Radmin_VPN
 l:Exilence_CE
 l:Skillshare_App
 l:WhereDidMyStorageGo
+l:Packwright
 l:Veld
 l:text-diff-view
 l:ADOSMissionControl
@@ -1151,6 +1161,7 @@ l:BSV-Desktop
 l:EyeStalker
 l:Floorp
 l:BTS-CE-Lite
+l:Mimick
 l:huwinterpreter
 l:DroidLens
 l:Stream.Overlay
@@ -1274,6 +1285,7 @@ l:Envelopes
 l:LeAgent
 l:tizen-sim
 l:ColorMC
+l:PixelCraft
 l:CryptoBot_Pro
 l:movie-monad
 l:spm
@@ -1384,6 +1396,7 @@ l:GyShell
 l:Dualion
 l:Framewright
 l:Qt5Demo
+l:outl
 l:EncryptPad
 l:Carbonyl
 l:IngeCAD
@@ -1532,6 +1545,7 @@ l:ClaudeCodeX
 l:Tucano
 l:TheMAGI
 l:pocketnet.gui
+l:Kindling
 l:Whodis
 l:Blurfer
 l:QuickTwitch
@@ -1632,6 +1646,7 @@ l:Lenovo-Legion-Control
 l:SavvyCAN
 l:K-Lens
 l:electron-wechat
+l:Act_Dock
 l:Thunderbird_Nightly
 l:Diffuse
 l:Electorrent
@@ -1651,6 +1666,7 @@ l:Skilldeck
 l:QTaskWarrior
 l:AiDoGUI_Designer
 l:Seafari
+l:apollo-patcher
 l:QMPlay2
 l:powder_toy
 l:Coffer
@@ -1658,6 +1674,7 @@ l:madhav-releases
 l:Qemux
 l:VirtualBox-KVM
 l:HexoKit
+l:Jarvis
 l:SimTradeDesk
 l:Busca_Vagas
 l:wljs-notebook
@@ -1752,12 +1769,14 @@ l:JsonForge
 l:EmeraldWallet
 l:Espanso.GUI
 l:jsShowHardwareInfos
+l:Vivi
 l:NiLLM
 l:GameHub
 l:Wage_Slave_Motivator
 l:omp-studio
 l:FactWallet
 l:DomoLens
+l:Litematica_Preview
 l:Ravenswatch_Mod_Manager
 l:PicGo
 l:everything-imu
@@ -1823,6 +1842,7 @@ l:ideaMaker
 l:Emacs
 l:ttth
 l:YesPlayMusic
+l:Agentrix
 l:jira-timer
 l:Kizuna_Voice_Studio
 l:TDrive
@@ -1837,6 +1857,7 @@ l:wxMEdit
 l:Mini_Diary
 l:Querybird
 l:enUi
+l:EggOfTime
 l:PartCraft
 l:Arterm
 l:BunnyChen-DailyCost
@@ -1906,6 +1927,7 @@ l:YAQMC
 l:jsBudbrainLaufwerksTest
 l:Scope_Launcher
 l:whiteboard
+l:Cut_Craft
 l:ToastWallet
 l:Kudu
 l:FolderSkin
@@ -1992,6 +2014,7 @@ l:CoreUniverse
 l:WatchIt
 l:nordvpn-linux
 l:Spooly-by-Extrusion-Therapy
+l:PredatorVPN
 l:TorChat
 l:Serial_Studio
 l:uncov
@@ -2001,6 +2024,7 @@ l:evoplex
 l:Fraidycat
 l:CarcaraCode
 l:hal9000
+l:Slopus
 l:Etude
 l:TermLoop
 l:OFX_Raw_Host
@@ -2043,6 +2067,7 @@ l:RoloViewer
 l:UVtools
 l:zmd-charge-plus
 l:MQTTProbe
+l:kora-framework
 l:Matjari
 l:DonutRadio
 l:Kai
@@ -2076,6 +2101,7 @@ l:Fiamy
 l:Magnolie-Organizer
 l:Syncplay
 l:tinyclerk
+l:CTF.mom
 l:MeshTalk
 l:Centrality
 l:nutflix-pear
@@ -2123,6 +2149,7 @@ l:Adawat
 l:Frappe_Accounting
 l:Dabri
 l:Open_Media_Converter
+l:OpenPlot_AI
 l:WebDesktop
 l:JSONinja
 l:Multi_Codex
@@ -2152,6 +2179,7 @@ l:QtMips
 l:Kiyeovo
 l:CustomRPC
 l:GPUpad
+l:Chatpane
 l:Cinekive
 l:ngPost
 l:phoenix-desktop
@@ -2262,6 +2290,7 @@ l:Pond
 l:CopyPaste
 l:BottleBats
 l:Tumblr_Scraper
+l:Portly
 l:SS14_Editor
 l:Lepton
 l:Agents
@@ -2588,6 +2617,7 @@ l:Safe_Multisig
 l:Zulip
 l:TRuDI
 l:ngrev
+l:LeatherCAD
 l:Thorium_Reader
 l:LeanStudio
 l:MoarPerf
@@ -3020,6 +3050,7 @@ l:Mages
 l:Blizzard_4
 l:Miteiru
 l:Mapeo
+l:SplosionManRecomp
 l:Phinch
 l:Onenote
 l:BLDesk
@@ -3247,6 +3278,7 @@ l:pretty-handy-privacy
 l:Podman
 l:Chatbox
 l:osu-tracker
+l:kUML
 l:TractEdit
 l:Geometry_Wars_Retro_Evolved_2_Recompiled
 l:Libre_Calculator
@@ -3319,7 +3351,6 @@ l:SnippetStore
 l:Domestique
 l:MetroidPrime2Port
 l:lectureStudio
-l:Alpine_Client
 l:QymCAD
 l:soa-launcher-qt
 l:Zeno
@@ -3494,7 +3525,8 @@ l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
 l:Beam_Research_Toolkit
-l:DuoDesk
+l:Alpine_Client
 l:DeepAI
 l:Cryptocam_Companion
+l:DuoDesk
 l:Crescat
