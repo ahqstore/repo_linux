@@ -3395,7 +3395,6 @@ l:Editor
 l:keqdroid
 l:FlyingCarpet
 l:RigRoom
-l:Alpine_Client
 l:voiceAI
 l:PowerShell
 l:Keyboard_Lock
@@ -3419,6 +3418,7 @@ l:Qtraktor
 l:WaveScope
 l:Pixsrt
 l:penguins-eggs-legacy
+l:Alpine_Client
 l:SafeLight
 l:OrigRead-Desktop
 l:MIX-agent
@@ -3495,5 +3495,5 @@ l:MQTT-Explorer
 l:Beam_Research_Toolkit
 l:DuoDesk
 l:Cryptocam_Companion
-l:Crescat
 l:DeepAI
+l:Crescat
