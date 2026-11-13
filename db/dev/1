@@ -233,6 +233,7 @@ l:YPtun
 l:Smaragd
 l:codex-context-switch
 l:ImHex
+l:Aria2_Desktop
 l:RandMatQuGeA
 l:Astroffers
 l:Kiibohd_Configurator
@@ -258,6 +259,7 @@ l:textosaurus
 l:McPodcast
 l:Teahouse
 l:Octopal
+l:FlatCAM_EVO
 l:Kitestring
 l:EasyMercurial
 l:Paletti
@@ -374,6 +376,7 @@ l:Catalyst_Browser
 l:ClownMapEd
 l:Protracker
 l:ungoogled-chromium-portable
+l:Stellio
 l:Open-Historia
 l:alan-connect
 l:MineTime
@@ -441,6 +444,7 @@ l:Lazer
 l:Exam1-Desktop
 l:waydroid-helper
 l:Dig_Dug_native
+l:T3_Code
 l:orca-imboss
 l:Agent_Pulse
 l:Micser
@@ -845,6 +849,7 @@ l:paint.software
 l:Cairn
 l:Qredit
 l:Kotatogram_Desktop
+l:Panorama_Secure_Access
 l:PaperDuet
 l:labokit-electron
 l:Rainbow_Board
@@ -1046,6 +1051,7 @@ l:CorePins
 l:QQ
 l:Krita
 l:POM1
+l:BigText
 l:HolyScreen
 l:GenZenMuxAIOffice
 l:circuitRF
@@ -1089,6 +1095,7 @@ l:FarmIsFun
 l:Pathephone
 l:stereophotoview
 l:SaiLoR
+l:Sommet
 l:Join_Desktop
 l:OpenPalm
 l:RHB
@@ -1107,6 +1114,7 @@ l:OpenCode_Beta
 l:TennoWorth
 l:OpenReader
 l:SubnetDesk
+l:BlindRadio
 l:Sheetopia
 l:monfree
 l:Recompose
@@ -1212,7 +1220,6 @@ l:GenieEngine
 l:AssayPlot
 l:Android-debloater
 l:hopchat
-l:Hookshot
 l:Intiface
 l:Gharmonize
 l:Beware_Of_Dog
@@ -1433,6 +1440,7 @@ l:VPaint
 l:word-sys-pdf-editor
 l:BrewMate
 l:NESd
+l:FrameFlow
 l:zsync2
 l:Skyscraper
 l:OpenTodoList
@@ -1599,6 +1607,7 @@ l:HarnessForge-Public
 l:MiniZinc_IDE
 l:OpenPaste
 l:Converter432Hz
+l:ISDT_Charge_Utility
 l:GemType
 l:Mira
 l:BetterCrewlink
@@ -1886,6 +1895,7 @@ l:Aegis
 l:hoerbert-software
 l:shmoney
 l:Kun
+l:Hoard-Asset-Manager
 l:Open_Markup_Editor
 l:MaximumTrainer_Redux
 l:AdventShow
@@ -2109,6 +2119,7 @@ l:Guide_Studio
 l:Luffy_Create
 l:AKASHA
 l:TheCloudPortal_Signage_Client
+l:Glissando
 l:AI_Toolbox
 l:AFSplug
 l:kde-sticky-notes
@@ -2288,6 +2299,7 @@ l:Overte
 l:igotu2gpx
 l:Pond
 l:CopyPaste
+l:BottleBats
 l:Tumblr_Scraper
 l:Portly
 l:SS14_Editor
@@ -2613,6 +2625,7 @@ l:AWS_SSM_Manager
 l:turul-app
 l:PPUX
 l:Safe_Multisig
+l:Edunex_Plus
 l:Zulip
 l:TRuDI
 l:ngrev
@@ -2883,6 +2896,7 @@ l:DevCleaner
 l:anymodel_bot
 l:LibreMines
 l:Gemalaya
+l:HPC_Hub
 l:TweakPHP
 l:SerialPlot
 l:TRIM
@@ -3122,7 +3136,6 @@ l:nanoMuse
 l:clin-rs
 l:StudioBridge
 l:Gaia_Sky
-l:Alpine_Client
 l:Slopera
 l:er-save-manager
 l:Athas
@@ -3191,6 +3204,7 @@ l:dbet-wallet
 l:Ferricone
 l:HexoManager
 l:StackAndConquer
+l:Alpine_Client
 l:Mudlet
 l:flappy-bird
 l:Aspect
@@ -3204,6 +3218,7 @@ l:chimaera
 l:Project_Indexer
 l:Inlark
 l:remWOL-Moonlight
+l:AI_Agent_Session_Center
 l:mosaic
 l:Mnemosyne-Neural-OS
 l:SAMBAUtil
@@ -3526,8 +3541,8 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:DuoDesk
 l:Beam_Research_Toolkit
+l:DuoDesk
 l:Cryptocam_Companion
 l:DeepAI
 l:Crescat
