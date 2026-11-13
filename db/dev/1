@@ -2876,6 +2876,7 @@ l:PulseRN
 l:Patchwork
 l:Deva
 l:ScienceFair
+l:Buche
 l:Signature-One
 l:Kit
 l:Ghostty
@@ -3122,6 +3123,7 @@ l:nanoMuse
 l:clin-rs
 l:StudioBridge
 l:Gaia_Sky
+l:Beam_Research_Toolkit
 l:Slopera
 l:er-save-manager
 l:Athas
@@ -3366,6 +3368,7 @@ l:TurboWarp
 l:HyperDEX
 l:iQPuzzle
 l:Sourcetrail
+l:Concat
 l:ZPLab
 l:Wormhole
 l:qcut
@@ -3524,9 +3527,8 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Beam_Research_Toolkit
-l:Alpine_Client
-l:DeepAI
-l:Cryptocam_Companion
 l:DuoDesk
+l:Alpine_Client
+l:Cryptocam_Companion
+l:DeepAI
 l:Crescat
