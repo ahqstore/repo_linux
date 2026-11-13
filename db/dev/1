@@ -2235,6 +2235,7 @@ l:MonTally
 l:SonaWave-Release
 l:Ripes
 l:rebase-git
+l:YouTubeGO
 l:cli-jaw
 l:BrickStore
 l:hw-probe
@@ -3204,7 +3205,6 @@ l:dbet-wallet
 l:Ferricone
 l:HexoManager
 l:StackAndConquer
-l:Alpine_Client
 l:Mudlet
 l:flappy-bird
 l:Aspect
@@ -3365,7 +3365,6 @@ l:LumaBrowser
 l:Gerbil
 l:SnippetStore
 l:Domestique
-l:MetroidPrime2Port
 l:lectureStudio
 l:QymCAD
 l:soa-launcher-qt
@@ -3541,8 +3540,8 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Beam_Research_Toolkit
-l:DuoDesk
+l:Alpine_Client
 l:Cryptocam_Companion
+l:Beam_Research_Toolkit
 l:DeepAI
 l:Crescat
