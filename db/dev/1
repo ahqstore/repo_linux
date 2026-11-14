@@ -349,6 +349,7 @@ l:Speaky_MiniPlayer
 l:BitBox
 l:Better_Agent_Terminal
 l:shrewnut
+l:lm-clipper
 l:Soothsayer
 l:NoteFlow
 l:Carriole
@@ -1155,7 +1156,6 @@ l:ADOSMissionControl
 l:TermPilot
 l:LibreMerge
 l:TranscribeAIUI
-l:Pingendo
 l:BlenSor
 l:SwiftDL
 l:OpenEmux
@@ -2555,6 +2555,7 @@ l:GuidedReel
 l:PKHeX-Avalonia
 l:OpenSharkX11
 l:go-notes
+l:Pocket_AMP_Tools
 l:BulkReviewer
 l:Open-SSTV
 l:JoalDesktop
@@ -3356,6 +3357,7 @@ l:OurNotes
 l:triagem-touch
 l:breaktimer-app
 l:Procyon
+l:Beam_Research_Toolkit
 l:KOReader
 l:raven-nest
 l:Subsurface
@@ -3542,6 +3544,6 @@ l:OpenToonz
 l:MQTT-Explorer
 l:Alpine_Client
 l:Cryptocam_Companion
-l:Beam_Research_Toolkit
+l:DuoDesk
 l:DeepAI
 l:Crescat
