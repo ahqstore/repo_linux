@@ -507,6 +507,7 @@ l:Besprited
 l:React2Shell_Toolbox
 l:86Box
 l:RESO_Tools
+l:DonutStudio
 l:Seshboard
 l:deb2appimage
 l:Xodus_Nexus
@@ -929,6 +930,7 @@ l:wfweb
 l:Parson
 l:absotui
 l:whitelist-bypass-iran
+l:VeloPopuli
 l:Filey
 l:Konjure
 l:cr2xt
@@ -1156,6 +1158,7 @@ l:ADOSMissionControl
 l:TermPilot
 l:LibreMerge
 l:TranscribeAIUI
+l:Pingendo
 l:BlenSor
 l:SwiftDL
 l:OpenEmux
@@ -2506,6 +2509,7 @@ l:dayGLANCE
 l:MiMo_Studio
 l:red_labeling
 l:LocalStack_Explorer
+l:Kite_Pack
 l:Snap_Studio
 l:ChemCanvas
 l:P2PDerivatives
@@ -2961,6 +2965,7 @@ l:noxed
 l:ircuitry
 l:melo
 l:Shadow
+l:Alpine_Client
 l:Retro-Burner
 l:Installer
 l:CATcher
@@ -3357,7 +3362,6 @@ l:OurNotes
 l:triagem-touch
 l:breaktimer-app
 l:Procyon
-l:Beam_Research_Toolkit
 l:KOReader
 l:raven-nest
 l:Subsurface
@@ -3542,8 +3546,8 @@ l:Locust
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Alpine_Client
-l:Cryptocam_Companion
+l:Beam_Research_Toolkit
 l:DuoDesk
+l:Cryptocam_Companion
 l:DeepAI
 l:Crescat
