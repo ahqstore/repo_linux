@@ -3361,6 +3361,7 @@ l:StudioBridge
 l:Gaia_Sky
 l:LayerZero
 l:flare-releases
+l:Alpine_Client
 l:Slopera
 l:er-save-manager
 l:Athas
@@ -3436,7 +3437,6 @@ l:dbet-wallet
 l:Ferricone
 l:HexoManager
 l:StackAndConquer
-l:Alpine_Client
 l:Mudlet
 l:flappy-bird
 l:Aspect
@@ -3451,7 +3451,6 @@ l:chimaera
 l:Project_Indexer
 l:Inlark
 l:remWOL-Moonlight
-l:Beam_Research_Toolkit
 l:AI_Agent_Session_Center
 l:mosaic
 l:Mnemosyne-Neural-OS
@@ -3659,6 +3658,7 @@ l:MaplatEditor
 l:NameDaemon
 l:Desktop_Browserbase
 l:RapidHLS
+l:DuoDesk
 l:VIVA
 l:LiteIDE
 l:EpixNet
@@ -3801,7 +3801,7 @@ l:ClearSkies
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:DuoDesk
+l:Beam_Research_Toolkit
 l:Cryptocam_Companion
 l:DeepAI
 l:Crescat
