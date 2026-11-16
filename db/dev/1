@@ -3362,7 +3362,6 @@ l:StudioBridge
 l:Gaia_Sky
 l:LayerZero
 l:flare-releases
-l:Alpine_Client
 l:Slopera
 l:er-save-manager
 l:Athas
@@ -3566,6 +3565,7 @@ l:BananaTape
 l:Deadbolt
 l:bawkterm
 l:Rufux
+l:Beam_Research_Toolkit
 l:elcalc
 l:Swamp_Swap
 l:avogadro
@@ -3801,8 +3801,8 @@ l:ClearSkies
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:DuoDesk
+l:Alpine_Client
 l:Cryptocam_Companion
+l:DuoDesk
 l:DeepAI
-l:Beam_Research_Toolkit
 l:Crescat
