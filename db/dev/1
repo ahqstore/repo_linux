@@ -3078,7 +3078,6 @@ l:Arma_3_Unix_Launcher
 l:stash-electron
 l:WAllie
 l:EmuDeck
-l:Alpine_Client
 l:BreadPilot
 l:ioquake3
 l:Girru
@@ -3363,6 +3362,7 @@ l:StudioBridge
 l:Gaia_Sky
 l:LayerZero
 l:flare-releases
+l:Alpine_Client
 l:Slopera
 l:er-save-manager
 l:Athas
@@ -3801,8 +3801,8 @@ l:ClearSkies
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Beam_Research_Toolkit
 l:DuoDesk
 l:Cryptocam_Companion
 l:DeepAI
+l:Beam_Research_Toolkit
 l:Crescat
