@@ -995,7 +995,6 @@ l:weweChat
 l:AI_Command_Center
 l:AutoSlides_Extractor
 l:SuperXTerminal
-l:xmmusic
 l:SocketSweep
 l:tc
 l:Arkdraw
@@ -2004,6 +2003,7 @@ l:Kizuna_Voice_Studio
 l:TDrive
 l:Fotollection
 l:README_Templates
+l:ImagePlay
 l:Parom.TV
 l:RAG-Assistant-for-Zotero
 l:MultiworldGG
@@ -2964,6 +2964,7 @@ l:BimCraft
 l:DeepSync
 l:tweet-tray
 l:snapshot-slider
+l:Alpine_Client
 l:SkinsTrackr
 l:BlakeBitcoin
 l:electron-xiami
@@ -3466,6 +3467,7 @@ l:dbet-wallet
 l:Ferricone
 l:HexoManager
 l:StackAndConquer
+l:DuoDesk
 l:Mudlet
 l:flappy-bird
 l:Aspect
@@ -3514,7 +3516,6 @@ l:Nexus_Wallet
 l:ZENDER
 l:ShareMyHost
 l:Unified.Auctions.UI
-l:almojarife-game
 l:SF_Tube
 l:Harness_Studio
 l:XnViewMP
@@ -3832,8 +3833,6 @@ l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
 l:Beam_Research_Toolkit
-l:Alpine_Client
-l:DuoDesk
 l:Cryptocam_Companion
-l:DeepAI
 l:Crescat
+l:DeepAI
