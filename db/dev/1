@@ -18,6 +18,7 @@ l:Proxmark_Studio
 l:TOST
 l:TFStudio
 l:claude-usage-monitor
+l:Surface3D
 l:OGAD
 l:LeoCAD
 l:AsarUI
@@ -223,6 +224,7 @@ l:KryPolybot
 l:MoergoLayerViz
 l:SMF-DSP
 l:ClipShare
+l:Arkeyan_Launcher
 l:MesenOrion
 l:Sextant
 l:sage_appimage
@@ -230,6 +232,7 @@ l:MQ3T
 l:Konjugate
 l:jsMahjong
 l:NativePi
+l:NicotinD
 l:Piora
 l:SimpMusic
 l:buildpipe
@@ -713,6 +716,7 @@ l:Naev
 l:revya-desktop
 l:Moonlight-Qt-Mic
 l:Masame
+l:github-mobile-maxxing
 l:Artifact
 l:Fidias_Database_Migration_App
 l:Lithic_UK
@@ -821,6 +825,7 @@ l:student-activities-app
 l:EmuCenter
 l:Zeroed
 l:Dendro
+l:Murmur
 l:Drawish
 l:FastDownloader
 l:Karpa
@@ -1429,6 +1434,7 @@ l:rox
 l:Elysian_Code
 l:Archipelago
 l:BetterYandexMusic
+l:KarPur
 l:qtchan
 l:RTHextion
 l:hiddify
@@ -1473,6 +1479,7 @@ l:Arynwood_MCP
 l:Lyra
 l:SVGWall
 l:kimo
+l:CuteCut-Pro
 l:Glass_Music
 l:VE_Foundry_Client
 l:ebloid_desktop
@@ -1510,6 +1517,7 @@ l:GyShell
 l:Dualion
 l:Framewright
 l:Qt5Demo
+l:Althar
 l:outl
 l:EncryptPad
 l:Carbonyl
@@ -1520,6 +1528,7 @@ l:wisp
 l:MediaLyze
 l:jsDuoDom
 l:Orfeo
+l:DuskBot
 l:fheroes2_Save_Editor
 l:Standard_of_Iron
 l:aggregate_mail
@@ -1897,6 +1906,7 @@ l:VisiGit
 l:media-dupes
 l:Ollie
 l:Lumiverse
+l:Ardia
 l:FFTARecomp
 l:levior
 l:Kristall
@@ -1908,6 +1918,7 @@ l:Requesto
 l:JsonForge
 l:EmeraldWallet
 l:Espanso.GUI
+l:Sirr
 l:jsShowHardwareInfos
 l:Vivi
 l:NiLLM
@@ -1993,7 +2004,6 @@ l:Kizuna_Voice_Studio
 l:TDrive
 l:Fotollection
 l:README_Templates
-l:ImagePlay
 l:Parom.TV
 l:RAG-Assistant-for-Zotero
 l:MultiworldGG
@@ -2060,6 +2070,7 @@ l:Markion
 l:COMPASS
 l:m8c
 l:Decomp_Buddy
+l:BellePoule_Modern
 l:Proton_Drive_GUI
 l:IIViewer
 l:Sia-UI
@@ -2102,6 +2113,7 @@ l:xde
 l:CallMeClaude
 l:TaratorMusic
 l:Qurioso
+l:Afterglow
 l:DABstar
 l:whatsie
 l:bootstrap-love2d-project
@@ -2209,6 +2221,7 @@ l:UplinkIRC
 l:AgentFlow
 l:121GW_Open_Firmware
 l:M
+l:NanoPrint
 l:Rusty_Inbox
 l:Scraper
 l:TF2_HUD_Studio
@@ -2435,6 +2448,7 @@ l:Encounty
 l:Vibe3D
 l:City_Hub
 l:pal
+l:ForgePilot
 l:OpsDeck
 l:Mio_Music
 l:mtgatool-desktop
@@ -2571,6 +2585,7 @@ l:x-markdown
 l:VisiCut
 l:Media_Sort
 l:WispTerm
+l:StreamVault
 l:Vipster
 l:Beluga
 l:PDF-Equilibrist
@@ -2626,6 +2641,7 @@ l:GXC_Smart_Contract_IDE
 l:Rubick
 l:SyncMyL2P
 l:AppImagePool
+l:Popamp
 l:ClawWork
 l:BunqDesktop
 l:LostOdysseyRecomp
@@ -2706,6 +2722,7 @@ l:Agro
 l:TorrentLinker
 l:Markman
 l:Plazmic_Legends
+l:Kalka
 l:Qunica
 l:StackFerry
 l:SpeakSlow
@@ -2818,6 +2835,7 @@ l:Edunex_Plus
 l:Zulip
 l:TRuDI
 l:ngrev
+l:HybridSliceCraft
 l:LeatherCAD
 l:Thorium_Reader
 l:LeanStudio
@@ -3190,6 +3208,7 @@ l:DayApp
 l:OpenStream_Music
 l:bodegaone-releases
 l:redcolumn
+l:LucidSSH
 l:Canoe
 l:ledger-live-desktop
 l:upterm
@@ -3286,6 +3305,7 @@ l:Nitrokey
 l:stl-sherpa
 l:NeoST
 l:Wevir
+l:Loca
 l:Beyond_All_Reason
 l:Mages
 l:Blizzard_4
@@ -3381,6 +3401,7 @@ l:Codex_Minibar
 l:Staaash
 l:slang-ed
 l:PopTracker
+l:dkb-pc-recomp
 l:LibreDB_Studio
 l:Chiaki
 l:ModelCraft
@@ -3742,7 +3763,6 @@ l:SonicVisualiser
 l:QuotaBar
 l:rea-outrun-2006
 l:Whisperio
-l:Alpine_Client
 l:CPod
 l:GitJournal
 l:SocNetV
@@ -3811,8 +3831,9 @@ l:ClearSkies
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:DuoDesk
 l:Beam_Research_Toolkit
+l:Alpine_Client
+l:DuoDesk
 l:Cryptocam_Companion
 l:DeepAI
 l:Crescat
