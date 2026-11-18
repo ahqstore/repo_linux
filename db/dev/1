@@ -159,6 +159,7 @@ l:Syspeek
 l:PDF_Bunny
 l:Joy2DroidX
 l:Carpenters
+l:G-Toolbox
 l:Diddy
 l:IGdm
 l:sipgate_Softphone
@@ -167,6 +168,7 @@ l:muster_code
 l:Wiim_Control
 l:PhotosBackup_desktop
 l:selkies
+l:Argentum
 l:Universal_Session_Viewer
 l:myNetwork
 l:wikiLYNX
@@ -527,6 +529,7 @@ l:OpenChamber
 l:XTermium
 l:HATS
 l:Instaladores---JearCastApp
+l:Cogvivo
 l:Fluent_Reader
 l:TennoScope
 l:Anime_Cursor
@@ -845,6 +848,7 @@ l:Quixel_Bridge
 l:InferencePort_AI
 l:Friday
 l:Tesla_Coil_Calculator
+l:PushFPS
 l:PhotoTeleport
 l:Producer_Player
 l:uArmStudio
@@ -870,6 +874,7 @@ l:Ton_of_Able
 l:ActOne_Screenplay
 l:SuperTux
 l:QRiff
+l:sonicator
 l:pixelGram
 l:YappyNotes
 l:VivifyScrum
@@ -1120,6 +1125,7 @@ l:jsBudbrainsMarbles
 l:OSCAR
 l:perl-executing-browser
 l:Infinite
+l:Converter_Studio
 l:pier-dock
 l:Duckstation-GPL
 l:Pulse
@@ -1220,6 +1226,7 @@ l:SWC-Minecraft-Launcher
 l:DriveDeck
 l:LOVE
 l:ultra-tracker
+l:Git_Light
 l:C64KERNALGenesis
 l:nocx
 l:Meshmill
@@ -1284,7 +1291,6 @@ l:skwir
 l:Stunt_Car_Remake
 l:local-media-server
 l:WatchFlower
-l:Emberr
 l:FastPack
 l:orca-oss
 l:k8sight
@@ -1400,6 +1406,7 @@ l:tizen-sim
 l:ColorMC
 l:PixelCraft
 l:CryptoBot_Pro
+l:Ocarina_Atlas
 l:movie-monad
 l:spm
 l:DataWeave_Studio
@@ -1478,7 +1485,6 @@ l:Arynwood_MCP
 l:Lyra
 l:SVGWall
 l:kimo
-l:CuteCut-Pro
 l:Glass_Music
 l:VE_Foundry_Client
 l:ebloid_desktop
@@ -1754,6 +1760,7 @@ l:PhotoQt
 l:Zuse
 l:Aobana
 l:PortPilot
+l:Shipwright
 l:Bench_CLI
 l:VSL
 l:Vici
@@ -1853,6 +1860,7 @@ l:RPAN_Studio
 l:Poor_man
 l:Unsub
 l:Chess_Opening_Tool
+l:Vaultite
 l:iPuissance_4D
 l:PanePilot
 l:G9BrowserAgent
@@ -2149,6 +2157,7 @@ l:SIGNA
 l:Butter_Launcher
 l:KizamuBeam
 l:Shuttle
+l:Graveyard_Keeper_2_Save_Editor
 l:mki3dgame
 l:WeRead_Desktop
 l:mybelka
@@ -2170,6 +2179,7 @@ l:MarkBricks
 l:Rollfilm
 l:formal-ai
 l:VeneraNext
+l:Agasthy
 l:Zap
 l:ultraView
 l:xbased
@@ -2187,6 +2197,7 @@ l:TorChat
 l:VioLens
 l:Serial_Studio
 l:uncov
+l:Rewamp
 l:OpenBurn
 l:Executioner
 l:ani2xcursor
@@ -2237,6 +2248,7 @@ l:Drill
 l:Tday
 l:Mojo_Voice
 l:beurerscalemanager
+l:PsyTags
 l:Board_Game_Star
 l:RoloViewer
 l:AK820
@@ -2433,6 +2445,7 @@ l:NoraGO
 l:BulkURLOpener
 l:ElectrumFair
 l:NeRoBoT
+l:Soreno
 l:DragonsCrownProPC
 l:arokiyam-app
 l:Port587
@@ -2954,6 +2967,7 @@ l:PanWriter
 l:bookmark-dlp
 l:Grimoire
 l:ZedSecure
+l:SubCast
 l:deltachat-desktop
 l:TenchuSARecomp
 l:ProtasovVPN
@@ -2964,7 +2978,6 @@ l:BimCraft
 l:DeepSync
 l:tweet-tray
 l:snapshot-slider
-l:Alpine_Client
 l:SkinsTrackr
 l:BlakeBitcoin
 l:electron-xiami
@@ -3168,6 +3181,7 @@ l:Friture
 l:OpenConverter
 l:mrmd-electron
 l:Markdown_Cornell_Notes
+l:Electron-KVM-rdev
 l:QElectroTech
 l:Idea_Note
 l:Conxol
@@ -3386,6 +3400,7 @@ l:simulator-desktop-releases
 l:CodePet
 l:LexOpen
 l:nanoMuse
+l:spicetify-mirage
 l:clin-rs
 l:StudioBridge
 l:Gaia_Sky
@@ -3406,6 +3421,7 @@ l:dkb-pc-recomp
 l:LibreDB_Studio
 l:Chiaki
 l:ModelCraft
+l:MathCAS_v2
 l:Scytale
 l:Dub_Studio
 l:Godot_Hub
@@ -3467,7 +3483,6 @@ l:dbet-wallet
 l:Ferricone
 l:HexoManager
 l:StackAndConquer
-l:DuoDesk
 l:Mudlet
 l:flappy-bird
 l:Aspect
@@ -3653,6 +3668,7 @@ l:OpenRA
 l:CompareCraft
 l:TurboWarp
 l:NiceVault
+l:wave-DAW
 l:G_Nexus
 l:HyperDEX
 l:iQPuzzle
@@ -3832,7 +3848,9 @@ l:ClearSkies
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Beam_Research_Toolkit
+l:DuoDesk
+l:Alpine_Client
 l:Cryptocam_Companion
-l:Crescat
 l:DeepAI
+l:Beam_Research_Toolkit
+l:Crescat
