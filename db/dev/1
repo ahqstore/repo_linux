@@ -1486,7 +1486,6 @@ l:Arynwood_MCP
 l:Lyra
 l:SVGWall
 l:kimo
-l:CuteCut-Pro
 l:Glass_Music
 l:VE_Foundry_Client
 l:ebloid_desktop
@@ -2287,7 +2286,6 @@ l:yakuda-connect
 l:OpenLive3d.electron
 l:Aula
 l:CAL_Audio_Analyzer
-l:bdinfo-rs
 l:Armagetron_Advanced
 l:XClicker
 l:Numa
@@ -2419,7 +2417,6 @@ l:DwarfTherapist
 l:strongbox
 l:Plexo
 l:AbsentMotion
-l:DJ_Manager
 l:GitQlient
 l:Abject
 l:langly
@@ -3130,6 +3127,7 @@ l:Terrascope
 l:OpenResearch
 l:Vivify_Live
 l:NanoDesk-releases
+l:Alpine_Client
 l:GDevelop
 l:PulseRN
 l:Patchwork
@@ -3408,7 +3406,6 @@ l:StudioBridge
 l:Gaia_Sky
 l:LayerZero
 l:flare-releases
-l:Beam_Research_Toolkit
 l:Slopera
 l:er-save-manager
 l:Athas
@@ -3851,8 +3848,8 @@ l:ClearSkies
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Alpine_Client
 l:DuoDesk
-l:DeepAI
 l:Cryptocam_Companion
+l:Beam_Research_Toolkit
+l:DeepAI
 l:Crescat
