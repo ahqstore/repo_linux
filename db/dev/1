@@ -2890,6 +2890,7 @@ l:Muse_Desktop
 l:Drag_+_Shift
 l:RPE_Redux
 l:LearnHarness
+l:jsBudbrainAssemblerIDE
 l:Linger
 l:MepMail
 l:xrevive
@@ -3420,6 +3421,7 @@ l:StudioBridge
 l:Gaia_Sky
 l:LayerZero
 l:flare-releases
+l:Alpine_Client
 l:Slopera
 l:er-save-manager
 l:Athas
@@ -3551,6 +3553,7 @@ l:Harness_Studio
 l:XnViewMP
 l:RetroShare
 l:clipr
+l:jsBudbrainsRaidCalculator
 l:MaterialX_Playground
 l:TombLauncher
 l:TorrentDeck
@@ -3864,8 +3867,7 @@ l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
 l:Beam_Research_Toolkit
-l:Alpine_Client
-l:DeepAI
 l:DuoDesk
 l:Cryptocam_Companion
+l:DeepAI
 l:Crescat
