@@ -1153,7 +1153,6 @@ l:Ghostex
 l:PutiaCNC
 l:13SentinelsAegisRimPC
 l:hd_fpv_video_tool
-l:CuteCut-Pro
 l:PaperOtter
 l:ps5-y2jb-installer
 l:Qawl
@@ -2926,6 +2925,7 @@ l:SkillVault
 l:DJ_USB_Tkit
 l:iss2000-recomp
 l:Annimate
+l:Beam_Research_Toolkit
 l:Vessel_Browser
 l:KOBridge
 l:Meridian
@@ -2986,7 +2986,6 @@ l:jsBudbrainSoundEditor
 l:ProtasovVPN
 l:jsBudbrainsFxStudio
 l:Drawpile
-l:Cryptocam_Companion
 l:Surge
 l:RustDesk
 l:ComplianceGuard
@@ -3070,6 +3069,7 @@ l:Open_Recruiter
 l:paint.software
 l:Aria2_Desktop
 l:Athas
+l:Cryptocam_Companion
 l:Maestro
 l:Clutch
 l:Guitar
@@ -3493,7 +3493,6 @@ l:Colin_McRae_Rally_2005_Launcher
 l:wisp
 l:mutool
 l:DarkSlide
-l:Alpine_Client
 l:Locademy
 l:GlotShot
 l:Hashcat.Reactor
@@ -3701,6 +3700,7 @@ l:Y_A_W_N
 l:Spectra_PDF
 l:celPix
 l:Standard_of_Iron
+l:Alpine_Client
 l:tldraw_offline_nightly
 l:KCalc
 l:Doriterm
@@ -3902,6 +3902,5 @@ l:Hypnos
 l:LOKA
 l:IGdm
 l:DuoDesk
-l:Beam_Research_Toolkit
 l:DeepAI
 l:Crescat
