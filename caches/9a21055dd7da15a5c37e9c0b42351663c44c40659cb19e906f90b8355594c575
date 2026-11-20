@@ -1,1 +1,1 @@
-{"time":1795115913,"data":{"x86_64":null,"aarch64":null,"tag_name":"browser-v2026.11.0"}}
+{"time":1795138511,"data":{"x86_64":"https://github.com/bitwarden/clients/releases/download/desktop-v2026.11.0/bit-Bitwarden-2026.11.0-x86_64.AppImage","aarch64":null,"tag_name":"desktop-v2026.11.0"}}

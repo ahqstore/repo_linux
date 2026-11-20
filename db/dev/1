@@ -2427,6 +2427,7 @@ l:DwarfTherapist
 l:strongbox
 l:Plexo
 l:AbsentMotion
+l:DJ_Manager
 l:GitQlient
 l:Abject
 l:langly
@@ -3421,7 +3422,6 @@ l:StudioBridge
 l:Gaia_Sky
 l:LayerZero
 l:flare-releases
-l:Alpine_Client
 l:Slopera
 l:er-save-manager
 l:Athas
@@ -3824,6 +3824,7 @@ l:Capri
 l:mgzon-cli
 l:KeyManager
 l:Open_Nectar
+l:Beam_Research_Toolkit
 l:Atropos
 l:KCode
 l:YNOdesktop
@@ -3866,7 +3867,7 @@ l:ClearSkies
 l:Statewave_Admin
 l:OpenToonz
 l:MQTT-Explorer
-l:Beam_Research_Toolkit
+l:Alpine_Client
 l:DuoDesk
 l:Cryptocam_Companion
 l:DeepAI
