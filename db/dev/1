@@ -308,6 +308,7 @@ l:Krate
 l:OpenApplyr
 l:BananaTape
 l:AbsentMotion
+l:Cantus
 l:LibrePCB-Nightly
 l:xonsh
 l:Loop
@@ -810,6 +811,7 @@ l:Vigil
 l:Kute
 l:STMng
 l:redcomp-dream
+l:ResumeForge
 l:sourcegit
 l:Moontors
 l:SVGWall
@@ -845,6 +847,7 @@ l:daggerfall-js-source
 l:FontBase
 l:WhisperNow
 l:jexiftoolgui
+l:Multron_Download_Manager
 l:Sommet
 l:T3_Code
 l:fre:ac
@@ -1276,7 +1279,6 @@ l:Franz
 l:AiDoGUI_Designer
 l:UDCalc
 l:Aurora_Launcher
-l:cantus-daw
 l:ADOSMissionControl
 l:K-Lens
 l:TorrentDeck
@@ -1759,6 +1761,7 @@ l:talk-electron
 l:Quorb
 l:DevCleaner
 l:Tonnet_Browser
+l:MiniMax_Music3_Studio
 l:M3U8_Quicker
 l:Agent_Companion
 l:muxr
@@ -2307,6 +2310,7 @@ l:jsBudbrainLaufwerksTest
 l:sane-break
 l:ITUSB2_Manager
 l:Alpaka_Desktop
+l:AlbumCraft
 l:panbeh-matrix-client
 l:NeoHtop
 l:Drag_+_Shift
@@ -2425,6 +2429,7 @@ l:BidSheet
 l:YoloLabel
 l:gsubs
 l:Mineradio_for
+l:Le_Salon
 l:RondoRecomp
 l:Digitales_Klassenzimmer
 l:pretty-handy-privacy
@@ -2694,6 +2699,7 @@ l:LibreDB_Studio
 l:ElDumper
 l:ftm
 l:VibeBasic
+l:desk
 l:QRiff
 l:MQTTCute
 l:Tyslin_Studio
@@ -2819,6 +2825,7 @@ l:Mnemai
 l:Biying
 l:SpringBoard
 l:Keyboard_Lock
+l:AsOne
 l:Kye
 l:Optimum
 l:Blakecoin
@@ -3056,7 +3063,6 @@ l:KittyTuneDesktop
 l:Legio
 l:AI_Agent_Session_Center
 l:flameshot
-l:Alpine_Client
 l:Podman
 l:MooerLooperManager
 l:arokiyam-app
@@ -3162,6 +3168,7 @@ l:RemoteKu
 l:Pennywise
 l:p2p-chat
 l:StemKit
+l:Cryptocam_Companion
 l:Doping-Hafiza
 l:Token_Dashboard
 l:Silo
@@ -3176,8 +3183,6 @@ l:CC_Logins
 l:Pulsar
 l:getswell
 l:Get_It
-l:Cryptocam_Companion
-l:Beam_Research_Toolkit
 l:OpenResearch
 l:121GW_Open_Firmware
 l:Scatter
@@ -3221,6 +3226,7 @@ l:OpenTodoList
 l:KCode
 l:SFRT_Attendance
 l:SimTradeDesk
+l:ScrapeLens
 l:BitShares
 l:Backtickle
 l:Orivon_Browser
@@ -3350,6 +3356,7 @@ l:Pocket_AMP_Tools
 l:Elmer_Studio
 l:shell
 l:Twitch-Retold-Desktop-Android
+l:schneidi
 l:Signature-One
 l:AlterSend
 l:GmodContentInstaller
@@ -3755,7 +3762,6 @@ l:Arynwood_MCP
 l:jira-timer
 l:euromilhoes
 l:DICOMautomaton
-l:DuoDesk
 l:yakuda-connect
 l:RoboRock_Control_Center
 l:ircuitry
@@ -3817,6 +3823,7 @@ l:Responsively
 l:LibreMerge
 l:Ripes
 l:BibaVPN
+l:Beam_Research_Toolkit
 l:InferencePort_AI
 l:Jacksum
 l:OpenOnyx
@@ -3898,6 +3905,7 @@ l:Drawpile-Server
 l:kanbots
 l:AstroBurst
 l:Toph
+l:DuoDesk
 l:Kuhlers_GELUMPE
 l:Fox_VPN
 l:EasyShell
@@ -3927,6 +3935,8 @@ l:GitChef
 l:keqdroid
 l:Hypnos
 l:LOKA
+l:PlanCraft
 l:IGdm
+l:Alpine_Client
 l:DeepAI
 l:Crescat
