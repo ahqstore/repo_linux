@@ -503,6 +503,7 @@ l:ChartCaddy
 l:sage_appimage
 l:Moji
 l:Optees
+l:Salotto_TV_Setup
 l:ChemThisTry
 l:Typst_IDE
 l:Easy_SCSModManager
@@ -906,6 +907,7 @@ l:autoEdit2
 l:ascii-smash
 l:KADE
 l:LEGION2
+l:Planetary
 l:OpenProxy
 l:Cool_Retro_Term
 l:Stratas
@@ -934,6 +936,7 @@ l:TreeSheets
 l:FireForm
 l:RemNote
 l:Kdevelop
+l:Treeix
 l:MaximumTrainer_Redux
 l:SimDSP
 l:OdyTTY
@@ -1489,6 +1492,7 @@ l:OpenTrader
 l:OpenExtract
 l:MailCraft
 l:Kcov
+l:Elements_Extract
 l:Busca_Vagas
 l:Tunelle
 l:AgentFlow
@@ -1719,6 +1723,7 @@ l:AppGlider
 l:Connectio
 l:Blurfer
 l:ExifCleaner
+l:Crackdown_Recompiled
 l:ConstructCraft
 l:noxed
 l:ThermusQt
@@ -1890,6 +1895,7 @@ l:Condr
 l:MarkMello
 l:Radmin_VPN
 l:santacita
+l:DonutCleaner
 l:SMPlayer
 l:BulkReviewer
 l:HeroesProfileUploader
@@ -2445,7 +2451,6 @@ l:FreightFate
 l:ClickHouse_Format_Explorer
 l:element
 l:NetSonar
-l:salotto-tv
 l:Negibox
 l:MMapper
 l:rmw
@@ -2534,6 +2539,7 @@ l:WorkPulse
 l:WorkTime
 l:FlashForgeUI-Electron
 l:upterm
+l:DonutTaskManager
 l:Apache_NetBeans
 l:CAT_Pad
 l:Collie
@@ -2657,6 +2663,7 @@ l:YouTube-Music-Player
 l:Katvan
 l:McPodcast
 l:jsNetMonitor
+l:Lynko
 l:CPod
 l:DeepSeekGUI
 l:TuxTalk
@@ -2704,6 +2711,7 @@ l:QRiff
 l:MQTTCute
 l:Tyslin_Studio
 l:ClawControl
+l:mp4-recomp
 l:Git-AI-Studio
 l:ArcDLP
 l:Desktop_Browserbase
@@ -2801,6 +2809,7 @@ l:theWeb
 l:HA-Desktop-Widget
 l:Quo
 l:Uxnan
+l:VideoJaNai
 l:CloudMus
 l:Crocell
 l:Woohoo_Flight_School
@@ -3168,7 +3177,6 @@ l:RemoteKu
 l:Pennywise
 l:p2p-chat
 l:StemKit
-l:Cryptocam_Companion
 l:Doping-Hafiza
 l:Token_Dashboard
 l:Silo
@@ -3586,6 +3594,7 @@ l:SeriousSamClassic-VK
 l:Freelens
 l:doom-ascii
 l:QuickTwitch
+l:Cryptocam_Companion
 l:CoreHunt
 l:unified-communications
 l:grid-apps
@@ -3702,6 +3711,7 @@ l:NepaliUnicode
 l:sdl_img
 l:FlyingCarpet
 l:VeloPopuli
+l:Alpine_Client
 l:MesenOrion
 l:T3-Remix
 l:LikeTaskManager
@@ -3725,8 +3735,10 @@ l:Sonic_Ripper
 l:VZT_Flow
 l:Universal_Session_Viewer
 l:PaperDuet
+l:DuoDesk
 l:DeepTags
 l:Nextcloud
+l:Beam_Research_Toolkit
 l:zwyka
 l:Radix_Wallet
 l:TheMAGI
@@ -3823,7 +3835,6 @@ l:Responsively
 l:LibreMerge
 l:Ripes
 l:BibaVPN
-l:Beam_Research_Toolkit
 l:InferencePort_AI
 l:Jacksum
 l:OpenOnyx
@@ -3904,9 +3915,10 @@ l:Zomello
 l:Drawpile-Server
 l:kanbots
 l:AstroBurst
+l:NEFORUM
 l:Toph
-l:DuoDesk
 l:Kuhlers_GELUMPE
+l:Vibe_Typer
 l:Fox_VPN
 l:EasyShell
 l:ipe
@@ -3937,6 +3949,5 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
-l:Alpine_Client
 l:DeepAI
 l:Crescat
