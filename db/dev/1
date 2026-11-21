@@ -136,6 +136,7 @@ l:Nine
 l:Cerebral-Debugger
 l:StackFerry
 l:PDFQuirk
+l:Lumela
 l:CoreAction
 l:YappyNotes
 l:Project_Carminium
@@ -178,6 +179,7 @@ l:OpenPaste
 l:Scrcpy.GUI
 l:VRCD
 l:Cells
+l:Kaint
 l:dpcc-harness
 l:RigRoom
 l:StockStalk
@@ -377,6 +379,7 @@ l:Demonizer
 l:app-finance
 l:HushMic
 l:Zuse
+l:PaperPilot
 l:ConstructCAD
 l:vid_translate
 l:Diffuse
@@ -466,6 +469,7 @@ l:FS-PDF-Compressor
 l:YallaVideo
 l:cncjs
 l:cit-pdf
+l:Jason_AI
 l:Kristall
 l:Jan
 l:wsp
@@ -562,6 +566,7 @@ l:3s-PokeMMO-Tool
 l:jsDevCleaner
 l:TriCoreDownloader
 l:PageEdit
+l:Trina_AX
 l:Quixel_Bridge
 l:Clippy_Vision
 l:snapshot-slider
@@ -1088,6 +1093,7 @@ l:Tartan
 l:TiboTattle
 l:qtchan
 l:SimpleX
+l:Soundbox
 l:Quantm
 l:GDownloader
 l:Aobana
@@ -1270,6 +1276,7 @@ l:Franz
 l:AiDoGUI_Designer
 l:UDCalc
 l:Aurora_Launcher
+l:cantus-daw
 l:ADOSMissionControl
 l:K-Lens
 l:TorrentDeck
@@ -1412,6 +1419,7 @@ l:OpenFNB58
 l:Todoist
 l:Media_Sort
 l:EternalModManager
+l:FlacCompagnon
 l:Varve
 l:Sabaki
 l:CubicSDR
@@ -1704,6 +1712,7 @@ l:AiyoPerps
 l:Syncplay
 l:Krita
 l:Filey
+l:TetaNES
 l:AppGlider
 l:Connectio
 l:Blurfer
@@ -1747,6 +1756,7 @@ l:Alien_RPG
 l:Ant_Renamer_Qt
 l:CoCoMusic
 l:talk-electron
+l:Quorb
 l:DevCleaner
 l:Tonnet_Browser
 l:M3U8_Quicker
@@ -1810,6 +1820,7 @@ l:Better_Stickies
 l:Botloft
 l:Aurora_Music
 l:EVE_Online_Tooling
+l:SPR-Recomp-Project
 l:Mapeo
 l:Karyon
 l:KnitCalc
@@ -1996,6 +2007,7 @@ l:kmux
 l:ALEAPP
 l:VeChain
 l:Linux_Device_Manager
+l:Aurora_Waves
 l:Plex_Folder_Playlist_Creator
 l:Nexo
 l:nheko
@@ -2030,6 +2042,7 @@ l:LOVE
 l:FlatSiteBuilder
 l:WaveScope
 l:crocson
+l:EmotionalSense-P3
 l:Patchwork
 l:blueprint
 l:ASGARDEX
@@ -2158,6 +2171,7 @@ l:Astroffers
 l:devo
 l:tada
 l:Filmulator
+l:mcp-ssh-manager
 l:ontime
 l:POM2
 l:Cycletron
@@ -2238,6 +2252,7 @@ l:SealedLore
 l:standard-notes
 l:Lenovo-Legion-Control
 l:oshot
+l:Ebook_Reader
 l:RPE_Redux
 l:DeezerDiscordRPC
 l:TagSpaces
@@ -2329,6 +2344,7 @@ l:Etude
 l:m8c
 l:PDF_Bunny
 l:SourceGit
+l:DJ_Mix_Master
 l:ACE-Step_Studio
 l:BloomRPC
 l:HelloContest
@@ -2514,6 +2530,7 @@ l:WorkTime
 l:FlashForgeUI-Electron
 l:upterm
 l:Apache_NetBeans
+l:CAT_Pad
 l:Collie
 l:Rewrite
 l:Flucto
@@ -2742,7 +2759,9 @@ l:OpenConverter
 l:CodexManager
 l:Kit
 l:pdfoxjs
+l:photoboggan
 l:Weeping_of_the_Empire
+l:SteelSeries_GG
 l:Files.fm_Sync
 l:MCP_Dock
 l:SimUtil
@@ -2907,6 +2926,7 @@ l:Torchlight_Recomp
 l:immich_desktop
 l:Gaia_Sky
 l:Nodus
+l:Wulabel
 l:GyShell
 l:Tumblr_Downloader_GUI
 l:DataWeave_Studio
@@ -2925,7 +2945,6 @@ l:SkillVault
 l:DJ_USB_Tkit
 l:iss2000-recomp
 l:Annimate
-l:Beam_Research_Toolkit
 l:Vessel_Browser
 l:KOBridge
 l:Meridian
@@ -3037,6 +3056,7 @@ l:KittyTuneDesktop
 l:Legio
 l:AI_Agent_Session_Center
 l:flameshot
+l:Alpine_Client
 l:Podman
 l:MooerLooperManager
 l:arokiyam-app
@@ -3069,7 +3089,6 @@ l:Open_Recruiter
 l:paint.software
 l:Aria2_Desktop
 l:Athas
-l:Cryptocam_Companion
 l:Maestro
 l:Clutch
 l:Guitar
@@ -3128,6 +3147,7 @@ l:Parameter_Manager
 l:Periskopos
 l:qikQR
 l:Gitbumr
+l:NGOmate
 l:ZCodium
 l:acreom
 l:Study.Buddy
@@ -3156,6 +3176,8 @@ l:CC_Logins
 l:Pulsar
 l:getswell
 l:Get_It
+l:Cryptocam_Companion
+l:Beam_Research_Toolkit
 l:OpenResearch
 l:121GW_Open_Firmware
 l:Scatter
@@ -3168,6 +3190,7 @@ l:Explorook
 l:Cron_Manager
 l:Gurt
 l:local-upscale
+l:Ruum
 l:Tayang_Studio
 l:Data_Plotter
 l:SuperOne
@@ -3414,6 +3437,7 @@ l:BetterSource2Viewer
 l:Jarvis
 l:Passky
 l:Super_Odyssey_PC_Recomp
+l:Antigravity_Manager
 l:Qt_JSON_diff
 l:Astrofox
 l:Clawdmeter
@@ -3591,6 +3615,7 @@ l:Murmur
 l:Mailspring
 l:RapidHLS
 l:QCADesigner-E
+l:AwayTeamEF
 l:CardMirror
 l:jag
 l:Minions
@@ -3613,6 +3638,7 @@ l:Opentrons
 l:vifm
 l:StatusIm
 l:LibrAgent
+l:synology-chatplus-desktop
 l:MC_Chunk_Get
 l:DBDelve
 l:VoxelXClient
@@ -3635,6 +3661,7 @@ l:netbeans-mmd-plugin
 l:Chess_Opening_Tool
 l:vbcdr-electron
 l:Vespera
+l:Kettu
 l:AlienResurrectionRecompilation
 l:school-sections
 l:Wiim_Control
@@ -3700,7 +3727,6 @@ l:Y_A_W_N
 l:Spectra_PDF
 l:celPix
 l:Standard_of_Iron
-l:Alpine_Client
 l:tldraw_offline_nightly
 l:KCalc
 l:Doriterm
@@ -3729,6 +3755,7 @@ l:Arynwood_MCP
 l:jira-timer
 l:euromilhoes
 l:DICOMautomaton
+l:DuoDesk
 l:yakuda-connect
 l:RoboRock_Control_Center
 l:ircuitry
@@ -3901,6 +3928,5 @@ l:keqdroid
 l:Hypnos
 l:LOKA
 l:IGdm
-l:DuoDesk
 l:DeepAI
 l:Crescat
