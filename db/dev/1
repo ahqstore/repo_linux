@@ -439,6 +439,7 @@ l:Liney
 l:OpenAudible
 l:Plag_Patrol
 l:CleepDesktop
+l:DRH_Launcher
 l:Trinity_Desktop
 l:VidBoards
 l:flipfile
@@ -841,6 +842,7 @@ l:TaratorMusic
 l:windows2usb
 l:Syncative
 l:Matjari
+l:Andromeda
 l:FlClash
 l:lectureStudio
 l:Diary
@@ -2989,6 +2991,7 @@ l:PopDroidCam
 l:SquishPic
 l:ProtoFlow
 l:Self-hosted_Git_Client
+l:Cryptocam_Companion
 l:crow-desktop
 l:Mio_Music
 l:CasterSoundboard
@@ -3028,7 +3031,6 @@ l:diskfmt
 l:Omega_Star
 l:QQ
 l:LosslessCut
-l:DuoDesk
 l:Cura
 l:Astro_Editor
 l:ClownMapEd
@@ -3057,6 +3059,7 @@ l:jitsi-meet
 l:Darktable
 l:FlatCAM_EVO
 l:CapsuleCraft
+l:Alpine_Client
 l:BarSQL
 l:OmniCam
 l:Metrolist
@@ -3080,6 +3083,7 @@ l:Axe_Electrum
 l:DataDock
 l:monfree
 l:Electron-KVM-rdev
+l:Beam_Research_Toolkit
 l:OpenProgram
 l:LibreOfficeDev
 l:Pond
@@ -3633,6 +3637,7 @@ l:FranceTV
 l:DigUp
 l:Skyward
 l:TokenSmith
+l:DuoDesk
 l:cycloidgen
 l:Apla
 l:Viper_Browser
@@ -3680,7 +3685,6 @@ l:Virtual_Jaguar_libretro
 l:Litematica_Preview
 l:Opentrons
 l:vifm
-l:Cryptocam_Companion
 l:StatusIm
 l:LibrAgent
 l:synology-chatplus-desktop
@@ -3945,7 +3949,6 @@ l:kanbots
 l:AstroBurst
 l:NEFORUM
 l:Toph
-l:Alpine_Client
 l:Kuhlers_GELUMPE
 l:Vibe_Typer
 l:Fox_VPN
@@ -3978,6 +3981,5 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
-l:Beam_Research_Toolkit
 l:DeepAI
 l:Crescat
