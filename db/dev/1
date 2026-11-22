@@ -1497,6 +1497,7 @@ l:FlipperUI
 l:Pulse_DNS
 l:OpenTrader
 l:OpenExtract
+l:PkgDeck
 l:MailCraft
 l:Kcov
 l:Elements_Extract
@@ -2243,6 +2244,7 @@ l:linux-intel-undervolt-gui
 l:FerrumKix
 l:SimpleNotes
 l:camber
+l:AMVerge
 l:Braincup
 l:EasyExtractUnitypackage
 l:local-operator-ui
@@ -2976,7 +2978,6 @@ l:SkillVault
 l:DJ_USB_Tkit
 l:iss2000-recomp
 l:Annimate
-l:Cryptocam_Companion
 l:Vessel_Browser
 l:KOBridge
 l:Meridian
@@ -3027,6 +3028,7 @@ l:diskfmt
 l:Omega_Star
 l:QQ
 l:LosslessCut
+l:DuoDesk
 l:Cura
 l:Astro_Editor
 l:ClownMapEd
@@ -3678,6 +3680,7 @@ l:Virtual_Jaguar_libretro
 l:Litematica_Preview
 l:Opentrons
 l:vifm
+l:Cryptocam_Companion
 l:StatusIm
 l:LibrAgent
 l:synology-chatplus-desktop
@@ -3770,7 +3773,6 @@ l:Y_A_W_N
 l:Spectra_PDF
 l:celPix
 l:Standard_of_Iron
-l:Beam_Research_Toolkit
 l:tldraw_offline_nightly
 l:KCalc
 l:Doriterm
@@ -3864,7 +3866,6 @@ l:InferencePort_AI
 l:Jacksum
 l:OpenOnyx
 l:alttp-zig
-l:Alpine_Client
 l:Splitlane
 l:Podscape
 l:NeuroDB
@@ -3944,7 +3945,7 @@ l:kanbots
 l:AstroBurst
 l:NEFORUM
 l:Toph
-l:DuoDesk
+l:Alpine_Client
 l:Kuhlers_GELUMPE
 l:Vibe_Typer
 l:Fox_VPN
@@ -3977,5 +3978,6 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
+l:Beam_Research_Toolkit
 l:DeepAI
 l:Crescat
