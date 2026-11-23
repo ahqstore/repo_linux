@@ -1729,6 +1729,7 @@ l:r-shell
 l:GenZenMuxAIOffice
 l:Qredit
 l:Catalyst_Browser
+l:DeepAI
 l:Dpro-Agent
 l:Standard_of_Iron
 l:piwi
@@ -2500,7 +2501,6 @@ l:blueprint
 l:lux
 l:ConsoleWorkbench
 l:Autopsy
-l:DeepAI
 l:RomP
 l:RedmineTimeTracker
 l:LocalLeaf
@@ -2583,7 +2583,7 @@ l:Infection_Monkey
 l:Terrascope
 l:CozyDrive
 l:Konsole
-l:Alpine_Client
+l:Beam_Research_Toolkit
 l:dexter_dev_env
 l:ontime
 l:mimi
@@ -2742,6 +2742,7 @@ l:Weeping_of_the_Empire
 l:ChipDX
 l:Libre_Panel
 l:Infinitex
+l:Cryptocam_Companion
 l:Copilot-API
 l:ZENDER
 l:acreom
@@ -2790,6 +2791,7 @@ l:Skyscraper
 l:Optimum
 l:axiom-os
 l:jsNetMonitor
+l:DuoDesk
 l:DJ_Mix_Master
 l:NekoTrail
 l:Alduin
@@ -2833,7 +2835,6 @@ l:GeekDown
 l:isd
 l:Simple-Code-GUI
 l:vue-calc
-l:Beam_Research_Toolkit
 l:Shutter_Cove
 l:Gitbumr
 l:jsBudbrainsFxStudio
@@ -3120,6 +3121,7 @@ l:Chat2API-WXS
 l:YappyNotes
 l:LPub3D
 l:Isolate
+l:xmmusic
 l:BellePoule_Modern
 l:yourLyrics
 l:RawTherapee
@@ -3437,6 +3439,7 @@ l:Streamlink
 l:Evermist
 l:Ness
 l:eBIRForms
+l:Alpine_Client
 l:RemindMe
 l:Believers_Sword
 l:postman-gpui
@@ -3460,7 +3463,6 @@ l:Recompose
 l:HPC_Hub
 l:Soundbox
 l:OpenDoctrines
-l:DuoDesk
 l:wLib
 l:Claim-Free-Games
 l:Uxnan
@@ -3748,7 +3750,6 @@ l:ZapDesktop
 l:Lucy
 l:flashback-raw-editor
 l:PDF_Scholar
-l:Cryptocam_Companion
 l:Bootstrap_Studio
 l:Dream
 l:Sightings
