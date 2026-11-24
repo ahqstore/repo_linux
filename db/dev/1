@@ -179,6 +179,7 @@ l:OpenComic
 l:Autopsy
 l:OpenPaste
 l:Scrcpy.GUI
+l:Coiman_IDE
 l:VRCD
 l:Cells
 l:Kaint
@@ -238,7 +239,9 @@ l:Zelda-TOTK-Port
 l:Rubick
 l:DotMorph
 l:TeleDrive
+l:DroidPlay_Core
 l:autobyteus-workspace
+l:Mesh_UI
 l:Beacon
 l:PrixumLauncher
 l:Trinity_Launcher
@@ -385,6 +388,7 @@ l:hoerbert-software
 l:Demonizer
 l:app-finance
 l:HushMic
+l:Ater-ugly_fork
 l:Zuse
 l:PaperPilot
 l:ConstructCAD
@@ -617,6 +621,7 @@ l:Simdock
 l:CrossMobile
 l:youtube-music
 l:Symphonium
+l:Elytra_Launcher
 l:OpenChamber
 l:Lyra_Music
 l:NanoPrint
@@ -711,6 +716,7 @@ l:Magnolie-Organizer
 l:Lemon
 l:HeyListen
 l:Coffer
+l:Coreplay
 l:Thinktool_Desktop
 l:ahhhh
 l:HyperDEX
@@ -855,6 +861,7 @@ l:FlClash
 l:lectureStudio
 l:Diary
 l:TwinDesk
+l:PlatypusDB
 l:xemu
 l:Rebost
 l:UltraStar_Karaoke_Maker
@@ -1080,6 +1087,7 @@ l:stereophotoview
 l:DeployerX
 l:Ntilde
 l:DeadGame-2048
+l:K1tty_Tools
 l:Open_Planner_Studio
 l:RemindMe
 l:SafeHouse
@@ -1087,6 +1095,7 @@ l:Friction
 l:ai-bot-workspace
 l:ZeroNet
 l:RemoteDesktop
+l:Boladao
 l:Qt_DAB
 l:SanchoExo
 l:Graveyard_Keeper_2_Save_Editor
@@ -1341,7 +1350,6 @@ l:Mnemosyne-Neural-OS
 l:OpenHV
 l:Sheafwriter
 l:Play_2048
-l:FM-1_Emulator
 l:shiddat-releases
 l:Moonlight-Qt-Mic
 l:voyageai-cli
@@ -1528,6 +1536,7 @@ l:Quark
 l:OpenComic_Nightly
 l:EthicalVPN
 l:PDF_Scholar
+l:ProtoFlow_AI
 l:Offline_Search_Engine
 l:qr-code-generator-desktop
 l:beurerscalemanager
@@ -1645,6 +1654,7 @@ l:Mockman
 l:Open_Nectar
 l:fRAG
 l:AgentOp
+l:Charnik
 l:revya-desktop
 l:Voca
 l:Booloo
@@ -1952,6 +1962,7 @@ l:Whodis
 l:Kryoto_Desktop
 l:SyncCrate
 l:LTools
+l:KuroCat
 l:xlights
 l:Helix_AI
 l:Time_Series_Explorer
@@ -2022,6 +2033,7 @@ l:QHot
 l:Gifcurry
 l:DS_Bot
 l:Pelusica
+l:OpenLAMT
 l:caprine
 l:Installer
 l:qcut
@@ -2445,6 +2457,7 @@ l:grapi
 l:DS5_Dongle_OLED_Edition
 l:retrovibed
 l:ZENDER
+l:NovaPersonalAgent
 l:MineTime
 l:RLEAPP
 l:CriProx
@@ -2514,6 +2527,7 @@ l:kraken-player
 l:clippy
 l:Sshairy
 l:EggOfTime
+l:FrostByte_Community
 l:O3
 l:lutris-gamepad-ui
 l:KarPur
@@ -2673,6 +2687,7 @@ l:Sarala
 l:Qfsm
 l:plexamp
 l:myCeloJs
+l:Idleterino
 l:melia-app
 l:Lumiverse
 l:Dissidia012-pc
@@ -2770,6 +2785,7 @@ l:WriteReallyFree
 l:GitBackup
 l:Twinverse
 l:MCP2210_Configurator
+l:Casama
 l:Vegha
 l:TOoTR
 l:cabal-desktop
@@ -3052,6 +3068,7 @@ l:diskfmt
 l:Omega_Star
 l:QQ
 l:LosslessCut
+l:Cryptocam_Companion
 l:Cura
 l:Astro_Editor
 l:ClownMapEd
@@ -3072,6 +3089,7 @@ l:AnelfAgent
 l:CoreTime
 l:HikariSub
 l:Chiral-FTP
+l:Alpine_Client
 l:GT-MuslimApp
 l:Hexinator
 l:ttth
@@ -3093,7 +3111,6 @@ l:Lucid
 l:Loom
 l:Muxics
 l:VLC
-l:Cryptocam_Companion
 l:Infinitex
 l:Mudlet
 l:pgNimbus
@@ -3275,10 +3292,12 @@ l:Hanami
 l:Rombo
 l:installer
 l:SpeedyLoader
+l:OneDeck
 l:OVideo
 l:OpenTodoList
 l:KCode
 l:SFRT_Attendance
+l:OpenCraft
 l:SimTradeDesk
 l:ScrapeLens
 l:BitShares
@@ -3525,6 +3544,7 @@ l:Sip
 l:FreeVideo
 l:iptvnator
 l:Mediathek_Plus
+l:Memez
 l:Ports_PC
 l:TVALB
 l:Beatrax
@@ -3581,7 +3601,6 @@ l:MQTTProbe
 l:feedseries
 l:Wickline
 l:Colin_McRae_Rally_2005_Launcher
-l:wisp
 l:mutool
 l:DarkSlide
 l:Locademy
@@ -3698,6 +3717,7 @@ l:paferashare
 l:pairux.com
 l:Postman
 l:Exportoo
+l:studiomio
 l:Tesseract
 l:zyfun
 l:Mind_Cleaner
@@ -3893,7 +3913,6 @@ l:InferencePort_AI
 l:Jacksum
 l:OpenOnyx
 l:alttp-zig
-l:DuoDesk
 l:Splitlane
 l:Podscape
 l:NeuroDB
@@ -3957,6 +3976,7 @@ l:SaucySorcery
 l:fingerprint-chromium
 l:devdocs-desktop
 l:Shroudly
+l:DuoDesk
 l:mbscada-rs
 l:-_ICQ
 l:Mindwtr
@@ -3981,6 +4001,7 @@ l:ipe
 l:Onshape
 l:HybridSliceCraft
 l:ElectrumFair
+l:Next
 l:Dabri
 l:outl
 l:LucidSSH
@@ -4005,7 +4026,6 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
-l:Alpine_Client
 l:Beam_Research_Toolkit
 l:DeepAI
 l:Crescat
