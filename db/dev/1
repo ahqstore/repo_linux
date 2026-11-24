@@ -704,7 +704,6 @@ l:nordvpn-linux
 l:RomP
 l:SS14_Editor
 l:Editor
-l:Espanso
 l:xpeccy-plus
 l:Helecho
 l:nudelta
@@ -1319,7 +1318,6 @@ l:Log4YM
 l:signboard
 l:Sugarizer
 l:AppHerder
-l:GitSwitch
 l:Qortal_UI
 l:iCode_Workbench
 l:quokkagit
@@ -2987,6 +2985,7 @@ l:TraceScope
 l:tnt
 l:Aktar
 l:Freedom.Loader
+l:Beam_Research_Toolkit
 l:Android-debloater
 l:Knowte
 l:CP2130_Commander
@@ -3068,7 +3067,6 @@ l:diskfmt
 l:Omega_Star
 l:QQ
 l:LosslessCut
-l:Cryptocam_Companion
 l:Cura
 l:Astro_Editor
 l:ClownMapEd
@@ -3089,7 +3087,6 @@ l:AnelfAgent
 l:CoreTime
 l:HikariSub
 l:Chiral-FTP
-l:Alpine_Client
 l:GT-MuslimApp
 l:Hexinator
 l:ttth
@@ -3342,6 +3339,7 @@ l:LWE
 l:RPAN_Studio
 l:waydroid-helper
 l:WaveSpeed_Desktop
+l:Cryptocam_Companion
 l:XELFViewer
 l:Light_Phone_Manager
 l:VSCode
@@ -3976,7 +3974,6 @@ l:SaucySorcery
 l:fingerprint-chromium
 l:devdocs-desktop
 l:Shroudly
-l:DuoDesk
 l:mbscada-rs
 l:-_ICQ
 l:Mindwtr
@@ -3985,6 +3982,7 @@ l:plugdata
 l:DBI_Backend
 l:Stellio
 l:Country-Box
+l:Alpine_Client
 l:Rufux
 l:BLDesk
 l:Zomello
@@ -4026,6 +4024,6 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
-l:Beam_Research_Toolkit
+l:DuoDesk
 l:DeepAI
 l:Crescat
