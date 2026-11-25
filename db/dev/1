@@ -1350,7 +1350,6 @@ l:RAILbench
 l:EasyQueue
 l:ChainX_Signer
 l:Memoria
-l:King_Louie
 l:Wispr_Flow
 l:UrBudget
 l:Chiaki
@@ -2817,7 +2816,6 @@ l:GitBackup
 l:GigaMail
 l:Twinverse
 l:MCP2210_Configurator
-l:Casama
 l:Vegha
 l:TOoTR
 l:cabal-desktop
@@ -2917,6 +2915,7 @@ l:Staaash
 l:Mechvibes
 l:Firefox_Nightly
 l:ana-conversation-studio
+l:Beam_Research_Toolkit
 l:Mnemai
 l:Biying
 l:SpringBoard
@@ -3319,7 +3318,6 @@ l:Verto
 l:Discophile
 l:GXC_Smart_Contract_IDE
 l:Naev
-l:Cryptocam_Companion
 l:CloudStream_Desktop
 l:TakeoffCraft
 l:sync-gui-public
@@ -3368,6 +3366,7 @@ l:Edunex_Plus
 l:DiagramCraft
 l:bootstrap-love2d-project
 l:StopLight
+l:Cryptocam_Companion
 l:Pink_Parquet
 l:Redact_GUI
 l:CryptoBot_Pro
@@ -3379,7 +3378,6 @@ l:RPAN_Studio
 l:waydroid-helper
 l:WaveSpeed_Desktop
 l:FreeSCP
-l:Alpine_Client
 l:XELFViewer
 l:Light_Phone_Manager
 l:VSCode
@@ -3799,6 +3797,7 @@ l:Vespera
 l:Kettu
 l:AlienResurrectionRecompilation
 l:school-sections
+l:Alpine_Client
 l:Wiim_Control
 l:Pergament
 l:postured
@@ -3852,7 +3851,6 @@ l:Snap_Desk
 l:MiniZinc_IDE
 l:Sonic_Ripper
 l:VZT_Flow
-l:DuoDesk
 l:Universal_Session_Viewer
 l:PaperDuet
 l:DeepTags
@@ -4039,6 +4037,7 @@ l:kanbots
 l:AstroBurst
 l:NEFORUM
 l:Toph
+l:DuoDesk
 l:Kuhlers_GELUMPE
 l:Vibe_Typer
 l:Fox_VPN
@@ -4072,6 +4071,5 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
-l:Beam_Research_Toolkit
 l:DeepAI
 l:Crescat
