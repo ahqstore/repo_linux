@@ -495,6 +495,7 @@ l:YallaVideo
 l:cncjs
 l:cit-pdf
 l:Jason_AI
+l:Zipply
 l:Kristall
 l:Jan
 l:wsp
@@ -1465,6 +1466,7 @@ l:blink
 l:GameHub
 l:DPIMech
 l:Pandia
+l:Clipmer
 l:Alter_Ego_Desktop_Assistant
 l:Dialcraft
 l:xde
@@ -2144,6 +2146,7 @@ l:LibreGet
 l:Proxmark_Studio
 l:Karpa
 l:swyh-rs
+l:Rusty_Riffs
 l:dh-to-do
 l:FloatLyrics
 l:Limo_CAD
@@ -2993,7 +2996,6 @@ l:Emerald
 l:Lorenz
 l:HinaCode
 l:Bench_CLI
-l:Anker_Launcher
 l:Sample_Solution
 l:KevEdit
 l:Shipwright
@@ -3026,7 +3028,6 @@ l:SerialPort_Assistant
 l:Open_Burning_Suite
 l:Tikkocampus
 l:LampixJS
-l:Beam_Research_Toolkit
 l:Soil
 l:Agents
 l:Halvora
@@ -3077,7 +3078,6 @@ l:PopDroidCam
 l:SquishPic
 l:ProtoFlow
 l:Self-hosted_Git_Client
-l:Cryptocam_Companion
 l:crow-desktop
 l:Mio_Music
 l:CasterSoundboard
@@ -3113,6 +3113,7 @@ l:totk-pc-recomp
 l:AssayPlot
 l:Agent_Farm
 l:TokenClock
+l:Beam_Research_Toolkit
 l:contributor-toolkit
 l:diskfmt
 l:Omega_Star
@@ -3302,6 +3303,7 @@ l:CC_Logins
 l:Pulsar
 l:getswell
 l:Get_It
+l:Alpine_Client
 l:OpenResearch
 l:121GW_Open_Firmware
 l:Scatter
@@ -3378,6 +3380,7 @@ l:Ferry
 l:LogSquirl
 l:Advanced_Rest_Client
 l:Focalizzare
+l:Cryptocam_Companion
 l:Edunex_Plus
 l:DiagramCraft
 l:bootstrap-love2d-project
@@ -3837,6 +3840,7 @@ l:Zap_Browser
 l:actioneer-gtk
 l:Diddy
 l:Sightings
+l:DuoDesk
 l:Framewright
 l:TeXworks
 l:Qt5Demo
@@ -3937,6 +3941,7 @@ l:Vibe_Pet
 l:Beatmap_Backup
 l:Aglaia
 l:Joystick_Mapper
+l:Filegram
 l:InterSpec
 l:RBDL-Toolkit
 l:Vease
@@ -4055,7 +4060,6 @@ l:kanbots
 l:AstroBurst
 l:NEFORUM
 l:Toph
-l:DeepAI
 l:Kuhlers_GELUMPE
 l:Vibe_Typer
 l:Fox_VPN
@@ -4089,6 +4093,5 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
-l:DuoDesk
-l:Alpine_Client
+l:DeepAI
 l:Crescat
