@@ -136,6 +136,7 @@ l:VivifyScrum
 l:Zoom
 l:Bforartists
 l:Claude_Journal
+l:Tensela
 l:ClaudeBot
 l:Nine
 l:Cerebral-Debugger
@@ -158,6 +159,7 @@ l:dashy-app
 l:Bridge
 l:SchildiChat
 l:Kanban
+l:AnyVector
 l:PSF.Guard
 l:MusePi
 l:Odinote
@@ -206,6 +208,7 @@ l:Makagiga
 l:Archipelago
 l:SpecWithCode
 l:Gingko
+l:SlateCompanion
 l:Colon
 l:Mesh_Sync
 l:ai-agenda
@@ -400,6 +403,7 @@ l:Ater-ugly_fork
 l:Zuse
 l:PaperPilot
 l:ConstructCAD
+l:Music_Party
 l:vid_translate
 l:Diffuse
 l:OpenCompare
@@ -603,6 +607,7 @@ l:Tabchat
 l:GpgFrontend
 l:FreeSSH
 l:OSW
+l:pi-kit
 l:ynotbit
 l:Fleet
 l:AnimaShooter
@@ -1130,6 +1135,7 @@ l:Quantum_Leap
 l:OwlPlug
 l:xtralab
 l:Inkscape
+l:utilpaisagem
 l:muster_code
 l:LibreFastbootFirmwareFlasher
 l:TDrive
@@ -1206,6 +1212,7 @@ l:Ghostex
 l:PutiaCNC
 l:13SentinelsAegisRimPC
 l:hd_fpv_video_tool
+l:CuteCut-Pro
 l:PaperOtter
 l:ps5-y2jb-installer
 l:Qawl
@@ -1421,6 +1428,7 @@ l:Scope_Launcher
 l:JayJay
 l:NoteMaster
 l:Parson
+l:Elio
 l:XClicker
 l:exhale
 l:VNote
@@ -1434,6 +1442,7 @@ l:ytDownloader
 l:Exam1-Desktop
 l:GridCast
 l:emuze
+l:SoundCloud_Mod
 l:Scytale
 l:thorium-client
 l:Canoe
@@ -1521,6 +1530,7 @@ l:ChatMCP
 l:Agent_Teams_AI
 l:Slip.Sound
 l:Piora
+l:NoteComplete
 l:Firefox_ESR
 l:MyShows_Scrobbler
 l:PanWriter
@@ -1738,6 +1748,7 @@ l:Checkpoint
 l:Alwide
 l:Mongrel
 l:BurnSure
+l:Draggy
 l:TennoScope
 l:LibrePDF
 l:POCOX
@@ -1844,6 +1855,7 @@ l:Mattermost_Desktop
 l:opius-workspace
 l:keel_v2
 l:KeyManager
+l:picsou-finance
 l:Selfbot
 l:go2tv
 l:YT-Forge
@@ -1984,6 +1996,7 @@ l:DevHub
 l:mawejs
 l:MirrorShard
 l:Freestyle
+l:World_Across
 l:Whodis
 l:Kryoto_Desktop
 l:SyncCrate
@@ -2581,9 +2594,11 @@ l:INSTEAD
 l:CurlIt
 l:jsMediaEditor
 l:dkb-pc-recomp
+l:Chord
 l:Team-X
 l:vCloudcam
 l:OpenMap_Studio
+l:Omapdf
 l:alttp-dx
 l:NiLLM
 l:rebase-git
@@ -2915,7 +2930,6 @@ l:Staaash
 l:Mechvibes
 l:Firefox_Nightly
 l:ana-conversation-studio
-l:Beam_Research_Toolkit
 l:Mnemai
 l:Biying
 l:SpringBoard
@@ -3064,6 +3078,7 @@ l:PopDroidCam
 l:SquishPic
 l:ProtoFlow
 l:Self-hosted_Git_Client
+l:Cryptocam_Companion
 l:crow-desktop
 l:Mio_Music
 l:CasterSoundboard
@@ -3076,6 +3091,7 @@ l:jsPicPuzzler
 l:quick-share
 l:vk_music_fs
 l:CoreImage
+l:Rookparcel
 l:shmoney
 l:Iceworks
 l:Elpis
@@ -3160,6 +3176,7 @@ l:LibreOfficeDev
 l:Pond
 l:aggregate-mail
 l:NESd
+l:Caesar
 l:dvdisaster
 l:KittyTuneDesktop
 l:Legio
@@ -3366,7 +3383,6 @@ l:Edunex_Plus
 l:DiagramCraft
 l:bootstrap-love2d-project
 l:StopLight
-l:Cryptocam_Companion
 l:Pink_Parquet
 l:Redact_GUI
 l:CryptoBot_Pro
@@ -3428,6 +3444,7 @@ l:Carthage
 l:ADE
 l:DDCal
 l:TRACE_Boardviewer
+l:Punch-Drunk
 l:Querybird
 l:Vayu
 l:TorrentLinker
@@ -3592,6 +3609,7 @@ l:loki
 l:Plazmic_Legends
 l:lm-clipper
 l:LiveFaceSwap
+l:ClearPlay
 l:pal
 l:CroccoSpectrum
 l:Electron_Cash
@@ -3768,6 +3786,7 @@ l:Opentrons
 l:vifm
 l:StatusIm
 l:Skele
+l:memry
 l:LibrAgent
 l:synology-chatplus-desktop
 l:MC_Chunk_Get
@@ -3797,7 +3816,6 @@ l:Vespera
 l:Kettu
 l:AlienResurrectionRecompilation
 l:school-sections
-l:Alpine_Client
 l:Wiim_Control
 l:Pergament
 l:postured
@@ -3845,6 +3863,7 @@ l:hw-probe
 l:EndProtocol
 l:Sayonara
 l:HappyVibe
+l:SFPanel
 l:OpenSCAD
 l:Snakie
 l:Snap_Desk
@@ -3954,6 +3973,7 @@ l:Responsively
 l:LibreMerge
 l:Ripes
 l:BibaVPN
+l:DuoDesk
 l:InferencePort_AI
 l:Jacksum
 l:OpenOnyx
@@ -4037,7 +4057,6 @@ l:kanbots
 l:AstroBurst
 l:NEFORUM
 l:Toph
-l:DuoDesk
 l:Kuhlers_GELUMPE
 l:Vibe_Typer
 l:Fox_VPN
@@ -4071,5 +4090,7 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
+l:Beam_Research_Toolkit
+l:Alpine_Client
 l:DeepAI
 l:Crescat
