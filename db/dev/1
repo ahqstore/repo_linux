@@ -225,6 +225,7 @@ l:Piko
 l:Invoice_Builder
 l:Propel
 l:QCTools
+l:Cognitrix
 l:cubing-cmos
 l:PhotoMapAI
 l:NextDJ
@@ -428,6 +429,7 @@ l:strongbox
 l:Tideflow
 l:flipflop
 l:Microemacs
+l:Volyx_Lens
 l:Night_Drop
 l:RetroGBFull_Toolkit
 l:Xyra
@@ -503,6 +505,7 @@ l:Jan
 l:wsp
 l:My_AUR_Files
 l:e2designer
+l:Crunchyroll_Ubuntu_Desktop
 l:ContraRecomp
 l:Applio-App
 l:bioanimation
@@ -559,6 +562,7 @@ l:Vieb
 l:UDCAP_Control
 l:Gen1Recomp
 l:Statusify
+l:Glossa
 l:dbeaver_ce
 l:Believers_Sword
 l:grok-build-vscode
@@ -725,6 +729,7 @@ l:SS14_Editor
 l:Editor
 l:Espanso
 l:xpeccy-plus
+l:Termindo
 l:Helecho
 l:nudelta
 l:CoreOps
@@ -925,6 +930,7 @@ l:Nootka
 l:spritesheet-helper
 l:Dig_Dug_native
 l:Morrow
+l:Quadit
 l:Raml_KQL
 l:CodeMux
 l:Astonischika
@@ -1004,6 +1010,7 @@ l:Musicott
 l:Marky
 l:Metrik
 l:open-codesign
+l:Orchbee
 l:BulkURLOpener
 l:pi-agent-dashboard
 l:Qunica
@@ -1097,6 +1104,7 @@ l:Wireshark
 l:Engclaw
 l:HookshotDownloads
 l:BDSup2Sub
+l:sessiongraph
 l:dukto
 l:kimo
 l:Fauxx_Desktop
@@ -1430,6 +1438,7 @@ l:gloomhavensecretariat
 l:iBox
 l:AI_Command_Center
 l:Scope_Launcher
+l:Aladdin_Collection
 l:JayJay
 l:NoteMaster
 l:Parson
@@ -1543,6 +1552,7 @@ l:Firefox_ESR
 l:MyShows_Scrobbler
 l:PanWriter
 l:Wormhole
+l:bakasub
 l:Clipit
 l:Deckle
 l:Xenia_Dashboard
@@ -1570,6 +1580,7 @@ l:CRY
 l:mtgatool-desktop
 l:VSL
 l:Ari
+l:Kaleidoscope_Enhanced
 l:Google_Tasks_Desktop
 l:Quark
 l:OpenComic_Nightly
@@ -1706,6 +1717,7 @@ l:BimCraft
 l:PICO_Store_Lab
 l:Meiro
 l:PocketBook
+l:formatusb
 l:CCG_Gateway
 l:LampaUa_Desktop
 l:ratarmount
@@ -1773,6 +1785,7 @@ l:Studio_One_Project_Hub
 l:Diagrams
 l:FastVibe
 l:jsBudbrainAssemblerIDE
+l:MikroTitan
 l:commandoo
 l:Backspace
 l:readm3
@@ -1782,6 +1795,8 @@ l:QDriverStation
 l:Snap_Studio
 l:FrameFlow
 l:falcon-sql-client
+l:Superharness
+l:Exponential
 l:Personal_Jarvis
 l:Waterfox_Classic
 l:Manul
@@ -2185,6 +2200,7 @@ l:SysEx_Drop
 l:saphyr
 l:Scintillator
 l:WFHelper
+l:openairstrike
 l:Bezique
 l:Bodhi
 l:ebloid_desktop
@@ -2232,6 +2248,7 @@ l:VisiCut
 l:OCPQ
 l:Janice
 l:Streaming
+l:landfern
 l:sbe
 l:BrewMate
 l:android-messages-desktop
@@ -2504,6 +2521,7 @@ l:Kotatogram_Desktop
 l:OSC-DreamChatbox
 l:EliteForce-MacOS-Marino
 l:OnionHop
+l:lydia-releases
 l:PixelCraft
 l:Wexond
 l:DiskGOup
@@ -2589,6 +2607,7 @@ l:FrostByte_Community
 l:O3
 l:lutris-gamepad-ui
 l:KarPur
+l:ytdlpd
 l:Wonderwall
 l:Seafari
 l:HolyScreen
@@ -2622,6 +2641,7 @@ l:rebase-git
 l:SAManager
 l:HilbertRaum
 l:Nexus_Wallet
+l:Dawsha
 l:steam-rom-manager
 l:Extreme.InfiniTV
 l:marlin-conf
@@ -2916,6 +2936,7 @@ l:Navide
 l:ani2xcursor
 l:Repot
 l:RasterDraw
+l:Boomerang_Tracker
 l:Eleven
 l:iota1k
 l:Rokkr
@@ -3052,6 +3073,7 @@ l:SerialPort_Assistant
 l:Open_Burning_Suite
 l:Tikkocampus
 l:LampixJS
+l:Cryptocam_Companion
 l:Soil
 l:Agents
 l:Halvora
@@ -3127,6 +3149,7 @@ l:MagicFountain
 l:Terrascope
 l:SpeakSlow
 l:Join_Desktop
+l:toyxyz_RGBMocap
 l:Doc77
 l:pdf-sync
 l:MediaConchGUI
@@ -3173,6 +3196,7 @@ l:Darktable
 l:FlatCAM_EVO
 l:CapsuleCraft
 l:BarSQL
+l:Halo_3
 l:OmniCam
 l:Metrolist
 l:Spindle
@@ -3331,6 +3355,7 @@ l:getswell
 l:Get_It
 l:OpenResearch
 l:121GW_Open_Firmware
+l:PiWright
 l:Scatter
 l:lastGLANCE
 l:Network_Simulator
@@ -3346,6 +3371,7 @@ l:Ruum
 l:Tayang_Studio
 l:Data_Plotter
 l:SuperOne
+l:GameFlex
 l:NiceDB
 l:vidcord
 l:Flux
@@ -3419,7 +3445,6 @@ l:LWE
 l:RPAN_Studio
 l:waydroid-helper
 l:WaveSpeed_Desktop
-l:Alpine_Client
 l:FreeSCP
 l:XELFViewer
 l:Light_Phone_Manager
@@ -3547,7 +3572,6 @@ l:myNetwork
 l:SoftDo
 l:Gerbil
 l:Liang.Desktop.Pet
-l:Beam_Research_Toolkit
 l:Carbonyl
 l:XJAUS
 l:Weave_Fleet
@@ -3711,6 +3735,7 @@ l:LibreMines
 l:The_Office
 l:spicetify-mirage
 l:rezonator
+l:CiteFox
 l:ColorGenerator
 l:overtchat
 l:Race_Track_Visualizer
@@ -3765,6 +3790,7 @@ l:FranceTV
 l:DigUp
 l:Skyward
 l:TokenSmith
+l:Cafe_Code
 l:cycloidgen
 l:Apla
 l:Viper_Browser
@@ -3898,7 +3924,6 @@ l:SFPanel
 l:OpenSCAD
 l:Snakie
 l:Snap_Desk
-l:Cryptocam_Companion
 l:MiniZinc_IDE
 l:Sonic_Ripper
 l:VZT_Flow
@@ -3918,6 +3943,7 @@ l:KCalc
 l:Doriterm
 l:stream-server
 l:Datcord
+l:Harnex
 l:FOFA_Leak_Search
 l:Schematico
 l:CustomRPC
@@ -4007,6 +4033,7 @@ l:Responsively
 l:LibreMerge
 l:Ripes
 l:BibaVPN
+l:DuoDesk
 l:InferencePort_AI
 l:Jacksum
 l:OpenOnyx
@@ -4123,6 +4150,7 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
-l:DuoDesk
+l:Alpine_Client
+l:Beam_Research_Toolkit
 l:DeepAI
 l:Crescat
