@@ -1,1 +1,1 @@
-{"time":1795852024,"data":{"x86_64":null,"aarch64":null,"tag_name":"0.35.0-android"}}
+{"time":1795885053,"data":{"x86_64":"https://github.com/bramble-sh/bramble/releases/download/0.23.0-desktop/Bramble_0.23.0_amd64.AppImage","aarch64":"https://github.com/bramble-sh/bramble/releases/download/0.23.0-desktop/Bramble_0.23.0_aarch64.AppImage","tag_name":"0.23.0-desktop"}}

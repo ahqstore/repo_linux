@@ -413,11 +413,11 @@ l:Geph
 l:ChipDX
 l:warlock3
 l:Packwright
-l:Kurumi
 l:TableCraft
 l:LayerZero
 l:Moonlight_Tizen_Installer
 l:SyntaxTutor
+l:CleanCode
 l:student-activities-app
 l:ADT_Studio
 l:CorePins
@@ -1224,7 +1224,6 @@ l:Ghostex
 l:PutiaCNC
 l:13SentinelsAegisRimPC
 l:hd_fpv_video_tool
-l:CuteCut-Pro
 l:PaperOtter
 l:ps5-y2jb-installer
 l:Qawl
@@ -1328,7 +1327,6 @@ l:PaperCanvas
 l:Tesla_Coil_Calculator
 l:CTF.mom
 l:Airspaces
-l:BreadPilot
 l:Locator-Labs-App-Releases
 l:veditor
 l:Birdman64
@@ -2981,6 +2979,7 @@ l:Kye
 l:Optimum
 l:Blakecoin
 l:Deviload
+l:Beam_Research_Toolkit
 l:FriendlyTerminal
 l:Reactotron
 l:TeslaCam_Viewer
@@ -3073,7 +3072,6 @@ l:SerialPort_Assistant
 l:Open_Burning_Suite
 l:Tikkocampus
 l:LampixJS
-l:Cryptocam_Companion
 l:Soil
 l:Agents
 l:Halvora
@@ -3101,7 +3099,6 @@ l:Tumblr_Downloader_GUI
 l:DataWeave_Studio
 l:OctoShrink
 l:Sourcerer
-l:DDClock
 l:Euphony
 l:Around
 l:Novelist
@@ -3126,6 +3123,7 @@ l:PopDroidCam
 l:SquishPic
 l:ProtoFlow
 l:Self-hosted_Git_Client
+l:Cryptocam_Companion
 l:crow-desktop
 l:Mio_Music
 l:CasterSoundboard
@@ -3986,6 +3984,7 @@ l:Pybient
 l:OpenCode_GitHub_Copilot_Switcher
 l:Mira
 l:RKDevelopTool-GUI
+l:CyberKoala_Calls
 l:OpenOrbit
 l:Omnio
 l:english-flashcard-generator
@@ -4037,6 +4036,7 @@ l:DuoDesk
 l:InferencePort_AI
 l:Jacksum
 l:OpenOnyx
+l:Alpine_Client
 l:alttp-zig
 l:Splitlane
 l:Podscape
@@ -4150,7 +4150,5 @@ l:Hypnos
 l:LOKA
 l:PlanCraft
 l:IGdm
-l:Alpine_Client
-l:Beam_Research_Toolkit
 l:DeepAI
 l:Crescat
